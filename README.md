@@ -1,7 +1,7 @@
 mobilege.github.io
 ==================
 
-# CS Curriculum
+## CS Curriculum
 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
@@ -24,17 +24,17 @@ mobilege.github.io
 - Distributed Systems
 
 
-# Data Science/Machine Learning/AI
+## Data Science/Machine Learning/AI
 
 [Data Science](https://github.com/mobilege/data-science/blob/master/README.md)
  
 
-# iOS Development
+## iOS Development
 
 - [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
 
 
-# Web Development
+## Web Development
 
 - [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
 
