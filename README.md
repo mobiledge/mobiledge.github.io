@@ -26,26 +26,17 @@ mobilege.github.io
 
 # Data Science/Machine Learning/AI
 
- Language: Python
- 
- [Machine Learning](https://github.com/mobilege/machine-learning) 
+[Data Science](https://github.com/mobilege/data-science/blob/master/README.md)
  
 
 # iOS Development
 
-Language: [Swift](https://github.com/mobilege/ios-resources/blob/master/Swift.md)
-
-Frameworks: [Foundation](https://github.com/mobilege/ios-resources/blob/master/Foundation.md), [UIKit](https://github.com/mobilege/ios-resources/blob/master/UIKit.md)
-
+- [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
 
 
 # Web Development
 
-Language: Javascript
-
-Frameworks: Node
-
-Tools: AWS
+- [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
 
 
 
