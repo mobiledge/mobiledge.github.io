@@ -9,9 +9,9 @@ mobilege.github.io
 
 - Computer Architecture
 
-- Algorithms and Data Structures
+- [Algorithms and Data Structures](https://github.com/mobilege/algorithms)
 
-- Math for CS
+- [Math for CS](https://github.com/mobilege/math)
 
 - Operating Systems
 
@@ -26,13 +26,13 @@ mobilege.github.io
 
 # Data Science/Machine Learning/AI
 
- - Python
+ - Language: Python
  
  - [ML](https://github.com/mobilege/machine-learning) 
 
 # iOS Development
 
-- Language: Swift
+- Language: [Swift](https://github.com/mobilege/ios-resources/blob/master/Swift.md)
 
 - Frameworks: Foundation, UIKit etc
 
