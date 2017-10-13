@@ -29,12 +29,15 @@ mobilege.github.io
  - Language: Python
  
  - [ML](https://github.com/mobilege/machine-learning) 
+ 
 
 # iOS Development
 
-- Language: [Swift](https://github.com/mobilege/ios-resources/blob/master/Swift.md)
+Language: [Swift](https://github.com/mobilege/ios-resources/blob/master/Swift.md)
 
-- Frameworks: [Foundation](https://github.com/mobilege/ios-resources/blob/master/Foundation.md) [UIKit](https://github.com/mobilege/ios-resources/blob/master/UIKit.md)
+Frameworks: [Foundation](https://github.com/mobilege/ios-resources/blob/master/Foundation.md) [UIKit](https://github.com/mobilege/ios-resources/blob/master/UIKit.md)
+
+
 
 # Web Development
 
