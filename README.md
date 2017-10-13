@@ -28,7 +28,7 @@ mobilege.github.io
 
  Language: Python
  
- [ML](https://github.com/mobilege/machine-learning) 
+ [Machine Learning](https://github.com/mobilege/machine-learning) 
  
 
 # iOS Development
