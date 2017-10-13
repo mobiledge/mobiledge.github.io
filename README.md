@@ -35,7 +35,7 @@ mobilege.github.io
 
 Language: [Swift](https://github.com/mobilege/ios-resources/blob/master/Swift.md)
 
-Frameworks: [Foundation](https://github.com/mobilege/ios-resources/blob/master/Foundation.md) [UIKit](https://github.com/mobilege/ios-resources/blob/master/UIKit.md)
+Frameworks: [Foundation](https://github.com/mobilege/ios-resources/blob/master/Foundation.md), [UIKit](https://github.com/mobilege/ios-resources/blob/master/UIKit.md)
 
 
 
