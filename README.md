@@ -42,5 +42,14 @@ mobilege.github.io
 - [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
 
 
+## Rules for adding content
+
+- Code Snippets: Only log **verified**, **frequently used** code snippets
+- Links: Only log **good** sources in the form of links (not contents)
+- Text: Use **conside** & **own words** based on **your** understanding
+
+
+
+
 
 
