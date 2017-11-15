@@ -15,7 +15,7 @@ mobilege.github.io
 
 - Operating Systems
 
-- Computer Networking
+- [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md)
 
 - Databases
 
