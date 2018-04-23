@@ -46,8 +46,8 @@ mobilege.github.io
 - Haskell
 - Javascript
 - [Python](https://github.com/mobilege/data-science/blob/master/python.md)
-- Objective C
-- Swift
+- [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md)
+- [Swift](https://github.com/mobilege/ios-resources/blob/master/Swift.md)
 
 ## Rules for adding content
 
