@@ -45,7 +45,7 @@ mobilege.github.io
 
 - Haskell
 - Javascript
-- Python
+- [Python](https://github.com/mobilege/data-science/blob/master/python.md)
 - Objective C
 - Swift
 
