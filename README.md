@@ -41,6 +41,13 @@ mobilege.github.io
 
 - [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
 
+## Languages
+
+- Haskell
+- Javascript
+- Python
+- Objective C
+- Swift
 
 ## Rules for adding content
 
