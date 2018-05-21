@@ -28,9 +28,6 @@ mobilege.github.io
 
 - [Data Science](https://github.com/mobilege/data-science/blob/master/README.md)
 
-## Game Development
- 
-
 ## iOS Development
 
 - [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
