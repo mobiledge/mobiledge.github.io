@@ -58,6 +58,12 @@ mobilege.github.io
 - Text: Use **conside** & **own words** based on **your** understanding
 - Organization: Groups > Repos, Subjects > Folders, Chapters > ReadMe, Topics > Page  
 
+## Resources
+
+- [CSCI E-23a Introduction to Game Development](https://cs50.github.io/games/lectures)
+- [CSCI E-33a Web Programming with Python and JavaScript](https://cs50.github.io/web/2018/spring/lectures)
+- [CSCI E-39b Mobile App Development with React Native](https://cs50.github.io/mobile/lectures)
+
 
 
 
