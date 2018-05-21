@@ -23,16 +23,13 @@ mobilege.github.io
 
 - Distributed Systems
 
-
 ## Data Science/Machine Learning/AI
 
 - [Data Science](https://github.com/mobilege/data-science/blob/master/README.md)
 
-## Mobile Development
+## iOS Development
 
 - [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
-- Android Development
-- React Native
 
 ## Software Engineering
 
