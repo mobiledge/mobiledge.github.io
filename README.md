@@ -46,6 +46,14 @@ mobilege.github.io
 - [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md)
 - [Swift](https://github.com/mobilege/ios-resources/blob/master/Swift.md)
 
+## Math
+
+- [Linear algebra](https://github.com/mobilege/linear-algebra)
+- [Multivariable calculus](https://github.com/mobilege/data-science/blob/master/multivariable-calculus.md)
+- Differential Equations
+- [Statistics & Probability](https://github.com/mobilege/data-science/blob/master/statistics-probability.md)
+- [Time Series Analysis](https://github.com/mobilege/data-science/blob/master/time-series-analysis.md) 
+
 ## Rules for adding content
 
 - Code Snippets: Only log **verified**, **frequently used** code snippets
