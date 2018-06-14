@@ -11,7 +11,7 @@ mobilege.github.io
 
 - [Algorithms and Data Structures](https://github.com/mobilege/algorithms)
 
-- [Math for CS](https://github.com/mobilege/math)
+- Math for CS
 
 - Operating Systems
 
