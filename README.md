@@ -48,9 +48,9 @@ mobilege.github.io
 
 ## Math
 
-- [Linear algebra](https://github.com/mobilege/linear-algebra)
-- [Multivariable calculus](https://github.com/mobilege/data-science/blob/master/multivariable-calculus.md)
-- [Statistics & Probability](https://github.com/mobilege/data-science/blob/master/statistics-probability.md)
+- [Linear algebra](https://github.com/mobilege/linear-algebra) *4 units*
+- [Multivariable calculus](https://github.com/mobilege/data-science/blob/master/multivariable-calculus.md) *3 units*
+- [Statistics & Probability](https://github.com/mobilege/data-science/blob/master/statistics-probability.md) *4 units*
 - [Applications in Finance](https://github.com/mobilege/data-science/blob/master/applications-in-finance.md) *y3*
 
 ## Rules for adding content
