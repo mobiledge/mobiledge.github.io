@@ -59,7 +59,7 @@ mobilege.github.io
 - Links: Only log **good** sources in the form of links (not contents)
 - Text: Use **consise** & **own words** based on **your** understanding
 - Organization: Groups > mobilege.github.io, Subjects > Repo Readme, Chapter > H2 tag, Topics > H4 tag, Term > H6 tag
-- Focus on intuition
+- Focus on intuition (not rules)
 
 ## Resources
 
