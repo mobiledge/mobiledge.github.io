@@ -40,7 +40,7 @@ mobilege.github.io
 
 ## Languages
 
-- Haskell
+- [Haskell](https://github.com/mobilege/haskell/blob/master/README.md)
 - Javascript
 - [Python](https://github.com/mobilege/data-science/blob/master/python.md)
 - [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md)
