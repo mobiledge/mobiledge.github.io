@@ -52,7 +52,16 @@ mobilege.github.io
 - [Linear algebra](https://github.com/mobilege/linear-algebra/blob/master/README.md) *12 weeks*
 - [Probability](https://github.com/mobilege/data-science/blob/master/statistics-probability.md) *4 units, 25 lectures*
 - Statistics
+
+## Misc
+
+- [CSCI E-23a Introduction to Game Development](https://cs50.github.io/games/lectures)
+- [CSCI E-33a Web Programming with Python and JavaScript](https://cs50.github.io/web/2018/spring/lectures)
+- [CSCI E-39b Mobile App Development with React Native](https://cs50.github.io/mobile/lectures)
+
 - [Applications in Finance](https://github.com/mobilege/data-science/blob/master/applications-in-finance.md) *y3*
+
+
 
 ## Rules for adding content
 
@@ -61,14 +70,4 @@ mobilege.github.io
 - Text: Use **consise** & **own words** based on **your** understanding
 - Organization: Groups > mobilege.github.io, Subjects > Repo Readme, Chapter > H2 tag, Topics > H4 tag, Term > H6 tag
 - Focus on intuition (not rules)
-
-## Resources
-
-- [CSCI E-23a Introduction to Game Development](https://cs50.github.io/games/lectures)
-- [CSCI E-33a Web Programming with Python and JavaScript](https://cs50.github.io/web/2018/spring/lectures)
-- [CSCI E-39b Mobile App Development with React Native](https://cs50.github.io/mobile/lectures)
-
-
-
-
 
