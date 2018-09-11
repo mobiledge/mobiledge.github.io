@@ -50,8 +50,8 @@ mobilege.github.io
 
 - [Multivariable calculus](https://github.com/mobilege/data-science/blob/master/multivariable-calculus.md) *3 units*
 - [Linear algebra](https://github.com/mobilege/linear-algebra/blob/master/README.md) *12 weeks*
-- [Probability](https://github.com/mobilege/data-science/blob/master/statistics-probability.md) *4 units, 25 lectures*
-- Statistics
+- [Probability](https://github.com/mobilege/probability) *25 lectures*
+- [Statistics](https://github.com/mobilege/data-science/blob/master/statistics-probability.md)
 
 ## Misc
 
