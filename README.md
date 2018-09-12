@@ -25,7 +25,7 @@ mobilege.github.io
 
 ## Computer Graphics
 
-- Computer Graphics
+- [Computer Graphics](https://github.com/mobilege/computer-graphics/blob/master/README.md)
 
 ## Data Science/Machine Learning/AI
 
