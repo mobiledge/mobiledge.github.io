@@ -52,8 +52,9 @@ mobilege.github.io
 
 ## Math
 
-- [Multivariable calculus](https://github.com/mobilege/data-science/blob/master/multivariable-calculus.md) 
-- [Linear algebra](https://github.com/mobilege/linear-algebra/blob/master/README.md)
+- [Single Variable Calculus]()
+- [Multivariable Calculus*](https://github.com/mobilege/data-science/blob/master/multivariable-calculus.md) 
+- [Linear Algebra](https://github.com/mobilege/linear-algebra/blob/master/README.md)
 - [Probability](https://github.com/mobilege/probability/blob/master/README.md) *1/25 lectures*
 - [Statistics](https://github.com/mobilege/statistics/blob/master/README.md)
 
