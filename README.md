@@ -1,7 +1,7 @@
 mobilege.github.io
 ==================
 
-## CS Curriculum
+## Core CS 
 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
