@@ -23,7 +23,7 @@ mobilege.github.io
 
 - Distributed Systems
 
-## Computer Graphics
+## Computer Graphics/AR/VR
 
 - [Computer Graphics*](https://github.com/mobilege/computer-graphics/blob/master/README.md)
 
