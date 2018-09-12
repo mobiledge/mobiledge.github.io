@@ -25,7 +25,7 @@ mobilege.github.io
 
 ## Computer Graphics
 
-- [Computer Graphics](https://github.com/mobilege/computer-graphics/blob/master/README.md)
+- [Computer Graphics*](https://github.com/mobilege/computer-graphics/blob/master/README.md)
 
 ## Data Science/Machine Learning/AI
 
@@ -52,7 +52,7 @@ mobilege.github.io
 
 ## Math
 
-- [Single Variable Calculus]()
+- Single Variable Calculus
 - [Multivariable Calculus*](https://github.com/mobilege/data-science/blob/master/multivariable-calculus.md) 
 - [Linear Algebra](https://github.com/mobilege/linear-algebra/blob/master/README.md)
 - [Probability](https://github.com/mobilege/probability/blob/master/README.md) *1/25 lectures*
