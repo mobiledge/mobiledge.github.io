@@ -52,19 +52,19 @@ mobilege.github.io
 
 ## Math
 
-- Single Variable Calculus
-- [Multivariable Calculus*](https://github.com/mobilege/data-science/blob/master/multivariable-calculus.md) 
-- [Linear Algebra](https://github.com/mobilege/linear-algebra/blob/master/README.md)
+- Single Variable Calculus *101 sessions*
+- [Multivariable Calculus*](https://github.com/mobilege/data-science/blob/master/multivariable-calculus.md) *96 sessions*
+- [Linear Algebra](https://github.com/mobilege/linear-algebra/blob/master/README.md) *32 topics*
 - [Probability](https://github.com/mobilege/probability/blob/master/README.md) *1/25 lectures*
-- [Statistics](https://github.com/mobilege/statistics/blob/master/README.md)
+- [Statistics](https://github.com/mobilege/statistics/blob/master/README.md) *24 lectures*
 
 ## Misc
 
 - [CSCI E-23a Introduction to Game Development](https://cs50.github.io/games/lectures)
 - [CSCI E-33a Web Programming with Python and JavaScript](https://cs50.github.io/web/2018/spring/lectures)
 - [CSCI E-39b Mobile App Development with React Native](https://cs50.github.io/mobile/lectures)
-
-- [Applications in Finance](https://github.com/mobilege/data-science/blob/master/applications-in-finance.md) *y3*
+- [Applications in Finance](https://github.com/mobilege/data-science/blob/master/applications-in-finance.md)
+- [Introduction to Computational Thinking and Data Science (Undergraduate)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
 
 
