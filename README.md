@@ -25,7 +25,7 @@ mobilege.github.io
 
 ## Computer Graphics/AR/VR
 
-- [Computer Graphics*](https://github.com/mobilege/computer-graphics/blob/master/README.md)
+- [Computer Graphics](https://github.com/mobilege/computer-graphics/blob/master/README.md)
 
 ## Data Science/Machine Learning/AI
 
@@ -40,7 +40,7 @@ mobilege.github.io
 
 ## Web Development
 
-- [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
+- [Web Development*](https://github.com/mobilege/web-development/blob/master/README.md)
 
 ## Languages
 
