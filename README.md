@@ -67,6 +67,7 @@ mobilege.github.io
 - [CSCI E-39b Mobile App Development with React Native](https://cs50.github.io/mobile/lectures)
 - [Applications in Finance](https://github.com/mobilege/data-science/blob/master/applications-in-finance.md)
 - [Introduction to Computational Thinking and Data Science (Undergraduate)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+- [How to Become a Better Software Developer](https://www.7pace.com/blog/become-a-better-programmer-skills-development)
 
 
 
