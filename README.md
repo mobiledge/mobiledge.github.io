@@ -1,30 +1,32 @@
 mobilege.github.io
 ==================
 
-- [Design](https://github.com/mobilege/design)
-- Development
-- [Marketing](https://github.com/mobilege/marketing)
+[Design](https://github.com/mobilege/design), *Development*, [Marketing](https://github.com/mobilege/marketing)
+
+###### Table of Contents
+
+- [Core CS](#core-cs)
+- [Computer Graphics/AR/VR](#computer-graphicsarvr)
+- [Data Science/Machine Learning/AI](#data-sciencemachine-learningai)
+- [iOS Development](#ios-development)
+- [Software Engineering](#software-engineering)
+- [Web Development](#web-development)
+- [Languages](#languages)
+- [Math](#math)
+
 
 #### Core CS 
 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 - Programming: Structure and Interpretation of Computer Programs
-
 - Computer Architecture
-
 - [Algorithms and Data Structures](https://github.com/mobilege/algorithms)
-
 - Math for CS
-
 - Operating Systems
-
 - [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md)
-
 - Databases
-
 - Languages and Compilers
-
 - Distributed Systems
 
 #### Computer Graphics/AR/VR
