@@ -1,6 +1,10 @@
 mobilege.github.io
 ==================
 
+- [Design]()
+- [Development]()
+- [Marketing]()
+
 ## Core CS 
 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
