@@ -1,7 +1,7 @@
 mobilege.github.io
 ==================
 
-[Design](https://github.com/mobilege/design), **Development**, [Marketing](https://github.com/mobilege/marketing)
+[Design](https://github.com/mobilege/design), *Development*, [Marketing](https://github.com/mobilege/marketing)
 
 ###### Table of Contents
 
