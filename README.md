@@ -2,7 +2,7 @@ mobilege.github.io
 ==================
 
 - [Design](https://github.com/mobilege/design)
-- [Development]()
+- Development
 - [Marketing](https://github.com/mobilege/marketing)
 
 ## Core CS 
