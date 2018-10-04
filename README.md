@@ -9,7 +9,6 @@ mobilege.github.io
 - [Computer Graphics/AR/VR](#computer-graphicsarvr)
 - [Data Science/Machine Learning/AI](#data-sciencemachine-learningai)
 - [iOS Development](#ios-development)
-- [Software Engineering](#software-engineering)
 - [Web Development](#web-development)
 - [Languages](#languages)
 - [Math](#math)
@@ -40,9 +39,6 @@ mobilege.github.io
 #### iOS Development
 
 - [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
-
-#### Software Engineering
-
 
 #### Web Development
 
