@@ -28,7 +28,7 @@ mobilege.github.io
 - Languages and Compilers
 - Distributed Systems
 
-#### Computer Graphics/AR/VR
+#### Computer Graphics/Gaming/AR/VR
 
 - [Computer Graphics](https://github.com/mobilege/computer-graphics/blob/master/README.md)
 
