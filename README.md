@@ -65,6 +65,7 @@ mobilege.github.io
 #### Misc
 
 - Physcology: [Hooked: How to Build Habit-Forming Products](http://a.co/d/hOLhqz5)
+- [CS 102: Big Data - Stanford](https://web.stanford.edu/class/cs102/)
 - [Copyright for Multimedia](https://www.coursera.org/learn/copyright-for-multimedia)
 - [CSCI E-23a Introduction to Game Development](https://cs50.github.io/games/lectures)
 - [CSCI E-33a Web Programming with Python and JavaScript](https://cs50.github.io/web/2018/spring/lectures)
