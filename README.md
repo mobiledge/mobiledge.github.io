@@ -64,6 +64,7 @@ mobilege.github.io
 
 #### Misc
 - [CS50's Understanding Technology - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
+- [CS50's Computer Science for Business Professionals - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T381YHS5L3gkwPbUGiI0foXuc)
 - [CSCI E-23a Introduction to Game Development](https://cs50.github.io/games/lectures)
 - [CSCI E-33a Web Programming with Python and JavaScript](https://cs50.github.io/web/2018/spring/lectures)
 - [CSCI E-39b Mobile App Development with React Native](https://cs50.github.io/mobile/lectures)
