@@ -25,7 +25,7 @@ mobilege.github.io
 - Operating Systems
 - [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md)
 - Databases
-- Languages and Compilers
+- [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
 - Distributed Systems
 
 #### Computer Graphics/Gaming/AR/VR
