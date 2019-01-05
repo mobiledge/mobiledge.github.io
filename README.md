@@ -60,7 +60,7 @@ mobilege.github.io
 - [Probability](https://github.com/mobilege/probability/blob/master/README.md) *25 lectures*
 - [Statistics](https://github.com/mobilege/statistics/blob/master/README.md) *24 lectures*
 
-*1 lecture every other day, in order to complete this in a year*
+*1 lecture every day, in order to complete this in 6 mts*
 
 #### Misc
 - [CS50's Understanding Technology - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
