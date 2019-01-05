@@ -56,7 +56,7 @@ mobilege.github.io
 
 - Single Variable Calculus *101 topics, 39 lectures*
 - [Multivariable Calculus](https://github.com/mobilege/multivariable-calculus/blob/master/README.md) *98 topics, 35 lectures*
-- [Linear Algebra](https://github.com/mobilege/linear-algebra/blob/master/README.md) *32 topics*
+- [Linear Algebra](https://github.com/mobilege/linear-algebra/blob/master/README.md) *34 lectures*
 - [Probability](https://github.com/mobilege/probability/blob/master/README.md) *25 lectures*
 - [Statistics](https://github.com/mobilege/statistics/blob/master/README.md) *24 lectures*
 
