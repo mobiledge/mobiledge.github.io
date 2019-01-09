@@ -6,7 +6,7 @@ mobilege.github.io
 #### Table of Contents
 
 - [Core CS](#core-cs)
-- [Computer Graphics/AR/VR](#computer-graphicsarvr)
+- [Computer Graphics/AR/VR](#computer-graphicsgamingarvr)
 - [Data Science/Machine Learning/AI](#data-sciencemachine-learningai)
 - [iOS Development](#ios-development)
 - [Web Development](#web-development)
