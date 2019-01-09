@@ -92,8 +92,9 @@ mobilege.github.io
 
 #### Rules for Organization (needs revision)
 
-- mobilege.github.io: Groups/Verticals
-- Repo README: Subject
+- mobilege.github.io: All
+- Repo README: Vertical/Group
+- Page: Subject
 - H2 tag > Chapter, H4 tag > Topic, H6 tag > Term
 
 
