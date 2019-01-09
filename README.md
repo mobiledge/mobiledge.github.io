@@ -62,20 +62,6 @@ mobilege.github.io
 
 *~150 lectures. 1 lecture/day means 6 mts to complete. 1 lecture/week means 3yrs to complete*
 
-#### Misc
-- [CS50's Understanding Technology - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
-- [CS50's Computer Science for Business Professionals - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T381YHS5L3gkwPbUGiI0foXuc)
-- [CSCI E-23a Introduction to Game Development](https://cs50.github.io/games/lectures)
-- [CSCI E-33a Web Programming with Python and JavaScript](https://cs50.github.io/web/2018/spring/lectures)
-- [CSCI E-39b Mobile App Development with React Native](https://cs50.github.io/mobile/lectures)
-- Physcology: [Hooked: How to Build Habit-Forming Products](http://a.co/d/hOLhqz5)
-- [CS 102: Big Data - Stanford](https://web.stanford.edu/class/cs102/)
-- [Copyright for Multimedia](https://www.coursera.org/learn/copyright-for-multimedia)
-- [Applications in Finance](https://github.com/mobilege/data-science/blob/master/applications-in-finance.md)
-- [Introduction to Computational Thinking and Data Science (Undergraduate)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
-- [How to Become a Better Software Developer](https://www.7pace.com/blog/become-a-better-programmer-skills-development)
-
-
 #### Rules for adding content
 
 - Code Snippets: Only log **verified**, **frequently used** code snippets
@@ -97,5 +83,17 @@ mobilege.github.io
 - Page: Framework, Related Minor Subjects
 - Tags: H2 > Chapter, H4 > Topic, tag > Term
 
+#### Misc
 
+- [CS50's Understanding Technology - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
+- [CS50's Computer Science for Business Professionals - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T381YHS5L3gkwPbUGiI0foXuc)
+- [CSCI E-23a Introduction to Game Development](https://cs50.github.io/games/lectures)
+- [CSCI E-33a Web Programming with Python and JavaScript](https://cs50.github.io/web/2018/spring/lectures)
+- [CSCI E-39b Mobile App Development with React Native](https://cs50.github.io/mobile/lectures)
+- Physcology: [Hooked: How to Build Habit-Forming Products](http://a.co/d/hOLhqz5)
+- [CS 102: Big Data - Stanford](https://web.stanford.edu/class/cs102/)
+- [Copyright for Multimedia](https://www.coursera.org/learn/copyright-for-multimedia)
+- [Applications in Finance](https://github.com/mobilege/data-science/blob/master/applications-in-finance.md)
+- [Introduction to Computational Thinking and Data Science (Undergraduate)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+- [How to Become a Better Software Developer](https://www.7pace.com/blog/become-a-better-programmer-skills-development)
 
