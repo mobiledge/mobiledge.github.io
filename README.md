@@ -85,3 +85,9 @@ mobilege.github.io
 - Organization: Groups > mobilege.github.io, Subjects > Repo Readme, Chapter > H2 tag, Topics > H4 tag, Term > H6 tag
 - Focus on intuition (not rules)
 
+#### Rules for learning/expertise
+
+- Level 1: Familiarity with 3 topics
+- Level 2:
+- Level 3:
+- Target breadth-first. Attempt to get to Level 1 across all items in a vertical first. 
