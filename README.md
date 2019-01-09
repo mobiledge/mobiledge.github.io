@@ -76,13 +76,11 @@ mobilege.github.io
 - [How to Become a Better Software Developer](https://www.7pace.com/blog/become-a-better-programmer-skills-development)
 
 
-
 #### Rules for adding content
 
 - Code Snippets: Only log **verified**, **frequently used** code snippets
 - Links: Only log **good** sources in the form of links (not contents)
 - Text: Use **consise** & **own words** based on **your** understanding
-- Organization: Groups > mobilege.github.io, Subjects > Repo Readme, Chapter > H2 tag, Topics > H4 tag, Term > H6 tag
 - Focus on intuition (not rules)
 
 #### Rules for learning/expertise
@@ -91,3 +89,12 @@ mobilege.github.io
 - Level 2:
 - Level 3:
 - Target breadth-first. Attempt to get to Level 1 across all items in a vertical first. 
+
+#### Rules for Organization (needs revision)
+
+- mobilege.github.io: Groups/Verticals
+- Repo README: Subject
+- H2 tag > Chapter, H4 tag > Topic, H6 tag > Term
+
+
+
