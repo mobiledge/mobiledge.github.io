@@ -100,4 +100,5 @@ mobilege.github.io
 - [Introduction to Computational Thinking and Data Science (Undergraduate)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 - [How to Become a Better Software Developer](https://www.7pace.com/blog/become-a-better-programmer-skills-development)
 - [Certified CompTIA Linux+ and LPIC-1: System Administrator](https://acloud.guru/learn/lpic-1)
+- [Linux Essentials Exam 010](https://www.lpi.org/our-certifications/exam-010-objectives)
 
