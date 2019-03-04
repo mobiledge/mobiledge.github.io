@@ -88,4 +88,5 @@ mobilege.github.io
 - [Linux Essentials Exam 010](https://www.lpi.org/our-certifications/exam-010-objectives)
 - [LPI Linux Essentials Certification All-in-One Exam Guide](https://www.amazon.com/Linux-Essentials-Certification-All-Guide-ebook/dp/B00BPO77G0)
 - [Unity Certified Associate](https://certification.unity.com/products/certified-associate)
+- [Computer Science Proficiency Assessment](https://cspa.io/)
 
