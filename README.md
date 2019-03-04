@@ -9,13 +9,13 @@ mobilege.github.io
 #### Table of Contents
 
 - [Core CS](#core-cs)
-- [Computer Graphics/AR/VR](#computer-graphicsgamingarvr)
-- [Data Science/Machine Learning/AI](#data-sciencemachine-learningai)
-- [iOS Development](#ios-development)
-- [Web Development](#web-development)
+- [Computer Graphics/AR/VR](https://github.com/mobilege/computer-graphics/blob/master/README.md)
+- [Data Science/Machine Learning/AI](https://github.com/mobilege/data-science/blob/master/README.md)
+- [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
+- [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
 - [Languages](#languages)
 - [Math](#math)
-- [Unix](#unix)
+- [Unix](https://github.com/mobilege/unix/blob/master/README.md)
 
 
 #### Core CS 
@@ -32,32 +32,16 @@ mobilege.github.io
 - [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
 - Distributed Systems
 
-#### Computer Graphics/Gaming/AR/VR
-
-- [Computer Graphics](https://github.com/mobilege/computer-graphics/blob/master/README.md)
-
-#### Data Science/Machine Learning/AI
-
-- [Data Science](https://github.com/mobilege/data-science/blob/master/README.md)
-
-#### iOS Development
-
-- [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
-
-#### Web Development
-
-- [Web Development*](https://github.com/mobilege/web-development/blob/master/README.md)
 
 #### Languages
-
 - [Haskell](https://github.com/mobilege/haskell/blob/master/README.md)
 - Javascript
 - [Python](https://github.com/mobilege/data-science/blob/master/python.md)
 - [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md)
 - [Swift](https://github.com/mobilege/ios-resources/blob/master/Swift.md)
 
-#### Math
 
+#### Math
 - Single Variable Calculus *101 topics, 39 lectures*
 - [Multivariable Calculus](https://github.com/mobilege/multivariable-calculus/blob/master/README.md) *98 topics, 35 lectures*
 - [Linear Algebra](https://github.com/mobilege/linear-algebra/blob/master/README.md) *34 lectures*
@@ -66,32 +50,29 @@ mobilege.github.io
 
 *~150 lectures. 1 lecture/day means 6 mts to complete. 1 lecture/week means 3yrs to complete*
 
-#### Unix
-- [Unix]()
 
 #### Rules for adding content
-
 - Code Snippets: Only log **verified**, **frequently used** code snippets
 - Links: Only log **good** sources in the form of links (not contents)
 - Text: Use **consise** & **own words** based on **your** understanding
 - Focus on intuition (not rules)
 
-#### Rules for learning/expertise
 
+#### Rules for learning/expertise
 - Level 1: Familiarity with 3 topics
 - Level 2:
 - Level 3:
 - Target breadth-first. Attempt to get to Level 1 across all items in a vertical first. 
 
-#### Rules for Organization (needs revision)
 
+#### Rules for Organization (needs revision)
 - mobilege.github.io: All, Groups, Verticals
 - Repo README: Subject
 - Page: Framework, Related Minor Subjects
 - Tags: H2 > Chapter, H4 > Topic, tag > Term
 
-#### Misc
 
+#### Misc
 - [CS50's Understanding Technology - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
 - [CS50's Computer Science for Business Professionals - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T381YHS5L3gkwPbUGiI0foXuc)
 - [CSCI E-23a Introduction to Game Development](https://cs50.github.io/games/lectures)
