@@ -15,6 +15,7 @@ mobilege.github.io
 - [Web Development](#web-development)
 - [Languages](#languages)
 - [Math](#math)
+- [Unix](#unix)
 
 
 #### Core CS 
@@ -64,6 +65,9 @@ mobilege.github.io
 - [Statistics](https://github.com/mobilege/statistics/blob/master/README.md) *24 lectures*
 
 *~150 lectures. 1 lecture/day means 6 mts to complete. 1 lecture/week means 3yrs to complete*
+
+#### Unix
+- [Unix]()
 
 #### Rules for adding content
 
