@@ -86,7 +86,7 @@ mobilege.github.io
 - [How to Become a Better Software Developer](https://www.7pace.com/blog/become-a-better-programmer-skills-development)
 - [Certified CompTIA Linux+ and LPIC-1: System Administrator](https://acloud.guru/learn/lpic-1)
 - [Linux Essentials Exam 010](https://www.lpi.org/our-certifications/exam-010-objectives)
-- [LPI Linux Essentials Certification All-in-One Exam Guide](https://www.amazon.com/Linux-Essentials-Certification-All-Guide-ebook/dp/B00BPO77G0)
+- [Linux Essentials, Second Edition - Book](https://www.amazon.com/Linux-Essentials-Second-Christine-Bresnahan/dp/111909206X/ref=sr_1_1?crid=1JLBR9SVH8UVY&keywords=lpi+linux+essentials)
 - [Unity Certified Associate](https://certification.unity.com/products/certified-associate)
 - [Computer Science Proficiency Assessment](https://cspa.io/)
 
