@@ -61,7 +61,7 @@ mobilege.github.io
 
 
 #### Rules for learning/expertise
-- Level 1: Listen/Read, Familiarity with 3 topics
+- Level 1: Listen/Read, Goal: Familiarity with 3 sub-topics
 - Level 2: Do/Practice
 - Level 3:
 - Target breadth-first. Attempt to get to Level 1 across all items in a vertical first. 
@@ -69,9 +69,9 @@ mobilege.github.io
 
 #### Rules for Organization (needs revision)
 - mobilege.github.io: All, Groups, Verticals
-- Repo README: Subject
-- Page: Framework, Related Minor Subjects
-- Tags: H2 > Chapter, H4 > Topic, tag > Term
+- Repo: Domain
+- Page: Subject
+- Tags: H2 > Chapter, H4 > Topic, H6 > Term
 
 
 #### Misc
