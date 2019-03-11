@@ -9,13 +9,15 @@ mobilege.github.io
 #### Table of Contents
 
 - [Core CS](#core-cs)
-- [Computer Graphics/AR/VR](https://github.com/mobilege/computer-graphics/blob/master/README.md)
-- [Data Science/Machine Learning/AI](https://github.com/mobilege/data-science/blob/master/README.md)
-- [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
-- [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
+- [Software Engineering & Architecture]()
+- Domain: [Computer Graphics/AR/VR](https://github.com/mobilege/computer-graphics/blob/master/README.md)
+- Domain: [Data Science/Machine Learning/AI](https://github.com/mobilege/data-science/blob/master/README.md)
+- Domain: [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
+- Domain: [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
 - [Languages](#languages)
 - [Math](#math)
 - [Unix](https://github.com/mobilege/unix/blob/master/README.md)
+
 
 
 #### Core CS 
