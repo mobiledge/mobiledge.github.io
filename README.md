@@ -6,14 +6,14 @@ mobilege.github.io
 [Marketing](https://github.com/mobilege/marketing/blob/master/README.md),
 [Psychology](https://github.com/mobilege/psychology/blob/master/README.md)
 
-#### Table of Contents
+#### Domains
 
 - [Core CS](#core-cs)
 - [Software Engineering & Architecture]()
-- Domain: [Computer Graphics/AR/VR](https://github.com/mobilege/computer-graphics/blob/master/README.md)
-- Domain: [Data Science/Machine Learning/AI](https://github.com/mobilege/data-science/blob/master/README.md)
-- Domain: [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
-- Domain: [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
+- [Computer Graphics/AR/VR](https://github.com/mobilege/computer-graphics/blob/master/README.md)
+- [Data Science/Machine Learning/AI](https://github.com/mobilege/data-science/blob/master/README.md)
+- [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
+- [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
 - [Languages](#languages)
 - [Math](#math)
 - [Unix](https://github.com/mobilege/unix/blob/master/README.md)
