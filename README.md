@@ -61,8 +61,8 @@ mobilege.github.io
 
 
 #### Rules for learning/expertise
-- Level 1: Familiarity with 3 topics
-- Level 2:
+- Level 1: Listen/Read, Familiarity with 3 topics
+- Level 2: Do/Practice
 - Level 3:
 - Target breadth-first. Attempt to get to Level 1 across all items in a vertical first. 
 
