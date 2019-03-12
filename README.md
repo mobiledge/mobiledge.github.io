@@ -53,25 +53,29 @@ mobilege.github.io
 *~150 lectures. 1 lecture/day means 6 mts to complete. 1 lecture/week means 3yrs to complete*
 
 
-#### Rules for adding content
-- Code Snippets: Only log **verified**, **frequently used** code snippets
-- Links: Only log **good** sources in the form of links (not contents)
-- Text: Use **consise** & **own words** based on **your** understanding
-- Focus on intuition (not rules)
+#### Rules for coding
+- Make It Work, Make It Right, Make It Fast
 
 
-#### Rules for learning/expertise
+#### Rules for Learning
 - Level 1: Listen/Read, Goal: Familiarity with 3 sub-topics
 - Level 2: Do/Practice
 - Level 3:
 - Target breadth-first. Attempt to get to Level 1 across all items in a vertical first. 
 
 
-#### Rules for Organization (needs revision)
+#### Rules for Organization 
 - mobilege.github.io: All, Groups, Verticals
 - Repo: Domain
 - Page: Subject
 - Tags: H2 > Chapter, H4 > Topic, H6 > Term
+
+
+#### Rules for adding content
+- Code Snippets: Only log **verified**, **frequently used** code snippets
+- Links: Only log **good** sources in the form of links (not contents)
+- Text: Use **consise** & **own words** based on **your** understanding
+- Focus on intuition (not rules)
 
 
 #### Misc
