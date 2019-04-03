@@ -58,10 +58,10 @@ mobilege.github.io
 
 
 #### Rules for Learning
-- Level 1: Listen/Read, Goal: Familiarity with 3 sub-topics
+- Level 1: Listen/Read
 - Level 2: Do/Practice
-- Level 3:
-- Target breadth-first. Attempt to get to Level 1 across all items in a vertical first. 
+- Level 3: Capture code-snippet/class/protocol-implementation for use in future
+Note: For non-iOS topics, target breadth-first. Familiarity with 3 sub-topics could be a reasonable measure of level 1.
 
 
 #### Rules for Organization 
