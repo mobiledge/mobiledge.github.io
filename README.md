@@ -53,15 +53,11 @@ mobilege.github.io
 *~150 lectures. 1 lecture/day means 6 mts to complete. 1 lecture/week means 3yrs to complete*
 
 
-#### Rules for coding
-- Make It Work, Make It Right, Make It Fast
-
-
 #### Rules for Learning
 - Level 1. Identify source for a topic
 - Level 2: Listen/Read
 - Level 3: Do/Practice/Implment
-- Level 4: Capture code-snippet/class/protocol-implementation for use in future
+- Level 4: Orgamize(below). Capture code-snippet/class/protocol-implementation for use in future
 
 
 #### Rules for Organization 
@@ -78,6 +74,9 @@ mobilege.github.io
 - Text: Use **consise** & **own words** based on **your** understanding
 - Focus on intuition (not rules)
 
+
+#### Rules for coding
+- Make It Work, Make It Right, Make It Fast
 
 #### Misc
 - [CS50's Understanding Technology - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
