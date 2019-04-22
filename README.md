@@ -65,10 +65,11 @@ Note: For non-iOS topics, target breadth-first. Familiarity with 3 sub-topics co
 
 
 #### Rules for Organization 
-- mobilege.github.io: All, Groups, Verticals
 - Repo: Domain
 - Page: Subject
-- Tags: H2 > Chapter, H4 > Topic, H6 > Term
+- H2 tag: Chapter
+- H4 tag: Topic
+- H6 tag: Term
 
 
 #### Rules for adding content
