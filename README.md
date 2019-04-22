@@ -9,7 +9,7 @@ mobilege.github.io
 #### Domains
 
 - [Core CS](#core-cs)
-- [Software Engineering & Architecture]()
+- [Software Engineering & Architecture](https://github.com/mobilege/software-engg-arch)
 - [Computer Graphics/AR/VR](https://github.com/mobilege/computer-graphics/blob/master/README.md)
 - [Data Science/Machine Learning/AI](https://github.com/mobilege/data-science/blob/master/README.md)
 - [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
