@@ -58,9 +58,9 @@ mobilege.github.io
 
 
 #### Rules for Learning
-- Level 1. Identify source
+- Level 1. Identify source for a topic
 - Level 2: Listen/Read
-- Level 3: Do/Practice
+- Level 3: Do/Practice/Implment
 - Level 4: Capture code-snippet/class/protocol-implementation for use in future
 
 
