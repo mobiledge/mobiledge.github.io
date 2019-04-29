@@ -96,3 +96,8 @@ mobilege.github.io
 - [Unity Certified Associate](https://certification.unity.com/products/certified-associate)
 - [Computer Science Proficiency Assessment](https://cspa.io/)
 
+###### Math
+- [Introduction to Discrete Mathematics for Computer Science Specialization - Coursera ](https://www.coursera.org/specializations/discrete-mathematics)
+
+
+
