@@ -6,18 +6,25 @@ mobilege.github.io
 [Marketing](https://github.com/mobilege/marketing/blob/master/README.md),
 [Psychology](https://github.com/mobilege/psychology/blob/master/README.md)
 
-#### Domains
-
-- [Core CS](#core-cs)
-- [Software Engineering & Architecture](https://github.com/mobilege/software-engg-arch)
-- [Computer Graphics/AR/VR](https://github.com/mobilege/computer-graphics/blob/master/README.md)
-- [Data Science/Machine Learning/AI](https://github.com/mobilege/data-science/blob/master/README.md)
+## Domains
+#### Apps
 - [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
+- [Languages](#languages)
+
+#### SAAS
+- [Core CS](#core-cs)
+- [Languages](#languages)
+- [Unix](https://github.com/mobilege/unix/blob/master/README.md)
 - [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
+
+#### Trading
+- [Data Science/Machine Learning/AI](https://github.com/mobilege/data-science/blob/master/README.md)
 - [Languages](#languages)
 - [Math](#math)
-- [Unix](https://github.com/mobilege/unix/blob/master/README.md)
 
+
+#### Misc
+- [Computer Graphics/AR/VR](https://github.com/mobilege/computer-graphics/blob/master/README.md)
 
 
 #### Core CS 
