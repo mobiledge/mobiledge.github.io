@@ -24,11 +24,7 @@ mobilege.github.io
 - [Math](#math)
 
 
-#### Misc
-
-
-
-#### Core CS 
+## Core CS 
 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
@@ -43,7 +39,7 @@ mobilege.github.io
 - Distributed Systems
 
 
-#### Languages
+## Languages
 - [Haskell](https://github.com/mobilege/haskell/blob/master/README.md)
 - Javascript
 - [Python](https://github.com/mobilege/data-science/blob/master/python.md)
@@ -51,7 +47,7 @@ mobilege.github.io
 - [Swift](https://github.com/mobilege/ios-resources/blob/master/Swift.md)
 
 
-#### Math
+## Math
 - Single Variable Calculus *101 topics, 39 lectures*
 - [Multivariable Calculus](https://github.com/mobilege/multivariable-calculus/blob/master/README.md) *98 topics, 35 lectures*
 - [Linear Algebra](https://github.com/mobilege/linear-algebra/blob/master/README.md) *34 lectures*
@@ -61,14 +57,14 @@ mobilege.github.io
 *~150 lectures. 1 lecture/day means 6 mts to complete. 1 lecture/week means 3yrs to complete*
 
 
-#### Rules for Learning
+## Rules for Learning
 - Level 1. Identify source for a topic
 - Level 2: Listen/Read
 - Level 3: Do/Practice/Implment
 - Level 4: Orgamize(below). Capture code-snippet/class/protocol-implementation for use in future
 
 
-#### Rules for Organization 
+## Rules for Organization 
 - Repo: Domain
 - Page: Subject
 - H2 tag: Chapter
@@ -76,17 +72,17 @@ mobilege.github.io
 - H6 tag: Term
 
 
-#### Rules for adding content
+## Rules for adding content
 - Code Snippets: Only log **verified**, **frequently used** code snippets
 - Links: Only log **good** sources in the form of links (not contents)
 - Text: Use **consise** & **own words** based on **your** understanding
 - Focus on intuition (not rules)
 
 
-#### Rules for coding
+## Rules for coding
 - Make It Work, Make It Right, Make It Fast
 
-#### Misc
+## Misc
 - [CS50's Understanding Technology - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
 - [CS50's Computer Science for Business Professionals - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T381YHS5L3gkwPbUGiI0foXuc)
 - [CSCI E-23a Introduction to Game Development](https://cs50.github.io/games/lectures)
