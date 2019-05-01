@@ -9,22 +9,23 @@ mobilege.github.io
 ## Domains
 #### Apps
 - [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
-- [Languages](#languages)
+- [Computer Graphics/AR/VR](https://github.com/mobilege/computer-graphics/blob/master/README.md)
+- [Languages](#languages) - Obj-C, Swift
 
 #### SAAS
 - [Core CS](#core-cs)
-- [Languages](#languages)
+- [Languages](#languages) - JS, Python
 - [Unix](https://github.com/mobilege/unix/blob/master/README.md)
 - [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
 
 #### Trading
 - [Data Science/Machine Learning/AI](https://github.com/mobilege/data-science/blob/master/README.md)
-- [Languages](#languages)
+- [Languages](#languages) - Python, R
 - [Math](#math)
 
 
 #### Misc
-- [Computer Graphics/AR/VR](https://github.com/mobilege/computer-graphics/blob/master/README.md)
+
 
 
 #### Core CS 
