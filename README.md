@@ -66,12 +66,13 @@ mobilege.github.io
 - Level 4: Orgamize(below). Capture code-snippet/class/protocol-implementation for use in future
 
 
-## Rules for Organization 
-- Repo: Domain
-- Page: Subject
-- H2 tag: Chapter
-- H4 tag: Topic
-- H6 tag: Term
+## Rules for Organization
+- Product Type (App, SAAS, Trading etc) 
+- Domain: Repo
+- Subject: Page
+- Chapter: H2 tag 
+- Topic: H4 tag
+- Term: H6 tag
 
 
 ## Rules for adding content
