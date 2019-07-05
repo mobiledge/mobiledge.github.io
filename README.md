@@ -59,6 +59,13 @@ mobilege.github.io
 *~150 lectures. 1 lecture/day means 6 mts to complete. 1 lecture/week means 3yrs to complete*
 
 
+## Definition of 'Done'
+- Topic consiered completed (marked with checkmark) if one has: i) read it, ii) understood it, iii) coded it  
+- Do not record topics that are obvious, internalized, trivial
+- Chapter considered done if all topics (at least 10) completed
+- Subject considered done if all chapters (at least 10) completed
+
+
 ## Rules for Learning
 - Level 1. Identify source for a topic
 - Level 2: Listen/Read
@@ -84,6 +91,7 @@ mobilege.github.io
 
 ## Rules for coding
 - Make It Work, Make It Right, Make It Fast
+
 
 ## Misc
 - [CS50's Understanding Technology - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
