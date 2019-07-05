@@ -62,8 +62,8 @@ mobilege.github.io
 ## Definition of 'Done'
 - Topic consiered completed (marked with checkmark) if one has: i) read it, ii) understood it, iii) coded it  
 - Do not record topics that are obvious, internalized, trivial
-- Chapter considered done if all topics (at least 10) completed
-- Subject considered done if all chapters (at least 10) completed
+- Chapter considered done if all topics (~ 10) completed
+- Subject considered done if all chapters (~ 10) completed
 
 
 ## Rules for Learning
