@@ -112,8 +112,9 @@ mobilege.github.io
 - [Unity Certified Associate](https://certification.unity.com/products/certified-associate)
 - [Computer Science Proficiency Assessment](https://cspa.io/)
 
-###### Math
+###### Math for CS
 - [Introduction to Discrete Mathematics for Computer Science Specialization - Coursera ](https://www.coursera.org/specializations/discrete-mathematics)
 
-
+###### Math for Finance
+- [COMP510 - Computational Finance - 2007 HKUST - Steven Skiena](https://www.youtube.com/playlist?list=PL9E205B8FAAD530E1)
 
