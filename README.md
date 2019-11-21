@@ -10,10 +10,11 @@ mobilege.github.io
 #### Apps
 - [Computer Graphics](https://github.com/mobilege/computer-graphics/blob/master/README.md)
 - [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
-  - [iOS Framework - SpriteKit]()
-  - iOS Framework - SceneKit
-  - iOS Framework - ARKit
-
+  - Frameworks - Graphics and Games: 
+  ARKit,
+  [GameplayKit](https://github.com/mobilege/ios-development/blob/master/gameplaykit.md),
+  - [SpriteKit](), 
+  SceneKit
 - [Languages](#languages) - Obj-C, Swift
 
 #### SAAS
