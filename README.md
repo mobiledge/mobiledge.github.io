@@ -17,7 +17,7 @@ mobilege.github.io
   SceneKit
 - [Languages](#languages) - 
   C#, 
-  [Swift](https://github.com/mobilege/ios-resources/blob/master/Swift.md)
+  [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
 
 #### Web SAAS
 - [Core CS](#core-cs)
@@ -54,7 +54,7 @@ mobilege.github.io
 - [ML Language](https://github.com/mobilege/ml-language/blob/master/README.md)
 - [Python](https://github.com/mobilege/data-science/blob/master/python.md)
 - [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md)
-- [Swift](https://github.com/mobilege/ios-resources/blob/master/Swift.md)
+- [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
 
 
 ## Math
