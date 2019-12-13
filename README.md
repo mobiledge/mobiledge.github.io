@@ -8,19 +8,25 @@ mobilege.github.io
 
 ## Domains
 
-#### Fundamentals
-- Core CS
-- Core Math
-
 #### Platforms
 - [iOS Dev](https://github.com/mobilege/mobilege.github.io/blob/master/README.md#ios-dev)
-- [Web Dev](https://github.com/mobilege/web-development/blob/master/README.md)
+- [Web Dev](https://github.com/mobilege/web-development/blob/master/README.md#web-dev)
+
+#### Fundamentals
+- [Core CS](https://github.com/mobilege/mobilege.github.io/blob/master/README.md#core-cs)
+- [Core Math](https://github.com/mobilege/mobilege.github.io/blob/master/README.md#core-math)
 
 #### Applications
-- [Graphics & Games](https://github.com/mobilege/computer-graphics/blob/master/README.md)
-- [Trading & Finance](https://github.com/mobilege/data-science/blob/master/README.md)
+- [Graphics & Games](https://github.com/mobilege/mobilege.github.io/blob/master/README.md#)
+- [Trading & Finance](https://github.com/mobilege/mobilege.github.io/blob/master/README.md#)
 
 ## Subjects
+
+#### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
+- [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
+- [**SpriteKit**](https://github.com/mobilege/ios-development/blob/master/spritekit.md)
+
+#### [Web Dev](https://github.com/mobilege/web-development/blob/master/README.md)
 
 #### Core CS 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
@@ -45,9 +51,11 @@ mobilege.github.io
 
 *5 Subjects. ~150 lectures*
 
-#### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
-- [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
-- [**SpriteKit**](https://github.com/mobilege/ios-development/blob/master/spritekit.md)
+#### Graphics & Games
+- [Computer Graphics](https://github.com/mobilege/computer-graphics/blob/master/README.md)
+
+#### Trading & Finance
+- [Data Science](https://github.com/mobilege/data-science/blob/master/README.md)
 
 ## Languages
 - [Haskell](https://github.com/mobilege/haskell/blob/master/README.md)
