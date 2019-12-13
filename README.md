@@ -26,7 +26,7 @@ mobilege.github.io
 - [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
 - [**SpriteKit**](https://github.com/mobilege/ios-development/blob/master/spritekit.md)
 
-#### [Web Dev](https://github.com/mobilege/web-development/blob/master/README.md)
+#### Web Dev[:link:](https://github.com/mobilege/web-development/blob/master/README.md)
 
 #### Core CS 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
