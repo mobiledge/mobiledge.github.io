@@ -18,7 +18,7 @@ mobilege.github.io
 
 #### Applications
 - [Graphics & Games](https://github.com/mobilege/computer-graphics/blob/master/README.md)
-- [Trading & Finance]((https://github.com/mobilege/data-science/blob/master/README.md))
+- [Trading & Finance](https://github.com/mobilege/data-science/blob/master/README.md)
 
 
 ## Core CS 
