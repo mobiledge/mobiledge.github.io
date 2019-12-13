@@ -6,42 +6,19 @@
 mobilege.github.io
 ==================
 
-Fundamentals
-- Core Math
-- Core CS
-
-Platforms
-- iOS Dev
-- Web Dev
-
-Applications
-- Graphics & Games
-- Trading
-
 ## Domains
-#### Graphics & Games
-- [Computer Graphics](https://github.com/mobilege/computer-graphics/blob/master/README.md)
-- [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
-  - Frameworks - Graphics and Games: 
-  ARKit,
-  [GameplayKit](https://github.com/mobilege/ios-development/blob/master/gameplaykit.md),
-  [**SpriteKit**](https://github.com/mobilege/ios-development/blob/master/spritekit.md), 
-  SceneKit
-- [Languages](#languages) - 
-  C#, 
-  [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
 
-#### Web SAAS
-- [Core CS](#core-cs)
-- [Languages](#languages) - JS, Python
-- [Software Development](#software-development)
-- [Unix](https://github.com/mobilege/unix/blob/master/README.md)
-- [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
+#### Fundamentals
+- Core CS
+- Core Math
 
-#### Trading
-- [Data Science/Machine Learning/AI](https://github.com/mobilege/data-science/blob/master/README.md)
-- [Languages](#languages) - Python, R
-- [Math](#math)
+#### Platforms
+- [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
+- [Web Dev](https://github.com/mobilege/web-development/blob/master/README.md)
+
+#### Applications
+- [Graphics & Games](https://github.com/mobilege/computer-graphics/blob/master/README.md)
+- [Trading & Finance]((https://github.com/mobilege/data-science/blob/master/README.md))
 
 
 ## Core CS 
@@ -59,16 +36,7 @@ Applications
 *9 Subjects*
 
 
-## Languages
-- [Haskell](https://github.com/mobilege/haskell/blob/master/README.md)
-- Javascript
-- [ML Language](https://github.com/mobilege/ml-language/blob/master/README.md)
-- [Python](https://github.com/mobilege/data-science/blob/master/python.md)
-- [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md)
-- [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
-
-
-## Math
+## Core Math
 - Single Variable Calculus *101 topics, 39 lectures*
 - [Multivariable Calculus](https://github.com/mobilege/multivariable-calculus/blob/master/README.md) *98 topics, 35 lectures*
 - [Linear Algebra](https://github.com/mobilege/linear-algebra/blob/master/README.md) *34 lectures*
@@ -76,6 +44,15 @@ Applications
 - [Statistics](https://github.com/mobilege/statistics/blob/master/README.md) *24 lectures*
 
 *5 Subjects. ~150 lectures*
+
+
+## Languages
+- [Haskell](https://github.com/mobilege/haskell/blob/master/README.md)
+- Javascript
+- [ML Language](https://github.com/mobilege/ml-language/blob/master/README.md)
+- [Python](https://github.com/mobilege/data-science/blob/master/python.md)
+- [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md)
+- [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
 
 
 ## Definition of 'Done'
