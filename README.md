@@ -15,7 +15,9 @@ mobilege.github.io
   [GameplayKit](https://github.com/mobilege/ios-development/blob/master/gameplaykit.md),
   [**SpriteKit**](https://github.com/mobilege/ios-development/blob/master/spritekit.md), 
   SceneKit
-- [Languages](#languages) - Obj-C, Swift
+- [Languages](#languages) - 
+  C#, 
+  [Swift](https://github.com/mobilege/ios-resources/blob/master/Swift.md)
 
 #### Web SAAS
 - [Core CS](#core-cs)
