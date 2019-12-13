@@ -7,7 +7,7 @@ mobilege.github.io
 ==================
 
 ## Domains
-#### Apps
+#### Graphics & Games
 - [Computer Graphics](https://github.com/mobilege/computer-graphics/blob/master/README.md)
 - [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
   - Frameworks - Graphics and Games: 
