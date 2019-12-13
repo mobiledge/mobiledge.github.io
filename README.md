@@ -44,9 +44,8 @@ mobilege.github.io
 - [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
 - Distributed Systems
 
+*9 Subjects*
 
-## Software Development
-- Estimation
 
 ## Languages
 - [Haskell](https://github.com/mobilege/haskell/blob/master/README.md)
@@ -64,7 +63,7 @@ mobilege.github.io
 - [Probability](https://github.com/mobilege/probability/blob/master/README.md) *25 lectures*
 - [Statistics](https://github.com/mobilege/statistics/blob/master/README.md) *24 lectures*
 
-*~150 lectures. 1 lecture/day means 6 mts to complete. 1 lecture/week means 3yrs to complete*
+*5 Subjects. ~150 lectures*
 
 
 ## Definition of 'Done'
