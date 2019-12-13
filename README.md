@@ -13,7 +13,7 @@ mobilege.github.io
 - Core Math
 
 #### Platforms
-- [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
+- [iOS Dev](https://github.com/mobilege/mobilege.github.io/blob/master/README.md#ios-dev)
 - [Web Dev](https://github.com/mobilege/web-development/blob/master/README.md)
 
 #### Applications
@@ -45,7 +45,7 @@ mobilege.github.io
 
 *5 Subjects. ~150 lectures*
 
-#### iOS Dev
+#### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
 - [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
 - [**SpriteKit**](https://github.com/mobilege/ios-development/blob/master/spritekit.md)
 
