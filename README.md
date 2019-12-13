@@ -20,8 +20,9 @@ mobilege.github.io
 - [Graphics & Games](https://github.com/mobilege/computer-graphics/blob/master/README.md)
 - [Trading & Finance](https://github.com/mobilege/data-science/blob/master/README.md)
 
+## Subjects
 
-## Core CS 
+#### Core CS 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Programming: **Structure and Interpretation of Computer Programs**](https://github.com/mobilege/sicp/blob/master/README.md)
 - Computer Architecture
@@ -35,8 +36,7 @@ mobilege.github.io
 
 *9 Subjects*
 
-
-## Core Math
+#### Core Math
 - Single Variable Calculus *101 topics, 39 lectures*
 - [Multivariable Calculus](https://github.com/mobilege/multivariable-calculus/blob/master/README.md) *98 topics, 35 lectures*
 - [Linear Algebra](https://github.com/mobilege/linear-algebra/blob/master/README.md) *34 lectures*
@@ -45,6 +45,9 @@ mobilege.github.io
 
 *5 Subjects. ~150 lectures*
 
+#### iOS Dev
+- [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
+- [**SpriteKit**](https://github.com/mobilege/ios-development/blob/master/spritekit.md)
 
 ## Languages
 - [Haskell](https://github.com/mobilege/haskell/blob/master/README.md)
@@ -53,7 +56,6 @@ mobilege.github.io
 - [Python](https://github.com/mobilege/data-science/blob/master/python.md)
 - [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md)
 - [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
-
 
 ## Definition of 'Done'
 - Topic consiered completed (marked with checkmark) if one has: i) read it, ii) understood it, iii) coded it  
@@ -67,7 +69,6 @@ mobilege.github.io
 - Level 2: Listen/Read
 - Level 3: Do/Practice/Implment
 - Level 4: Orgamize(below). Capture code-snippet/class/protocol-implementation for use in future
-
 
 ## Rules for Organization
 - Product Type (App, SAAS, Trading etc) 
