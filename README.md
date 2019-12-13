@@ -6,6 +6,18 @@
 mobilege.github.io
 ==================
 
+Fundamentals
+- Core Math
+- Core CS
+
+Platforms
+- iOS Dev
+- Web Dev
+
+Applications
+- Graphics & Games
+- Trading
+
 ## Domains
 #### Graphics & Games
 - [Computer Graphics](https://github.com/mobilege/computer-graphics/blob/master/README.md)
