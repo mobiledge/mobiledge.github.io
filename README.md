@@ -32,7 +32,7 @@ mobilege.github.io
 
 ## Core CS 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-- [Programming: Structure and Interpretation of Computer Programs](https://github.com/mobilege/sicp/blob/master/README.md)
+- [*Programming: Structure and Interpretation of Computer Programs*](https://github.com/mobilege/sicp/blob/master/README.md)
 - Computer Architecture
 - [Algorithms and Data Structures](https://github.com/mobilege/algorithms)
 - Math for CS
