@@ -22,7 +22,7 @@ mobilege.github.io
 
 ## Subjects
 
-#### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
+#### iOS Dev [:link:](https://github.com/mobilege/ios-development/blob/master/README.md)
 - [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
 - [**SpriteKit**](https://github.com/mobilege/ios-development/blob/master/spritekit.md)
 
