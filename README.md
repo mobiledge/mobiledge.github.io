@@ -9,12 +9,12 @@ mobilege.github.io
 ## Domains
 
 #### Platforms
-- [iOS Dev](https://github.com/mobilege/mobilege.github.io/blob/master/README.md#ios-dev)
-- [Web Dev](https://github.com/mobilege/web-development/blob/master/README.md#web-dev)
+- [iOS Dev](#ios-dev)
+- [Web Dev](#web-dev)
 
 #### Fundamentals
-- [Core CS](https://github.com/mobilege/mobilege.github.io/blob/master/README.md#core-cs)
-- [Core Math](https://github.com/mobilege/mobilege.github.io/blob/master/README.md#core-math)
+- [Core CS](#core-cs)
+- [Core Math](#core-math)
 
 #### Applications
 - [Graphics & Games](#graphics--games)
