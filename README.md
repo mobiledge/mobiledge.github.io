@@ -17,8 +17,8 @@ mobilege.github.io
 - [Core Math](https://github.com/mobilege/mobilege.github.io/blob/master/README.md#core-math)
 
 #### Applications
-- [Graphics & Games](https://github.com/mobilege/mobilege.github.io/blob/master/README.md#)
-- [Trading & Finance](https://github.com/mobilege/mobilege.github.io/blob/master/README.md#)
+- [Graphics & Games](#graphics--games)
+- [Trading & Finance](#trading--finance)
 
 ## Subjects
 
