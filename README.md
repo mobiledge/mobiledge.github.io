@@ -25,6 +25,7 @@ mobilege.github.io
 #### iOS Dev [:link:](https://github.com/mobilege/ios-development/blob/master/README.md)
 - [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
 - [**SpriteKit**](https://github.com/mobilege/ios-development/blob/master/spritekit.md)
+- [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
 
 #### Web Dev[:link:](https://github.com/mobilege/web-development/blob/master/README.md)
 
