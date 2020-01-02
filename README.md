@@ -68,11 +68,12 @@ mobilege.github.io
 
 
 ## Rules for Learning
-- For a subject, first identify a primary source to learn from (book, mooc, etc)
+- To learn a Subject, understand & accept that it'll take several iterations each from a different sources
+- To learn a Subject, first identify a primary source to learn from (book, mooc, etc) based on complexity
 - For each chapter and topic, progress through the 3 levels of learning:
-- Learning Level 1: Listen/Read to build **intuition** (this is most important)
-- Learning Level 2: Do/Practice/Implement
-- Learning Level 3: Organize(below). Capture code-snippet/class/protocol-implementation for use in future
+- Learning Level 1 - Intuition : Listen/Read to build **intuition** (this is most important)
+- Learning Level 2 - Implementation : Do/Practice/Implement to gain a greater degree of mastery
+- Learning Level 3 - Organization: Save/Organize(below). Capture code-snippet/class/protocol-implementation for use in future
 
 
 ## Rules for Organization
