@@ -68,7 +68,7 @@ mobilege.github.io
 
 
 ## Rules for Learning
-- Learning Level 1. Identify source for a topic to learn
+- Learning Level 1. Identify a primary source to learn from (book, mooc, etc)
 - Learning Level 2: Listen/Read to build **intuition** (this is most important)
 - Learning Level 3: Do/Practice/Implement
 - Learning Level 4: Organize(below). Capture code-snippet/class/protocol-implementation for use in future
