@@ -66,18 +66,13 @@ mobilege.github.io
 - [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md)
 - [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
 
-## Definition of 'Done'
-- Topic consiered completed (marked with checkmark) if one has: i) read it, ii) understood it, iii) coded it  
-- Do not record topics that are obvious, internalized, trivial
-- Chapter considered done if *basic* topics completed
-- Subject considered done if *basic* chapters completed
-- Add intermediate & advanced topics incrementally
 
 ## Rules for Learning
-- Level 1. Identify source for a topic
-- Level 2: Listen/Read
-- Level 3: Do/Practice/Implment
-- Level 4: Orgamize(below). Capture code-snippet/class/protocol-implementation for use in future
+- Learning Level 1. Identify source for a topic
+- Learning Level 2: Listen/Read
+- Learning Level 3: Do/Practice/Implment
+- Learning Level 4: Organize(below). Capture code-snippet/class/protocol-implementation for use in future
+
 
 ## Rules for Organization
 - Product Type (App, SAAS, Trading etc) 
@@ -97,6 +92,15 @@ mobilege.github.io
 
 ## Rules for coding
 - Make It Work, Make It Right, Make It Fast
+
+
+## Definition of 'Done'
+- Topics are marked with checkmark if one has completed Learning Levels 1 & 2 (reading & understanding)
+- Learning Levels 3 & 4 (coding & organizing) may be carried out incrementally in future iterations
+- Topic considered done if the idea understood intuitively
+- Chapter considered done if *basic* topics completed
+- Subject considered done if *basic* chapters completed
+- Attempt intermediate/advanced topics/chapters incrementally
 
 
 ## Misc
