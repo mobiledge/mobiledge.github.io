@@ -97,9 +97,10 @@ mobilege.github.io
 ## Definition of 'Done'
 - Topics are marked with checkmark if one has completed Learning Levels 1 & 2 (reading & understanding)
 - Learning Levels 3 & 4 (coding & organizing) may be carried out incrementally in future iterations
-- Topic considered done if the idea understood intuitively
+- Topic considered done if an intuitive idea is formed
 - Chapter considered done if *basic* topics completed
 - Subject considered done if *basic* chapters completed
+- Basic means 4-5 core topics/chapters that are most important
 - Attempt intermediate/advanced topics/chapters incrementally
 
 
