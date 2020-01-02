@@ -68,10 +68,11 @@ mobilege.github.io
 
 
 ## Rules for Learning
-- Learning Level 1. Identify a primary source to learn from (book, mooc, etc)
-- Learning Level 2: Listen/Read to build **intuition** (this is most important)
-- Learning Level 3: Do/Practice/Implement
-- Learning Level 4: Organize(below). Capture code-snippet/class/protocol-implementation for use in future
+- For a subject, first identify a primary source to learn from (book, mooc, etc)
+- For each chapter and topic, progress through the 3 levels of learning:
+- Learning Level 1: Listen/Read to build **intuition** (this is most important)
+- Learning Level 2: Do/Practice/Implement
+- Learning Level 3: Organize(below). Capture code-snippet/class/protocol-implementation for use in future
 
 
 ## Rules for Organization
@@ -95,8 +96,8 @@ mobilege.github.io
 
 
 ## Definition of 'Done'
-- Topics are marked with checkmark if one has completed Learning Levels 1 & 2 (reading & understanding)
-- Learning Levels 3 & 4 (coding & organizing) may be carried out incrementally in future iterations
+- Topics are marked with checkmark if one has completed Learning Level 1 (reading & understanding)
+- Learning Levels 2 & 3 (coding & organizing) may be carried out incrementally in future iterations
 - Topic considered done if an intuitive idea is formed
 - Chapter considered done if *basic* topics completed
 - Subject considered done if *basic* chapters completed
