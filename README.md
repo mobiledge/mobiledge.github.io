@@ -33,7 +33,7 @@ mobilege.github.io
 - [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
 - Distributed Systems
 
-*9 Subjects*
+*9 Subjects | 4yrs @ 2+ sub/yr*
 
 #### Core Math
 - Single Variable Calculus *101 topics, 39 lectures*
