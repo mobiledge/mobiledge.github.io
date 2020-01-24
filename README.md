@@ -60,6 +60,7 @@ mobilege.github.io
 
 
 ## Rules for Learning
+*Iteration: Intuition > Impementation > Organization*
 - To learn a Subject, understand & accept that it'll take several iterations each from a different sources
 - To learn a Subject, first identify a primary source to learn from (book, mooc, etc) based on complexity
 - For each chapter and topic, progress through the 3 levels of learning:
