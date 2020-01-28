@@ -57,7 +57,13 @@ mobilege.github.io
 - [Python](https://github.com/mobilege/data-science/blob/master/python.md)
 - [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md)
 - [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
-
+- Lisp like: 
+[Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)), 
+[Racket](https://en.wikipedia.org/wiki/Racket_(programming_language)), 
+[Clojure](https://en.wikipedia.org/wiki/Clojure) (JVM, 7L7W)
+- Prototype languages: Javascript, Io (7L7W)
+- Concurrent, Distributed, Fault-tolerant: Erlang (7L7W)
+- Logic programming: Prolog (7L7W)
 
 ## Rules for Learning
 *Iteration: Intuition > Impementation > Organization*
