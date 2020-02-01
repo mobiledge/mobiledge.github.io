@@ -62,7 +62,7 @@ mobilege.github.io
 [Racket](https://en.wikipedia.org/wiki/Racket_(programming_language)), 
 [Clojure](https://en.wikipedia.org/wiki/Clojure) (JVM, 7L7W, 7CM7W)
 - Prototype languages: Javascript, Io (7L7W)
-- Concurrent, Distributed, Fault-tolerant: Erlang (7L7W), Elixir
+- Concurrent, Distributed, Fault-tolerant: Erlang (7L7W), Elixir (7CM7W *Actors*)
 - Logic programming: Prolog (7L7W)
 
 ## Rules for Learning
