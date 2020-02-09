@@ -17,10 +17,8 @@ mobilege.github.io
 #### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
 - [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
 - [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
+- **Core Data**
 
-#### [Web Dev](https://github.com/mobilege/web-development/blob/master/README.md)
-- [**Python**](https://github.com/mobilege/web-development/blob/master/python.md#python)
-- [**Django**](https://github.com/mobilege/web-development/blob/master/django.md#django)
 
 #### Core CS 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
