@@ -55,7 +55,7 @@ mobilege.github.io
 - [Haskell](https://github.com/mobilege/haskell/blob/master/README.md)
 - Javascript
 - [ML Language](https://github.com/mobilege/ml-language/blob/master/README.md)
-- [Python](https://github.com/mobilege/data-science/blob/master/python.md)
+- [Python](https://github.com/mobilege/web-development/blob/master/python.md)
 - [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md)
 - [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
 - Lisp like: 
