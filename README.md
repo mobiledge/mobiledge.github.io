@@ -17,6 +17,7 @@ mobilege.github.io
 #### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
 - [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
 - [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
+- [**CloudKit**](https://github.com/mobilege/ios-development/blob/master/CloudKit.md#cloudkit)
 
 
 #### Core CS 
