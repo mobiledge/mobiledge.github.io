@@ -18,6 +18,7 @@ mobilege.github.io
 - [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
 - [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
 - [**CloudKit**](https://github.com/mobilege/ios-development/blob/master/CloudKit.md#cloudkit)
+- [**Catalyst**](https://github.com/mobilege/ios-development/blob/master/catalyst.md#mac-catalyst)
 
 #### [Web Dev](https://github.com/mobilege/web-development#web-development)
 
