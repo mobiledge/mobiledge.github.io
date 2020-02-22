@@ -132,7 +132,7 @@ mobilege.github.io
 
 ## Talking Points
 
-*Why native?*. 
-* Access to hardware features, Robust local stotage, Menu Bar (Mac), Command Keys(Mac)*
+*Why native?*\
+*Access to hardware features, Robust local stotage, Menu Bar (Mac), Command Keys (Mac)*
 
 
