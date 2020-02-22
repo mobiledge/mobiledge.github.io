@@ -130,3 +130,9 @@ mobilege.github.io
 ###### Math for Finance
 - [COMP510 - Computational Finance - 2007 HKUST - Steven Skiena](https://www.youtube.com/playlist?list=PL9E205B8FAAD530E1)
 
+## Talking Points
+
+*Why native?*. 
+* Access to hardware features, Robust local stotage, Menu Bar (Mac), Command Keys(Mac)*
+
+
