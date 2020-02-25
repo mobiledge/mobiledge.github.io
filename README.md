@@ -32,7 +32,7 @@ mobilege.github.io
 - [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md)
 - Databases
 - [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
-- Distributed Systems
+- [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
 
 *9 Subjects | 4yrs @ 2+ sub/yr*
 
