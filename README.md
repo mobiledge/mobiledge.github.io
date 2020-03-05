@@ -36,11 +36,6 @@ mobilege.github.io
 
 *8 Subjects (excl Math) | 4yrs @ 2sub/yr*
 
-48 Ideas in CS
-- Idea 1: Sorting (DS & Algo)
-- Idea 2: Searching (DS & Algo)
-- Idea 3: Graphs (DS & Algo)
-
 #### Core Math
 - Single Variable Calculus *101 topics, 39 lectures*
 - [Multivariable Calculus](https://github.com/mobilege/multivariable-calculus/blob/master/README.md) *98 topics, 35 lectures*
@@ -109,6 +104,13 @@ mobilege.github.io
 - Subject considered done if *basic* chapters completed
 - Basic means 4-5 core topics/chapters that are most important
 - Attempt intermediate/advanced topics/chapters incrementally
+
+
+## 48 Ideas in CS
+*Build intuition. Enjoy the process*
+- Idea 1: Sorting (DS & Algo)
+- Idea 2: Searching (DS & Algo)
+- Idea 3: Graphs (DS & Algo)
 
 
 ## Misc
