@@ -89,21 +89,10 @@ mobilege.github.io
 - Code Snippets: Only log **verified**, **frequently used** code snippets
 - Links: Only log **good** sources in the form of links (not contents)
 - Text: Use **consise** & **own words** based on **your** understanding
-- Focus on intuition (not rules)
 
 
 ## Rules for coding
-- Make It Work, Make It Right, Make It Fast
-
-
-## Definition of 'Done'
-- Topics are marked with checkmark if one has completed Learning Level 1 (reading & understanding)
-- Learning Levels 2 & 3 (coding & organizing) may be carried out incrementally in future iterations
-- Topic considered done if an intuitive idea is formed
-- Chapter considered done if *basic* topics completed
-- Subject considered done if *basic* chapters completed
-- Basic means 4-5 core topics/chapters that are most important
-- Attempt intermediate/advanced topics/chapters incrementally
+- Make It Work, Make It Right, (Make It Fast?)
 
 
 ## 48 Ideas in CS
