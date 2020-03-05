@@ -34,7 +34,12 @@ mobilege.github.io
 - [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
 - [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
 
-*9 Subjects | 4yrs @ 2+ sub/yr*
+*8 Subjects (excl Math) | 4yrs @ 2sub/yr*
+
+48 Ideas in CS
+- Idea 1: Sorting (DS & Algo)
+- Idea 2: Searching (DS & Algo)
+- Idea 3: Graphs (DS & Algo)
 
 #### Core Math
 - Single Variable Calculus *101 topics, 39 lectures*
