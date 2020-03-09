@@ -15,10 +15,14 @@ mobilege.github.io
 ## Subjects
 
 #### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
-- [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
-- [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
-- [**CloudKit**](https://github.com/mobilege/ios-development/blob/master/CloudKit.md#cloudkit)
-- [**Catalyst**](https://github.com/mobilege/ios-development/blob/master/catalyst.md#mac-catalyst)
+
+Language: [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
+
+UI: [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md), 
+[**Catalyst**](https://github.com/mobilege/ios-development/blob/master/catalyst.md#mac-catalyst)
+
+Network: [**CloudKit**](https://github.com/mobilege/ios-development/blob/master/CloudKit.md#cloudkit), 
+[**Firebase**](https://github.com/mobilege/ios-development/blob/master/firebase.md)
 
 #### [Web Dev](https://github.com/mobilege/web-development#web-development)
 
