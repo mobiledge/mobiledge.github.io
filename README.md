@@ -139,6 +139,8 @@ Algorithms - MIT:
 [6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/), 
 [6.046J](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
+Intro to CS - Berkely: CS 61A, CS 61B, CS 61C
+
 ## Talking Points
 
 *Why native?*\
