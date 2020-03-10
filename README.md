@@ -128,6 +128,12 @@ mobilege.github.io
 ###### Math for Finance
 - [COMP510 - Computational Finance - 2007 HKUST - Steven Skiena](https://www.youtube.com/playlist?list=PL9E205B8FAAD530E1)
 
+###### Sequences
+
+Data Science: 
+[MIT OCW 6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) > 
+[MIT OCW 6.0002](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+
 ## Talking Points
 
 *Why native?*\
