@@ -17,17 +17,15 @@ mobilege.github.io
 #### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
 
 - Language: [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
-- UI: [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md), 
-[**Catalyst**](https://github.com/mobilege/ios-development/blob/master/catalyst.md#mac-catalyst), 
-UIKit (Table View & Collection View)
+- UI: UIKit (Table View & Collection View), 
+[**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md), 
+AppKit
 - Concurrency: 
 Combine
 - Network & Persistence:
-User Defaults/Object Archives, 
-Core Data, 
+Core Data (+ CloudKit), 
 [**CloudKit**](https://github.com/mobilege/ios-development/blob/master/CloudKit.md#cloudkit), 
 [**Firebase**](https://github.com/mobilege/ios-development/blob/master/firebase.md), 
-AWS (GrpahQL, Amplify etc)
 
 #### [Web Dev](https://github.com/mobilege/web-development#web-development)
 
