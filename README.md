@@ -100,6 +100,7 @@ Core Data (+ CloudKit),
 
 ## Rules for coding
 - Make It Work, Make It Right, (Make It Fast?)
+- Make it Reuseable
 
 
 ## 48 Ideas in CS
