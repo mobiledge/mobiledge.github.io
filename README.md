@@ -21,7 +21,7 @@ mobilege.github.io
 [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md), 
 AppKit
 - Concurrency: 
-Combine
+[**Combine**](https://github.com/mobilege/ios-development/blob/master/combine.md)
 - Network & Persistence:
 Core Data (+ CloudKit), 
 [**CloudKit**](https://github.com/mobilege/ios-development/blob/master/CloudKit.md#cloudkit), 
