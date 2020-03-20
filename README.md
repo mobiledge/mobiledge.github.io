@@ -27,6 +27,16 @@ Core Data (+ CloudKit),
 [**CloudKit**](https://github.com/mobilege/ios-development/blob/master/CloudKit.md#cloudkit), 
 [**Firebase**](https://github.com/mobilege/ios-development/blob/master/firebase.md), 
 
+*Core Competencies:\
+*Language: Swift-a*\
+*UI: UIKit, SwiftUI-b(wait 3 yrs until SwiftUI is mature), Catalyst-b, AppKit-b\
+*Concurrency: Combine\
+*Local Persistence: Core Data\
+*Network Persistence: iCloud, Firebase, REST API, GraphQL
+
+a-advanced/in-depth
+b-beginners
+
 #### [Web Dev](https://github.com/mobilege/web-development#web-development)
 
 *Core Competencies:\
