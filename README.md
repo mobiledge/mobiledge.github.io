@@ -29,6 +29,11 @@ Core Data (+ CloudKit),
 
 #### [Web Dev](https://github.com/mobilege/web-development#web-development)
 
+*Core Competencies:\
+CRUD - Active Record (Rails)\
+CRUD - DDD (ASP .NET)\
+CRUD - GraphQL (Cloud - Amplify)*
+
 #### Core CS 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Programming: **Structure and Interpretation of Computer Programs**](https://github.com/mobilege/sicp/blob/master/README.md)
