@@ -31,9 +31,9 @@ Core Data (+ CloudKit),
 La - Swift-a, Objc-b\
 Fr - UI - UIKit, SwiftUI-b(wait 3 yrs until SwiftUI is mature), Catalyst-b, AppKit-b\
 Fr - Pl - Concurrency - Combine\
-Fr - Pr - Options - Local - Core Data
-Fr - Pr - Options - Cloud - iCloud(Key-value, Cloudkit, Document), Firebase, AWS (Gateway, Amplify)
-Fr - Pr - Options - Home grown Rest API - Rails, Node(express)
+Fr - Pr - Options - Local - Core Data\
+Fr - Pr - Options - Cloud - iCloud(Key-value, Cloudkit, Document), Firebase, AWS (Gateway, Amplify)\
+Fr - Pr - Options - Home grown Rest API - Rails, Node(express)\
 Fr - Pr - Technologies - Codable(Serialization)\
 Fr - Pr - Components - Auth, Key-Value dict, Image\
 Fr - Pr - Screens - Auth, Onboarding, Profile*
