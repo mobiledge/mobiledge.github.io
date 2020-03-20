@@ -32,7 +32,11 @@ Language: Swift-a\
 UI: UIKit, SwiftUI-b(wait 3 yrs until SwiftUI is mature), Catalyst-b, AppKit-b\
 Concurrency: Combine\
 Local Persistence: Core Data\
-Network Persistence: iCloud, Firebase, REST API, GraphQL*
+Network Persistence - Frameworks - iCloud, Firebase, REST API, GraphQL\
+Network Persistence - Technologies - Codable(Serialization)\
+Network Persistence - Components - Auth, Key-Value data, Image\
+Network Persistence - Screens - Auth, Onboarding, Profile*
+
 
 a-advanced/in-depth
 b-beginners
