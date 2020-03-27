@@ -8,7 +8,7 @@ mobilege.github.io
 
 ## Domains
 - Platforms: [iOS Dev](#ios-dev), [Web Dev](#web-dev)
-- Fundamentals: [Core CS](#core-cs), [Core Math](#core-math)
+- Fundamentals: [Core CS](#core-cs), [Core Math](#core-math), [Core SD](#core-sd-software-development)
 - Applications: [Graphics & Games](#graphics--games), [Trading & Finance](#trading--finance)
 
 
