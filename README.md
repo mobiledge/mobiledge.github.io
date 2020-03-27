@@ -77,7 +77,7 @@ CRUD - GraphQL (Cloud - Amplify)*
 - [Statistics](https://github.com/mobilege/statistics/blob/master/README.md) *24 lectures*
 
 #### Core SD (Software Development)
-- [Linux]()
+- [Unix](https://github.com/mobilege/unix)
 
 
 *5 Subjects | ~150 lectures | 2yrs @ 1 lec/wk*
