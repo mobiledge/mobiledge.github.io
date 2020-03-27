@@ -75,12 +75,11 @@ CRUD - GraphQL (Cloud - Amplify)*
 - [Linear Algebra](https://github.com/mobilege/linear-algebra/blob/master/README.md) *34 lectures*
 - [Probability](https://github.com/mobilege/probability/blob/master/README.md) *25 lectures*
 - [Statistics](https://github.com/mobilege/statistics/blob/master/README.md) *24 lectures*
+*5 Subjects | ~150 lectures | 2yrs @ 1 lec/wk*
+
 
 #### Core SD (Software Development)
 - [Unix](https://github.com/mobilege/unix)
-
-
-*5 Subjects | ~150 lectures | 2yrs @ 1 lec/wk*
 
 #### Graphics & Games
 - [Computer Graphics](https://github.com/mobilege/computer-graphics/blob/master/README.md)
