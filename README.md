@@ -16,19 +16,16 @@ mobilege.github.io
 
 #### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
 
-La - [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
+[**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
 
-Fr - UI - UIKit (Table View & Collection View), 
-[**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md), 
-AppKit
+UI: [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
 
-Fr - Pl - Concurrency - 
-[**Combine**](https://github.com/mobilege/ios-development/blob/master/combine.md)
+Plumbing: [**Combine**](https://github.com/mobilege/ios-development/blob/master/combine.md)
 
-Fr - Pr - Local - Core Data
-
-Fr - Pr - Cloud - [**CloudKit**](https://github.com/mobilege/ios-development/blob/master/CloudKit.md#cloudkit), 
+Persistence: [**CloudKit**](https://github.com/mobilege/ios-development/blob/master/CloudKit.md#cloudkit), 
 [**Firebase**](https://github.com/mobilege/ios-development/blob/master/firebase.md), 
+
+https://rabin-aapl.gitbook.io/swift-persistence/
 
 *Core Competencies:\
 La - Swift-a, Objc-b\
