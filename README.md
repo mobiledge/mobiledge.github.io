@@ -17,14 +17,10 @@ mobilege.github.io
 #### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
 
 - Lang: [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
-
 - UI: [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
-
 - Plumbing: [**Combine**](https://github.com/mobilege/ios-development/blob/master/combine.md)
-
 - Persistence: [**CloudKit**](https://github.com/mobilege/ios-development/blob/master/CloudKit.md#cloudkit), 
 [**Firebase**](https://github.com/mobilege/ios-development/blob/master/firebase.md), 
-
 - https://rabin-aapl.gitbook.io/swift-persistence/
 
 *Core Competencies:\
