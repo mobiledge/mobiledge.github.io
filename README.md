@@ -99,6 +99,11 @@ CRUD - GraphQL (Cloud - Amplify)*
 - Learning Level 2 - Implementation : Do/Practice/Implement to gain a greater degree of mastery
 - Learning Level 3 - Organization: Save/Organize(below). Capture code-snippet/class/protocol-implementation for use in future
 
+*Source: Tutorial > Manual > Advanced*
+- To learn a Subject, follow a step-by-step tutorial first. 
+- To consolidate the kowledge, follow up with the programming guide/reference type book.   
+- To master the subject, finich by reading an 'advanced' book.
+
 
 ## Rules for Organization
 - Product Type (App, SAAS, Trading etc) 
