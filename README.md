@@ -102,7 +102,7 @@ CRUD - GraphQL (Cloud - Amplify)*
 *Source: Tutorial > Manual > Advanced*
 - To learn a Subject, follow a step-by-step tutorial first. 
 - To consolidate the kowledge, follow up with the programming guide/reference type book.   
-- To master the subject, finich by reading an 'advanced' book.
+- To master the subject, finish by reading an 'advanced' book.
 
 
 ## Rules for Organization
