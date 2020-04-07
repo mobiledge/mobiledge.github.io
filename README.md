@@ -171,7 +171,26 @@ Intro to CS - Berkely: CS 61A, CS 61B, CS 61C
 
 ## Talking Points
 
-*Why native?*\
+###### Why native?
 *Access to hardware features, Robust local stotage, Menu Bar (Mac), Command Keys (Mac)*
+
+###### Things every iOS developer must know
+1. Language
+1.1 Objective-C: needed in dealing with legacy codebases, memory management, gotchas
+1.2 Swift: day to day
+1.3 Any Server Side: guide API devs
+2. Frameworks
+2.1 UI
+2.2 Plumbing
+2.3 Persistence
+3. Tools & Processes
+3.1 Xcode
+3.2 Deployment
+
+Outside:
+Best Practices
+- can gained through books - DDD, SOLID
+- common sense, experience, judgement
+
 
 
