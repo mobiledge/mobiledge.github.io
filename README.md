@@ -29,6 +29,8 @@ Fr - Pr - Technologies - Codable(Serialization)\
 Fr - Pr - Components - Auth, Key-Value dict, Image\
 Fr - Pr - Screens - Auth, Onboarding, Profile*
 
+[Mind Maps](https://miro.com/welcomeonboard/tylyq2QI7wQOJA5cxqADPvMrGLIaYnQ11e7CsZ3FWfZz5LLCfq872zYcYCkMs1IN)
+
 *La - Language\
 Fr - Framework\
 Pl - Plumbing\
