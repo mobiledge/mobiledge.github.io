@@ -18,25 +18,18 @@ mobilege.github.io
 
 - Persistence: [Core Data](https://github.com/mobilege/ios-development/blob/master/coredata.md)
 
-*Core Competencies:\
-La - Swift-a, Objc-b\
-Fr - UI - UIKit, SwiftUI-b(wait 3 yrs until SwiftUI is mature), Catalyst-b, AppKit-b\
-Fr - Pl - Concurrency - Combine\
-Fr - Pr - Options - Local - Core Data\
-Fr - Pr - Options - Cloud - iCloud(Key-value, Cloudkit, Document), Firebase, AWS (Gateway, Amplify)\
-Fr - Pr - Options - Home grown Rest API - Rails, Node(express)\
-Fr - Pr - Technologies - Codable(Serialization)\
-Fr - Pr - Components - Auth, Key-Value dict, Image\
-Fr - Pr - Screens - Auth, Onboarding, Profile*
-
 [Mind Maps](https://miro.com/welcomeonboard/tylyq2QI7wQOJA5cxqADPvMrGLIaYnQ11e7CsZ3FWfZz5LLCfq872zYcYCkMs1IN)
 
-*La - Language\
-Fr - Framework\
-Pl - Plumbing\
-Pr - Persistence\
-a - advanced/in-depth\
-b - beginners*
+*Core Competencies:\
+La - Swift\
+Fr - UI - UIKit, Catalyst, SwiftUI-b(wait 3 yrs until SwiftUI is mature)\
+Fr - Pr - Local - Core Data\
+Fr - Pr - Cloud - iCloud(Key-value, Cloudkit, Document), Firebase, AWS (Gateway, Amplify)\
+Fr - Pr - Home grown Rest API - Rails, Node(express)\
+Fr - Plumbing - Codable, Combine\
+Components - Auth, Key-Value Data, Image\
+Screens - Auth, Onboarding, Profile*
+
 
 #### [Web Dev](https://github.com/mobilege/web-development#web-development)
 
