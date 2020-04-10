@@ -34,9 +34,9 @@ Screens - Auth, Onboarding, Profile*
 #### [Web Dev](https://github.com/mobilege/web-development#web-development)
 
 *Core Competencies:\
-CRUD - Active Record (Rails)\
-CRUD - DDD (ASP .NET)\
-CRUD - GraphQL (Cloud - Amplify)*
+CRUD - Active Record (Flask)\
+CRUD - DDD (ASP .NET core)\
+CRUD - GraphQL (JS, Amplify)*
 
 #### Core CS 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
