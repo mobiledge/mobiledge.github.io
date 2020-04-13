@@ -127,6 +127,10 @@ CRUD - GraphQL (JS, Amplify)*
 - Idea 3: Graphs (DS & Algo)
 
 
+## 48 things all Software Developers must know (a little bit about)
+1. Version Control using Git
+
+
 ## Misc
 - [CS50's Understanding Technology - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
 - [CS50's Computer Science for Business Professionals - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T381YHS5L3gkwPbUGiI0foXuc)
