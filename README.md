@@ -63,6 +63,7 @@ CRUD - GraphQL (JS, Amplify)*
 
 #### Core SD (Software Development)
 - [Unix](https://github.com/mobilege/unix)
+- [Software Engineering & Architecture](https://github.com/mobilege/software-engg-arch/blob/master/README.md)
 
 #### Graphics & Games
 - [Computer Graphics](https://github.com/mobilege/computer-graphics/blob/master/README.md)
