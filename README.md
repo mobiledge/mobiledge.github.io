@@ -128,7 +128,8 @@ CRUD - GraphQL (JS, Amplify)*
 
 
 ## 48 things all Software Developers must know (a little bit about)
-1. Version Control using Git
+- Thing 1: Git (Version Control)
+- Thing 2: GitHub (Version Control)
 
 
 ## Misc
