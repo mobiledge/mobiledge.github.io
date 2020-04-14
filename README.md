@@ -75,14 +75,13 @@ CRUD - GraphQL (JS, Amplify)*
 - iOS: 
 [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md), 
 [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
-- Web: 
-Javascript, 
+- Dynamic:  
 [Python](https://github.com/mobilege/web-development/blob/master/python.md), 
 [Ruby](https://github.com/mobilege/ruby/blob/master/README.md) 
 - Functional: 
 [Haskell](https://github.com/mobilege/haskell/blob/master/README.md),
 [ML Language](https://github.com/mobilege/ml-language/blob/master/README.md)
-- Lisp like: 
+- Functional - Lisp like: 
 [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)), 
 [Racket](https://en.wikipedia.org/wiki/Racket_(programming_language)), 
 [Clojure](https://en.wikipedia.org/wiki/Clojure) (JVM, 7L7W, 7CM7W)
