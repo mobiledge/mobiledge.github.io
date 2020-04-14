@@ -18,7 +18,7 @@ mobilege.github.io
 
 - Persistence: [Core Data](https://github.com/mobilege/ios-development/blob/master/coredata.md)
 
-[Mind Maps](https://miro.com/welcomeonboard/tylyq2QI7wQOJA5cxqADPvMrGLIaYnQ11e7CsZ3FWfZz5LLCfq872zYcYCkMs1IN)
+[Mind Maps](https://miro.com/app/dashboard/)
 
 *Core Competencies:\
 La - Swift\
