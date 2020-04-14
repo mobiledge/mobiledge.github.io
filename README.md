@@ -75,7 +75,7 @@ CRUD - GraphQL (JS, Amplify)*
 - iOS: 
 [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md), 
 [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
-- Dynamic:  
+- Dynamic: 
 [Python](https://github.com/mobilege/web-development/blob/master/python.md), 
 [Ruby](https://github.com/mobilege/ruby/blob/master/README.md) 
 - Functional: 
