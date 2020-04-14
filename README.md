@@ -72,16 +72,16 @@ CRUD - GraphQL (JS, Amplify)*
 - [Data Science](https://github.com/mobilege/data-science/blob/master/README.md)
 
 ## Languages
-iOS
-- [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md)
-- [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
-Web
-- Javascript
-- [Python](https://github.com/mobilege/web-development/blob/master/python.md)
-- [Ruby](https://github.com/mobilege/ruby/blob/master/README.md)
-Functional
-- [Haskell](https://github.com/mobilege/haskell/blob/master/README.md)
-- [ML Language](https://github.com/mobilege/ml-language/blob/master/README.md)
+- iOS: 
+[Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md), 
+[**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
+- Web: 
+Javascript, 
+[Python](https://github.com/mobilege/web-development/blob/master/python.md), 
+[Ruby](https://github.com/mobilege/ruby/blob/master/README.md) 
+- Functional: 
+[Haskell](https://github.com/mobilege/haskell/blob/master/README.md),
+[ML Language](https://github.com/mobilege/ml-language/blob/master/README.md)
 - Lisp like: 
 [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)), 
 [Racket](https://en.wikipedia.org/wiki/Racket_(programming_language)), 
