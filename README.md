@@ -18,13 +18,13 @@ mobilege.github.io
 ## Subjects
 
 #### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
-- Persistence: [Core Data](https://github.com/mobilege/ios-development/blob/master/coredata.md)
+Persistence: [Core Data](https://github.com/mobilege/ios-development/blob/master/coredata.md)
+
 
 #### [Web Dev](https://github.com/mobilege/web-development#web-development)
 Ruby Stack: 
 [Ruby](https://github.com/mobilege/ruby/blob/master/README.md), 
 [Rails](https://github.com/mobilege/web-development/blob/master/rails.md#ruby-on-rails) 
-
 
 
 #### Core CS 
