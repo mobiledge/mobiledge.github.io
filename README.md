@@ -20,6 +20,8 @@ mobilege.github.io
 
 [Mind Maps](https://miro.com/app/dashboard/)
 
+[GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
+
 *Core Competencies:\
 La - Swift\
 Fr - UI - UIKit, Catalyst, SwiftUI-b(wait 3 yrs until SwiftUI is mature)\
