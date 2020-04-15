@@ -11,24 +11,21 @@ mobilege.github.io
 - Fundamentals: [Core CS](#core-cs), [Core Math](#core-math), [Core SD](#core-sd-software-development)
 - Applications: [Graphics & Games](#graphics--games), [Trading & Finance](#trading--finance)
 
-
-## Subjects
-
-#### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
-
-- Persistence: [Core Data](https://github.com/mobilege/ios-development/blob/master/coredata.md)
-
 [Mind Maps](https://miro.com/app/dashboard/)
 
 [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
 
+## Subjects
+
+#### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
+- Persistence: [Core Data](https://github.com/mobilege/ios-development/blob/master/coredata.md)
 
 #### [Web Dev](https://github.com/mobilege/web-development#web-development)
+Ruby Stack: 
+[Ruby](https://github.com/mobilege/ruby/blob/master/README.md), 
+[Rails](https://github.com/mobilege/web-development/blob/master/rails.md#ruby-on-rails) 
 
-*Core Competencies:\
-CRUD - Active Record (Flask)\
-CRUD - DDD (ASP .NET core)\
-CRUD - GraphQL (JS, Amplify)*
+
 
 #### Core CS 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
