@@ -22,16 +22,6 @@ mobilege.github.io
 
 [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
 
-*Core Competencies:\
-La - Swift\
-Fr - UI - UIKit, Catalyst, SwiftUI-b(wait 3 yrs until SwiftUI is mature)\
-Fr - Pr - Local - Core Data\
-Fr - Pr - Cloud - iCloud(Key-value, Cloudkit, Document), Firebase, AWS (Gateway, Amplify)\
-Fr - Pr - Home grown Rest API - Rails, Node(express)\
-Fr - Plumbing - Codable, Combine\
-Components - Auth, Key-Value Data, Image\
-Screens - Auth, Onboarding, Profile*
-
 
 #### [Web Dev](https://github.com/mobilege/web-development#web-development)
 
