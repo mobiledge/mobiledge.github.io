@@ -123,6 +123,8 @@ Ruby Stack:
 ## 48 things all Software Developers must know (a little bit about)
 - Thing 1: Git (Version Control)
 - Thing 2: GitHub (Version Control)
+- Thing 3: Command Line (Unix)
+- Thing 3: Bash Scripting (Unix)
 
 
 ## Misc
