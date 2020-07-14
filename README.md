@@ -18,7 +18,7 @@ mobilege.github.io
 ## Subjects
 
 #### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
-Persistence: [Core Data](https://github.com/mobilege/ios-development/blob/master/coredata.md)
+Quicklinks: [SwiftUI](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
 
 
 #### [Web Dev](https://github.com/mobilege/web-development#web-development)
