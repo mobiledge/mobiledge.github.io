@@ -41,6 +41,9 @@ Ruby Stack:
 
 *8 Subjects (excl Math) | 4yrs @ 2sub/yr*
 
+Other:
+- [Unix](https://github.com/mobilege/unix)
+
 #### Core Math
 - Single Variable Calculus *101 topics, 39 lectures*
 - [Multivariable Calculus](https://github.com/mobilege/multivariable-calculus/blob/master/README.md) *98 topics, 35 lectures*
@@ -51,8 +54,10 @@ Ruby Stack:
 
 
 #### Core SD (Software Development)
-- [Unix](https://github.com/mobilege/unix)
+- Estimation
+- Refactoring
 - [Software Engineering & Architecture](https://github.com/mobilege/software-engg-arch/blob/master/README.md)
+- UML
 
 #### Graphics & Games
 - [Computer Graphics](https://github.com/mobilege/computer-graphics/blob/master/README.md)
