@@ -118,18 +118,19 @@ Other:
 - Make it Reuseable
 
 
-## 48 Ideas in CS
+## 48 Ideas in CS *that all Software Devs should know*
 *Build intuition. Enjoy the process*
 - Idea 1: Sorting (DS & Algo)
 - Idea 2: Searching (DS & Algo)
 - Idea 3: Graphs (DS & Algo)
 
 
-## 48 things all Software Developers must know (a little bit about)
-- Thing 1: Git (Version Control)
-- Thing 2: GitHub (Version Control)
-- Thing 3: Command Line (Unix)
-- Thing 3: Bash Scripting (Unix)
+## 48 Tools in CS *that all Software Devs should know*
+*Watch, Read, Do, Practice*
+- Thing 1: Linux Command Line
+- Thing 2: Text editing in Vim
+- Thing 3: Networking with SSH
+- Thing 4: Version Control with Git 
 
 
 ## Misc
