@@ -178,19 +178,15 @@ Other:
 #### Stanford
 
 ###### CS106A - Python
-
-_First course in programming and computer science, for people who with zero experience. _
+_First course in programming and computer science, for people who with zero experience._
 
 ###### CS106B - C++
-
 _The second course, teaching more advanced programming and computer science for people who know basic programming._
 
 ###### CS106X - C++
-
 _The more advanced of two courses teaching introductory programming abstractions and algorithms. CS106X is an alternative to the more sensibly paced CS106B, because some students—self-taught programmers, exceptionally strong CS106A students, and AP Java graduates—prefer a more intense treatment in the company of other aficionados._
 
 ###### CS105
-
 _A more lightweight introduction to CS ideas, but without as much coding as CS106A._
 
 ###### CS193q - Python
