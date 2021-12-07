@@ -183,42 +183,31 @@ Other:
 - CS106B - C++
   - Overview: _The second course, teaching more advanced programming and computer science for people who know basic programming._
 
-###### CS106X - C++
-_The more advanced of two courses teaching introductory programming abstractions and algorithms. CS106X is an alternative to the more sensibly paced CS106B, because some students—self-taught programmers, exceptionally strong CS106A students, and AP Java graduates—prefer a more intense treatment in the company of other aficionados._
+- ###### CS106X - C++
+  - Overview: _The more advanced of two courses teaching introductory programming abstractions and algorithms. CS106X is an alternative to the more sensibly paced CS106B, because some students—self-taught programmers, exceptionally strong CS106A students, and AP Java graduates—prefer a more intense treatment in the company of other aficionados._
 
-###### CS105
-_A more lightweight introduction to CS ideas, but without as much coding as CS106A._
+- ###### CS105
+  - Overview: _A more lightweight introduction to CS ideas, but without as much coding as CS106A._
 
-###### CS193q - Python
+- ###### CS193q - Python
+  - Overview: _A 1 unit seminar that teaches Python very very quickly - geared for people who already know how to program but do not know Python._
 
-_A 1 unit seminar that teaches Python very very quickly - geared for people who already know how to program but do not know Python._
+- ###### CME193 - Python
+  - Overview: _A course in applied Python for scientists and engineers. It is a course one could take after CS106A._
+  - Website: http://web.stanford.edu/class/cme193/
 
-###### CME193 - Python
-
-_A course in applied Python for scientists and engineers. It is a course one could take after CS106A._
-
-Website: http://web.stanford.edu/class/cme193/
-
-###### CS 107 - Computer Organization & Systems
-
-_CS107 is the third course in Stanford's introductory programming sequence. The CS106 courses provide you with a solid foundation in programming methodology and abstractions, and CS107 follows on this to build up and expand your breadth and depth of programming experience and techniques. The course will work from the C programming language down to the microprocessor to de-mystify the machine. With a complete understanding of how computer systems execute programs and manipulate data, you will become a more effective programmer, especially in dealing with issues of debugging, performance, memory, and robustness. Topics covered include: the C programming language, data representation, machine-level code, computer arithmetic, elements of code compilation, optimization of memory and runtime performance, and memory organization and management._
-
-Website: https://web.stanford.edu/class/archive/cs/cs107/cs107.1222/
-
-Videos: https://youtube.com/playlist?list=PLoCMsyE1cvdWivlV-39KKsBKUX-4DvraN
-
-Text: Bryant & O’Hallaron. Computer Systems: A Programmer’s Perspective (http://csapp.cs.cmu.edu/3e/home.html)
+- ###### CS 107 - Computer Organization & Systems
+  - Overview: _CS107 is the third course in Stanford's introductory programming sequence. The CS106 courses provide you with a solid foundation in programming methodology and abstractions, and CS107 follows on this to build up and expand your breadth and depth of programming experience and techniques. The course will work from the C programming language down to the microprocessor to de-mystify the machine. With a complete understanding of how computer systems execute programs and manipulate data, you will become a more effective programmer, especially in dealing with issues of debugging, performance, memory, and robustness. Topics covered include: the C programming language, data representation, machine-level code, computer arithmetic, elements of code compilation, optimization of memory and runtime performance, and memory organization and management._
+  - Website: https://web.stanford.edu/class/archive/cs/cs107/cs107.1222/
+  - Videos: https://youtube.com/playlist?list=PLoCMsyE1cvdWivlV-39KKsBKUX-4DvraN
+  - Text: Bryant & O’Hallaron. Computer Systems: A Programmer’s Perspective (http://csapp.cs.cmu.edu/3e/home.html)
 
 
-###### CS 110 - 
-
-Website: https://web.stanford.edu/class/cs110/
-
-Syllabus: https://quip.com/21YgAt9PXdNF
-
-Text: Principles of Computer System Design - Jerome H. Saltzer and M. Frans Kaashoek
-
-Videos: https://youtube.com/playlist?list=PLu77E6J7s6Ko3Ft4XcOX1yKW6iX3eEFqS
+- ###### CS 110 - 
+  - Website: https://web.stanford.edu/class/cs110/
+  - Syllabus: https://quip.com/21YgAt9PXdNF
+  - Text: Principles of Computer System Design - Jerome H. Saltzer and M. Frans Kaashoek
+  - Videos: https://youtube.com/playlist?list=PLu77E6J7s6Ko3Ft4XcOX1yKW6iX3eEFqS
 
 
 
