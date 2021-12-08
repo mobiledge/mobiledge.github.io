@@ -22,9 +22,7 @@ Quicklinks: [SwiftUI](https://github.com/mobilege/ios-development/blob/master/sw
 
 
 #### [Web Dev](https://github.com/mobilege/web-development#web-development)
-Java Stack: 
-[Java](https://github.com/mobilege/web-development/blob/master/java.md#java), 
-[Spring](https://github.com/mobilege/web-development/blob/master/spring.md#spring)
+Quicklinks: [Javascript](https://github.com/mobilege/web-development/blob/master/javascript.md)
 
 
 #### Core CS 
