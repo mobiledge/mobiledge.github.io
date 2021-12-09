@@ -12,6 +12,7 @@ mobilege.github.io
 - [Languages](#languages)
 - [48 Ideas](#48-ideas)
 - [Courses](#courses)
+- [Rules](#rules)
 
 ## Domains
 - Platforms: [iOS Dev](#ios-dev), [Web Dev](#web-dev)
@@ -22,6 +23,7 @@ mobilege.github.io
 
 [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
 
+[ToC](#table-of-contents)
 ## Subjects
 
 #### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
@@ -70,6 +72,7 @@ Other:
 #### Trading & Finance
 - [Data Science](https://github.com/mobilege/data-science/blob/master/README.md)
 
+[ToC](#table-of-contents)
 ## Languages
 - iOS: 
 [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md), 
@@ -88,42 +91,7 @@ Other:
 - Concurrent, Distributed, Fault-tolerant: Erlang (7L7W), Elixir (7CM7W *Actors*)
 - Logic programming: Prolog (7L7W)
 
-## Rules
-
-#### Rules for Learning
-*Iteration: Intuition > Impementation > Organization*
-- To learn a Subject, understand & accept that it'll take several iterations each from a different sources
-- To learn a Subject, first identify a primary source to learn from (book, mooc, etc) based on complexity
-- For each chapter and topic, progress through the 3 levels of learning:
-- Learning Level 1 - Intuition : Listen/Read to build **intuition** (this is most important)
-- Learning Level 2 - Implementation : Do/Practice/Implement to gain a greater degree of mastery
-- Learning Level 3 - Organization: Save/Organize(below). Capture code-snippet/class/protocol-implementation for use in future
-
-*Source: Tutorial > Manual > Advanced*
-- To learn a Subject, follow a step-by-step tutorial first. 
-- To consolidate the kowledge, follow up with the programming guide/reference type book.   
-- To master the subject, finish by reading an 'advanced' book.
-
-
-#### Rules for Organization
-- Product Type (App, SAAS, Trading etc) 
-- Domain: Repo
-- Subject: Page
-- Chapter: H2 tag 
-- Topic: H4 tag
-- Term: H6 tag
-
-
-#### Rules for adding content
-- Code Snippets: Only log **verified**, **frequently used** code snippets
-- Links: Only log **good** sources in the form of links (not contents)
-- Text: Use **consise** & **own words** based on **your** understanding
-
-
-#### Rules for coding
-- Make It Work, Make It Right, (Make It Fast?)
-- Make it Reuseable
-
+[ToC](#table-of-contents)
 ## 48 Ideas
 
 #### 48 Ideas in CS *that all Software Devs should know*
@@ -238,6 +206,44 @@ I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 - [Linux Essentials, Second Edition - Book](https://www.amazon.com/Linux-Essentials-Second-Christine-Bresnahan/dp/111909206X/ref=sr_1_1?crid=1JLBR9SVH8UVY&keywords=lpi+linux+essentials)
 - [Unity Certified Associate](https://certification.unity.com/products/certified-associate)
 - [Computer Science Proficiency Assessment](https://cspa.io/)
+
+
+## Rules
+
+#### Rules for Learning
+*Iteration: Intuition > Impementation > Organization*
+- To learn a Subject, understand & accept that it'll take several iterations each from a different sources
+- To learn a Subject, first identify a primary source to learn from (book, mooc, etc) based on complexity
+- For each chapter and topic, progress through the 3 levels of learning:
+- Learning Level 1 - Intuition : Listen/Read to build **intuition** (this is most important)
+- Learning Level 2 - Implementation : Do/Practice/Implement to gain a greater degree of mastery
+- Learning Level 3 - Organization: Save/Organize(below). Capture code-snippet/class/protocol-implementation for use in future
+
+*Source: Tutorial > Manual > Advanced*
+- To learn a Subject, follow a step-by-step tutorial first. 
+- To consolidate the kowledge, follow up with the programming guide/reference type book.   
+- To master the subject, finish by reading an 'advanced' book.
+
+
+#### Rules for Organization
+- Product Type (App, SAAS, Trading etc) 
+- Domain: Repo
+- Subject: Page
+- Chapter: H2 tag 
+- Topic: H4 tag
+- Term: H6 tag
+
+
+#### Rules for adding content
+- Code Snippets: Only log **verified**, **frequently used** code snippets
+- Links: Only log **good** sources in the form of links (not contents)
+- Text: Use **consise** & **own words** based on **your** understanding
+
+
+#### Rules for coding
+- Make It Work, Make It Right, (Make It Fast?)
+- Make it Reuseable
+
 
 ## Talking Points
 
