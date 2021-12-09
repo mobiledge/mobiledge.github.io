@@ -13,6 +13,7 @@ mobilege.github.io
 - [48 Ideas](#48-ideas)
 - [Courses](#courses)
 - [Rules](#rules)
+- [Markdown Cheatsheet](#markdown-cheatsheet)
 
 ## Domains
 - Platforms: [iOS Dev](#ios-dev), [Web Dev](#web-dev)
@@ -23,7 +24,7 @@ mobilege.github.io
 
 [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
 
-<p align="right"><a href="#table-of-contents"> Back to Top ↑ </a></p>
+
 
 ## Subjects
 
@@ -274,4 +275,8 @@ Pros of Code:
 
 
 
+## Markdown Cheatsheet
 
+```
+Comments: <p align="left"><a href="#table-of-contents"> Back to Top ↑ </a></p>
+```
