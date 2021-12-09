@@ -158,6 +158,9 @@ Other:
 #### Stanford
 https://www.coursicle.com/stanford/courses/CS/
 
+<details><summary>Code example</summary><p>
+  ...
+</p></details>
 
 <details>
   <summary><b> CS106A - Python </b></summary>
