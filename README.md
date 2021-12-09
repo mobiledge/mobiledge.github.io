@@ -212,9 +212,9 @@ I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 
 ## Alignment
 
-| Website: https://web.stanford.edu/class/archive/cs/cs107/cs107.1222/
-| Videos: https://youtube.com/playlist?list=PLoCMsyE1cvdWivlV-39KKsBKUX-4DvraN
-| Text: Computer Systems: A Programmer’s Perspective - Bryant & O’Hallaron - http://csapp.cs.cmu.edu/3e/home.html
+> Website: https://web.stanford.edu/class/archive/cs/cs107/cs107.1222/
+> Videos: https://youtube.com/playlist?list=PLoCMsyE1cvdWivlV-39KKsBKUX-4DvraN
+> Text: Computer Systems: A Programmer’s Perspective - Bryant & O’Hallaron - http://csapp.cs.cmu.edu/3e/home.html
 
 
 #### Misc
