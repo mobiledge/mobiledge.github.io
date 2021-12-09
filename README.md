@@ -219,8 +219,8 @@ I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td><b style="font-size:14px">Title</b></td>
+    <td><b style="font-size:14px">Title 2</b></td>
  </tr>
  <tr>
     <td>Lorem ipsum ...</td>
