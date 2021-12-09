@@ -7,11 +7,11 @@ mobilege.github.io
 ==================
 
 ###### Table of Contents
-- Domains
-- Subjects
-- Languages
-- 48 Ideas
-- Courses
+- [Domains](#domains)
+- [Subjects](#subjects)
+- [Languages](#languages)
+- [48 Ideas](#48-ideas)
+- [Courses](#courses)
 
 ## Domains
 - Platforms: [iOS Dev](#ios-dev), [Web Dev](#web-dev)
