@@ -24,7 +24,7 @@ mobilege.github.io
 
 [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
 
-
+[Back to Top ↑ ](#table-of-contents)
 
 ## Subjects
 
@@ -74,8 +74,7 @@ Other:
 #### Trading & Finance
 - [Data Science](https://github.com/mobilege/data-science/blob/master/README.md)
 
-
-<p align="right"><a href="#table-of-contents"> Back to Top ↑ </a></p>
+[Back to Top ↑ ](#table-of-contents)
 
 ## Languages
 
@@ -96,8 +95,7 @@ Other:
 - Concurrent, Distributed, Fault-tolerant: Erlang (7L7W), Elixir (7CM7W *Actors*)
 - Logic programming: Prolog (7L7W)
 
-
-<p align="right"><a href="#table-of-contents"> Back to Top ↑ </a></p>
+[Back to Top ↑ ](#table-of-contents)
 
 ## 48 Ideas
 
@@ -217,7 +215,7 @@ I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 - [Unity Certified Associate](https://certification.unity.com/products/certified-associate)
 - [Computer Science Proficiency Assessment](https://cspa.io/)
 
-<p align="right"><a href="#table-of-contents"> Back to Top ↑ </a></p>
+[Back to Top ↑ ](#table-of-contents)
 
 ## Rules
 
@@ -274,6 +272,7 @@ Pros of Code:
 - Easy dependency injection via initializers.
 
 
+[Back to Top ↑ ](#table-of-contents)
 
 ## Markdown Cheatsheet
 
@@ -301,3 +300,4 @@ Pros of Code:
 - ut labore et dolore magna aliqua
 </details>
 
+[Back to Top ↑ ](#table-of-contents)
