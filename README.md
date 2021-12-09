@@ -23,8 +23,9 @@ mobilege.github.io
 
 [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
 
+
+<p align="right"><a href="#table-of-contents"> Back to Top ↑ </a></p>
 ## Subjects 
-<p align="right"><a href="#table-of-contents"> ↑ </a></p>
 
 #### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
 Quicklinks: [SwiftUI](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
@@ -72,8 +73,9 @@ Other:
 #### Trading & Finance
 - [Data Science](https://github.com/mobilege/data-science/blob/master/README.md)
 
+
+<p align="right"><a href="#table-of-contents"> Back to Top ↑ </a></p>
 ## Languages
-<p align="right"><a href="#table-of-contents"> ↑ </a></p>
 
 - iOS: 
 [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md), 
@@ -93,8 +95,8 @@ Other:
 - Logic programming: Prolog (7L7W)
 
 
+<p align="right"><a href="#table-of-contents"> Back to Top ↑ </a></p>
 ## 48 Ideas
-<p align="right"><a href="#table-of-contents"> ↑ </a></p>
 
 #### 48 Ideas in CS *that all Software Devs should know*
 *Build intuition. Enjoy the process*
@@ -110,8 +112,8 @@ Other:
 - Thing 3: Networking with SSH
 - Thing 4: Version Control with Git 
 
-[ ↑ ](#table-of-contents)
 
+<p align="right"><a href="#table-of-contents"> Back to Top ↑ </a></p>
 ## Courses
 
 ###### Math for CS
@@ -211,8 +213,7 @@ I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 - [Unity Certified Associate](https://certification.unity.com/products/certified-associate)
 - [Computer Science Proficiency Assessment](https://cspa.io/)
 
-[ ↑ ](#table-of-contents)
-
+<p align="right"><a href="#table-of-contents"> Back to Top ↑ </a></p>
 ## Rules
 
 #### Rules for Learning
