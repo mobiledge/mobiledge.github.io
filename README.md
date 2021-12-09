@@ -139,18 +139,18 @@ Other:
 - [COMP510 - Computational Finance - 2007 HKUST - Steven Skiena](https://www.youtube.com/playlist?list=PL9E205B8FAAD530E1)
 
 
-###### Data Science - MIT: 
+###### Data Science - MIT
 - Data Science - [6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 - Data Science - [6.0002](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
 
-###### MIT
+#### MIT
 - Algorithms - [6.042J](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/), 
 - Algorithms - [6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/), 
 - Algorithms - [6.046J](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
 
-###### Berkely
+#### Berkely
 - CS 61A
 - CS 61B
 - CS 61C
@@ -177,7 +177,7 @@ https://www.coursicle.com/stanford/courses/CS/
 </details>
 
 <details>
-  <summary> CS105 </b></summary>
+  <summary><b> CS105 </b></summary>
   
   - Overview: _A more lightweight introduction to CS ideas, but without as much coding as CS106A.
 </details>
@@ -203,11 +203,6 @@ https://www.coursicle.com/stanford/courses/CS/
   - Videos: https://youtube.com/playlist?list=PLoCMsyE1cvdWivlV-39KKsBKUX-4DvraN
   - Text: Bryant & O’Hallaron. Computer Systems: A Programmer’s Perspective (http://csapp.cs.cmu.edu/3e/home.html)
 </details>
-
-
-
-
-
 
 
 #### Misc
