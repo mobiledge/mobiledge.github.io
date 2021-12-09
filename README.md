@@ -179,7 +179,7 @@ https://www.coursicle.com/stanford/courses/CS/
 <details>
   <summary><b> CS105 </b></summary>
   
-  - Overview: _A more lightweight introduction to CS ideas, but without as much coding as CS106A.
+  - Overview: A more lightweight introduction to CS ideas, but without as much coding as CS106A.
 </details>
 
 <details>
