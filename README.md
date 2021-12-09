@@ -23,7 +23,11 @@ mobilege.github.io
 
 [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
 
-[ ↑ ](#table-of-contents)
+<p align="right">
+  <a href="#table-of-contents">  ↑  </a>
+</p>
+
+  [ ↑ ](#table-of-contents)
 ## Subjects 
 
 #### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
