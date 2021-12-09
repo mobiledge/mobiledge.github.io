@@ -158,15 +158,15 @@ Other:
 #### Stanford
 https://www.coursicle.com/stanford/courses/CS/
 
-<details><summary><h6> CS106A - Python </h6></summary><p>
+<details><summary>CS106A - Python</summary><p>
   First course in programming and computer science, for people who with zero experience.
 </p></details>
 
-<details><summary><h6>CS106B - C++</h6></summary><p>
+<details><summary>CS106B - C++</summary><p>
   The second course, teaching more advanced programming and computer science for people who know basic programming.
 </p></details>
 
-<details><summary><h6>CS106X - C++ </h6></summary><p>
+<details><summary>CS106X - C++</summary><p>
   The more advanced of two courses teaching introductory programming abstractions and algorithms. CS106X is an alternative to the more sensibly paced CS106B, because some students—self-taught programmers, exceptionally strong CS106A students, and AP Java graduates—prefer a more intense treatment in the company of other aficionados.
 </p></details>
 
