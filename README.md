@@ -277,14 +277,13 @@ Pros of Code:
 
 ## Markdown Cheatsheet
 
-Right aligned text
+###### Right aligned text
 ```
-<p align="left"><a href="#table-of-contents"> Back to Top ↑ </a></p>
+<p align="right"><a href="#table-of-contents">Right aligned text</a></p>
 ```
-<p align="left"><a href="#table-of-contents"> Back to Top ↑ </a></p>
+<p align="right"><a href="#table-of-contents">Right aligned text</a></p>
 
-
-Collapse Section
+###### Collapse Section
 ```
 <details><summary>Click to see more</summary>
 
