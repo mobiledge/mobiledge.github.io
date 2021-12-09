@@ -6,6 +6,13 @@
 mobilege.github.io
 ==================
 
+###### Table of Contents
+- Domains
+- Subjects
+- Languages
+- 48 Ideas
+- Courses
+
 ## Domains
 - Platforms: [iOS Dev](#ios-dev), [Web Dev](#web-dev)
 - Fundamentals: [Core CS](#core-cs), [Core Math](#core-math), [Core SD](#core-sd-software-development)
@@ -81,7 +88,9 @@ Other:
 - Concurrent, Distributed, Fault-tolerant: Erlang (7L7W), Elixir (7CM7W *Actors*)
 - Logic programming: Prolog (7L7W)
 
-## Rules for Learning
+## Rules
+
+#### Rules for Learning
 *Iteration: Intuition > Impementation > Organization*
 - To learn a Subject, understand & accept that it'll take several iterations each from a different sources
 - To learn a Subject, first identify a primary source to learn from (book, mooc, etc) based on complexity
@@ -96,7 +105,7 @@ Other:
 - To master the subject, finish by reading an 'advanced' book.
 
 
-## Rules for Organization
+#### Rules for Organization
 - Product Type (App, SAAS, Trading etc) 
 - Domain: Repo
 - Subject: Page
@@ -105,25 +114,26 @@ Other:
 - Term: H6 tag
 
 
-## Rules for adding content
+#### Rules for adding content
 - Code Snippets: Only log **verified**, **frequently used** code snippets
 - Links: Only log **good** sources in the form of links (not contents)
 - Text: Use **consise** & **own words** based on **your** understanding
 
 
-## Rules for coding
+#### Rules for coding
 - Make It Work, Make It Right, (Make It Fast?)
 - Make it Reuseable
 
+## 48 Ideas
 
-## 48 Ideas in CS *that all Software Devs should know*
+#### 48 Ideas in CS *that all Software Devs should know*
 *Build intuition. Enjoy the process*
 - Idea 1: Sorting (DS & Algo)
 - Idea 2: Searching (DS & Algo)
 - Idea 3: Graphs (DS & Algo)
 
 
-## 48 Tools in CS *that all Software Devs should know*
+#### 48 Tools in CS *that all Software Devs should know*
 *Watch, Read, Do, Practice*
 - Thing 1: Linux Command Line
 - Thing 2: Text editing in Vim
