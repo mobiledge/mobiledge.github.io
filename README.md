@@ -23,8 +23,8 @@ mobilege.github.io
 
 [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
 
-[ToC](#table-of-contents)
-## Subjects
+[ ↑ ](#table-of-contents)
+## Subjects 
 
 #### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
 Quicklinks: [SwiftUI](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
@@ -72,7 +72,7 @@ Other:
 #### Trading & Finance
 - [Data Science](https://github.com/mobilege/data-science/blob/master/README.md)
 
-[ToC](#table-of-contents)
+[ ↑ ](#table-of-contents)
 ## Languages
 - iOS: 
 [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md), 
@@ -91,7 +91,7 @@ Other:
 - Concurrent, Distributed, Fault-tolerant: Erlang (7L7W), Elixir (7CM7W *Actors*)
 - Logic programming: Prolog (7L7W)
 
-[ToC](#table-of-contents)
+[ ↑ ](#table-of-contents)
 ## 48 Ideas
 
 #### 48 Ideas in CS *that all Software Devs should know*
@@ -108,8 +108,10 @@ Other:
 - Thing 3: Networking with SSH
 - Thing 4: Version Control with Git 
 
+[ ↑ ](#table-of-contents)
 
 ## Courses
+
 ###### Math for CS
 - [Introduction to Discrete Mathematics for Computer Science Specialization - Coursera ](https://www.coursera.org/specializations/discrete-mathematics)
 
@@ -207,6 +209,7 @@ I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 - [Unity Certified Associate](https://certification.unity.com/products/certified-associate)
 - [Computer Science Proficiency Assessment](https://cspa.io/)
 
+[ ↑ ](#table-of-contents)
 
 ## Rules
 
