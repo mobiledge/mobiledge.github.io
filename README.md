@@ -182,8 +182,8 @@ https://www.coursicle.com/stanford/courses/CS/
 <details>
   <summary><b> CME193 - Python </b></summary>
   
-    - A course in applied Python for scientists and engineers. It is a course one could take after CS106A\
-    - [Link](http://web.stanford.edu/class/cme193/)
+  - A course in applied Python for scientists and engineers. It is a course one could take after CS106A
+  - [Link](http://web.stanford.edu/class/cme193/)
 </details>
 
 <details>
