@@ -161,30 +161,39 @@ https://www.coursicle.com/stanford/courses/CS/
 <details>
   <summary> CS106A - Python </summary>
   
-   - Overview: _First course in programming and computer science, for people who with zero experience._
+   - Overview: First course in programming and computer science, for people who with zero experience.
 </details>
 
 <details>
-  <summary> </summary>
+  <summary> CS106B - C++ </summary>
+  
+  - Overview: The second course, teaching more advanced programming and computer science for people who know basic programming.
 </details>
 
 <details>
-  <summary> </summary>
+  <summary> CS106X - C++ </summary>
+  
+  - Overview: The more advanced of two courses teaching introductory programming abstractions and algorithms. CS106X is an alternative to the more sensibly paced CS106B, because some students—self-taught programmers, exceptionally strong CS106A students, and AP Java graduates—prefer a more intense treatment in the company of other aficionados.
 </details>
 
 <details>
-  <summary> </summary>
+  <summary> CS105 </summary>
+  
+  - Overview: _A more lightweight introduction to CS ideas, but without as much coding as CS106A.
 </details>
 
 <details>
-  <summary> </summary>
+  <summary> CS193q - Python </summary>
+  
+  - Overview: _A 1 unit seminar that teaches Python very very quickly - geared for people who already know how to program but do not know Python.
 </details>
 
 <details>
-  <summary> </summary>
+  <summary> CME193 - Python </summary>
 </details>
 
-
+  - Overview: A course in applied Python for scientists and engineers. It is a course one could take after CS106A.
+  - Website: http://web.stanford.edu/class/cme193/
 <details>
   <summary> CS 107 - Computer Organization & Systems </summary>
   
