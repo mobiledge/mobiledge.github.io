@@ -158,11 +158,6 @@ Other:
 #### Stanford
 https://www.coursicle.com/stanford/courses/CS/
 
-CS106A - Python[^1]
-
-[^1]: First course in programming and computer science, for people who with zero experience.
-
-
 <details><summary>CS106A - Python</summary><p>
   First course in programming and computer science, for people who with zero experience.
 </p></details>
@@ -175,21 +170,21 @@ CS106A - Python[^1]
   The more advanced of two courses teaching introductory programming abstractions and algorithms. CS106X is an alternative to the more sensibly paced CS106B, because some students—self-taught programmers, exceptionally strong CS106A students, and AP Java graduates—prefer a more intense treatment in the company of other aficionados.
 </p></details>
 
-<details><summary><b>CS105</b></summary><p>
+<details><summary>CS105</summary><p>
   A more lightweight introduction to CS ideas, but without as much coding as CS106A.
 </p></details>
 
-<details><summary><b> CS193q - Python </b></summary><p>
+<details><summary>CS193q - Python</summary><p>
   A 1 unit seminar that teaches Python very very quickly - geared for people who already know how to program but do not know Python.
 </p></details>
 
-<details><summary><b> CME193 - Python </b></summary>
+<details><summary>CME193 - Python</summary>
   
   - A course in applied Python for scientists and engineers. It is a course one could take after CS106A
   - [Link](http://web.stanford.edu/class/cme193/)
 </details>
 
-<details><summary><b> CS 107 - Computer Organization & Systems </b></summary>
+<details><summary>CS 107 - Computer Organization & Systems</summary>
   
   - CS107 is the third course in Stanford's introductory programming sequence. The CS106 courses provide you with a solid foundation in programming methodology and abstractions, and CS107 follows on this to build up and expand your breadth and depth of programming experience and techniques. The course will work from the C programming language down to the microprocessor to de-mystify the machine. With a complete understanding of how computer systems execute programs and manipulate data, you will become a more effective programmer, especially in dealing with issues of debugging, performance, memory, and robustness. Topics covered include: the C programming language, data representation, machine-level code, computer arithmetic, elements of code compilation, optimization of memory and runtime performance, and memory organization and management.
   - Website: https://web.stanford.edu/class/archive/cs/cs107/cs107.1222/
