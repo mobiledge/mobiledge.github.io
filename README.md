@@ -158,7 +158,8 @@ Other:
 #### Stanford
 https://www.coursicle.com/stanford/courses/CS/
 
-CS106A - Python
+CS106A - Python[^1]
+
 [^1]: First course in programming and computer science, for people who with zero experience.
 
 
