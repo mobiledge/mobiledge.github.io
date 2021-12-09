@@ -25,6 +25,7 @@ mobilege.github.io
 
 
 <p align="right"><a href="#table-of-contents"> Back to Top ↑ </a></p>
+
 ## Subjects 
 
 #### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
@@ -75,6 +76,7 @@ Other:
 
 
 <p align="right"><a href="#table-of-contents"> Back to Top ↑ </a></p>
+
 ## Languages
 
 - iOS: 
@@ -96,6 +98,7 @@ Other:
 
 
 <p align="right"><a href="#table-of-contents"> Back to Top ↑ </a></p>
+
 ## 48 Ideas
 
 #### 48 Ideas in CS *that all Software Devs should know*
@@ -114,6 +117,7 @@ Other:
 
 
 <p align="right"><a href="#table-of-contents"> Back to Top ↑ </a></p>
+
 ## Courses
 
 ###### Math for CS
@@ -214,6 +218,7 @@ I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 - [Computer Science Proficiency Assessment](https://cspa.io/)
 
 <p align="right"><a href="#table-of-contents"> Back to Top ↑ </a></p>
+
 ## Rules
 
 #### Rules for Learning
