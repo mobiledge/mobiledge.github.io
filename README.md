@@ -6,7 +6,12 @@
 mobilege.github.io
 ==================
 
-_Quicklinks:_   [Domains](#domains)   ·  [Subjects](#subjects)  ·  [Languages](#languages)  ·  [48 Ideas](#48-ideas)  ·  [Courses](#courses)
+## Table of Contents
+- [Domains](#domains)
+- [Subjects](#subjects)
+- [Languages](#languages)
+- [48 Ideas](#48-ideas)
+- [Courses](#courses)
 
 ## Domains
 - Platforms: [iOS Dev](#ios-dev), [Web Dev](#web-dev)
