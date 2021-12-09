@@ -131,24 +131,7 @@ Other:
 - Thing 4: Version Control with Git 
 
 
-## Misc
-- [CS50's Understanding Technology - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
-- [CS50's Computer Science for Business Professionals - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T381YHS5L3gkwPbUGiI0foXuc)
-- [CSCI E-23a Introduction to Game Development](https://cs50.github.io/games/lectures)
-- [CSCI E-33a Web Programming with Python and JavaScript](https://cs50.github.io/web/2018/spring/lectures)
-- [CSCI E-39b Mobile App Development with React Native](https://cs50.github.io/mobile/lectures)
-- Physcology: [Hooked: How to Build Habit-Forming Products](http://a.co/d/hOLhqz5)
-- [CS 102: Big Data - Stanford](https://web.stanford.edu/class/cs102/)
-- [Copyright for Multimedia](https://www.coursera.org/learn/copyright-for-multimedia)
-- [Applications in Finance](https://github.com/mobilege/data-science/blob/master/applications-in-finance.md)
-- [Introduction to Computational Thinking and Data Science (Undergraduate)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
-- [How to Become a Better Software Developer](https://www.7pace.com/blog/become-a-better-programmer-skills-development)
-- [Certified CompTIA Linux+ and LPIC-1: System Administrator](https://acloud.guru/learn/lpic-1)
-- [Linux Essentials Exam 010](https://www.lpi.org/our-certifications/exam-010-objectives)
-- [Linux Essentials, Second Edition - Book](https://www.amazon.com/Linux-Essentials-Second-Christine-Bresnahan/dp/111909206X/ref=sr_1_1?crid=1JLBR9SVH8UVY&keywords=lpi+linux+essentials)
-- [Unity Certified Associate](https://certification.unity.com/products/certified-associate)
-- [Computer Science Proficiency Assessment](https://cspa.io/)
-
+## Courses
 ###### Math for CS
 - [Introduction to Discrete Mathematics for Computer Science Specialization - Coursera ](https://www.coursera.org/specializations/discrete-mathematics)
 
@@ -222,6 +205,23 @@ https://www.coursicle.com/stanford/courses/CS/
   - Videos: https://youtube.com/playlist?list=PLu77E6J7s6Ko3Ft4XcOX1yKW6iX3eEFqS
 
 
+#### Misc
+- [CS50's Understanding Technology - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
+- [CS50's Computer Science for Business Professionals - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T381YHS5L3gkwPbUGiI0foXuc)
+- [CSCI E-23a Introduction to Game Development](https://cs50.github.io/games/lectures)
+- [CSCI E-33a Web Programming with Python and JavaScript](https://cs50.github.io/web/2018/spring/lectures)
+- [CSCI E-39b Mobile App Development with React Native](https://cs50.github.io/mobile/lectures)
+- Physcology: [Hooked: How to Build Habit-Forming Products](http://a.co/d/hOLhqz5)
+- [CS 102: Big Data - Stanford](https://web.stanford.edu/class/cs102/)
+- [Copyright for Multimedia](https://www.coursera.org/learn/copyright-for-multimedia)
+- [Applications in Finance](https://github.com/mobilege/data-science/blob/master/applications-in-finance.md)
+- [Introduction to Computational Thinking and Data Science (Undergraduate)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+- [How to Become a Better Software Developer](https://www.7pace.com/blog/become-a-better-programmer-skills-development)
+- [Certified CompTIA Linux+ and LPIC-1: System Administrator](https://acloud.guru/learn/lpic-1)
+- [Linux Essentials Exam 010](https://www.lpi.org/our-certifications/exam-010-objectives)
+- [Linux Essentials, Second Edition - Book](https://www.amazon.com/Linux-Essentials-Second-Christine-Bresnahan/dp/111909206X/ref=sr_1_1?crid=1JLBR9SVH8UVY&keywords=lpi+linux+essentials)
+- [Unity Certified Associate](https://certification.unity.com/products/certified-associate)
+- [Computer Science Proficiency Assessment](https://cspa.io/)
 
 ## Talking Points
 
