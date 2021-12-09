@@ -26,7 +26,7 @@ mobilege.github.io
 
 <p>
 <h2>Subjects</h2>
-<p align="right"><a href="#table-of-contents"> Back to Top ↑ </a></p>
+<span align="right"><a href="#table-of-contents"> Back to Top ↑ </a></span>
 </p>
 
 #### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
