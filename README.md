@@ -23,12 +23,8 @@ mobilege.github.io
 
 [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
 
-<p align="right">
-  <a href="#table-of-contents">  ↑  </a>
-</p>
-
-  [ ↑ ](#table-of-contents)
 ## Subjects 
+<p align="right"><a href="#table-of-contents"> ↑ </a></p>
 
 #### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
 Quicklinks: [SwiftUI](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
@@ -76,8 +72,9 @@ Other:
 #### Trading & Finance
 - [Data Science](https://github.com/mobilege/data-science/blob/master/README.md)
 
-[ ↑ ](#table-of-contents)
 ## Languages
+<p align="right"><a href="#table-of-contents"> ↑ </a></p>
+
 - iOS: 
 [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md), 
 [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
@@ -95,8 +92,9 @@ Other:
 - Concurrent, Distributed, Fault-tolerant: Erlang (7L7W), Elixir (7CM7W *Actors*)
 - Logic programming: Prolog (7L7W)
 
-[ ↑ ](#table-of-contents)
+
 ## 48 Ideas
+<p align="right"><a href="#table-of-contents"> ↑ </a></p>
 
 #### 48 Ideas in CS *that all Software Devs should know*
 *Build intuition. Enjoy the process*
