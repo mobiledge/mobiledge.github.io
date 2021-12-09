@@ -277,11 +277,14 @@ Pros of Code:
 
 ## Markdown Cheatsheet
 
+Right aligned text
 ```
-// Right aligned text
 <p align="left"><a href="#table-of-contents"> Back to Top ↑ </a></p>
 ```
+<p align="left"><a href="#table-of-contents"> Back to Top ↑ </a></p>
 
+
+Collapse Section
 ```
 <details><summary>Click to see more</summary>
 
@@ -291,3 +294,11 @@ Pros of Code:
 - ut labore et dolore magna aliqua
 </details>
 ```
+<details><summary>Click to see more</summary>
+
+- lorem ipsum dolor sit amet, 
+- consectetur adipiscing elit, 
+- sed do eiusmod tempor incididunt 
+- ut labore et dolore magna aliqua
+</details>
+
