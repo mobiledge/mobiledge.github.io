@@ -278,5 +278,16 @@ Pros of Code:
 ## Markdown Cheatsheet
 
 ```
-Comments: <p align="left"><a href="#table-of-contents"> Back to Top ↑ </a></p>
+// Right aligned text
+<p align="left"><a href="#table-of-contents"> Back to Top ↑ </a></p>
+```
+
+```
+<details><summary>Click to see more</summary>
+
+- lorem ipsum dolor sit amet, 
+- consectetur adipiscing elit, 
+- sed do eiusmod tempor incididunt 
+- ut labore et dolore magna aliqua
+</details>
 ```
