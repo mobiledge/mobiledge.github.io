@@ -24,9 +24,10 @@ mobilege.github.io
 [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
 
 
+<p>
+<h2>Subjects</h2>
 <p align="right"><a href="#table-of-contents"> Back to Top ↑ </a></p>
-
-## Subjects 
+</p>
 
 #### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
 Quicklinks: [SwiftUI](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
