@@ -159,7 +159,7 @@ Other:
 https://www.coursicle.com/stanford/courses/CS/
 
 CS106A - Python
-[^1]First course in programming and computer science, for people who with zero experience.
+[^1]: First course in programming and computer science, for people who with zero experience.
 
 
 <details><summary>CS106A - Python</summary><p>
