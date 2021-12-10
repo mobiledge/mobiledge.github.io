@@ -141,25 +141,30 @@ Other:
 #### Stanford
 https://www.coursicle.com/stanford/courses/CS/
 
-<details><summary>CS106A - Python</summary><p>
-  First course in programming and computer science, for people who with zero experience.
-</p></details>
+<details><summary>CS106A - Python</summary>
+  
+  > First course in programming and computer science, for people who with zero experience.
+</details>
 
-<details><summary>CS106B - C++</summary><p>
-  The second course, teaching more advanced programming and computer science for people who know basic programming.
-</p></details>
+<details><summary>CS106B - C++</summary>
+  
+  > The second course, teaching more advanced programming and computer science for people who know basic programming.
+</details>
 
-<details><summary>CS106X - C++</summary><p>
-  The more advanced of two courses teaching introductory programming abstractions and algorithms. CS106X is an alternative to the more sensibly paced CS106B, because some students—self-taught programmers, exceptionally strong CS106A students, and AP Java graduates—prefer a more intense treatment in the company of other aficionados.
-</p></details>
+<details><summary>CS106X - C++</summary>
+  
+  > The more advanced of two courses teaching introductory programming abstractions and algorithms. CS106X is an alternative to the more sensibly paced CS106B, because some students—self-taught programmers, exceptionally strong CS106A students, and AP Java graduates—prefer a more intense treatment in the company of other aficionados.
+</details>
 
-<details><summary>CS105</summary><p>
-  A more lightweight introduction to CS ideas, but without as much coding as CS106A.
-</p></details>
+<details><summary>CS105</summary>
+  
+  > A more lightweight introduction to CS ideas, but without as much coding as CS106A.
+</details>
 
-<details><summary>CS193q - Python</summary><p>
-  A 1 unit seminar that teaches Python very very quickly - geared for people who already know how to program but do not know Python.
-</p></details>
+<details><summary>CS193q - Python</summary>
+  
+  > A 1 unit seminar that teaches Python very very quickly - geared for people who already know how to program but do not know Python.
+</details>
 
 <details><summary>CME193 - Python</summary>
   
@@ -169,7 +174,6 @@ https://www.coursicle.com/stanford/courses/CS/
 
 <details><summary>CS 107 - Computer Organization & Systems</summary>
   
-  \
   > CS107 is the third course in Stanford's introductory programming sequence. The CS106 courses provide you with a solid foundation in programming methodology and abstractions, and CS107 follows on this to build up and expand your breadth and depth of programming experience and techniques. The course will work from the C programming language down to the microprocessor to de-mystify the machine. With a complete understanding of how computer systems execute programs and manipulate data, you will become a more effective programmer, especially in dealing with issues of debugging, performance, memory, and robustness. Topics covered include: the C programming language, data representation, machine-level code, computer arithmetic, elements of code compilation, optimization of memory and runtime performance, and memory organization and management.
   - Site: https://web.stanford.edu/class/archive/cs/cs107/cs107.1222/
   - Videos: https://youtube.com/playlist?list=PLoCMsyE1cvdWivlV-39KKsBKUX-4DvraN
