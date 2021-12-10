@@ -24,8 +24,6 @@ mobilege.github.io
 
 [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
 
-[Back to Top ↑ ](#table-of-contents)
-
 ## Subjects
 
 #### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
@@ -113,8 +111,7 @@ Other:
 - Thing 3: Networking with SSH
 - Thing 4: Version Control with Git 
 
-
-<p align="right"><a href="#table-of-contents"> Back to Top ↑ </a></p>
+[Back to Top ↑ ](#table-of-contents)
 
 ## Courses
 
