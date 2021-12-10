@@ -169,31 +169,13 @@ https://www.coursicle.com/stanford/courses/CS/
 
 <details><summary>CS 107 - Computer Organization & Systems</summary>
 
-  - Website: https://web.stanford.edu/class/archive/cs/cs107/cs107.1222/
-  - Videos: https://youtube.com/playlist?list=PLoCMsyE1cvdWivlV-39KKsBKUX-4DvraN
-  - Text: Computer Systems: A Programmer’s Perspective - Bryant & O’Hallaron - http://csapp.cs.cmu.edu/3e/home.html
+  [Website](https://web.stanford.edu/class/archive/cs/cs107/cs107.1222/) · [Videos](https://youtube.com/playlist?list=PLoCMsyE1cvdWivlV-39KKsBKUX-4DvraN)
+
+  Text: Computer Systems: A Programmer’s Perspective - Bryant & O’Hallaron - http://csapp.cs.cmu.edu/3e/home.html
   
   > CS107 is the third course in Stanford's introductory programming sequence. The CS106 courses provide you with a solid foundation in programming methodology and abstractions, and CS107 follows on this to build up and expand your breadth and depth of programming experience and techniques. The course will work from the C programming language down to the microprocessor to de-mystify the machine. With a complete understanding of how computer systems execute programs and manipulate data, you will become a more effective programmer, especially in dealing with issues of debugging, performance, memory, and robustness. Topics covered include: the C programming language, data representation, machine-level code, computer arithmetic, elements of code compilation, optimization of memory and runtime performance, and memory organization and management.
 
 <p></details>
-
-<details><summary> CS 107 - Computer Organization & Systems</summary><p>
-   
-CS107 is the third course in Stanford's introductory programming sequence. The CS106 courses provide you with a solid foundation in programming methodology and abstractions, and CS107 follows on this to build up and expand your breadth and depth of programming experience and techniques. The course will work from the C programming language down to the microprocessor to de-mystify the machine. With a complete understanding of how computer systems execute programs and manipulate data, you will become a more effective programmer, especially in dealing with issues of debugging, performance, memory, and robustness. Topics covered include: the C programming language, data representation, machine-level code, computer arithmetic, elements of code compilation, optimization of memory and runtime performance, and memory organization and management. 
-
-  Website: https://web.stanford.edu/class/archive/cs/cs107/cs107.1222/
-  
-  Videos: https://youtube.com/playlist?list=PLoCMsyE1cvdWivlV-39KKsBKUX-4DvraN
-  
-  Text: Computer Systems: A Programmer’s Perspective - Bryant & O’Hallaron - http://csapp.cs.cmu.edu/3e/home.html
-</p></details>
-
-
-I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
-
-<span style="color:blue">some *blue* text</span>.
-
-| CS107 is the third course in Stanford's introductory programming sequence. The CS106 courses provide you with a solid foundation in programming methodology and abstractions, and CS107 follows on this to build up and expand your breadth and depth of programming experience and techniques. The course will work from the C programming language down to the microprocessor to de-mystify the machine. With a complete understanding of how computer systems execute programs and manipulate data, you will become a more effective programmer, especially in dealing with issues of debugging, performance, memory, and robustness. Topics covered include: the C programming language, data representation, machine-level code, computer arithmetic, elements of code compilation, optimization of memory and runtime performance, and memory organization and management. 
 
 
 #### Misc
