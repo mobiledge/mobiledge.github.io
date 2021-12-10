@@ -115,24 +115,6 @@ Other:
 
 ## Courses
 
-###### Math for CS
-- [Introduction to Discrete Mathematics for Computer Science Specialization - Coursera ](https://www.coursera.org/specializations/discrete-mathematics)
-
-###### Math for Finance
-- [COMP510 - Computational Finance - 2007 HKUST - Steven Skiena](https://www.youtube.com/playlist?list=PL9E205B8FAAD530E1)
-
-
-###### Data Science - MIT
-- Data Science - [6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-- Data Science - [6.0002](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
-
-
-#### MIT
-- Algorithms - [6.042J](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/), 
-- Algorithms - [6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/), 
-- Algorithms - [6.046J](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
-
-
 #### Berkely
 - CS 61A
 - CS 61B
@@ -181,8 +163,17 @@ https://www.coursicle.com/stanford/courses/CS/
 
 <p></details>
 
+###### MIT
+- Data Science - [6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+- Data Science - [6.0002](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+
+- Algorithms - [6.042J](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/), 
+- Algorithms - [6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/), 
+- Algorithms - [6.046J](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
 #### Misc
+- Math for CS - [Introduction to Discrete Mathematics for Computer Science Specialization - Coursera ](https://www.coursera.org/specializations/discrete-mathematics)
+- Math for Finance - [COMP510 - Computational Finance - 2007 HKUST - Steven Skiena](https://www.youtube.com/playlist?list=PL9E205B8FAAD530E1)
 - [CS50's Understanding Technology - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
 - [CS50's Computer Science for Business Professionals - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T381YHS5L3gkwPbUGiI0foXuc)
 - [CSCI E-23a Introduction to Game Development](https://cs50.github.io/games/lectures)
