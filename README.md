@@ -199,19 +199,13 @@ https://www.coursicle.com/stanford/courses/CS/
 ## Rules
 
 #### Rules for Learning
-*Iteration: Intuition > Impementation > Organization*
-- To learn a Subject, understand & accept that it'll take several iterations each from a different sources
-- To learn a Subject, first identify a primary source to learn from (book, mooc, etc) based on complexity
-- For each chapter and topic, progress through the 3 levels of learning:
-- Learning Level 1 - Intuition : Listen/Read to build **intuition** (this is most important)
-- Learning Level 2 - Implementation : Do/Practice/Implement to gain a greater degree of mastery
-- Learning Level 3 - Organization: Save/Organize(below). Capture code-snippet/class/protocol-implementation for use in future
-
-*Source: Tutorial > Manual > Advanced*
-- To learn a Subject, follow a step-by-step tutorial first. 
-- To consolidate the kowledge, follow up with the programming guide/reference type book.   
-- To master the subject, finish by reading an 'advanced' book.
-
+*See > Do > Document*
+- Understand & accept that it'll take **several iterations** each from a different sources.
+- Pick a **primary source** to learn from (book, mooc, etc) based on complexity.
+- For each topic, progress through the 3 levels of learning:
+- Level 1 - Watch videos etc, try to build intuition > Write down the basic concept in your own words.
+- Level 2 - Practice/Implement exercises/examples etc to gain a greater degree of mastery.
+- Level 3 - Document/Organize/Save sources, snippets etc.
 
 #### Rules for Organization
 - Product Type (App, SAAS, Trading etc) 
@@ -223,9 +217,10 @@ https://www.coursicle.com/stanford/courses/CS/
 
 
 #### Rules for adding content
+- Text: Use **consise** & **own words** based on **your** understanding
 - Code Snippets: Only log **verified**, **frequently used** code snippets
 - Links: Only log **good** sources in the form of links (not contents)
-- Text: Use **consise** & **own words** based on **your** understanding
+
 
 
 #### Rules for coding
