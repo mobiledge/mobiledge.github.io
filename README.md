@@ -18,7 +18,7 @@ mobilege.github.io
 ## Domains
 - Platforms: [iOS Dev](#ios-dev), [Web Dev](#web-dev)
 - Fundamentals: [Core CS](#core-cs), [Core Math](#core-math), [Core SD](#core-sd-software-development)
-- Applications: [Graphics & Games](#graphics--games), [Trading & Finance](#trading--finance)
+- Applications: [Blockchain & Finance](#trading--finance), Data Science, [Graphics & Games](#graphics--games)
 
 [Mind Maps](https://miro.com/app/dashboard/)
 
@@ -118,11 +118,8 @@ Other:
 #### Berkely
 - CS 61A
 - CS 61B
-- CS 61C
- · [Video](https://youtube.com/playlist?list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)
- · [Spring 2015 Site](https://inst.eecs.berkeley.edu/~cs61c/sp15/)
- · [Semester archives](https://inst.eecs.berkeley.edu/~cs61c/archives.html)
-   - [Lec 1 Slides](https://inst.eecs.berkeley.edu/~cs61c/sp15/lec/01/2015Sp-CS61C-L01-kavs-intro-6up.pdf)
+- [CS 61C]()
+
 
 #### Stanford
 https://www.coursicle.com/stanford/courses/CS/
