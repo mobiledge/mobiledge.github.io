@@ -119,9 +119,10 @@ Other:
 - CS 61A
 - CS 61B
 - CS 61C
- · [📺](https://youtube.com/playlist?list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)
+ · ![Youtube](https://cdn.emojidex.com/emoji/seal/YouTube.png)
  · [Spring 2015 Site](https://inst.eecs.berkeley.edu/~cs61c/sp15/)
  · [Semester archives](https://inst.eecs.berkeley.edu/~cs61c/archives.html) 
+ · [📺](https://youtube.com/playlist?list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)
 
 #### Stanford
 https://www.coursicle.com/stanford/courses/CS/
