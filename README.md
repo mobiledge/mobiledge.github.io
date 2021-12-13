@@ -118,7 +118,10 @@ Other:
 #### Berkely
 - CS 61A
 - CS 61B
-- CS 61C · [Spring 2015 Site](https://inst.eecs.berkeley.edu/~cs61c/sp15/) · [Semester archives](https://inst.eecs.berkeley.edu/~cs61c/archives.html) 
+- CS 61C
+ · [📺](https://youtube.com/playlist?list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)
+ · [Spring 2015 Site](https://inst.eecs.berkeley.edu/~cs61c/sp15/)
+ · [Semester archives](https://inst.eecs.berkeley.edu/~cs61c/archives.html) 
 
 #### Stanford
 https://www.coursicle.com/stanford/courses/CS/
