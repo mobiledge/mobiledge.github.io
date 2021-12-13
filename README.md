@@ -36,9 +36,9 @@ Quicklinks: [Javascript](https://github.com/mobilege/web-development/blob/master
 
 #### Core CS 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-- [Programming: **Structure and Interpretation of Computer Programs**](https://github.com/mobilege/sicp/blob/master/README.md)
-- [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md#computer-architecture)
-- [**Algorithms and Data Structures**](https://github.com/mobilege/algorithms)
+- [Programming: Structure and Interpretation of Computer Programs](https://github.com/mobilege/sicp/blob/master/README.md)
+- [**Computer Architecture**](https://github.com/mobilege/computer-architecture/blob/master/README.md#computer-architecture)
+- [Algorithms and Data Structures](https://github.com/mobilege/algorithms)
 - Math for CS
 - Operating Systems
 - [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md)
