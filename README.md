@@ -110,7 +110,7 @@ Other:
 - Thing 2: Text editing in Vim
 - Thing 3: Networking with SSH
 - Thing 4: Version Control with Git
-- Thing 5: Package Managers 
+- Thing 5: [Package Managers](https://github.com/mobilege/mobilege.github.io/blob/master/tools/package-managers.md) 
 
 [Back to Top ↑ ](#table-of-contents)
 
