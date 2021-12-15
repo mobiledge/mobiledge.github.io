@@ -109,7 +109,8 @@ Other:
 - Thing 1: Linux Command Line
 - Thing 2: Text editing in Vim
 - Thing 3: Networking with SSH
-- Thing 4: Version Control with Git 
+- Thing 4: Version Control with Git
+- Thing 5: Package Managers 
 
 [Back to Top ↑ ](#table-of-contents)
 
