@@ -119,7 +119,7 @@ Other:
 #### Berkely
 - CS 61A
 - CS 61B
-- [CS 61C]()
+- [CS 61C](https://github.com/mobilege/computer-architecture/blob/master/README.md#great-ideas-in-computer-architecture---uc-berkeley---youtube)
 
 
 #### Stanford
