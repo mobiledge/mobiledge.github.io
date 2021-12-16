@@ -125,6 +125,13 @@ Other:
 #### Stanford
 https://www.coursicle.com/stanford/courses/CS/
 
+<details><summary>CS105</summary>
+  
+  > A lightweight introduction to CS ideas, but without as much coding as CS106A.
+  - Site: http://web.stanford.edu/class/cs105/
+  - Videos: https://www.youtube.com/playlist?list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN
+</details>
+
 <details><summary>CS106A - Python</summary>
   
   > First course in programming and computer science, for people who with zero experience.
@@ -138,11 +145,6 @@ https://www.coursicle.com/stanford/courses/CS/
 <details><summary>CS106X - C++</summary>
   
   > The more advanced of two courses teaching introductory programming abstractions and algorithms. CS106X is an alternative to the more sensibly paced CS106B, because some students—self-taught programmers, exceptionally strong CS106A students, and AP Java graduates—prefer a more intense treatment in the company of other aficionados.
-</details>
-
-<details><summary>CS105</summary>
-  
-  > A more lightweight introduction to CS ideas, but without as much coding as CS106A.
 </details>
 
 <details><summary>CS193q - Python</summary>
