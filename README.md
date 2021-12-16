@@ -31,7 +31,7 @@ Quicklinks: [SwiftUI](https://github.com/mobilege/ios-development/blob/master/sw
 
 
 #### [Web Dev](https://github.com/mobilege/web-development#web-development)
-Quicklinks: [Javascript](https://github.com/mobilege/web-development/blob/master/javascript.md)
+Quicklinks: [Javascript](https://github.com/mobilege/web-development/blob/master/javascript.md), Node.js, Express
 
 
 #### Core CS 
