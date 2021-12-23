@@ -95,13 +95,14 @@ Other:
 
 
 7L7W: Ruby, Io, Prolog, Scala, Erlang, Clojure, Haskell
-*Learn the dynamic typing that makes Ruby, Python, and Perl so flexible and compelling.\ 
-Understand the underlying prototype system that’s at the heart of JavaScript.\ 
-See how pattern matching in Prolog shaped the development of Scala and Erlang.\ 
+
+*Learn the dynamic typing that makes Ruby, Python, and Perl so flexible and compelling.\
+Understand the underlying prototype system that’s at the heart of JavaScript.\
+See how pattern matching in Prolog shaped the development of Scala and Erlang.\
 Discover how pure functional programming in Haskell is different from the Lisp family of languages, including Clojure.\
-Explore the concurrency techniques that are quickly becoming the backbone of a new generation of Internet applications.\ 
-Find out how to use Erlang’s let-it-crash philosophy for building fault-tolerant systems. 
-Understand the actor model that drives concurrency design in Io and Scala.\ 
+Explore the concurrency techniques that are quickly becoming the backbone of a new generation of Internet applications.\
+Find out how to use Erlang’s let-it-crash philosophy for building fault-tolerant systems.\
+Understand the actor model that drives concurrency design in Io and Scala.\
 Learn how Clojure uses versioning to solve some of the most difficult concurrency problems.*
 
 [Back to Top ↑ ](#table-of-contents)
