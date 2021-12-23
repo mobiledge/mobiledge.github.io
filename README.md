@@ -105,6 +105,17 @@ Find out how to use Erlang’s let-it-crash philosophy for building fault-tolera
 Understand the actor model that drives concurrency design in Io and Scala.\
 Learn how Clojure uses versioning to solve some of the most difficult concurrency problems.*
 
+7ML7W: 
+
+- Factor: composition of functions -  concatenative
+- Lua: prototypes
+- Elm: reactive
+- Elixir: distributed - Erlang virtual machine - Clojure-style macros - syntax of Ruby
+- Julia: multicore architectures - Scientific computing
+- MiniKanren: logic programs (like Mercury or Prolog)
+- Idris: type model - (like Haskell, Agda)
+
+
 [Back to Top ↑ ](#table-of-contents)
 
 ## 48 Ideas
