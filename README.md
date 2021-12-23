@@ -212,7 +212,7 @@ https://www.coursicle.com/stanford/courses/CS/
 ## Rules
 
 #### Rules for Learning
-*See > Do > Save*
+*See > Do > Save > Repeat*
 - Understand & accept that it'll take **several iterations** each from a different sources.
 - Pick a **primary source** to learn from (book, mooc, etc) based on complexity.
 - For each topic, progress through the 3 levels of learning:
