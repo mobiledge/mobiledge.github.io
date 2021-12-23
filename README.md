@@ -8,30 +8,20 @@ mobilege.github.io
 
 ## Table of Contents
 - [Domains](#domains)
-- [Subjects](#subjects)
 - [Languages](#languages)
 - [48 Ideas](#48-ideas)
 - [Courses](#courses)
 - [Rules](#rules)
 - [Markdown Cheatsheet](#markdown-cheatsheet)
+- [Mind Maps](https://miro.com/app/dashboard/)
+- [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
 
 ## Domains
-- Platforms: [iOS Dev](#ios-dev), [Web Dev](#web-dev)
+- Platforms: 
+[iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md) · 
+[Web Dev](https://github.com/mobilege/web-development#web-development)
 - Fundamentals: [Core CS](#core-cs), [Core Math](#core-math), [Core SD](#core-sd-software-development)
 - Applications: [Blockchain & Finance](#trading--finance), Data Science, [Graphics & Games](#graphics--games)
-
-[Mind Maps](https://miro.com/app/dashboard/)
-
-[GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
-
-## Subjects
-
-#### [iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
-Quicklinks: [SwiftUI](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
-
-
-#### [Web Dev](https://github.com/mobilege/web-development#web-development)
-Quicklinks: [Javascript](https://github.com/mobilege/web-development/blob/master/javascript.md), Node.js, Express
 
 
 #### Core CS 
