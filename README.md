@@ -18,8 +18,8 @@ mobilege.github.io
 
 ## Domains
 - Platforms: 
-[iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md) · 
-[Web Dev](https://github.com/mobilege/web-development#web-development)
+[📱 iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md) · 
+[🌐 Web Dev](https://github.com/mobilege/web-development#web-development)
 - Fundamentals: [Core CS](#core-cs), [Core Math](#core-math), [Core SD](#core-sd-software-development)
 - Applications: [Blockchain & Finance](#trading--finance), Data Science, [Graphics & Games](#graphics--games), [IoT](#iot)
 
