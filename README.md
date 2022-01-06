@@ -21,7 +21,11 @@ mobilege.github.io
 [📱 iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md) · 
 [🌐 Web Dev](https://github.com/mobilege/web-development#web-development)
 - Fundamentals: [Core CS](#core-cs), [Core Math](#core-math), [Core SD](#core-sd-software-development)
-- Applications: [Blockchain & Finance](#trading--finance), Data Science, [Graphics & Games](#graphics--games), [IoT](#iot)
+- Applications: 
+[Blockchain & Finance](#trading--finance), 
+[Data Science](https://github.com/mobilege/data-science/blob/master/README.md), 
+[Graphics & Games](#graphics--games), 
+[IoT](#iot)
 
 
 #### Core CS 
