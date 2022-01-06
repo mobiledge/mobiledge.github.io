@@ -77,9 +77,7 @@ Other:
 [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md), 
 [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
 - Dynamic:
-[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md)
-/ [data-science](https://github.com/mobilege/data-science/blob/master/README.md)
-/ [python](https://github.com/mobilege/data-science/blob/master/python.md) 
+[Python](https://github.com/mobilege/data-science/blob/master/python.md) 
 [Ruby](https://github.com/mobilege/ruby/blob/master/README.md) 
 - Functional: 
 [Haskell](https://github.com/mobilege/haskell/blob/master/README.md),
