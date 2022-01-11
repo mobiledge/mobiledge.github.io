@@ -223,9 +223,9 @@ https://www.coursicle.com/stanford/courses/CS/
 - Understand & accept that it'll take **several iterations** each from a different sources.
 - Pick a **primary source** to learn from (book, mooc, etc) based on complexity.
 - For each topic, progress through the 3 levels of learning:
-- Level 1 - Watch videos etc, try to build intuition > Write down the basic concept in your own words.
-- Level 2 - Practice/Implement exercises/examples etc to gain a greater degree of mastery.
-- Level 3 - Document/Organize/Save sources, snippets etc.
+- Level 1 - Watch videos etc, aim to build intuition.
+- Level 2 - Read books, aim to understand slightly thoroughly & somewhat deeply. 
+- Level 3 - Practice/Implement exercises/examples etc to gain a degree of mastery.
 
 *Listen for intuition, Read for understanding, Practice for mastery, Repeat for memory.*
 
