@@ -10,9 +10,9 @@ mobilege.github.io
 - [Domains](#domains)
 - [Languages](#languages)
 - [48 Ideas](#48-ideas)
-- [Courses](#courses)
 - [Rules](#rules)
 - [Markdown Cheatsheet](#markdown-cheatsheet)
+- [Courses](#https://github.com/mobilege/mobilege.github.io/blob/master/courses.md)
 - [Mind Maps](https://miro.com/app/dashboard/)
 - [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
 
