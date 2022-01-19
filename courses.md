@@ -1,5 +1,11 @@
 # Courses
 
+## Books
+
+#### Operating Systems
+- [Linux with Operating System Concepts](https://www.amazon.ca/Linux-Operating-System-Concepts-Richard-ebook/dp/B00MMOJ84Q/)
+
+
 ## Courses
 
 #### Berkely
