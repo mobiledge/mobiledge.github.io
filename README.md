@@ -150,6 +150,8 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 
 *Listen for intuition, Read for understanding, Practice for mastery, Repeat for memory.*
 
+*Everyday, learn something new, and revise something old.*
+
 #### Rules for Organization
 - Product Type (App, SAAS, Trading etc) 
 - Domain: Repo
