@@ -44,10 +44,12 @@ Other:
 - [ossu/computer-science](https://github.com/ossu/computer-science)
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 
-*8 Subjects (excl Math) | 4yrs @ 2sub/yr*
-
-Other:
-- [Unix](https://github.com/mobilege/unix)
+#### Essential Tools & Techniques
+- [Unix](https://github.com/mobilege/unix) 
+- Vim *Text editing using Vim*
+- SSH *Linux Networking* 
+- [Package Managers](https://github.com/mobilege/mobilege.github.io/blob/master/tools/package-managers.md) 
+- Git
 
 #### Core Math
 - Single Variable Calculus *101 topics, 39 lectures*
