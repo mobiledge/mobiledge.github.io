@@ -6,8 +6,16 @@
 mobilege.github.io
 ==================
 
-## Table of Contents
-- [Domains](#domains)
+Table of Contents
+- [📱 iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md) · 
+- [🌐 Web Dev](https://github.com/mobilege/web-development/blob/master/README.md)
+- [Core CS](#core-cs)
+- [Core Math](#core-math)
+- [Core SD](#core-sd-software-development)
+- [Blockchain & Finance](#trading--finance) 
+- [Data Science](https://github.com/mobilege/data-science/blob/master/README.md), 
+- [Graphics & Games](#graphics--games), 
+- [IoT](#iot)
 - [Languages](#languages)
 - [48 Ideas](#48-ideas)
 - [Rules](#rules)
@@ -15,17 +23,6 @@ mobilege.github.io
 - [Courses](https://github.com/mobilege/mobilege.github.io/blob/master/courses.md)
 - [Mind Maps](https://miro.com/app/dashboard/)
 - [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
-
-## Domains
-- Platforms: 
-[📱 iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md) · 
-[🌐 Web Dev](https://github.com/mobilege/web-development/blob/master/README.md)
-- Fundamentals: [Core CS](#core-cs), [Core Math](#core-math), [Core SD](#core-sd-software-development)
-- Applications: 
-[Blockchain & Finance](#trading--finance), 
-[Data Science](https://github.com/mobilege/data-science/blob/master/README.md), 
-[Graphics & Games](#graphics--games), 
-[IoT](#iot)
 
 
 #### Core CS 
