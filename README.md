@@ -7,9 +7,18 @@ mobilege.github.io
 ==================
 
 Table of Contents
-- [📱 iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md) · 
+- [📱 iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
 - [🌐 Web Dev](https://github.com/mobilege/web-development/blob/master/README.md)
 - [Core CS](#core-cs)
+  - [Programming: Structure and Interpretation of Computer Programs](https://github.com/mobilege/sicp/blob/master/README.md)
+  - [**Computer Architecture**](https://github.com/mobilege/computer-architecture/blob/master/README.md#computer-architecture)
+  - [Algorithms and Data Structures](https://github.com/mobilege/algorithms)
+  - Math for CS
+  - Operating Systems
+  - [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md)
+  - Databases
+  - [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
+  - [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
 - [Core Math](#core-math)
 - [Core SD](#core-sd-software-development)
 - [Blockchain & Finance](#trading--finance) 
@@ -30,15 +39,7 @@ Table of Contents
 [ossu/computer-science](https://github.com/ossu/computer-science) · 
 [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 
-- [Programming: Structure and Interpretation of Computer Programs](https://github.com/mobilege/sicp/blob/master/README.md)
-- [**Computer Architecture**](https://github.com/mobilege/computer-architecture/blob/master/README.md#computer-architecture)
-- [Algorithms and Data Structures](https://github.com/mobilege/algorithms)
-- Math for CS
-- Operating Systems
-- [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md)
-- Databases
-- [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
-- [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
+
 
 
 #### Essential Tools & Techniques
