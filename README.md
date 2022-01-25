@@ -19,6 +19,7 @@ Table of Contents
   - Databases
   - [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
   - [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
+- [Essential Tools & Techniques]()
 - [Core Math](#core-math)
 - [Core SD](#core-sd-software-development)
 - [Blockchain & Finance](#trading--finance) 
@@ -35,11 +36,9 @@ Table of Contents
 
 
 #### Core CS 
-[Teach Yourself Computer Science](https://teachyourselfcs.com/) · 
-[ossu/computer-science](https://github.com/ossu/computer-science) · 
-[A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
-
-
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [ossu/computer-science](https://github.com/ossu/computer-science)
+- [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 
 
 #### Essential Tools & Techniques
