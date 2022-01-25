@@ -29,7 +29,10 @@ mobilege.github.io
 
 
 #### Core CS 
-[Teach Yourself Computer Science](https://teachyourselfcs.com/)
+[Teach Yourself Computer Science](https://teachyourselfcs.com/)\ 
+[ossu/computer-science](https://github.com/ossu/computer-science)\ 
+[A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
+
 - [Programming: Structure and Interpretation of Computer Programs](https://github.com/mobilege/sicp/blob/master/README.md)
 - [**Computer Architecture**](https://github.com/mobilege/computer-architecture/blob/master/README.md#computer-architecture)
 - [Algorithms and Data Structures](https://github.com/mobilege/algorithms)
@@ -40,9 +43,6 @@ mobilege.github.io
 - [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
 - [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
 
-Other:
-- [ossu/computer-science](https://github.com/ossu/computer-science)
-- [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 
 #### Essential Tools & Techniques
 - [Unix](https://github.com/mobilege/unix) 
