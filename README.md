@@ -30,7 +30,7 @@ mobilege.github.io
 
 #### Core CS 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/) · 
-[ossu/computer-science](https://github.com/ossu/computer-science) ·  
+[ossu/computer-science](https://github.com/ossu/computer-science) · 
 [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 
 - [Programming: Structure and Interpretation of Computer Programs](https://github.com/mobilege/sicp/blob/master/README.md)
