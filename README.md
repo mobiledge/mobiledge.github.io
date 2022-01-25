@@ -20,7 +20,7 @@ Table of Contents
   - [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
   - [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
 - [Essential Tools & Techniques](#essential-tools--techniques)
-  - [Unix](https://github.com/mobilege/unix) 
+  - [**Unix**](https://github.com/mobilege/unix) 
   - Vim *Text editing using Vim*
   - SSH *Linux Networking* 
   - [Package Managers](https://github.com/mobilege/mobilege.github.io/blob/master/tools/package-managers.md) 
