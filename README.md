@@ -53,10 +53,6 @@ Table of Contents
 
 [Back to Top ↑ ](#table-of-contents)
 
-#### Essential Tools & Techniques
-
-[Back to Top ↑ ](#table-of-contents)
-
 #### Software Development
 - Estimation
 - Refactoring
