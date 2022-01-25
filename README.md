@@ -23,7 +23,6 @@ Table of Contents
     - SSH *Linux Networking* 
     - [Package Managers](https://github.com/mobilege/mobilege.github.io/blob/master/tools/package-managers.md) 
     - Git
-  - Cloud `Infrastructure`
 - [Software Development](#software-development)
 - [Languages](#languages)
   - [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md)
