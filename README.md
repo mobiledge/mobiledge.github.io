@@ -11,7 +11,7 @@ Table of Contents
 - [🌐 Web Dev](https://github.com/mobilege/web-development/blob/master/README.md)
 - [Core CS](#core-cs)
   - [Programming: Structure and Interpretation of Computer Programs](https://github.com/mobilege/sicp/blob/master/README.md)
-  - [**Computer Architecture**](https://github.com/mobilege/computer-architecture/blob/master/README.md#computer-architecture)
+  - [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md#computer-architecture)
   - [Algorithms and Data Structures](https://github.com/mobilege/algorithms)
   - Math for CS
   - Operating Systems
@@ -35,8 +35,8 @@ Table of Contents
   - [ML Language](https://github.com/mobilege/ml-language/blob/master/README.md) 
 - [Core Math](#core-math)
 - [Blockchain & Finance](#trading--finance) 
-- [Data Science](https://github.com/mobilege/data-science/blob/master/README.md), 
-- [Graphics & Games](#graphics--games), 
+- [Data Science](https://github.com/mobilege/data-science/blob/master/README.md)
+- [Graphics & Games](#graphics--games)
 - [IoT](#iot)
 - [48 Ideas](#48-ideas)
 - [Rules](#rules)
