@@ -10,21 +10,20 @@ Table of Contents
 - [📱 iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
 - [🌐 Web Dev](https://github.com/mobilege/web-development/blob/master/README.md)
 - [Core CS](#core-cs)
+  - [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md#computer-architecture) *<Systems>*
+  - Operating Systems *<Systems>*
+  - [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md) *<Systems>*
+  - [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md) *<Systems>*
   - [Programming: Structure and Interpretation of Computer Programs](https://github.com/mobilege/sicp/blob/master/README.md)
-  - [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md#computer-architecture)
   - [Algorithms and Data Structures](https://github.com/mobilege/algorithms)
-  - Math for CS
-  - Operating Systems
-  - [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md)
   - Databases
-  - [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
   - [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
-- [Essential Tools & Techniques](#essential-tools--techniques)
-  - [**Unix**](https://github.com/mobilege/unix) 
-  - Vim *Text editing using Vim*
-  - SSH *Linux Networking* 
-  - [Package Managers](https://github.com/mobilege/mobilege.github.io/blob/master/tools/package-managers.md) 
-  - Git
+  - [**Unix**](https://github.com/mobilege/unix) <*Infrastructure?*>
+    - Vim *Text editing using Vim*
+    - SSH *Linux Networking* 
+    - [Package Managers](https://github.com/mobilege/mobilege.github.io/blob/master/tools/package-managers.md) 
+    - Git
+  - Cloud <*Infrastructure?*>
 - [Software Development](#software-development)
 - [Languages](#languages)
   - [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md)
