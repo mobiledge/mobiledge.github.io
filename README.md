@@ -40,6 +40,10 @@ mobilege.github.io
 - [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
 - [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
 
+Other:
+- [ossu/computer-science](https://github.com/ossu/computer-science)
+- [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
+
 *8 Subjects (excl Math) | 4yrs @ 2sub/yr*
 
 Other:
