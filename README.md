@@ -19,14 +19,25 @@ Table of Contents
   - Databases
   - [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
   - [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
-- [Essential Tools & Techniques]()
+- [Essential Tools & Techniques](#essential-tools--techniques)
+  - [Unix](https://github.com/mobilege/unix) 
+  - Vim *Text editing using Vim*
+  - SSH *Linux Networking* 
+  - [Package Managers](https://github.com/mobilege/mobilege.github.io/blob/master/tools/package-managers.md) 
+  - Git
+- [Software Development](#software-development)
+- [Languages](#languages)
+  - [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md)
+  - [Swift](https://github.com/mobilege/swift/blob/master/README.md)
+  - [Python](https://github.com/mobilege/data-science/blob/master/python.md) 
+  - [Ruby](https://github.com/mobilege/ruby/blob/master/README.md) 
+  - [Haskell](https://github.com/mobilege/haskell/blob/master/README.md)
+  - [ML Language](https://github.com/mobilege/ml-language/blob/master/README.md) 
 - [Core Math](#core-math)
-- [Core SD](#core-sd-software-development)
 - [Blockchain & Finance](#trading--finance) 
 - [Data Science](https://github.com/mobilege/data-science/blob/master/README.md), 
 - [Graphics & Games](#graphics--games), 
 - [IoT](#iot)
-- [Languages](#languages)
 - [48 Ideas](#48-ideas)
 - [Rules](#rules)
 - [Markdown Cheatsheet](#markdown-cheatsheet)
@@ -34,53 +45,31 @@ Table of Contents
 - [Mind Maps](https://miro.com/app/dashboard/)
 - [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
 
+[Back to Top ↑ ](#table-of-contents)
 
 #### Core CS 
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [ossu/computer-science](https://github.com/ossu/computer-science)
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 
+[Back to Top ↑ ](#table-of-contents)
 
 #### Essential Tools & Techniques
-- [Unix](https://github.com/mobilege/unix) 
-- Vim *Text editing using Vim*
-- SSH *Linux Networking* 
-- [Package Managers](https://github.com/mobilege/mobilege.github.io/blob/master/tools/package-managers.md) 
-- Git
 
-#### Core Math
-- Single Variable Calculus *101 topics, 39 lectures*
-- [Multivariable Calculus](https://github.com/mobilege/multivariable-calculus/blob/master/README.md) *98 topics, 35 lectures*
-- [Linear Algebra](https://github.com/mobilege/linear-algebra/blob/master/README.md) *34 lectures*
-- [Probability](https://github.com/mobilege/probability/blob/master/README.md) *25 lectures*
-- [Statistics](https://github.com/mobilege/statistics/blob/master/README.md) *24 lectures*
-*5 Subjects | ~150 lectures | 2yrs @ 1 lec/wk*
+[Back to Top ↑ ](#table-of-contents)
 
-
-#### Core SD (Software Development)
+#### Software Development
 - Estimation
 - Refactoring
 - [Software Engineering & Architecture](https://github.com/mobilege/software-engg-arch/blob/master/README.md)
 - UML
 
-#### Graphics & Games
-- [Computer Graphics](https://github.com/mobilege/computer-graphics/blob/master/README.md)
-
-#### Trading & Finance
-- [Data Science](https://github.com/mobilege/data-science/blob/master/README.md)
-
-#### IoT
-- [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
-
 [Back to Top ↑ ](#table-of-contents)
 
 ## Languages
 
-- iOS: 
-[Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md), 
-[**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
-- Dynamic:
-[Python](https://github.com/mobilege/data-science/blob/master/python.md) 
+- iOS: Objective-C, Swift
+- Dynamic: [Python](https://github.com/mobilege/data-science/blob/master/python.md) 
 [Ruby](https://github.com/mobilege/ruby/blob/master/README.md) 
 - Functional: 
 [Haskell](https://github.com/mobilege/haskell/blob/master/README.md),
@@ -92,7 +81,6 @@ Table of Contents
 - Prototype languages: Javascript, Io (7L7W)
 - Concurrent, Distributed, Fault-tolerant: Erlang (7L7W), Elixir (7CM7W *Actors*)
 - Logic programming: Prolog (7L7W)
-
 
 7L7W: Ruby, Io, Prolog, Scala, Erlang, Clojure, Haskell
 
@@ -115,6 +103,30 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 - MiniKanren: logic programs (like Mercury or Prolog)
 - Idris: type model - (like Haskell, Agda)
 
+[Back to Top ↑ ](#table-of-contents)
+
+#### Core Math
+- Single Variable Calculus *101 topics, 39 lectures*
+- [Multivariable Calculus](https://github.com/mobilege/multivariable-calculus/blob/master/README.md) *98 topics, 35 lectures*
+- [Linear Algebra](https://github.com/mobilege/linear-algebra/blob/master/README.md) *34 lectures*
+- [Probability](https://github.com/mobilege/probability/blob/master/README.md) *25 lectures*
+- [Statistics](https://github.com/mobilege/statistics/blob/master/README.md) *24 lectures*
+*5 Subjects | ~150 lectures | 2yrs @ 1 lec/wk*
+
+[Back to Top ↑ ](#table-of-contents)
+
+#### Graphics & Games
+- [Computer Graphics](https://github.com/mobilege/computer-graphics/blob/master/README.md)
+
+[Back to Top ↑ ](#table-of-contents)
+
+#### Trading & Finance
+- [Data Science](https://github.com/mobilege/data-science/blob/master/README.md)
+
+[Back to Top ↑ ](#table-of-contents)
+
+#### IoT
+- [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
 
 [Back to Top ↑ ](#table-of-contents)
 
@@ -126,17 +138,13 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 - Idea 2: Searching (DS & Algo)
 - Idea 3: Graphs (DS & Algo)
 
-
 #### 48 Tools in CS *that all Software Devs should know*
 *Watch, Read, Do, Practice*
 - Thing 1: Linux Command Line
 - Thing 2: Text editing in Vim
 - Thing 3: Networking with SSH
 - Thing 4: Version Control with Git
-- Thing 5: [Package Managers](https://github.com/mobilege/mobilege.github.io/blob/master/tools/package-managers.md) 
-
-[Back to Top ↑ ](#table-of-contents)
-
+- Thing 5: Package Managers
 
 [Back to Top ↑ ](#table-of-contents)
 
