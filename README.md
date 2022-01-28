@@ -10,7 +10,7 @@ Table of Contents
 - [📱 iOS Dev](https://github.com/mobilege/ios-development/blob/master/README.md)
 - [🌐 Web Dev](https://github.com/mobilege/web-development/blob/master/README.md)
 - [Core CS](#core-cs)
-  - [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md#computer-architecture) `Systems`
+  - [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md) `Systems`
   - [Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md) `Systems`
   - [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md) `Systems`
   - [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md) `Systems`
