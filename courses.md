@@ -59,6 +59,15 @@ https://www.coursicle.com/stanford/courses/CS/
 
 <p></details>
 
+<details><summary>CS 110 - Principles of Computer Systems</summary>
+  
+  > Principles and practice of engineering of computer software and hardware systems. Topics include: techniques for controlling complexity; strong modularity using client-server design, virtual memory, and threads; networks; atomicity and coordination of parallel activities; security, and encryption; and performance optimizations. 
+  - Videos: https://youtube.com/playlist?list=PLu77E6J7s6Ko3Ft4XcOX1yKW6iX3eEFqS
+
+<p></details>
+
+
+
 #### MIT
 - Data Science - [6.0001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/), 
 [6.0002](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
