@@ -62,6 +62,7 @@ https://www.coursicle.com/stanford/courses/CS/
 <details><summary>CS 110 - Principles of Computer Systems</summary>
   
   > Principles and practice of engineering of computer software and hardware systems. Topics include: techniques for controlling complexity; strong modularity using client-server design, virtual memory, and threads; networks; atomicity and coordination of parallel activities; security, and encryption; and performance optimizations. 
+  - Prerequisite: 107
   - Videos: https://youtube.com/playlist?list=PLu77E6J7s6Ko3Ft4XcOX1yKW6iX3eEFqS
 
 <p></details>
