@@ -67,6 +67,14 @@ https://www.coursicle.com/stanford/courses/CS/
 
 <p></details>
 
+<details><summary> CS 144 - Introduction to Computer Networking </summary>
+  
+  > 
+  - Prerequisite: 110
+  - Videos: https://youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS
+
+<p></details>
+
 
 
 #### MIT
