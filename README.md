@@ -11,7 +11,7 @@ Table of Contents
 - [🌐 Web Dev](https://github.com/mobilege/web-development/blob/master/README.md)
 - [Core CS](#core-cs)
   - [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md#computer-architecture) `Systems`
-  - Operating Systems `Systems`
+  - [Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md) `Systems`
   - [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md) `Systems`
   - [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md) `Systems`
   - [Programming: Structure and Interpretation of Computer Programs](https://github.com/mobilege/sicp/blob/master/README.md)
