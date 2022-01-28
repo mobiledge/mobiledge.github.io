@@ -34,9 +34,11 @@ https://www.coursicle.com/stanford/courses/CS/
   > The second course, teaching more advanced programming and computer science for people who know basic programming.
 </details>
 
-<details><summary>CS106X - C++</summary>
+<details><summary>CS 106X - Programming Abstractions (Accelerated) - C++</summary>
   
   > The more advanced of two courses teaching introductory programming abstractions and algorithms. CS106X is an alternative to the more sensibly paced CS106B, because some students—self-taught programmers, exceptionally strong CS106A students, and AP Java graduates—prefer a more intense treatment in the company of other aficionados.
+  - Videos: https://youtube.com/playlist?list=PLoCMsyE1cvdVmbGH6Jp-9twXPbi5J_IBT
+  
 </details>
 
 <details><summary>CS193q - Python</summary>
