@@ -17,7 +17,7 @@
 #### Stanford
 https://www.coursicle.com/stanford/courses/CS/
 
-<details><summary>CS105</summary>
+<details><summary>CS 105 - Introduction to Computers</summary>
   
   > A lightweight introduction to CS ideas, but without as much coding as CS106A.
   - Site: http://web.stanford.edu/class/cs105/
