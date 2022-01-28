@@ -9,6 +9,7 @@
 ## Courses
 
 #### Berkely
+[CS Courses](https://www2.eecs.berkeley.edu/Courses/CS/)
 - CS 61A
 - CS 61B
 - [CS 61C](https://github.com/mobilege/computer-architecture/blob/master/README.md#great-ideas-in-computer-architecture---uc-berkeley---youtube)
