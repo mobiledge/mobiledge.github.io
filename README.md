@@ -136,6 +136,7 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 - Thing 4: Version Control with Git
 - Thing 5: Package Managers
 
+[⇧ Back to Top ⇧](#table-of-contents)
 
 ## Rules
 
