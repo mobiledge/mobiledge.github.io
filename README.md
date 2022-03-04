@@ -43,7 +43,7 @@ Table of Contents
 - [Mind Maps](https://miro.com/app/dashboard/)
 - [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
 
-[Back to Top ↑ ](#table-of-contents)
+[⇧ Back to Top ⇧](#table-of-contents)
 
 #### Core CS 
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
@@ -58,7 +58,7 @@ Table of Contents
 - [Software Engineering & Architecture](https://github.com/mobilege/software-engg-arch/blob/master/README.md)
 - UML
 
-[Back to Top ↑ ](#table-of-contents)
+[⇧ Back to Top ⇧](#table-of-contents)
 
 ## Languages
 
@@ -122,7 +122,7 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 #### IoT
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
 
-[Back to Top ↑ ](#table-of-contents)
+[⇧ Back to Top ⇧](#table-of-contents)
 
 ## 48 Ideas
 
@@ -140,7 +140,7 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 - Thing 4: Version Control with Git
 - Thing 5: Package Managers
 
-[Back to Top ↑ ](#table-of-contents)
+[⇧ Back to Top ⇧](#table-of-contents)
 
 ## Rules
 
@@ -198,7 +198,7 @@ Pros of Code:
 - Easy dependency injection via initializers.
 
 
-[Back to Top ↑ ](#table-of-contents)
+[⇧ Back to Top ⇧](#table-of-contents)
 
 ## Markdown Cheatsheet
 
@@ -226,4 +226,4 @@ Pros of Code:
 - ut labore et dolore magna aliqua
 </details>
 
-[Back to Top ↑ ](#table-of-contents)
+[⇧ Back to Top ⇧](#table-of-contents)
