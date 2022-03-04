@@ -43,14 +43,12 @@ Table of Contents
 - [Mind Maps](https://miro.com/app/dashboard/)
 - [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
 
-[⇧ Back to Top ⇧](#table-of-contents)
 
 #### Core CS 
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [ossu/computer-science](https://github.com/ossu/computer-science)
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 
-[Back to Top ↑ ](#table-of-contents)
 
 #### Software Development
 - Estimation
@@ -59,6 +57,7 @@ Table of Contents
 - UML
 
 [⇧ Back to Top ⇧](#table-of-contents)
+
 
 ## Languages
 
@@ -97,7 +96,6 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 - MiniKanren: logic programs (like Mercury or Prolog)
 - Idris: type model - (like Haskell, Agda)
 
-[Back to Top ↑ ](#table-of-contents)
 
 #### Core Math
 - Single Variable Calculus *101 topics, 39 lectures*
@@ -107,22 +105,20 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 - [Statistics](https://github.com/mobilege/statistics/blob/master/README.md) *24 lectures*
 *5 Subjects | ~150 lectures | 2yrs @ 1 lec/wk*
 
-[Back to Top ↑ ](#table-of-contents)
 
 #### Graphics & Games
 - [Computer Graphics](https://github.com/mobilege/computer-graphics/blob/master/README.md)
 
-[Back to Top ↑ ](#table-of-contents)
 
 #### Trading & Finance
 - [Data Science](https://github.com/mobilege/data-science/blob/master/README.md)
 
-[Back to Top ↑ ](#table-of-contents)
 
 #### IoT
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
 
 [⇧ Back to Top ⇧](#table-of-contents)
+
 
 ## 48 Ideas
 
@@ -140,7 +136,6 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 - Thing 4: Version Control with Git
 - Thing 5: Package Managers
 
-[⇧ Back to Top ⇧](#table-of-contents)
 
 ## Rules
 
@@ -177,6 +172,8 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 - Make It Work, Make It Right, (Make It Fast?)
 - Make it Reuseable
 
+[⇧ Back to Top ⇧](#table-of-contents)
+
 
 ## Talking Points
 
@@ -197,8 +194,8 @@ Pros of SB:
 Pros of Code: 
 - Easy dependency injection via initializers.
 
-
 [⇧ Back to Top ⇧](#table-of-contents)
+
 
 ## Markdown Cheatsheet
 
