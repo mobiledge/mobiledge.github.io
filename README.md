@@ -4,8 +4,9 @@
 [Psychology](https://github.com/mobilege/psychology/blob/master/README.md)
 
 # mobilege
-- **[📱 iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)**
-- **[🌐 Web Development](https://github.com/mobilege/web-development/blob/master/README.md)**
+- [**📱 iOS Development**](https://github.com/mobilege/ios-development/blob/master/README.md)
+- [**🌐 Web Development**](https://github.com/mobilege/web-development/blob/master/README.md)
+- [**Unix**](https://github.com/mobilege/unix) `Infrastructure`
 - [Core CS](#core-cs)
   - [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md) `Systems`
   - [Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md) `Systems`
@@ -15,11 +16,6 @@
   - [Algorithms and Data Structures](https://github.com/mobilege/algorithms)
   - Databases
   - [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
-  - [**Unix**](https://github.com/mobilege/unix) `Infrastructure`
-    - Vim *Text editing using Vim*
-    - SSH *Linux Networking* 
-    - [Package Managers](https://github.com/mobilege/mobilege.github.io/blob/master/tools/package-managers.md) 
-    - Git
 - [Software Development](#software-development)
 - [Languages](#languages)
   - [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md)
