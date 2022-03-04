@@ -193,6 +193,8 @@ Pros of Code:
 
 ## Markdown Cheatsheet
 
+- [Basic formatting syntax - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 ###### Right aligned text
 ```
 <p align="right"><a href="#table-of-contents">Right aligned text</a></p>
