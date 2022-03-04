@@ -3,10 +3,7 @@
 [Marketing](https://github.com/mobilege/marketing/blob/master/README.md),
 [Psychology](https://github.com/mobilege/psychology/blob/master/README.md)
 
-mobilege.github.io
-==================
-
-Table of Contents
+# mobilege
 - **[📱 iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)**
 - **[🌐 Web Development](https://github.com/mobilege/web-development/blob/master/README.md)**
 - [Core CS](#core-cs)
@@ -56,7 +53,7 @@ Table of Contents
 - [Software Engineering & Architecture](https://github.com/mobilege/software-engg-arch/blob/master/README.md)
 - UML
 
-[⇧ Back to Top ⇧](#table-of-contents)
+[⇧ Back to Top ⇧](#mobilege)
 
 
 ## Languages
@@ -117,7 +114,7 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 #### IoT
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
 
-[⇧ Back to Top ⇧](#table-of-contents)
+[⇧ Back to Top ⇧](#mobilege)
 
 
 ## 48 Ideas
@@ -136,7 +133,7 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 - Thing 4: Version Control with Git
 - Thing 5: Package Managers
 
-[⇧ Back to Top ⇧](#table-of-contents)
+[⇧ Back to Top ⇧](#mobilege)
 
 ## Rules
 
@@ -173,7 +170,7 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 - Make It Work, Make It Right, (Make It Fast?)
 - Make it Reuseable
 
-[⇧ Back to Top ⇧](#table-of-contents)
+[⇧ Back to Top ⇧](#mobilege)
 
 
 ## Talking Points
@@ -195,7 +192,7 @@ Pros of SB:
 Pros of Code: 
 - Easy dependency injection via initializers.
 
-[⇧ Back to Top ⇧](#table-of-contents)
+[⇧ Back to Top ⇧](#mobilege)
 
 
 ## Markdown Cheatsheet
@@ -224,4 +221,4 @@ Pros of Code:
 - ut labore et dolore magna aliqua
 </details>
 
-[⇧ Back to Top ⇧](#table-of-contents)
+[⇧ Back to Top ⇧](#mobilege)
