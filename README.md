@@ -6,7 +6,7 @@
 # mobilege
 - [**📱 iOS Development**](https://github.com/mobilege/ios-development/blob/master/README.md)
 - [**🌐 Web Development**](https://github.com/mobilege/web-development/blob/master/README.md)
-- [**Unix**](https://github.com/mobilege/unix) `Infrastructure`
+- [**💻 Unix**](https://github.com/mobilege/unix) `Infrastructure`
 - [Core CS](#core-cs)
   - [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md) `Systems`
   - [Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md) `Systems`
