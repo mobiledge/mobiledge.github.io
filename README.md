@@ -26,7 +26,7 @@
   - [ML Language](https://github.com/mobilege/ml-language/blob/master/README.md) 
 - [Core Math](#core-math)
 - [Blockchain & Finance](#trading--finance) 
-- [Data Science](https://github.com/mobilege/data-science/blob/master/README.md)
+- [**Data Science**](https://github.com/mobilege/data-science/blob/master/README.md) · [SQL](https://github.com/mobilege/data-science/blob/master/sql.md)
 - [Graphics & Games](#graphics--games)
 - [IoT](#iot)
 - [48 Ideas](#48-ideas)
