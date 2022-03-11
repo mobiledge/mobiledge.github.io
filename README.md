@@ -5,7 +5,10 @@
 
 # mobilege
 - [**📱 iOS Development**](https://github.com/mobilege/ios-development/blob/master/README.md)
-- [**🌐 Web Development**](https://github.com/mobilege/web-development/blob/master/README.md)
+- [**🌐 Web Development**](https://github.com/mobilege/web-development/blob/master/README.md) · 
+[HTML](https://github.com/mobilege/web-development/blob/master/html.md) · 
+[CSS](https://github.com/mobilege/web-development/blob/master/css.md) · 
+[JS](https://github.com/mobilege/web-development/blob/master/javascript.md)
 - [**💻 Unix**](https://github.com/mobilege/unix) 
 - [Core CS](#core-cs)
   - [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md) `Systems`
