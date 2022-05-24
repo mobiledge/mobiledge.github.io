@@ -9,7 +9,10 @@
 [HTML](https://github.com/mobilege/web-development/blob/master/html.md) · 
 [CSS](https://github.com/mobilege/web-development/blob/master/css.md) · 
 [JS](https://github.com/mobilege/web-development/blob/master/javascript.md)
-- [**💻 Unix**](https://github.com/mobilege/unix) 
+- [**💻 Unix**](https://github.com/mobilege/unix) · 
+[ssh](https://github.com/mobilege/unix/blob/master/ssh.md) · 
+[vim](https://github.com/mobilege/unix/blob/master/vim.md) ·
+[git](https://github.com/mobilege/unix/blob/master/git.md)
 - [Core CS](#core-cs)
   - [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md) `Systems`
   - [Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md) `Systems`
