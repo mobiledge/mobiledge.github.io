@@ -16,7 +16,9 @@
 
 
 #### Stanford
-https://www.coursicle.com/stanford/courses/CS/
+
+- https://see.stanford.edu/Course
+- https://www.coursicle.com/stanford/courses/CS/
 
 <details><summary>CS 105 - Introduction to Computers</summary>
   
