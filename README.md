@@ -199,7 +199,10 @@ Pros of Code:
 [⇧ Back to Top ⇧](#mobilege)
 
 
-## Markdown Cheatsheet
+## Formatting & Markdown
+
+📖 Book
+🎦 Video / Lecture
 
 - [Basic formatting syntax - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
@@ -228,53 +231,3 @@ Pros of Code:
 </details>
 
 [⇧ Back to Top ⇧](#mobilege)
-
-
-```python
-#### Assignment
-# Creation
-- Declare a list of any 5 items 
-- Create a list of numbers from a given range
-- Create a list of letters from a given string
-
-# Element Access
-- Retrieve the first item of a list
-- Retrieve the last item of a list
-- Retrieve the n-th item of a list (accept n from user)
-
-- Retrieve the first 3 items of a list
-- Retrieve the last 3 items of a list
-
-
-# Adding Elements
-- Add a new item to the end of a list
-- Add a new item to the beginning of a list
-- Add a new item at the n-th index (accept n from the user)
-
-# Removing Elements
-- Remove the last item from a list
-- Remove the first item from a list
-- Remove the item at the n-th index (accept n from the user)
-
-- Remove a given item from a list
-    - Create an array of days Eg. [mon, tue, wed …]
-    - Accept a day from user Eg. wed
-    - Remove the given day from the list
-
-# Built-in methods
-- Find the number of items in a list
-- Find the biggest number in a list of numbers
-- Find the biggest number in a list of numbers
-
-
-# Iteration
-- Print every item in a list of numbers
-
-# Filter
-- Print only even numbers from a list of numbers
-- Print only vowels from a list of letters
-
-# Reduce
-- Calculate & print the count of even numbers in a list of numbers
-- Calculate & print the count of vowels in a list of letters
-```
