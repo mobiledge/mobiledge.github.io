@@ -4,7 +4,7 @@
 [Psychology](https://github.com/mobilege/psychology/blob/master/README.md)
 
 [Formatting & Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/formatting-markdown.md) · 
-[Ideas](https://github.com/mobilege/mobilege.github.io/tree/master) ·
+[Ideas](https://github.com/mobilege/mobilege.github.io/blob/master/ideas.md#ideas) ·
 [Rules](https://github.com/mobilege/mobilege.github.io/blob/master/rules.md#rules) ·
 
 
