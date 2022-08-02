@@ -3,6 +3,10 @@
 [Marketing](https://github.com/mobilege/marketing/blob/master/README.md),
 [Psychology](https://github.com/mobilege/psychology/blob/master/README.md)
 
+[Formatting & Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/formatting-markdown.md) · 
+[Rules](https://github.com/mobilege/mobilege.github.io/blob/master/rules.md) ·
+
+
 # mobilege
 - [**📱 iOS Development**](https://github.com/mobilege/ios-development/blob/master/README.md)
 - [**🌐 Web Development**](https://github.com/mobilege/web-development/blob/master/README.md) · 
@@ -139,68 +143,7 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 
 [⇧ Back to Top ⇧](#mobilege)
 
-## Rules
-
-#### Rules for Learning
-- Read/Watch > Write (in your own words). Goal is to build intution.
-- Code > Document (snippets). Goal is to solidify knowledge.
-- Understand & accept that it'll take **several iterations** each from a different sources.
-- Pick a **primary source** to learn from (book) based on complexity.
-- Listen for intuition, Read for understanding, Practice for mastery, Repeat for memory.
-- Everyday, learn something new, and revise something old.
-
-#### Rules for Organization
-- Product Type (App, SAAS, Trading etc) 
-- Domain: Repo
-- Subject: Page
-- Chapter: H2 tag 
-- Topic: H4 tag
-- Term: H6 tag
-
-
-#### Rules for adding content
-- Text: Use **consise** & **own words** based on **your** understanding
-- Code Snippets: Only log **verified**, **frequently used** code snippets
-- Links: Only log **good** sources in the form of links (not contents)
-
-
-#### Rules for coding
-- Make It Work, Make It Right, (Make It Fast?)
-- Make it Reuseable
 
 [⇧ Back to Top ⇧](#mobilege)
 
 
-## Formatting & Markdown
-
-📖 Book \
-🎦 Video / Lecture
-
-#### Markdown
-- [Basic formatting syntax - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-###### Right aligned text
-```
-<p align="right"><a href="#table-of-contents">Right aligned text</a></p>
-```
-<p align="right"><a href="#table-of-contents">Right aligned text</a></p>
-
-###### Collapse Section
-```
-<details><summary>Click to see more</summary>
-
-- lorem ipsum dolor sit amet, 
-- consectetur adipiscing elit, 
-- sed do eiusmod tempor incididunt 
-- ut labore et dolore magna aliqua
-</details>
-```
-<details><summary>Click to see more</summary>
-
-- lorem ipsum dolor sit amet, 
-- consectetur adipiscing elit, 
-- sed do eiusmod tempor incididunt 
-- ut labore et dolore magna aliqua
-</details>
-
-[⇧ Back to Top ⇧](#mobilege)
