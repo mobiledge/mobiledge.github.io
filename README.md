@@ -10,11 +10,11 @@
 
 # mobilege
 - [** iOS Development**](https://github.com/mobilege/ios-development/blob/master/README.md)
-- [**🌐 Web Development**](https://github.com/mobilege/web-development/blob/master/README.md) · 
+- [**Web Development**](https://github.com/mobilege/web-development/blob/master/README.md) · 
 [HTML](https://github.com/mobilege/web-development/blob/master/html.md) · 
 [CSS](https://github.com/mobilege/web-development/blob/master/css.md) · 
 [JS](https://github.com/mobilege/web-development/blob/master/javascript.md)
-- [**💻 Unix**](https://github.com/mobilege/unix) · 
+- [**Unix**](https://github.com/mobilege/unix) · 
 [ssh](https://github.com/mobilege/unix/blob/master/ssh.md) · 
 [vim](https://github.com/mobilege/unix/blob/master/vim.md) ·
 [git](https://github.com/mobilege/unix/blob/master/git.md)
