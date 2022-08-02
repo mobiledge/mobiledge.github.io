@@ -1,0 +1,33 @@
+# Formatting & Markdown
+
+📖 Book \
+🎦 Video / Lecture
+
+#### Markdown
+- [Basic formatting syntax - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+###### Right aligned text
+```
+<p align="right"><a href="#table-of-contents">Right aligned text</a></p>
+```
+<p align="right"><a href="#table-of-contents">Right aligned text</a></p>
+
+###### Collapse Section
+```
+<details><summary>Click to see more</summary>
+
+- lorem ipsum dolor sit amet, 
+- consectetur adipiscing elit, 
+- sed do eiusmod tempor incididunt 
+- ut labore et dolore magna aliqua
+</details>
+```
+<details><summary>Click to see more</summary>
+
+- lorem ipsum dolor sit amet, 
+- consectetur adipiscing elit, 
+- sed do eiusmod tempor incididunt 
+- ut labore et dolore magna aliqua
+</details>
+
+[⇧ Back to Top ⇧](#mobilege)
