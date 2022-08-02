@@ -130,7 +130,7 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 - Idea 3: Graphs (DS & Algo)
 
 #### 48 Tools in CS *that all Software Devs should know*
-*Watch, Read, Do, Practice*
+ (in your own words, focus on intuition, enjoy the process)*
 - Thing 1: Linux Command Line
 - Thing 2: Text editing in Vim
 - Thing 3: Networking with SSH
@@ -142,17 +142,12 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 ## Rules
 
 #### Rules for Learning
-*Watch > Read > Practice > Repeat*
+- Read/Watch > Write (in your own words). Goal is to build intution.
+- Code > Document (snippets). Goal is to solidify knowledge.
 - Understand & accept that it'll take **several iterations** each from a different sources.
-- Pick a **primary source** to learn from (book, mooc, etc) based on complexity.
-- For each topic, progress through the 3 levels of learning:
-- Level 1 - Watch videos etc, aim to build intuition.
-- Level 2 - Read books, aim to understand slightly thoroughly & somewhat deeply. 
-- Level 3 - Practice/Implement exercises/examples etc to gain a degree of mastery.
-
-*Listen for intuition, Read for understanding, Practice for mastery, Repeat for memory.*
-
-*Everyday, learn something new, and revise something old.*
+- Pick a **primary source** to learn from (book) based on complexity.
+- Listen for intuition, Read for understanding, Practice for mastery, Repeat for memory.
+- Everyday, learn something new, and revise something old.
 
 #### Rules for Organization
 - Product Type (App, SAAS, Trading etc) 
@@ -169,32 +164,9 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 - Links: Only log **good** sources in the form of links (not contents)
 
 
-
 #### Rules for coding
 - Make It Work, Make It Right, (Make It Fast?)
 - Make it Reuseable
-
-[⇧ Back to Top ⇧](#mobilege)
-
-
-## Talking Points
-
-_Move this someplace else_
-
-#### Native vs Non-native 
-
-Pros of native:
-- Hardware features
-- Local stotage
-- Menu Bar (Mac)
-
-#### Storyboards vs Code
-
-Pros of SB:
-- Less UI & layout code.
-
-Pros of Code: 
-- Easy dependency injection via initializers.
 
 [⇧ Back to Top ⇧](#mobilege)
 
