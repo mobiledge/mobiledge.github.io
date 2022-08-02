@@ -5,7 +5,7 @@
 
 [Formatting & Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/formatting-markdown.md) · 
 [Ideas](https://github.com/mobilege/mobilege.github.io/tree/master) ·
-[Rules](https://github.com/mobilege/mobilege.github.io/blob/master/rules.md) ·
+[Rules](https://github.com/mobilege/mobilege.github.io/blob/master/rules.md#rules) ·
 
 
 # mobilege
