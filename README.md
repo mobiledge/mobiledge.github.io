@@ -4,6 +4,7 @@
 [Psychology](https://github.com/mobilege/psychology/blob/master/README.md)
 
 [Formatting & Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/formatting-markdown.md) · 
+[Ideas](https://github.com/mobilege/mobilege.github.io/tree/master) ·
 [Rules](https://github.com/mobilege/mobilege.github.io/blob/master/rules.md) ·
 
 
@@ -121,28 +122,6 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 
 #### IoT
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
-
-[⇧ Back to Top ⇧](#mobilege)
-
-
-## 48 Ideas
-
-#### 48 Ideas in CS *that all Software Devs should know*
-*Build intuition. Enjoy the process*
-- Idea 1: Sorting (DS & Algo)
-- Idea 2: Searching (DS & Algo)
-- Idea 3: Graphs (DS & Algo)
-
-#### 48 Tools in CS *that all Software Devs should know*
- (in your own words, focus on intuition, enjoy the process)*
-- Thing 1: Linux Command Line
-- Thing 2: Text editing in Vim
-- Thing 3: Networking with SSH
-- Thing 4: Version Control with Git
-- Thing 5: Package Managers
-
-[⇧ Back to Top ⇧](#mobilege)
-
 
 [⇧ Back to Top ⇧](#mobilege)
 
