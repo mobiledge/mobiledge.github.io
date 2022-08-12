@@ -32,7 +32,7 @@
   - [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md)
   - [Swift](https://github.com/mobilege/swift/blob/master/README.md)
   - [Python](https://github.com/mobilege/data-science/blob/master/python.md) 
-  - [Ruby](https://github.com/mobilege/ruby/blob/master/README.md) 
+  - [Ruby](https://github.com/mobilege/web-development/blob/master/ruby.md) 
   - [Haskell](https://github.com/mobilege/haskell/blob/master/README.md)
   - [ML Language](https://github.com/mobilege/ml-language/blob/master/README.md) 
 - [Core Math](#core-math)
