@@ -81,7 +81,25 @@
 - Concurrent, Distributed, Fault-tolerant: Erlang (7L7W), Elixir (7CM7W *Actors*)
 - Logic programming: Prolog (7L7W)
 
-7L7W: Ruby, Io, Prolog, Scala, Erlang, Clojure, Haskell
+###### Lisp Based
+- Clojure (dialect of Lisp)
+- Scheme (dialect of Lisp)
+  - Racket
+    - Book: [How to Design Programs](https://htdp.org/2022-8-7/Book/index.html)
+
+###### ML Based
+- OCaml
+  - Reason   
+- F#
+
+###### Seven Languages in Seven Weeks
+- Ruby
+- Io
+- Prolog
+- Scala
+- Erlang
+- Clojure
+- Haskell
 
 *Learn the dynamic typing that makes Ruby, Python, and Perl so flexible and compelling.\
 Understand the underlying prototype system that’s at the heart of JavaScript.\
@@ -92,8 +110,7 @@ Find out how to use Erlang’s let-it-crash philosophy for building fault-tolera
 Understand the actor model that drives concurrency design in Io and Scala.\
 Learn how Clojure uses versioning to solve some of the most difficult concurrency problems.*
 
-7ML7W: 
-
+###### Seven More Languages in Seven Weeks
 - Factor: composition of functions -  concatenative
 - Lua: prototypes
 - Elm: reactive
