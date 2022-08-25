@@ -8,6 +8,15 @@
 #### Markdown
 - [Basic formatting syntax - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+###### Images
+
+```
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![This is an image](/img/electrocat.png)
+
+```
+
 ###### Right aligned text
 ```
 <p align="right"><a href="#table-of-contents">Right aligned text</a></p>
