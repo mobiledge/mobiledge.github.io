@@ -27,7 +27,7 @@
   - [Algorithms and Data Structures](https://github.com/mobilege/algorithms)
   - Databases
   - [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
-- [Software Development](#software-development)
+- Software Development
   - Agile & Scrum
   - Estimation
   - Refactoring
