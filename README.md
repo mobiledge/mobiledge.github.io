@@ -28,6 +28,11 @@
   - Databases
   - [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
 - [Software Development](#software-development)
+  - Agile & Scrum
+  - Estimation
+  - Refactoring
+  - [Software Engineering & Architecture](https://github.com/mobilege/software-engg-arch/blob/master/README.md)
+  - UML
 - [Languages](#languages)
   - [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md)
   - [Swift](https://github.com/mobilege/swift/blob/master/README.md)
@@ -55,12 +60,6 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science)
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 
-
-#### Software Development
-- Estimation
-- Refactoring
-- [Software Engineering & Architecture](https://github.com/mobilege/software-engg-arch/blob/master/README.md)
-- UML
 
 [⇧ Back to Top ⇧](#mobilege)
 
