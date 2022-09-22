@@ -28,7 +28,7 @@
   - Databases
   - [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
 - Software Development
-  - [Process](https://github.com/mobilege/software-development-process) (Agile, Scrum etc)
+  - [Process](https://github.com/mobilege/software-development-process/blob/main/README.md) (Agile, Scrum etc)
   - Estimation
   - Refactoring
   - [Software Engineering & Architecture](https://github.com/mobilege/software-engg-arch/blob/master/README.md)
