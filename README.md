@@ -54,7 +54,7 @@
 - [Mind Maps](https://miro.com/app/dashboard/)
 - [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
 - [Keyboard Shortcuts](#keyboard-shortcuts)
-  - [VS Code]()
+  - [VS Code](#vs-code)
 
 
 #### Core CS 
