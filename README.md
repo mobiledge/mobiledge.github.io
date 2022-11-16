@@ -53,6 +53,8 @@
 - [Courses](https://github.com/mobilege/mobilege.github.io/blob/master/courses.md)
 - [Mind Maps](https://miro.com/app/dashboard/)
 - [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
+- [Keyboard Shortcuts](#keyboard-shortcuts)
+  - [VS Code]()
 
 
 #### Core CS 
