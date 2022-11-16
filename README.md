@@ -142,7 +142,8 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 [⇧ Back to Top ⇧](#mobilege)
 
 
-#### Shortcuts - VS Code
+## Keyboard Shortcuts
+#### VS Code 
 
 `^` + `` ` `` Show integrated terminal (View > Terminal)
 
