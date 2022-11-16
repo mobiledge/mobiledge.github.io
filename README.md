@@ -145,6 +145,8 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 ## Keyboard Shortcuts
 #### VS Code 
 
-`^` + `` ` `` Show integrated terminal (View > Terminal)
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+
+- `^` + `` ` `` Show integrated terminal (View > Terminal)
 
 [⇧ Back to Top ⇧](#mobilege)
