@@ -141,11 +141,10 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 #### IoT
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
 
-[⇧ Back to Top ⇧](#mobilege)
-
 
 ## Keyboard Shortcuts
 #### VS Code 
 
 `^` + `` ` `` Show integrated terminal (View > Terminal)
 
+[⇧ Back to Top ⇧](#mobilege)
