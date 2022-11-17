@@ -53,6 +53,7 @@
 - [Courses](https://github.com/mobilege/mobilege.github.io/blob/master/courses.md)
 - [Mind Maps](https://miro.com/app/dashboard/)
 - [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
+- [Symbols](#symbols)
 - [Keyboard Shortcuts](#keyboard-shortcuts)
   - [VS Code](#vs-code)
 
@@ -141,6 +142,9 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 #### IoT
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
 
+## Symbols
+
+
 
 ## Keyboard Shortcuts
 #### VS Code 
