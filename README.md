@@ -3,7 +3,7 @@
 [Marketing](https://github.com/mobilege/marketing/blob/master/README.md),
 [Psychology](https://github.com/mobilege/psychology/blob/master/README.md)
 
-[Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/markdown.md)) · [Symbols](#symbols)
+[Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/markdown.md) · [Symbols](#symbols)
 
 [Keyboard Shortcuts](#keyboard-shortcuts) · [VS Code](#vs-code)
 
