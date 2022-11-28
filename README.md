@@ -3,8 +3,9 @@
 [Marketing](https://github.com/mobilege/marketing/blob/master/README.md),
 [Psychology](https://github.com/mobilege/psychology/blob/master/README.md)
 
-[Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/markdown.md)) · 
+[Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/markdown.md)) · [Symbols](#symbols)
 
+[Keyboard Shortcuts](#keyboard-shortcuts) · [VS Code](#vs-code)
 
 
 # mobilege
@@ -54,9 +55,7 @@
 - [Rules](https://github.com/mobilege/mobilege.github.io/blob/master/rules.md#rules)
 - [Mind Maps](https://miro.com/app/dashboard/)
 - [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
-- [Symbols](#symbols)
-- [Keyboard Shortcuts](#keyboard-shortcuts)
-  - [VS Code](#vs-code)
+
 
 
 
