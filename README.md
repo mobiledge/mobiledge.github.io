@@ -3,9 +3,8 @@
 [Marketing](https://github.com/mobilege/marketing/blob/master/README.md),
 [Psychology](https://github.com/mobilege/psychology/blob/master/README.md)
 
-[Formatting & Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/formatting-markdown.md#formatting--markdown) · 
-[Ideas](https://github.com/mobilege/mobilege.github.io/blob/master/ideas.md#ideas) ·
-[Rules](https://github.com/mobilege/mobilege.github.io/blob/master/rules.md#rules) ·
+[Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/markdown.md)) · 
+
 
 
 # mobilege
@@ -51,11 +50,14 @@
 - [Rules](#rules)
 - [Markdown Cheatsheet](#markdown-cheatsheet)
 - [Courses](https://github.com/mobilege/mobilege.github.io/blob/master/courses.md)
+- [Ideas](https://github.com/mobilege/mobilege.github.io/blob/master/ideas.md#ideas)
+- [Rules](https://github.com/mobilege/mobilege.github.io/blob/master/rules.md#rules)
 - [Mind Maps](https://miro.com/app/dashboard/)
 - [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
 - [Symbols](#symbols)
 - [Keyboard Shortcuts](#keyboard-shortcuts)
   - [VS Code](#vs-code)
+
 
 
 #### Core CS 
