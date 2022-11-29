@@ -3,9 +3,10 @@
 [Marketing](https://github.com/mobilege/marketing/blob/master/README.md),
 [Psychology](https://github.com/mobilege/psychology/blob/master/README.md)
 
-[Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/markdown.md) · [Symbols](#symbols)
+[Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/markdown.md) &nbsp; · &nbsp;
+[Symbols](#symbols)
 
-[Keyboard Shortcuts](#keyboard-shortcuts) · [VS Code](#vs-code)
+[Keyboard Shortcuts](#keyboard-shortcuts) &nbsp; · &nbsp;
 
 
 # mobilege
@@ -143,19 +144,11 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 #### IoT
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
 
+
 ## Symbols
-
-|  |  |  |
-| ------ | ------ | ------ |
-|  | 📖 | 🎦 |
-
-| Header | Header | Header |
-| ------ | ------ | ------ |
-|  | 📖 | 🎦 |
-
-
-
-
+ &nbsp; &nbsp; &nbsp; &nbsp; 
+📖 &nbsp; &nbsp; &nbsp; &nbsp; 
+🎦
 
 ## Keyboard Shortcuts
 #### VS Code 
