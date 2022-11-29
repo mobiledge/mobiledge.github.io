@@ -4,9 +4,10 @@
 [Psychology](https://github.com/mobilege/psychology/blob/master/README.md)
 
 [Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/markdown.md) &nbsp; · &nbsp;
+[Shortcuts](#keyboard-shortcuts) &nbsp; · &nbsp;
 [Symbols](#symbols)
 
-[Keyboard Shortcuts](#keyboard-shortcuts) &nbsp; · &nbsp;
+
 
 
 # mobilege
