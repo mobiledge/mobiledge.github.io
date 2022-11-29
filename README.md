@@ -58,16 +58,13 @@
 - [Mind Maps](https://miro.com/app/dashboard/)
 - [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
 
+<p align="center"><a href="#markdown">⇧ Back to Top ⇧</a></p>
 
 
-
-#### Core CS 
+## Core CS 
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [ossu/computer-science](https://github.com/ossu/computer-science)
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
-
-
-[⇧ Back to Top ⇧](#mobilege)
 
 
 ## Languages
@@ -145,6 +142,8 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 #### IoT
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
 
+<p align="center"><a href="#markdown">⇧ Back to Top ⇧</a></p>
+
 
 ## Symbols
  &nbsp; &nbsp; &nbsp; &nbsp; 
@@ -158,4 +157,4 @@ https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
 
 - `^` + `` ` `` Show integrated terminal (View > Terminal)
 
-[⇧ Back to Top ⇧](#mobilege)
+<p align="center"><a href="#markdown">⇧ Back to Top ⇧</a></p>
