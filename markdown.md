@@ -10,6 +10,12 @@
 ```
 [⇧ Back to Top ⇧](#markdown)
 
+```
+<p align="center"><a href="#markdown">⇧ Back to Top ⇧</a></p>
+```
+<p align="center"><a href="#markdown">⇧ Back to Top ⇧</a></p>
+
+
 #### Images
 ```
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
