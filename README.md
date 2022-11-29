@@ -145,7 +145,7 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 
 ## Symbols
 
-  ·  📖  ·  🎦
+ ·  ·  · 📖 ·  ·  ·  🎦
 
 ## Keyboard Shortcuts
 #### VS Code 
