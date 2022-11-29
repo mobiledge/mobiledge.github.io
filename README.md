@@ -61,12 +61,6 @@
 <p align="center"><a href="#markdown">⇧ Back to Top ⇧</a></p>
 
 
-## Core CS 
-- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-- [ossu/computer-science](https://github.com/ossu/computer-science)
-- [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
-
-
 ## Languages
 
 - iOS: Objective-C, Swift
@@ -121,6 +115,10 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 - MiniKanren: logic programs (like Mercury or Prolog)
 - Idris: type model - (like Haskell, Agda)
 
+#### Core CS 
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [ossu/computer-science](https://github.com/ossu/computer-science)
+- [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 
 #### Core Math
 - Single Variable Calculus *101 topics, 39 lectures*
