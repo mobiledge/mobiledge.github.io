@@ -144,8 +144,9 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
 
 ## Symbols
-
- ·  ·  · 📖 ·  ·  ·  🎦
+\
+📖\
+🎦
 
 ## Keyboard Shortcuts
 #### VS Code 
