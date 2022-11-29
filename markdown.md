@@ -40,6 +40,10 @@
 - ut labore et dolore magna aliqua
 </details>
 
+#### Spaces
+```
+ &nbsp; · &nbsp;
+ ```
 
 #### Tables
 ```
