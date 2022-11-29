@@ -61,8 +61,7 @@
 <p align="center"><a href="#markdown">⇧ Back to Top ⇧</a></p>
 
 
-## Languages
-
+#### Languages
 - iOS: Objective-C, Swift
 - Dynamic: [Python](https://github.com/mobilege/data-science/blob/master/python.md) 
 [Ruby](https://github.com/mobilege/ruby/blob/master/README.md) 
