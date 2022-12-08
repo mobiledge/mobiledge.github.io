@@ -11,7 +11,7 @@
 # mobilege
 - [**iOS Development**](https://github.com/mobilege/ios-development/blob/master/README.md)
   - [ Documentation](https://developer.apple.com/documentation)
-  - [ Swift Language Gguide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+  - [ Swift Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
   - [ SwiftUI](https://developer.apple.com/documentation/swiftui/)
 - [**Web Development**](https://github.com/mobilege/web-development/blob/master/README.md)
   - [HTML](https://github.com/mobilege/web-development/blob/master/html.md)
