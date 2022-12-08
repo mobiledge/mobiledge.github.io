@@ -9,18 +9,18 @@
 [Symbols](#symbols)
 
 # mobilege
-- [**iOS Development**](https://github.com/mobilege/ios-development/blob/master/README.md) · 
-[ docs](https://developer.apple.com/documentation) &nbsp; · &nbsp;
-[swift](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) &nbsp; · &nbsp;
-[swift-ui](https://developer.apple.com/documentation/swiftui/)
-- [**Web Development**](https://github.com/mobilege/web-development/blob/master/README.md) · 
-[HTML](https://github.com/mobilege/web-development/blob/master/html.md) · 
-[CSS](https://github.com/mobilege/web-development/blob/master/css.md) · 
-[JS](https://github.com/mobilege/web-development/blob/master/javascript.md)
-- [**Unix**](https://github.com/mobilege/unix) · 
-[ssh](https://github.com/mobilege/unix/blob/master/ssh.md) · 
-[vim](https://github.com/mobilege/unix/blob/master/vim.md) ·
-[git](https://github.com/mobilege/unix/blob/master/git.md)
+- [**iOS Development**](https://github.com/mobilege/ios-development/blob/master/README.md)
+  - [ documentation](https://developer.apple.com/documentation)
+  - [ language-guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+  - [ documentation/swiftui](https://developer.apple.com/documentation/swiftui/)
+- [**Web Development**](https://github.com/mobilege/web-development/blob/master/README.md)
+  - [HTML](https://github.com/mobilege/web-development/blob/master/html.md)
+  - [CSS](https://github.com/mobilege/web-development/blob/master/css.md)
+  - [JS](https://github.com/mobilege/web-development/blob/master/javascript.md)
+- [**Unix**](https://github.com/mobilege/unix)
+  - [ssh](https://github.com/mobilege/unix/blob/master/ssh.md)
+  - [vim](https://github.com/mobilege/unix/blob/master/vim.md)
+  - [git](https://github.com/mobilege/unix/blob/master/git.md)
 - [Core CS](#core-cs)
   - [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md) `Systems`
   - [Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md) `Systems`
