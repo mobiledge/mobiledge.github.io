@@ -14,9 +14,7 @@
 - [**iOS Development**](https://github.com/mobilege/ios-development/blob/master/README.md) · 
 [ docs](https://developer.apple.com/documentation) · 
 [swift](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) · 
-[swift-ui](https://developer.apple.com/documentation/swiftui/) · 
-[tech](https://developer.apple.com/documentation/technologies) · 
-[vids](https://developer.apple.com/videos/)
+[swift-ui](https://developer.apple.com/documentation/swiftui/)
 - [**Web Development**](https://github.com/mobilege/web-development/blob/master/README.md) · 
 [HTML](https://github.com/mobilege/web-development/blob/master/html.md) · 
 [CSS](https://github.com/mobilege/web-development/blob/master/css.md) · 
