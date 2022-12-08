@@ -10,9 +10,9 @@
 
 # mobilege
 - [**iOS Development**](https://github.com/mobilege/ios-development/blob/master/README.md)
-  - [ documentation](https://developer.apple.com/documentation)
-  - [ language-guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
-  - [ documentation/swiftui](https://developer.apple.com/documentation/swiftui/)
+  - [ Documentation](https://developer.apple.com/documentation)
+  - [ Swift Language Gguide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+  - [ SwiftUI](https://developer.apple.com/documentation/swiftui/)
 - [**Web Development**](https://github.com/mobilege/web-development/blob/master/README.md)
   - [HTML](https://github.com/mobilege/web-development/blob/master/html.md)
   - [CSS](https://github.com/mobilege/web-development/blob/master/css.md)
