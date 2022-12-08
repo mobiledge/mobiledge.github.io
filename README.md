@@ -13,7 +13,7 @@
 # mobilege
 - [**iOS Development**](https://github.com/mobilege/ios-development/blob/master/README.md) &nbsp; &nbsp;
 [swift ](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) &nbsp; &nbsp;
-[swift-ui ](https://developer.apple.com/documentation/swiftui/)
+[swift-ui ](https://developer.apple.com/documentation/swiftui/) &nbsp; &nbsp;
 - [**Web Development**](https://github.com/mobilege/web-development/blob/master/README.md) · 
 [HTML](https://github.com/mobilege/web-development/blob/master/html.md) · 
 [CSS](https://github.com/mobilege/web-development/blob/master/css.md) · 
