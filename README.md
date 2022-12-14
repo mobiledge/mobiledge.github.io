@@ -149,10 +149,17 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 🎦
 
 ## Keyboard Shortcuts
-#### VS Code 
-
-https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+#### [VS Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) 
 
 - `^` + `` ` `` Show integrated terminal (View > Terminal)
+
+#### [Termminal](https://support.apple.com/en-ca/guide/terminal/trmlshtcts/mac)
+
+
+`Command-K` Clear to start
+
+`Control-U` Delete the line
+
+
 
 <p align="center"><a href="#mobilege">⇧ Back to Top ⇧</a></p>
