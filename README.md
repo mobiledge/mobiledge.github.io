@@ -153,7 +153,7 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 
 - `^` + `` ` `` Show integrated terminal (View > Terminal)
 
-#### [Termminal](https://support.apple.com/en-ca/guide/terminal/trmlshtcts/mac)
+#### [Terminal](https://support.apple.com/en-ca/guide/terminal/trmlshtcts/mac)
 
 
 `Command-K` Clear to start
