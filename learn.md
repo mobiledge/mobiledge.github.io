@@ -15,4 +15,4 @@
 |                                | Reducer Protocol |  |
 
 
-TOTAL 04 / 11
+Total: 04/11
