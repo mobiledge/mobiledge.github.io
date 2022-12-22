@@ -36,7 +36,7 @@
   - Refactoring
   - [Software Engineering & Architecture](https://github.com/mobilege/software-engg-arch/blob/master/README.md)
   - UML
-- [Languages][#languages](https://github.com/mobilege/mobilege.github.io/blob/master/languages.md)
+- [Languages](https://github.com/mobilege/mobilege.github.io/blob/master/languages.md)
   - [Swift](https://github.com/mobilege/swift/blob/master/README.md)
   - [Python](https://github.com/mobilege/data-science/blob/master/python.md) 
   - [Haskell](https://github.com/mobilege/haskell/blob/master/README.md)
