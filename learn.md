@@ -17,13 +17,13 @@
 
 Total: 04/11
 
+- SwiftUI
+- Composable Architecture
+- Parsing
+- Framework - Accessibility
+- Framework - Localization
+- Tooling - Fastlane
+- Tooling - SPM
+- Tooling - SwiftLint
+- Tooling - Xcodegen
 
-SwiftUI
-Composable Architecture
-Parsing
-Framework - Accessibility
-Framework - Localization
-Tooling - Fastlane
-Tooling - SPM
-Tooling - SwiftLint
-Tooling - Xcodegen
