@@ -77,6 +77,28 @@
 - Concurrent, Distributed, Fault-tolerant: Erlang (7L7W), Elixir (7CM7W *Actors*)
 - Logic programming: Prolog (7L7W)
 
+| Language | Functional/Imperative | Strongly/Weakly Typed | Wiki Link |
+|---------|----------------------|---------------------|-----------|
+| C       | Imperative          | Strongly Typed      | [Link](https://en.wikipedia.org/wiki/C_(programming_language)) |
+| C#      | Imperative          | Strongly Typed      | [Link](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) |
+| C++     | Imperative          | Strongly Typed      | [Link](https://en.wikipedia.org/wiki/C%2B%2B) |
+| Go      | Imperative          | Strongly Typed      | [Link](https://en.wikipedia.org/wiki/Go_(programming_language)) |
+| Java    | Imperative          | Strongly Typed      | [Link](https://en.wikipedia.org/wiki/Java_(programming_language)) |
+| JavaScript | Imperative          | Weakly Typed      | [Link](https://en.wikipedia.org/wiki/JavaScript) |
+| Kotlin  | Imperative          | Strongly Typed      | [Link](https://en.wikipedia.org/wiki/Kotlin_(programming_language)) |
+| Objective-C | Imperative          | Strongly Typed      | [Link](https://en.wikipedia.org/wiki/Objective-C) |
+| Perl    | Imperative          | Weakly Typed      | [Link](https://en.wikipedia.org/wiki/Perl) |
+| PHP     | Imperative          | Weakly Typed      | [Link](https://en.wikipedia.org/wiki/PHP) |
+| Python  | Imperative          | Strongly Typed      | [Link](https://en.wikipedia.org/wiki/Python_(programming_language)) |
+| R       | Imperative          | Weakly Typed      | [Link](https://en.wikipedia.org/wiki/R_(programming_language)) |
+| Ruby    | Imperative          | Weakly Typed      | [Link](https://en.wikipedia.org/wiki/Ruby_(programming_language)) |
+| Rust    | Imperative          | Strongly Typed      | [Link](https://en.wikipedia.org/wiki/Rust_(programming_language)) |
+| Scala   | Functional          | Strongly Typed      | [Link](https://en.wikipedia.org/wiki/Scala_(programming_language)) |
+| Swift   | Imperative          | Strongly Typed      | [Link](https://en.wikipedia.org/wiki/Swift_(programming_language)) |
+| TypeScript | Imperative          | Strongly Typed      | [Link](https://en.wikipedia.org/wiki/TypeScript) |
+| Visual Basic | Imperative          | Weakly Typed      | [Link](https://en.wikipedia.org/wiki/Visual_Basic) |
+
+
 ###### Lisp Based
 - Clojure (dialect of Lisp)
 - Scheme (dialect of Lisp)
