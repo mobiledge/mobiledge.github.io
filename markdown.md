@@ -15,6 +15,10 @@
 ```
 <p align="center"><a href="#markdown">⇧ Back to Top ⇧</a></p>
 
+#### Comments
+```
+<!-- This content will not appear in the rendered Markdown -->
+```
 
 #### Images
 ```
