@@ -36,13 +36,10 @@
   - Refactoring
   - [Software Engineering & Architecture](https://github.com/mobilege/software-engg-arch/blob/master/README.md)
   - UML
-- [Languages](#languages)
-  - [Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md)
+- [Languages][#languages](https://github.com/mobilege/mobilege.github.io/blob/master/languages.md)
   - [Swift](https://github.com/mobilege/swift/blob/master/README.md)
   - [Python](https://github.com/mobilege/data-science/blob/master/python.md) 
-  - [Ruby](https://github.com/mobilege/web-development/blob/master/ruby.md) 
   - [Haskell](https://github.com/mobilege/haskell/blob/master/README.md)
-  - [ML Language](https://github.com/mobilege/ml-language/blob/master/README.md) 
 - [Core Math](#core-math)
 - [Blockchain & Finance](#trading--finance) 
 - [**Data Science**](https://github.com/mobilege/data-science/blob/master/README.md)
