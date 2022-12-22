@@ -77,7 +77,7 @@
 - Concurrent, Distributed, Fault-tolerant: Erlang (7L7W), Elixir (7CM7W *Actors*)
 - Logic programming: Prolog (7L7W)
 
-<-- Create a markdown table of popular programming languages. Order them alphabetically by language. Include languages Objective C, Swift, Erlang, Elixir,  Scheme, Racket, Clojure, Haskell, ML Language, Io, Rust, Javascript, Typescript. -->
+<!-- Create a markdown table of popular programming languages. Order them alphabetically by language. Include languages Objective C, Swift, Erlang, Elixir,  Scheme, Racket, Clojure, Haskell, ML Language, Io, Rust, Javascript, Typescript. -->
 
 | Language | Family |  Functional/Imperative | Type System | Mostly used in  | Wiki Link |
 | -------- | ------ | --------------------- | ----------- | --------------- | ---------- |
