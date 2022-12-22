@@ -2,7 +2,7 @@
 
 | Domain / Subject / Chapter | Topic | Done? |
 | -------------------------- | ----- | ----- |
-|  iOS / Composable Architecture | SwiftUI and State Management | ✔︎ |
+|  iOS / [Composable Architecture](https://www.pointfree.co/collections/composable-architecture) | SwiftUI and State Management | ✔︎ |
 |                                | Reducers and Stores | ✔︎ |
 |                                | Modularity | ✔︎ |
 |                                | Side Effects | ✔︎ |
