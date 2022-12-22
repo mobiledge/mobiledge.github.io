@@ -2,6 +2,29 @@
 [**languages**](https://github.com/mobilege/mobilege.github.io/blob/master/languages.md) / 
 
 # Languages
+[Haskell](https://github.com/mobilege/haskell/blob/master/README.md) · 
+[Python](https://github.com/mobilege/data-science/blob/master/python.md) ·  
+[Swift](https://github.com/mobilege/swift/blob/master/README.md)
+
+
+<!-- Create a markdown table of popular programming languages. Order them alphabetically by language. Include languages Objective C, Swift, Erlang, Elixir,  Scheme, Racket, Clojure, Haskell, ML Language, Io, Rust, Javascript, Typescript. -->
+
+| Language | Family |  Functional/Imperative | Type System | Mostly used in  | Wiki Link |
+| -------- | ------ | --------------------- | ----------- | --------------- | ---------- |
+| Clojure | Lisp  | Functional            | Dynamic     | Web Development | [Clojure](https://en.wikipedia.org/wiki/Clojure) |
+| Erlang  | Prolog | Functional            | Dynamic     | Telecoms       | [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language)) |
+| Elixir  | Lisp  | Functional            | Dynamic     | Web Development | [Elixir](https://en.wikipedia.org/wiki/Elixir_(programming_language)) |
+| Haskell | ML    | Functional            | Static      | Academia       | [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language)) |
+| Io      | Smalltalk | Imperative          | Dynamic     | Robotics       | [Io](https://en.wikipedia.org/wiki/Io_(programming_language)) |
+| Javascript | C | Imperative            | Dynamic     | Web Development | [Javascript](https://en.wikipedia.org/wiki/JavaScript) |
+| ML Language | ML | Functional            | Static      | Academia       | [ML Language](https://en.wikipedia.org/wiki/ML_(programming_language)) |
+| Objective C | C | Imperative            | Static      | iOS Development | [Objective C](https://en.wikipedia.org/wiki/Objective-C) |
+| Racket | Lisp  | Functional            | Dynamic     | Academia       | [Racket](https://en.wikipedia.org/wiki/Racket_(programming_language)) |
+| Rust   | C     | Imperative            | Static      | Systems        | [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)) |
+| Scheme | Lisp  | Functional            | Dynamic     | Academia       | [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) |
+| Swift  | C     | Imperative            | Static      | iOS Development | [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)) |
+| Typescript | Javascript | Imperative    | Static      | Web Development | [Typescript](https://en.wikipedia.org/wiki/TypeScript) |
+
 - Dynamic: [Python](https://github.com/mobilege/data-science/blob/master/python.md) 
 [Ruby](https://github.com/mobilege/ruby/blob/master/README.md) 
 - Functional: 
@@ -54,20 +77,4 @@ Learn how Clojure uses versioning to solve some of the most difficult concurrenc
 - Idris: type model - (like Haskell, Agda)
 
 
-<!-- Create a markdown table of popular programming languages. Order them alphabetically by language. Include languages Objective C, Swift, Erlang, Elixir,  Scheme, Racket, Clojure, Haskell, ML Language, Io, Rust, Javascript, Typescript. -->
 
-| Language | Family |  Functional/Imperative | Type System | Mostly used in  | Wiki Link |
-| -------- | ------ | --------------------- | ----------- | --------------- | ---------- |
-| Clojure | Lisp  | Functional            | Dynamic     | Web Development | [Clojure](https://en.wikipedia.org/wiki/Clojure) |
-| Erlang  | Prolog | Functional            | Dynamic     | Telecoms       | [Erlang](https://en.wikipedia.org/wiki/Erlang_(programming_language)) |
-| Elixir  | Lisp  | Functional            | Dynamic     | Web Development | [Elixir](https://en.wikipedia.org/wiki/Elixir_(programming_language)) |
-| Haskell | ML    | Functional            | Static      | Academia       | [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language)) |
-| Io      | Smalltalk | Imperative          | Dynamic     | Robotics       | [Io](https://en.wikipedia.org/wiki/Io_(programming_language)) |
-| Javascript | C | Imperative            | Dynamic     | Web Development | [Javascript](https://en.wikipedia.org/wiki/JavaScript) |
-| ML Language | ML | Functional            | Static      | Academia       | [ML Language](https://en.wikipedia.org/wiki/ML_(programming_language)) |
-| Objective C | C | Imperative            | Static      | iOS Development | [Objective C](https://en.wikipedia.org/wiki/Objective-C) |
-| Racket | Lisp  | Functional            | Dynamic     | Academia       | [Racket](https://en.wikipedia.org/wiki/Racket_(programming_language)) |
-| Rust   | C     | Imperative            | Static      | Systems        | [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)) |
-| Scheme | Lisp  | Functional            | Dynamic     | Academia       | [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) |
-| Swift  | C     | Imperative            | Static      | iOS Development | [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)) |
-| Typescript | Javascript | Imperative    | Static      | Web Development | [Typescript](https://en.wikipedia.org/wiki/TypeScript) |
