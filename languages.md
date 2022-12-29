@@ -8,22 +8,6 @@
 [Python](https://github.com/mobilege/data-science/blob/master/python.md) &nbsp; · &nbsp;
 [Swift](https://github.com/mobilege/swift/blob/master/README.md)
 
-## Cheatsheet
-
-| Topic        | JavaScript | Python | Swift |
-| ------------ | ---------- | ------ | ----- |
-| Declarations | | | | 
-| Conditionals | | | |
-| Loops        | | | |
-| Numbers      | | | |
-| Strings      | | | |
-| Collections  | | | |
-| Functions    | | | |
-| Closures     | | | |
-| Enums        | | | |
-| Structures   | | | |
-| Classes      | | | |
-
 ## Comparison
 
 <!-- Create a markdown table of popular programming languages. Order them alphabetically by language. Include languages Objective C, Swift, Erlang, Elixir,  Scheme, Racket, Clojure, Haskell, ML Language, Io, Rust, Javascript, Typescript. -->
