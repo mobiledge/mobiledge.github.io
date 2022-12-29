@@ -37,9 +37,10 @@
   - [Software Engineering & Architecture](https://github.com/mobilege/software-engg-arch/blob/master/README.md)
   - UML
 - [Languages](https://github.com/mobilege/mobilege.github.io/blob/master/languages.md)
-  - [Swift](https://github.com/mobilege/swift/blob/master/README.md)
-  - [Python](https://github.com/mobilege/data-science/blob/master/python.md) 
   - [Haskell](https://github.com/mobilege/haskell/blob/master/README.md)
+  - [JS](https://github.com/mobilege/web-development/blob/master/javascript.md)
+  - [Python](https://github.com/mobilege/data-science/blob/master/python.md) 
+  - [Swift](https://github.com/mobilege/swift/blob/master/README.md)
 - [Core Math](#core-math)
 - [Blockchain & Finance](#trading--finance) 
 - [**Data Science**](https://github.com/mobilege/data-science/blob/master/README.md)
