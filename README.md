@@ -8,6 +8,12 @@
 [Shortcuts](#keyboard-shortcuts) &nbsp; · &nbsp;
 [Symbols](#symbols)
 
+[C lang](https://github.com/mobilege/computer-architecture/blob/master/c-programming.md) &nbsp; · &nbsp;
+[Haskell](https://github.com/mobilege/haskell/blob/master/README.md) &nbsp; · &nbsp;
+[JS](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; · &nbsp;
+[Python](https://github.com/mobilege/data-science/blob/master/python.md) &nbsp; · &nbsp;
+[Swift](https://github.com/mobilege/swift/blob/master/README.md)
+
 # mobilege
 - [**iOS Development**](https://github.com/mobilege/ios-development/blob/master/README.md)
   - [Documentation ](https://developer.apple.com/documentation)
