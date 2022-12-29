@@ -10,19 +10,19 @@
 
 ## Cheatsheet
 
-| Topic | JavaScript | Python | Swift |
-| ----- | ---------- | ------ | ----- |
+| Topic        | JavaScript | Python | Swift |
+| ------------ | ---------- | ------ | ----- |
 | Declarations | | | | 
-| range | | | | 
-| string | | | | 
-| list | | | | 
-| map | | | | 
-| set | | | |
-| Functions   | | | |
-| Closures    | | | |
-| Enums       | | | |
-| Structures  | | | |
-| Classes     | | | |
+| Conditionals | | | |
+| Loops        | | | |
+| Numbers      | | | |
+| Strings      | | | |
+| Collections  | | | |
+| Functions    | | | |
+| Closures     | | | |
+| Enums        | | | |
+| Structures   | | | |
+| Classes      | | | |
 
 ## Comparison
 
