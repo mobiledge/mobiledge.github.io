@@ -37,6 +37,7 @@
   - [Software Engineering & Architecture](https://github.com/mobilege/software-engg-arch/blob/master/README.md)
   - UML
 - [Languages](https://github.com/mobilege/mobilege.github.io/blob/master/languages.md)
+  - [C lang](https://github.com/mobilege/computer-architecture/blob/master/c-programming.md)
   - [Haskell](https://github.com/mobilege/haskell/blob/master/README.md)
   - [JS](https://github.com/mobilege/web-development/blob/master/javascript.md)
   - [Python](https://github.com/mobilege/data-science/blob/master/python.md) 
