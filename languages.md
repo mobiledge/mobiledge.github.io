@@ -12,7 +12,7 @@
 ## Cheatsheet
 
 | Topic | JS | Python | Swift |
-| -- | ------ | ----- |
+| ----- | -- | ------ | ----- |
 | Declarations | | | |
 | Declarations | | | |
 
