@@ -1,13 +1,12 @@
 [mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
 [**languages**](https://github.com/mobilege/mobilege.github.io/blob/master/languages.md) / 
 
-[Haskell](https://github.com/mobilege/haskell/blob/master/README.md) &nbsp; · &nbsp;
-[Python](https://github.com/mobilege/data-science/blob/master/python.md) &nbsp; · &nbsp;
-[Swift](https://github.com/mobilege/swift/blob/master/README.md)
-
-
 # Languages
 
+[Haskell](https://github.com/mobilege/haskell/blob/master/README.md) &nbsp; · &nbsp;
+[JS](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; · &nbsp;
+[Python](https://github.com/mobilege/data-science/blob/master/python.md) &nbsp; · &nbsp;
+[Swift](https://github.com/mobilege/swift/blob/master/README.md)
 
 ## Cheatsheet
 
