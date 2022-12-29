@@ -11,10 +11,14 @@
 
 ## Cheatsheet
 
-| Topic | JS | Python | Swift |
-| ----- | -- | ------ | ----- |
-| Declarations | | | |
-| Declarations | | | |
+| Topic | Haskell | JavaScript | Python | Swift |
+| ----- | ------- | ---------- | ------ | ----- |
+| Declarations | | | | |
+| range | | | | |
+| string | | | | |
+| list | | | | |
+| map | | | | |
+| set | | | | |
 
 ## Comparison
 
