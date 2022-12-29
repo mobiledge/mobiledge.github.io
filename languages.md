@@ -17,7 +17,12 @@
 | string | | | | 
 | list | | | | 
 | map | | | | 
-| set | | | | 
+| set | | | |
+| Functions   | | | |
+| Closures    | | | |
+| Enums       | | | |
+| Structures  | | | |
+| Classes     | | | |
 
 ## Comparison
 
