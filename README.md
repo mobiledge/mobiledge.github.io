@@ -3,9 +3,9 @@
 [Marketing](https://github.com/mobilege/marketing/blob/master/README.md),
 [Psychology](https://github.com/mobilege/psychology/blob/master/README.md)
 
-[Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/markdown.md) &nbsp; · &nbsp;
-[Repositories](https://github.com/mobilege?tab=repositories) &nbsp; · &nbsp;
-[Shortcuts](#keyboard-shortcuts) &nbsp; · &nbsp;
+[Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/markdown.md) &nbsp; &nbsp; &nbsp; &nbsp;
+[Repositories](https://github.com/mobilege?tab=repositories) &nbsp; &nbsp; &nbsp; &nbsp;
+[Shortcuts](#keyboard-shortcuts) &nbsp; &nbsp; &nbsp; &nbsp;
 [Symbols](#symbols)
 
 # mobilege
@@ -17,13 +17,13 @@
 [Swift](https://github.com/mobilege/swift/blob/master/README.md)
 
 #### [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
-[Documentation ](https://developer.apple.com/documentation) &nbsp; · &nbsp;
-[Swift Language Guide ](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) &nbsp; · &nbsp;
+[Documentation ](https://developer.apple.com/documentation) &nbsp; &nbsp; &nbsp; &nbsp;
+[Swift Language Guide ](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) &nbsp; &nbsp; &nbsp; &nbsp;
 [SwiftUI ](https://developer.apple.com/documentation/swiftui/)
 
 #### [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
-[HTML](https://github.com/mobilege/web-development/blob/master/html.md) &nbsp; · &nbsp;
-[CSS](https://github.com/mobilege/web-development/blob/master/css.md) &nbsp; · &nbsp;
+[HTML](https://github.com/mobilege/web-development/blob/master/html.md) &nbsp; &nbsp; &nbsp; &nbsp;
+[CSS](https://github.com/mobilege/web-development/blob/master/css.md) &nbsp; &nbsp; &nbsp; &nbsp;
 [JS](https://github.com/mobilege/web-development/blob/master/javascript.md)
 
 #### [Unix](https://github.com/mobilege/unix)
@@ -31,7 +31,7 @@
 [vim](https://github.com/mobilege/unix/blob/master/vim.md) &nbsp; · &nbsp;
 [git](https://github.com/mobilege/unix/blob/master/git.md)
 
-- [Core CS](#core-cs)
+#### [Core CS](#core-cs)
   - [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md) `Systems`
   - [Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md) `Systems`
   - [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md) `Systems`
@@ -40,7 +40,8 @@
   - [Algorithms and Data Structures](https://github.com/mobilege/algorithms)
   - Databases
   - [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
-- Software Development
+ 
+#### Software Development
   - [Process](https://github.com/mobilege/software-development-process/blob/main/README.md) (Agile, Scrum etc)
   - Estimation
   - Refactoring
