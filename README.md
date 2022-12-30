@@ -3,12 +3,13 @@
 [Marketing](https://github.com/mobilege/marketing/blob/master/README.md),
 [Psychology](https://github.com/mobilege/psychology/blob/master/README.md)
 
-[Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/markdown.md) &nbsp; &nbsp; &nbsp; &nbsp;
-[Repositories](https://github.com/mobilege?tab=repositories) &nbsp; &nbsp; &nbsp; &nbsp;
-[Shortcuts](#keyboard-shortcuts) &nbsp; &nbsp; &nbsp; &nbsp;
+[Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/markdown.md) &nbsp; · &nbsp;
+[Repositories](https://github.com/mobilege?tab=repositories) &nbsp; · &nbsp;
+[Shortcuts](#keyboard-shortcuts) &nbsp; · &nbsp;
 [Symbols](#symbols)
 
 # mobilege
+
 #### [Languages](https://github.com/mobilege/mobilege.github.io/blob/master/languages.md)
 - [C lang](https://github.com/mobilege/computer-architecture/blob/master/c-programming.md)
 - [Haskell](https://github.com/mobilege/haskell/blob/master/README.md)
