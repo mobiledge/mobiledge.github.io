@@ -65,6 +65,7 @@
 - [Rules](https://github.com/mobilege/mobilege.github.io/blob/master/rules.md#rules)
 - [Mind Maps](https://miro.com/app/dashboard/)
 - [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
+- [Version History](https://github.com/mobilege/mobilege.github.io/blob/master/version-history.md)
 
 <p align="center"><a href="#mobilege">⇧ Back to Top ⇧</a></p>
 
