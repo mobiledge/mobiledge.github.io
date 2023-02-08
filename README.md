@@ -10,27 +10,25 @@
 
 # mobilege
 
-#### [Languages](https://github.com/mobilege/mobilege.github.io/blob/master/languages.md)
-- [C lang](https://github.com/mobilege/computer-architecture/blob/master/c-programming.md)
-- [Haskell](https://github.com/mobilege/haskell/blob/master/README.md)
-- [JS](https://github.com/mobilege/web-development/blob/master/javascript.md)
-- [Python](https://github.com/mobilege/data-science/blob/master/python.md)
-- [Swift](https://github.com/mobilege/swift/blob/master/README.md)
-
 #### [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
 - [Documentation ](https://developer.apple.com/documentation)
 - [Swift Language Guide ](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 - [SwiftUI ](https://developer.apple.com/documentation/swiftui/)
 
 #### [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
-- [HTML](https://github.com/mobilege/web-development/blob/master/html.md)
-- [CSS](https://github.com/mobilege/web-development/blob/master/css.md)
-- [JS](https://github.com/mobilege/web-development/blob/master/javascript.md)
+- Elixir, [Phoenix](https://github.com/mobilege/web-development/blob/master/phoenix.md#phoenix)
 
 #### [Unix](https://github.com/mobilege/unix)
 - [ssh](https://github.com/mobilege/unix/blob/master/ssh.md) &nbsp; &nbsp; · &nbsp; &nbsp;
 - [vim](https://github.com/mobilege/unix/blob/master/vim.md) &nbsp; &nbsp; · &nbsp; &nbsp;
 - [git](https://github.com/mobilege/unix/blob/master/git.md)
+
+#### [Languages](https://github.com/mobilege/mobilege.github.io/blob/master/languages.md)
+- [C lang](https://github.com/mobilege/computer-architecture/blob/master/c-programming.md)
+- [Haskell](https://github.com/mobilege/haskell/blob/master/README.md)
+- [JS](https://github.com/mobilege/web-development/blob/master/javascript.md)
+- [Python](https://github.com/mobilege/data-science/blob/master/python.md)
+- [Swift](https://github.com/mobilege/swift/blob/master/README.md)
 
 #### [Core CS](#core-cs)
   - [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md) `Systems`
