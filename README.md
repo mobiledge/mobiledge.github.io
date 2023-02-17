@@ -16,7 +16,7 @@
 - [SwiftUI ](https://developer.apple.com/documentation/swiftui/)
 
 #### [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
-- [Elixir](https://github.com/mobilege/web-development/blob/master/elixir.md#elixir) · [Phoenix](https://github.com/mobilege/web-development/blob/master/phoenix.md#phoenix)
+- [Django](https://github.com/mobilege/web-development/blob/master/django.md)
 
 #### [Unix](https://github.com/mobilege/unix)
 - [ssh](https://github.com/mobilege/unix/blob/master/ssh.md) &nbsp; &nbsp; · &nbsp; &nbsp;
