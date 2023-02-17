@@ -16,7 +16,10 @@
 - [SwiftUI ](https://developer.apple.com/documentation/swiftui/)
 
 #### [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
-- [Django](https://github.com/mobilege/web-development/blob/master/django.md)
+[HTML](https://github.com/mobilege/web-development/blob/master/html.md) · 
+[CSS](https://github.com/mobilege/web-development/blob/master/css.md) · 
+[JS](https://github.com/mobilege/web-development/blob/master/javascript.md) · 
+[Django](https://github.com/mobilege/web-development/blob/master/django.md)
 
 #### [Unix](https://github.com/mobilege/unix)
 - [ssh](https://github.com/mobilege/unix/blob/master/ssh.md) &nbsp; &nbsp; · &nbsp; &nbsp;
