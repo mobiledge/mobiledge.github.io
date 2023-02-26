@@ -51,7 +51,7 @@
   - UML
 
 #### Other
-- Audio Programming
+- [Audio Programming](https://github.com/mobilege/audio-programming/blob/main/README.md)
 - [Core Math](#core-math)
 - [Blockchain & Finance](#trading--finance) 
 - [**Data Science**](https://github.com/mobilege/data-science/blob/master/README.md)
