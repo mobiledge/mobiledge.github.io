@@ -15,26 +15,6 @@
 - [Swift Language Guide ](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 - [SwiftUI ](https://developer.apple.com/documentation/swiftui/)
 
-
-
-```mermaid
-graph LR
-    A(Concurrency) -- Thread
-    A -- GCD
-    A -- Operation & Queue
-    A -- Combine
-    A -- Task
-    A -- Actor
-```
-
-```mermaid
-graph LR
-    A[Square Rect] -- Link text --> B((Circle))
-    A --> C(Round Rect)
-    B --> D{Rhombus}
-    C --> D
-```
-
 #### [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
 [HTML](https://github.com/mobilege/web-development/blob/master/html.md) · 
 [CSS](https://github.com/mobilege/web-development/blob/master/css.md) · 
