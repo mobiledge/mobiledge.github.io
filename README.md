@@ -8,7 +8,7 @@
 [Shortcuts](#keyboard-shortcuts) &nbsp; · &nbsp;
 [Symbols](#symbols)
 
-# mobilege
+# mobiledge
 
 #### [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
 - [Documentation ](https://developer.apple.com/documentation)
