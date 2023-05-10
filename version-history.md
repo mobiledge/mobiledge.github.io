@@ -14,8 +14,11 @@
 
 #### Short
 
-| Release Year | macOS Version | iOS/iPadOS Version | Xcode Version |
-| --- | --- | --- | --- |
-| 2020 | macOS 11 Big Sur | iOS/iPadOS 14 | Xcode 12 |
-| 2021 | macOS 12 Monterey | iOS/iPadOS 15 | Xcode 13 |
-| 2022 | macOS 13 Ventura | iOS/iPadOS 16 | Xcode 14 |
+Here is a table of MacOS, iOS and Xcode major version number and release year:
+
+| Release Year | macOS Version | iOS/iPadOS Version | Xcode Version | Swift Version |
+| --- | --- | --- | --- | --- |
+| 2020 | macOS 11 Big Sur | iOS/iPadOS 14 | Xcode 12 | Swift 5.2, 5.3 |
+| 2021 | macOS 12 Monterey | iOS/iPadOS 15 | Xcode 13 | Swift 5.4, 5.5 |
+| 2022 | macOS 13 Ventura | iOS/iPadOS 16 | Xcode 14 | Swift 5.6, 5.7 |
+
