@@ -10,3 +10,12 @@
 | 2020  | [Big Sur (version 11)](https://en.wikipedia.org/wiki/MacOS_Big_Sur) | [iOS 14.x](https://en.wikipedia.org/wiki/IOS_14)  | [Xcode 12.x](https://en.wikipedia.org/wiki/Xcode#Xcode_12)  | [Swift 5.3](https://en.wikipedia.org/wiki/Swift_(programming_language)#Swift_5.3) |
 | 2021 | [Monterey (version 12)](https://en.wikipedia.org/wiki/MacOS_Monterey) | [iOS 15.x](https://en.wikipedia.org/wiki/IOS_15) | [Xcode 13.x](https://en.wikipedia.org/wiki/Xcode#Xcode_13) | [Swift 5.4](https://en.wikipedia.org/wiki/Swift_(programming_language)#Swift_5.4) |
 | 2022 | [MacOS Ventura (version 13)](https://en.wikipedia.org/wiki/MacOS_Ventura) | [iOS 16.0](https://en.wikipedia.org/wiki/IOS_16) | [Xcode 14.0](https://en.wikipedia.org/wiki/Xcode#Xcode_14) | [Swift 5.6](https://www.swift.org/blog/swift-5.6-released/), [Swift 5.7](https://www.swift.org/blog/swift-5.7-released/) |
+
+
+#### Short
+
+| Release Year | macOS Version | iOS/iPadOS Version | Xcode Version |
+| --- | --- | --- | --- |
+| 2020 | macOS 11 Big Sur | iOS/iPadOS 14 | Xcode 12 |
+| 2021 | macOS 12 Monterey | iOS/iPadOS 15 | Xcode 13 |
+| 2022 | macOS 13 Ventura | iOS/iPadOS 16 | Xcode 14 |
