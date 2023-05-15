@@ -104,7 +104,12 @@
 📖 &nbsp; &nbsp; &nbsp; &nbsp; 
 🎦
 
-## Keyboard Shortcuts
+## Shortcuts
+
+#### Finder
+
+- Copy File Path: Right Click + Option
+
 #### [VS Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) 
 
 ``Control-Backquote(`)`` Show integrated terminal (View > Terminal)
