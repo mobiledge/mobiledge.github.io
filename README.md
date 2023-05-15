@@ -108,7 +108,7 @@
 
 #### Finder
 
-- Copy File Path: Right Click + Option
+`Right Click + Option` Copy File Path
 
 #### [VS Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) 
 
