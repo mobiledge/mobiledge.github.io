@@ -110,6 +110,8 @@
 
 `Right Click + Option` Copy File Path
 
+`Command + Shift + .` View/hide hidden files 
+
 #### [VS Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) 
 
 ``Control-Backquote(`)`` Show integrated terminal (View > Terminal)
