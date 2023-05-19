@@ -22,9 +22,11 @@
 [Django](https://github.com/mobilege/web-development/blob/master/django.md)
 
 #### [Unix](https://github.com/mobilege/unix)
-- [ssh](https://github.com/mobilege/unix/blob/master/ssh.md) &nbsp; &nbsp; · &nbsp; &nbsp;
-- [vim](https://github.com/mobilege/unix/blob/master/vim.md) &nbsp; &nbsp; · &nbsp; &nbsp;
-- [git](https://github.com/mobilege/unix/blob/master/git.md)
+
+[homebrew](https://github.com/mobilege/unix/blob/master/homebrew.md#homebrew) · 
+[ssh](https://github.com/mobilege/unix/blob/master/ssh.md) · 
+[vim](https://github.com/mobilege/unix/blob/master/vim.md) ·
+[git](https://github.com/mobilege/unix/blob/master/git.md)
 
 #### [Languages](https://github.com/mobilege/mobilege.github.io/blob/master/languages.md)
 - [C lang](https://github.com/mobilege/computer-architecture/blob/master/c-programming.md)
