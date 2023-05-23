@@ -20,7 +20,15 @@
 [HTML](https://github.com/mobilege/web-development/blob/master/html.md) &nbsp; · &nbsp;
 [CSS](https://github.com/mobilege/web-development/blob/master/css.md) &nbsp; · &nbsp;
 [JS](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; · &nbsp;
-[Django](https://github.com/mobilege/web-development/blob/master/django.md)
+
+
+[**Ruby**](https://github.com/mobilege/web-development/blob/master/ruby.md) &nbsp; · &nbsp;
+[rbenv](https://github.com/mobilege/web-development/blob/master/ruby-rbenv.md) &nbsp; · &nbsp;
+RVM &nbsp; · &nbsp;
+[RubyGems](https://github.com/mobilege/web-development/blob/master/ruby-rubygems.md) &nbsp; · &nbsp;
+[Bundler](https://github.com/mobilege/web-development/blob/master/ruby-bundler.md) &nbsp; · &nbsp;
+[Sinatra](https://github.com/mobilege/web-development/blob/master/rb-sinatra.md) &nbsp; · &nbsp;
+[Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md) &nbsp; · &nbsp;
 
 #### [Unix](https://github.com/mobilege/unix)
 
