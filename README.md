@@ -17,12 +17,10 @@
 
 #### [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
 
-[HTML](https://github.com/mobilege/web-development/blob/master/html.md) &nbsp; · &nbsp;
+- [HTML](https://github.com/mobilege/web-development/blob/master/html.md) &nbsp; · &nbsp;
 [CSS](https://github.com/mobilege/web-development/blob/master/css.md) &nbsp; · &nbsp;
 [JS](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; · &nbsp;
-
-
-[**Ruby**](https://github.com/mobilege/web-development/blob/master/ruby.md) &nbsp; · &nbsp;
+- [**Ruby**](https://github.com/mobilege/web-development/blob/master/ruby.md) &nbsp; · &nbsp;
 [rbenv](https://github.com/mobilege/web-development/blob/master/ruby-rbenv.md) &nbsp; · &nbsp;
 RVM &nbsp; · &nbsp;
 [RubyGems](https://github.com/mobilege/web-development/blob/master/ruby-rubygems.md) &nbsp; · &nbsp;
