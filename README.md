@@ -128,6 +128,8 @@ RVM &nbsp; · &nbsp;
 
 `Command + Shift + .` View/hide hidden files 
 
+`open .` (From terminal) Open current directory in Finder
+
 #### [VS Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) 
 
 ``Control-Backquote(`)`` Show integrated terminal (View > Terminal)
