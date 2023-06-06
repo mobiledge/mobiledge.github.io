@@ -59,6 +59,9 @@ RVM &nbsp; · &nbsp;
   - Databases
   - [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
  
+#### Functional Programming
+- https://www.schoolofhaskell.com
+
 #### Software Development
   - [Process](https://github.com/mobilege/software-development-process/blob/main/README.md) (Agile, Scrum etc)
   - Estimation
