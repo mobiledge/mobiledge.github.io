@@ -9,7 +9,7 @@ FCRA stands for the Fair Credit Reporting Act.
 - The FCRA gives consumers the right to access their credit reports, correct errors, and be informed about decisions made based on their credit information.
 
 
-#### UDAAP
+## UDAAP
 
 "Unfair, Deceptive, or Abusive Acts or Practices" (UDAAP) is a regulatory concept that aims to protect consumers from unethical and harmful actions.
 
