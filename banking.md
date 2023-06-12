@@ -1,5 +1,14 @@
 # Banking
 
+## FCRA
+
+FCRA stands for the Fair Credit Reporting Act.
+
+- The FCRA is a law in the US that controls how credit information about consumers is collected, used, and shared.
+- It makes sure that credit bureaus keep accurate and private consumer credit files.
+- The FCRA gives consumers the right to access their credit reports, correct errors, and be informed about decisions made based on their credit information.
+
+
 #### UDAAP
 
 "Unfair, Deceptive, or Abusive Acts or Practices" (UDAAP) is a regulatory concept that aims to protect consumers from unethical and harmful actions.
