@@ -16,8 +16,9 @@
 [ Swift Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) &nbsp; · &nbsp; 
 [ Videos](https://developer.apple.com/videos/)
 
-[**Swift**](https://github.com/mobilege/swift/blob/master/README.md)  &nbsp; · &nbsp; 
-[**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
+- [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
+- [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
+- [**Vapor**](https://github.com/mobiledge/ios-development/blob/master/vapor.md)
 
 
 
