@@ -18,10 +18,14 @@
 # mobiledge
 
 ## [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
- 
-&nbsp; · &nbsp; [Documentation](https://developer.apple.com/documentation)
-&nbsp; · &nbsp; [Swift Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+
+
+&nbsp; · &nbsp; [Documentation](https://developer.apple.com/documentation/)
+&nbsp; · &nbsp; [Guidelines](https://developer.apple.com/app-store/guidelines/)
+&nbsp; · &nbsp; [Swift](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 &nbsp; · &nbsp; [SwiftUI](https://developer.apple.com/documentation/swiftui/)
+&nbsp; · &nbsp; [Videos](https://developer.apple.com/videos/)
+
 
 
 ## [Core CS](#core-cs)
