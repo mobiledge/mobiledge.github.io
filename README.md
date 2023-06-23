@@ -24,10 +24,8 @@
 [ Swift Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) &nbsp; · &nbsp; 
 [ Videos](https://developer.apple.com/videos/)
 
-[**Swift**](https://github.com/mobilege/swift/blob/master/README.md) &nbsp; · &nbsp; 
-[Objective-C](https://github.com/mobilege/ios-development/blob/master/objective-c.md) &nbsp; · &nbsp; 
-[**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md) &nbsp; · &nbsp; 
-[UIKit](https://github.com/mobilege/ios-development/blob/master/uikit.md)
+[**Swift**](https://github.com/mobilege/swift/blob/master/README.md)  &nbsp; · &nbsp; 
+[**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
 
 
 
