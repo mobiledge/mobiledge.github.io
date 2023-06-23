@@ -15,15 +15,51 @@
 [Python](https://github.com/mobilege/data-science/blob/master/python.md) &nbsp; · &nbsp;
 [Swift](https://github.com/mobilege/swift/blob/master/README.md)
 
-
 # mobiledge
 
-#### [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
+## [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
 - [Documentation ](https://developer.apple.com/documentation)
 - [Swift Language Guide ](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 - [SwiftUI ](https://developer.apple.com/documentation/swiftui/)
 
-#### [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
+
+## [Core CS](#core-cs)
+  - [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md) `Systems`
+  - [Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md) `Systems`
+  - [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md) `Systems`
+  - [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md) `Systems`
+  - [Programming: Structure and Interpretation of Computer Programs](https://github.com/mobilege/sicp/blob/master/README.md)
+  - [Algorithms and Data Structures](https://github.com/mobilege/algorithms)
+  - Databases
+  - [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
+ 
+#### Functional Programming
+- [Advanced programming languages](https://matt.might.net/articles/best-programming-languages/)
+- https://www.schoolofhaskell.com
+- [Concepts vs Typeclasses vs Traits vs Protocols](https://www.youtube.com/watch?v=E-2y1qHQvTg)
+  - Parametric polymorphism vs Ad-hoc polymorphism
+ 
+#### [Unix](https://github.com/mobilege/unix)
+[homebrew](https://github.com/mobilege/unix/blob/master/homebrew.md#homebrew) &nbsp; · &nbsp;
+[ssh](https://github.com/mobilege/unix/blob/master/ssh.md) &nbsp; · &nbsp;
+[vim](https://github.com/mobilege/unix/blob/master/vim.md) &nbsp; · &nbsp;
+[git](https://github.com/mobilege/unix/blob/master/git.md)
+
+#### Curriculum 
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [ossu/computer-science](https://github.com/ossu/computer-science)
+- [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
+
+
+## Software Development
+  - [Process](https://github.com/mobilege/software-development-process/blob/main/README.md) (Agile, Scrum etc)
+  - Estimation
+  - Refactoring
+  - [Software Engineering & Architecture](https://github.com/mobilege/software-engg-arch/blob/master/README.md)
+  - UML
+
+
+## [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
 
 - [HTML](https://github.com/mobilege/web-development/blob/master/html.md) &nbsp; · &nbsp;
 [CSS](https://github.com/mobilege/web-development/blob/master/css.md) &nbsp; · &nbsp;
@@ -42,38 +78,7 @@ RVM &nbsp; · &nbsp;
 [Sinatra](https://github.com/mobilege/web-development/blob/master/rb-sinatra.md) &nbsp; · &nbsp;
 [Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md) &nbsp; · &nbsp;
 
-
-#### [Unix](https://github.com/mobilege/unix)
-
-[homebrew](https://github.com/mobilege/unix/blob/master/homebrew.md#homebrew) &nbsp; · &nbsp;
-[ssh](https://github.com/mobilege/unix/blob/master/ssh.md) &nbsp; · &nbsp;
-[vim](https://github.com/mobilege/unix/blob/master/vim.md) &nbsp; · &nbsp;
-[git](https://github.com/mobilege/unix/blob/master/git.md)
-
-#### [Core CS](#core-cs)
-  - [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md) `Systems`
-  - [Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md) `Systems`
-  - [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md) `Systems`
-  - [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md) `Systems`
-  - [Programming: Structure and Interpretation of Computer Programs](https://github.com/mobilege/sicp/blob/master/README.md)
-  - [Algorithms and Data Structures](https://github.com/mobilege/algorithms)
-  - Databases
-  - [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
- 
-#### Functional Programming
-- [Advanced programming languages](https://matt.might.net/articles/best-programming-languages/)
-- https://www.schoolofhaskell.com
-- [Concepts vs Typeclasses vs Traits vs Protocols](https://www.youtube.com/watch?v=E-2y1qHQvTg)
-  - Parametric polymorphism vs Ad-hoc polymorphism
-
-#### Software Development
-  - [Process](https://github.com/mobilege/software-development-process/blob/main/README.md) (Agile, Scrum etc)
-  - Estimation
-  - Refactoring
-  - [Software Engineering & Architecture](https://github.com/mobilege/software-engg-arch/blob/master/README.md)
-  - UML
-
-#### Other
+## Other
 - [Banking](https://github.com/mobiledge/mobiledge.github.io/blob/master/banking.md)
 - [Audio Programming](https://github.com/mobilege/audio-programming/blob/main/README.md)
 - [Core Math](#core-math)
@@ -95,10 +100,7 @@ RVM &nbsp; · &nbsp;
 
 <p align="center"><a href="#mobilege">⇧ Back to Top ⇧</a></p>
 
-#### Core CS 
-- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-- [ossu/computer-science](https://github.com/ossu/computer-science)
-- [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
+
 
 #### Core Math
 - Single Variable Calculus *101 topics, 39 lectures*
