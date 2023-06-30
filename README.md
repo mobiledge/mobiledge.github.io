@@ -60,6 +60,7 @@
   - UML
 
 #### Domain Modeling
+- Book: [Domain Modeling Made Functional](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/) _uses F#_
 - Book: [Functional and Reactive Domain Modeling](https://www.amazon.ca/Functional-Reactive-Domain-Modeling-Debasish/dp/1617292249) _uses Scala_
 
 ### [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
