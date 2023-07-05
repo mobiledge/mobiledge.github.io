@@ -35,7 +35,7 @@
   - [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
  
 ##### Functional Programming
-- [Programming with Categories](http://brendanfong.com/programmingcats.html) · [Video](https://youtube.com/playlist?list=PLhgq-BqyZ7i7MTGhUROZy3BOICnVixETS)
+- [Programming with Categories - MIT](http://brendanfong.com/programmingcats.html) · [Video](https://youtube.com/playlist?list=PLhgq-BqyZ7i7MTGhUROZy3BOICnVixETS)
   - Book: Programming with Categories 
 - [Advanced programming languages](https://matt.might.net/articles/best-programming-languages/)
 - https://www.schoolofhaskell.com
