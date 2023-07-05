@@ -35,6 +35,7 @@
   - [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
  
 ##### Functional Programming
+- [Programming with Categories]() · [Video](https://youtube.com/playlist?list=PLhgq-BqyZ7i7MTGhUROZy3BOICnVixETS)
 - [Advanced programming languages](https://matt.might.net/articles/best-programming-languages/)
 - https://www.schoolofhaskell.com
 - [Concepts vs Typeclasses vs Traits vs Protocols](https://www.youtube.com/watch?v=E-2y1qHQvTg)
