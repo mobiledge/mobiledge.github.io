@@ -22,6 +22,8 @@
   - [Documentation / SwiftUI](https://developer.apple.com/documentation/swiftui)
 - [**Vapor**](https://github.com/mobiledge/ios-development/blob/master/vapor.md)
 
+### Multiplatform
+- [Flutter](https://github.com/mobiledge/flutter/blob/main/README.md)
 
 
 ### [Core CS](#core-cs)
