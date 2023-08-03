@@ -21,7 +21,7 @@
 - [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md) &nbsp; · &nbsp; 
   [ Docs / SwiftUI](https://developer.apple.com/documentation/swiftui)
 
-## [Core CS](#core-cs)
+## Core CS
 
 #### Systems
 - [**Computer Architecture**](https://github.com/mobilege/computer-architecture/blob/master/README.md)
