@@ -32,7 +32,7 @@
   - Databases
   - [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
  
-#### Functional Programming
+#### Functional Programming etc
 - [Programming with Categories - MIT](http://brendanfong.com/programmingcats.html) · [Video](https://youtube.com/playlist?list=PLhgq-BqyZ7i7MTGhUROZy3BOICnVixETS)
   - Book: Programming with Categories 
 - [Advanced programming languages](https://matt.might.net/articles/best-programming-languages/)
@@ -40,7 +40,9 @@
 - [Concepts vs Typeclasses vs Traits vs Protocols](https://www.youtube.com/watch?v=E-2y1qHQvTg)
   - Parametric polymorphism vs Ad-hoc polymorphism
  
-#### [Unix](https://github.com/mobilege/unix)
+#### Unix etc
+[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
+[unix](https://github.com/mobilege/unix/blob/master/README.md)  
 [homebrew](https://github.com/mobilege/unix/blob/master/homebrew.md#homebrew) &nbsp; · &nbsp;
 [ssh](https://github.com/mobilege/unix/blob/master/ssh.md) &nbsp; · &nbsp;
 [vim](https://github.com/mobilege/unix/blob/master/vim.md) &nbsp; · &nbsp;
@@ -67,14 +69,14 @@
 
 - [HTML](https://github.com/mobilege/web-development/blob/master/html.md) &nbsp; · &nbsp;
 [CSS](https://github.com/mobilege/web-development/blob/master/css.md) &nbsp; · &nbsp;
-- [**Javascript**](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; · &nbsp;
+- [Javascript](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; · &nbsp;
 Node.js &nbsp; · &nbsp;
 Express &nbsp; · &nbsp;
-- [**Python**](https://github.com/mobiledge/data-science/blob/master/python.md) &nbsp; · &nbsp;
+- [Python](https://github.com/mobiledge/data-science/blob/master/python.md) &nbsp; · &nbsp;
 [Flask](https://github.com/mobilege/web-development/blob/master/flask.md#flask) &nbsp; · &nbsp;
 [Django](https://github.com/mobilege/web-development/blob/master/django.md) &nbsp; · &nbsp;
 [Wagtail CMS](https://github.com/wagtail/wagtail) &nbsp; · &nbsp;
-- [**Ruby**](https://github.com/mobilege/web-development/blob/master/ruby.md) &nbsp; · &nbsp;
+- [Ruby](https://github.com/mobilege/web-development/blob/master/ruby.md) &nbsp; · &nbsp;
 [rbenv](https://github.com/mobilege/web-development/blob/master/ruby-rbenv.md) &nbsp; · &nbsp;
 RVM &nbsp; · &nbsp;
 [RubyGems](https://github.com/mobilege/web-development/blob/master/ruby-rubygems.md) &nbsp; · &nbsp;
