@@ -22,10 +22,6 @@
   - [Documentation / SwiftUI](https://developer.apple.com/documentation/swiftui)
 - [**Vapor**](https://github.com/mobiledge/ios-development/blob/master/vapor.md)
 
-### Multiplatform
-- [Flutter](https://github.com/mobiledge/flutter/blob/main/README.md)
-
-
 ## [Core CS](#core-cs)
   - [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md) `Systems`
   - [Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md) `Systems`
@@ -91,9 +87,10 @@ RVM &nbsp; · &nbsp;
 - [Audio Programming](https://github.com/mobilege/audio-programming/blob/main/README.md)
 - [Core Math](#core-math)
 - [Blockchain & Finance](#trading--finance) 
-- [**Data Science**](https://github.com/mobilege/data-science/blob/master/README.md)
+- [Data Science](https://github.com/mobilege/data-science/blob/master/README.md)
  · [SQL](https://github.com/mobilege/data-science/blob/master/sql.md)
  · [Python](https://github.com/mobilege/data-science/blob/master/python.md)
+- [Flutter](https://github.com/mobiledge/flutter/blob/main/README.md)
 - [Graphics & Games](#graphics--games)
 - [IoT](#iot)
 - [48 Ideas](#48-ideas)
