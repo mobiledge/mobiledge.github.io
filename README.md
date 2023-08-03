@@ -41,6 +41,7 @@
   - https://www.schoolofhaskell.com
   - [Concepts vs Typeclasses vs Traits vs Protocols](https://www.youtube.com/watch?v=E-2y1qHQvTg)
     - Parametric polymorphism vs Ad-hoc polymorphism
+  - [From Objects to Functions](https://pragprog.com/titles/uboop/from-objects-to-functions/) `book`
 
  #### Tools
 [mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
