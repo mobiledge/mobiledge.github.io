@@ -23,16 +23,20 @@
 - [**Vapor**](https://github.com/mobiledge/ios-development/blob/master/vapor.md)
 
 ## [Core CS](#core-cs)
-  - [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md) `Systems`
-  - [Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md) `Systems`
-  - [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md) `Systems`
-  - [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md) `Systems`
+
+#### Systems
+- [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md)
+- [Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md)
+- [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md)
+- [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
+    
+#### Theory
   - [Programming: Structure and Interpretation of Computer Programs](https://github.com/mobilege/sicp/blob/master/README.md)
   - [Algorithms and Data Structures](https://github.com/mobilege/algorithms)
   - Databases
   - [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
- 
-#### Functional Programming
+    
+##### Functional Programming
 - [Programming with Categories - MIT](http://brendanfong.com/programmingcats.html) · [Video](https://youtube.com/playlist?list=PLhgq-BqyZ7i7MTGhUROZy3BOICnVixETS)
   - Book: Programming with Categories 
 - [Advanced programming languages](https://matt.might.net/articles/best-programming-languages/)
@@ -40,9 +44,9 @@
 - [Concepts vs Typeclasses vs Traits vs Protocols](https://www.youtube.com/watch?v=E-2y1qHQvTg)
   - Parametric polymorphism vs Ad-hoc polymorphism
  
-#### Unix & Tools
+#### Tools
 [mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
-[unix](https://github.com/mobilege/unix/blob/master/README.md)  
+[**unix**](https://github.com/mobilege/unix/blob/master/README.md)  
 [homebrew](https://github.com/mobilege/unix/blob/master/homebrew.md#homebrew) &nbsp; · &nbsp;
 [ssh](https://github.com/mobilege/unix/blob/master/ssh.md) &nbsp; · &nbsp;
 [vim](https://github.com/mobilege/unix/blob/master/vim.md) &nbsp; · &nbsp;
