@@ -16,11 +16,10 @@
 [ Swift Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) &nbsp; · &nbsp; 
 [ Videos](https://developer.apple.com/videos/)
 
-- [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
-  - [Documentation / The Swift Programming Language](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
-- [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
-  - [Documentation / SwiftUI](https://developer.apple.com/documentation/swiftui)
-- [**Vapor**](https://github.com/mobiledge/ios-development/blob/master/vapor.md)
+- [**Swift**](https://github.com/mobilege/swift/blob/master/README.md) &nbsp; · &nbsp;
+  [Documentation / The Swift Programming Language](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
+- [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md) &nbsp; · &nbsp; 
+  [Documentation / SwiftUI](https://developer.apple.com/documentation/swiftui)
 
 ## [Core CS](#core-cs)
 
