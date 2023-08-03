@@ -24,7 +24,7 @@
 ## [Core CS](#core-cs)
 
 #### Systems
-- [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md)
+- [**Computer Architecture**](https://github.com/mobilege/computer-architecture/blob/master/README.md)
 - [Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md)
 - [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md)
 - [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
