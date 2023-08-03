@@ -32,7 +32,7 @@
   - Databases
   - [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
  
-#### Functional Programming etc
+#### Functional Programming
 - [Programming with Categories - MIT](http://brendanfong.com/programmingcats.html) · [Video](https://youtube.com/playlist?list=PLhgq-BqyZ7i7MTGhUROZy3BOICnVixETS)
   - Book: Programming with Categories 
 - [Advanced programming languages](https://matt.might.net/articles/best-programming-languages/)
@@ -40,7 +40,7 @@
 - [Concepts vs Typeclasses vs Traits vs Protocols](https://www.youtube.com/watch?v=E-2y1qHQvTg)
   - Parametric polymorphism vs Ad-hoc polymorphism
  
-#### Unix etc
+#### Unix & Tools
 [mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
 [unix](https://github.com/mobilege/unix/blob/master/README.md)  
 [homebrew](https://github.com/mobilege/unix/blob/master/homebrew.md#homebrew) &nbsp; · &nbsp;
