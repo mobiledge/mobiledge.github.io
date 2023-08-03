@@ -41,14 +41,15 @@
   - https://www.schoolofhaskell.com
   - [Concepts vs Typeclasses vs Traits vs Protocols](https://www.youtube.com/watch?v=E-2y1qHQvTg)
     - Parametric polymorphism vs Ad-hoc polymorphism
- 
-#### Tools
+
+ #### Tools
 [mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
 [**unix**](https://github.com/mobilege/unix/blob/master/README.md)  
 [homebrew](https://github.com/mobilege/unix/blob/master/homebrew.md#homebrew) &nbsp; · &nbsp;
 [ssh](https://github.com/mobilege/unix/blob/master/ssh.md) &nbsp; · &nbsp;
 [vim](https://github.com/mobilege/unix/blob/master/vim.md) &nbsp; · &nbsp;
 [git](https://github.com/mobilege/unix/blob/master/git.md)
+
 
 #### Curriculum 
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
