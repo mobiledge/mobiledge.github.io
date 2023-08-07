@@ -43,6 +43,7 @@
     - Parametric polymorphism vs Ad-hoc polymorphism
   - [From Objects to Functions](https://pragprog.com/titles/uboop/from-objects-to-functions/) `book`
   - https://haskell.mooc.fi
+  - [Programming in Haskell - University of Nottingham](http://www.cs.nott.ac.uk/~pszgmh/pih.html)
 
  #### Tools
 [mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
