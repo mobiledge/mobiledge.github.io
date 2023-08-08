@@ -6,19 +6,23 @@ Okay, I can reformat the timeline for you. Here is the code block you can use in
 timeline
     title History of Apple Operating Systems
     2018 : iOS 12
-         : Released on September 17, 2018. Added features such as Screen Time, Siri Shortcuts, Memoji, Group FaceTime, and performance improvements[^1^][1] [^2^][4].
          : MacOS Mojave
-         : Released on September 24, 2018. Added features such as Dark Mode, Stacks, Dynamic Desktop, and redesigned Mac App Store[^3^][5] .
          : watchOS 5
-         : Released on September 17, 2018. Added features such as Walkie-Talkie, Podcasts app, Activity Competitions, and improved Siri watch face .
     2019 : iOS 13
-         : Released on September 19, 2019. Added features such as Dark Mode, Sign in with Apple, revamped Photos app, new Maps app, and enhanced privacy and security[^1^][1] [^2^][4].
          : MacOS Catalina
-         : Released on October 7, 2019. Added features such as Sidecar, Catalyst, Screen Time, and replaced iTunes with Music, Podcasts, and TV apps[^3^][5] .
          : watchOS 6
-         : Released on September 19, 2019. Added features such as App Store on Apple Watch, new watch faces, Noise app, Cycle Tracking app, and enhanced Siri .
     2020 : iOS 14
-         : Released on September 16, 2020. Added features such as Home Screen widgets, App Library, App Clips
+         : MacOS Big Sur
+         : watchOS 7
+    2021 : iOS 15
+         : MacOS Monterey
+         : watchOS 8
+    2022 : iOS 16
+         : MacOS Ventura
+         : watchOS 8
+    2023 : iOS 17
+         : MacOS Monterey
+         : watchOS 8   
 ```
 
 ```mermaid
