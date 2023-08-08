@@ -3,25 +3,22 @@
 Okay, I can reformat the timeline for you. Here is the code block you can use in a markdown doc using mermaid:
 
 ```mermaid
-gantt
-    title Apple Operating Systems History
-    dateFormat YYYY-MM-DD
-    axisFormat %Y
-    section Mac OS X
-    Cheetah :a1, 2001-03-24, 2001-09-25
-    Puma :a2, 2001-09-25, 2002-08-23
-    Jaguar :a3, 2002-08-23, 2003-10-24
-    Panther :a4, 2003-10-24, 2005-04-29
-    Tiger :a5, 2005-04-29, 2007-10-26
-    Leopard :a6, 2007-10-26, 2009-08-28
-    Snow Leopard :a7, 2009-08-28, 2011-07-20
-    Lion :a8, 2011-07-20, 2012-07-25
-    Mountain Lion :a9, 2012-07-25, 2013-10-22
-    Mavericks :a10, 2013-10-22, 2014-10-16
-    Yosemite :a11, 2014-10-16, 2015-09-30
-    El Capitan :a12, 2015-09-30, 2016-09-20
-    Sierra :a13, 2016-09-20, 2017-09-25
-    High Sierra :a14, 2017-09-25, 2018-09-20
+timeline
+    title History of Apple Operating Systems
+    2018 : iOS 12
+         : Released on September 17, 2018. Added features such as Screen Time, Siri Shortcuts, Memoji, Group FaceTime, and performance improvements[^1^][1] [^2^][4].
+         : MacOS Mojave
+         : Released on September 24, 2018. Added features such as Dark Mode, Stacks, Dynamic Desktop, and redesigned Mac App Store[^3^][5] .
+         : watchOS 5
+         : Released on September 17, 2018. Added features such as Walkie-Talkie, Podcasts app, Activity Competitions, and improved Siri watch face .
+    2019 : iOS 13
+         : Released on September 19, 2019. Added features such as Dark Mode, Sign in with Apple, revamped Photos app, new Maps app, and enhanced privacy and security[^1^][1] [^2^][4].
+         : MacOS Catalina
+         : Released on October 7, 2019. Added features such as Sidecar, Catalyst, Screen Time, and replaced iTunes with Music, Podcasts, and TV apps[^3^][5] .
+         : watchOS 6
+         : Released on September 19, 2019. Added features such as App Store on Apple Watch, new watch faces, Noise app, Cycle Tracking app, and enhanced Siri .
+    2020 : iOS 14
+         : Released on September 16, 2020. Added features such as Home Screen widgets, App Library, App Clips
 ```
 
 ```mermaid
