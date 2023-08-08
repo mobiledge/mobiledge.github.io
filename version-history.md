@@ -3,17 +3,6 @@
 ```mermaid
 timeline
     title History of iOS Releases
-    2007 : iPhone OS 1.0
-    2008 : iPhone OS 2.0
-    2009 : iPhone OS 3.0
-    2010 : iOS 4.0
-    2011 : iOS 5.0
-    2012 : iOS 6.0
-    2013 : iOS 7.0
-    2014 : iOS 8.0
-    2015 : iOS 9.0
-    2016 : iOS 10.0
-    2017 : iOS 11.0
     2018 : iOS 12.0
     2019 : iOS 13.0
     2020 : iOS 14.0
