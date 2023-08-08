@@ -1,5 +1,6 @@
 # version-history
 
+```mermaid
 timeline
     title History of iOS Releases
     2007 : iPhone OS 1.0
@@ -17,6 +18,7 @@ timeline
     2019 : iOS 13.0
     2020 : iOS 14.0
     2021 : iOS 15.0
+```
 
 
 
