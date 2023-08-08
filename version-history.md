@@ -1,5 +1,29 @@
 # version-history
 
+Okay, I can reformat the timeline for you. Here is the code block you can use in a markdown doc using mermaid:
+
+```mermaid
+gantt
+    title Apple Operating Systems History
+    dateFormat YYYY-MM-DD
+    axisFormat %Y
+    section Mac OS X
+    Cheetah :a1, 2001-03-24, 2001-09-25
+    Puma :a2, 2001-09-25, 2002-08-23
+    Jaguar :a3, 2002-08-23, 2003-10-24
+    Panther :a4, 2003-10-24, 2005-04-29
+    Tiger :a5, 2005-04-29, 2007-10-26
+    Leopard :a6, 2007-10-26, 2009-08-28
+    Snow Leopard :a7, 2009-08-28, 2011-07-20
+    Lion :a8, 2011-07-20, 2012-07-25
+    Mountain Lion :a9, 2012-07-25, 2013-10-22
+    Mavericks :a10, 2013-10-22, 2014-10-16
+    Yosemite :a11, 2014-10-16, 2015-09-30
+    El Capitan :a12, 2015-09-30, 2016-09-20
+    Sierra :a13, 2016-09-20, 2017-09-25
+    High Sierra :a14, 2017-09-25, 2018-09-20
+```
+
 ```mermaid
 timeline
     title History of iOS Releases
