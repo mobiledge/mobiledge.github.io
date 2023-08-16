@@ -69,8 +69,9 @@
   - UML
 
 #### Domain Modeling
-- Book: [Domain Modeling Made Functional](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/) _uses F#_
-- Book: [Functional and Reactive Domain Modeling](https://www.amazon.ca/Functional-Reactive-Domain-Modeling-Debasish/dp/1617292249) _uses Scala_
+- [Domain Modeling Made Functional](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/) `Book` `F#`
+- [Functional and Reactive Domain Modeling](https://www.amazon.ca/Functional-Reactive-Domain-Modeling-Debasish/dp/1617292249) `Book` `Scala`
+- [Naked Objects](https://a.co/d/ccjja27) · [Wiki](https://en.wikipedia.org/wiki/Naked_Objects_for_.NET) `Book` `.NET`
 
 ## [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
 
