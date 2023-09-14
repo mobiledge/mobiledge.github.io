@@ -80,6 +80,7 @@
 - [Javascript](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; · &nbsp;
 Node.js &nbsp; · &nbsp;
 Express &nbsp; · &nbsp;
+- [Elixir](https://github.com/mobiledge/web-development/blob/master/elixir.md)
 - [Python](https://github.com/mobiledge/data-science/blob/master/python.md) &nbsp; · &nbsp;
 [Flask](https://github.com/mobilege/web-development/blob/master/flask.md#flask) &nbsp; · &nbsp;
 [Django](https://github.com/mobilege/web-development/blob/master/django.md) &nbsp; · &nbsp;
