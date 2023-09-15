@@ -1,11 +1,6 @@
 [**mobilege**](https://github.com/mobilege/mobilege.github.io/blob/master/README.md)
 
-#### Versions
-
-- [**iOS, MacOS, WatchOS Versions**](https://github.com/mobiledge/mobiledge.github.io/blob/master/pages/versions.html)
-- [Languages](https://github.com/mobiledge/mobiledge.github.io/blob/master/languages.md)
-- [Languages II](/languages.md)
-- [**List**](/list.html)
+- [**Search**](/search.html)
 
 ### Welcome to GitHub Pages.
 
