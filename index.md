@@ -3,7 +3,8 @@
 #### Versions
 
 - [**iOS, MacOS, WatchOS Versions**](https://github.com/mobiledge/mobiledge.github.io/blob/master/pages/versions.html)
-
+- [Languages](https://github.com/mobiledge/mobiledge.github.io/blob/master/languages.md)
+- [Languages II](/languages.md)
 
 ### Welcome to GitHub Pages.
 
