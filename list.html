@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SwiftUI Views</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 80%;
+            margin: 20px auto;
+        }
+
+        th,
+        td {
+            border: 1px solid #ccc;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        #search-input {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>SwiftUI Views</h1>
+
+    <input type="text" id="search-input" placeholder="Search for a SwiftUI view...">
+
+    <table>
+        <thead>
+            <tr>
+                <th>View Name</th>
+            </tr>
+        </thead>
+        <tbody id="view-table-body"></tbody>
+    </table>
+
+    <script>
+        // List of SwiftUI views
+        const views = [
+            "ActionSheet",
+            "ActivityIndicator",
+            "Alert",
+            "Button",
+            "ColorPicker",
+            "DatePicker",
+            "DisclosureGroup",
+            "Form",
+            "GeometryReader",
+            "HStack",
+            "Image",
+            "LazyHStack",
+            "LazyVStack",
+            "Link",
+            "List",
+            "MapView",
+            "NavigationView",
+            "Picker",
+            "ProgressView",
+            "ScrollView",
+            "SecureField",
+            "Slider",
+            "Spacer",
+            "Stepper",
+            "TabView",
+            "Text",
+            "TextField",
+            "Toggle",
+            "VStack",
+            "WebView",
+            "ZStack"
+        ];
+
+        // Sort the views alphabetically
+        views.sort();
+
+        // Create the table rows dynamically
+        const tableBody = document.getElementById('view-table-body');
+        views.forEach(view => {
+            const row = document.createElement('tr');
+            const cell = document.createElement('td');
+            cell.textContent = view;
+            row.appendChild(cell);
+            tableBody.appendChild(row);
+        });
+
+        // Add a search functionality
+        const searchInput = document.getElementById('search-input');
+        searchInput.addEventListener('input', function () {
+            const searchTerm = searchInput.value.toLowerCase();
+            const filteredViews = views.filter(view => view.toLowerCase().includes(searchTerm));
+
+            // Clear the table
+            tableBody.innerHTML = '';
+
+            // Repopulate the table with filtered views
+            filteredViews.forEach(view => {
+                const row = document.createElement('tr');
+                const cell = document.createElement('td');
+                cell.textContent = view;
+                row.appendChild(cell);
+                tableBody.appendChild(row);
+            });
+        });
+    </script>
+</body>
+
+</html>
