@@ -1,118 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SwiftUI Views</title>
+    <title>Search Filter</title>
     <style>
-        table {
-            border-collapse: collapse;
-            width: 80%;
-            margin: 20px auto;
+        /* Add some basic styling for demonstration purposes */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
         }
-
-        th,
-        td {
-            border: 1px solid #ccc;
-            padding: 8px;
-            text-align: left;
-        }
-
-        th {
-            background-color: #f2f2f2;
-        }
-
         #search-input {
-            width: 100%;
-            padding: 8px;
-            margin-bottom: 20px;
+            width: 300px;
+            padding: 10px;
+            font-size: 16px;
+        }
+        #result-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        #result-list li {
+            padding: 5px;
+            border-bottom: 1px solid #ccc;
         }
     </style>
 </head>
-
 <body>
-    <h1>SwiftUI Views</h1>
-
-    <input type="text" id="search-input" placeholder="Search for a SwiftUI view...">
-
-    <table>
-        <thead>
-            <tr>
-                <th>View Name</th>
-            </tr>
-        </thead>
-        <tbody id="view-table-body"></tbody>
-    </table>
+    <h1>Search Filter Example</h1>
+    
+    <label for="search-input">Search:</label>
+    <input type="text" id="search-input" placeholder="Type to search...">
+    
+    <ul id="result-list">
+        <li>Apple</li>
+        <li>Banana</li>
+        <li>Cherry</li>
+        <li>Date</li>
+        <li>Fig</li>
+        <li>Grape</li>
+        <li>Orange</li>
+        <li>Peach</li>
+        <li>Pear</li>
+    </ul>
 
     <script>
-        // List of SwiftUI views
-        const views = [
-            "ActionSheet",
-            "ActivityIndicator",
-            "Alert",
-            "Button",
-            "ColorPicker",
-            "DatePicker",
-            "DisclosureGroup",
-            "Form",
-            "GeometryReader",
-            "HStack",
-            "Image",
-            "LazyHStack",
-            "LazyVStack",
-            "Link",
-            "List",
-            "MapView",
-            "NavigationView",
-            "Picker",
-            "ProgressView",
-            "ScrollView",
-            "SecureField",
-            "Slider",
-            "Spacer",
-            "Stepper",
-            "TabView",
-            "Text",
-            "TextField",
-            "Toggle",
-            "VStack",
-            "WebView",
-            "ZStack"
-        ];
-
-        // Sort the views alphabetically
-        views.sort();
-
-        // Create the table rows dynamically
-        const tableBody = document.getElementById('view-table-body');
-        views.forEach(view => {
-            const row = document.createElement('tr');
-            const cell = document.createElement('td');
-            cell.textContent = view;
-            row.appendChild(cell);
-            tableBody.appendChild(row);
-        });
-
-        // Add a search functionality
         const searchInput = document.getElementById('search-input');
+        const resultList = document.getElementById('result-list');
+        const listItems = resultList.getElementsByTagName('li');
+
         searchInput.addEventListener('input', function () {
             const searchTerm = searchInput.value.toLowerCase();
-            const filteredViews = views.filter(view => view.toLowerCase().includes(searchTerm));
 
-            // Clear the table
-            tableBody.innerHTML = '';
+            for (let i = 0; i < listItems.length; i++) {
+                const itemText = listItems[i].textContent.toLowerCase();
 
-            // Repopulate the table with filtered views
-            filteredViews.forEach(view => {
-                const row = document.createElement('tr');
-                const cell = document.createElement('td');
-                cell.textContent = view;
-                row.appendChild(cell);
-                tableBody.appendChild(row);
-            });
+                if (itemText.includes(searchTerm)) {
+                    listItems[i].style.display = 'block';
+                } else {
+                    listItems[i].style.display = 'none';
+                }
+            }
         });
     </script>
 </body>
-
 </html>
