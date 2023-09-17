@@ -1,4 +1,4 @@
-Search: 
+Search: &nbsp; &nbsp;
 [iPhone Models](http://mobiledge.github.io/search/iphone-models.html)  &nbsp; · &nbsp;
 [SwiftUI Views](http://mobiledge.github.io/search/swiftui-views.html)
 
