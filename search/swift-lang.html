@@ -1,0 +1,1916 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Search Swift Programming Language Book</title>
+        <style>
+                /* Add some basic styling for demonstration purposes */
+                h1 {
+                        font-family: "SF Pro Display", system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Helvetica", "Arial", sans-serif
+                }
+
+                body {
+                        font-family: "SF Pro Display", system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+                        margin: 20px;
+                }
+
+                /* body {
+                        font-family: SF Mono, SFMono-Regular, ui-monospace, Menlo, monospace;
+                        margin: 20px;
+                } */
+
+                #search-input {
+                        width: 300px;
+                        padding: 10px;
+                        font-size: 16px;
+                }
+
+                #result-list {
+                        list-style-type: none;
+                        padding: 0;
+                }
+
+                #result-list li {
+                        padding: 5px;
+                        border-bottom: 1px solid #ccc;
+                }
+        </style>
+</head>
+
+<body>
+        <h1>Search SwiftUI Views</h1>
+        <label for="search-input">Search:</label>
+        <input type="text" id="search-input" placeholder="Type to search...">
+        <ul id="result-list">
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/aboutswift">About
+                                Swift</a></li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/compatibility">Version
+                                Compatibility</a></li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour">A
+                                Swift Tour</a></li>
+                <li>A Swift Tour / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/#app-top">app-top</a>
+                </li>
+                <li>A Swift Tour / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/#Simple-Values">Simple-Values</a>
+                </li>
+                <li>A Swift Tour / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/#Control-Flow">Control-Flow</a>
+                </li>
+                <li>A Swift Tour / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/#Functions-and-Closures">Functions-and-Closures</a>
+                </li>
+                <li>A Swift Tour / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/#Objects-and-Classes">Objects-and-Classes</a>
+                </li>
+                <li>A Swift Tour / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/#Enumerations-and-Structures">Enumerations-and-Structures</a>
+                </li>
+                <li>A Swift Tour / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/#Concurrency">Concurrency</a>
+                </li>
+                <li>A Swift Tour / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/#Protocols-and-Extensions">Protocols-and-Extensions</a>
+                </li>
+                <li>A Swift Tour / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/#Error-Handling">Error-Handling</a>
+                </li>
+                <li>A Swift Tour / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/#Generics">Generics</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics">The
+                                Basics</a></li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#app-top">app-top</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Constants-and-Variables">Constants-and-Variables</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Declaring-Constants-and-Variables">Declaring-Constants-and-Variables</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Type-Annotations">Type-Annotations</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Naming-Constants-and-Variables">Naming-Constants-and-Variables</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Printing-Constants-and-Variables">Printing-Constants-and-Variables</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Comments">Comments</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Semicolons">Semicolons</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Integers">Integers</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Integer-Bounds">Integer-Bounds</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Int">Int</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#UInt">UInt</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Floating-Point-Numbers">Floating-Point-Numbers</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Type-Safety-and-Type-Inference">Type-Safety-and-Type-Inference</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Numeric-Literals">Numeric-Literals</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Numeric-Type-Conversion">Numeric-Type-Conversion</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Integer-Conversion">Integer-Conversion</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Integer-and-Floating-Point-Conversion">Integer-and-Floating-Point-Conversion</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Type-Aliases">Type-Aliases</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Booleans">Booleans</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Tuples">Tuples</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Optionals">Optionals</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#nil">nil</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Optional-Binding">Optional-Binding</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Providing-a-Fallback-Value">Providing-a-Fallback-Value</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Force-Unwrapping">Force-Unwrapping</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Implicitly-Unwrapped-Optionals">Implicitly-Unwrapped-Optionals</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Error-Handling">Error-Handling</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Assertions-and-Preconditions">Assertions-and-Preconditions</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Debugging-with-Assertions">Debugging-with-Assertions</a>
+                </li>
+                <li>The Basics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/#Enforcing-Preconditions">Enforcing-Preconditions</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators">Basic
+                                Operators</a></li>
+                <li>Basic Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#app-top">app-top</a>
+                </li>
+                <li>Basic Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#Terminology">Terminology</a>
+                </li>
+                <li>Basic Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#Assignment-Operator">Assignment-Operator</a>
+                </li>
+                <li>Basic Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#Arithmetic-Operators">Arithmetic-Operators</a>
+                </li>
+                <li>Basic Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#Remainder-Operator">Remainder-Operator</a>
+                </li>
+                <li>Basic Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#Unary-Minus-Operator">Unary-Minus-Operator</a>
+                </li>
+                <li>Basic Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#Unary-Plus-Operator">Unary-Plus-Operator</a>
+                </li>
+                <li>Basic Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#Compound-Assignment-Operators">Compound-Assignment-Operators</a>
+                </li>
+                <li>Basic Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#Comparison-Operators">Comparison-Operators</a>
+                </li>
+                <li>Basic Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#Ternary-Conditional-Operator">Ternary-Conditional-Operator</a>
+                </li>
+                <li>Basic Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#Nil-Coalescing-Operator">Nil-Coalescing-Operator</a>
+                </li>
+                <li>Basic Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#Range-Operators">Range-Operators</a>
+                </li>
+                <li>Basic Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#Closed-Range-Operator">Closed-Range-Operator</a>
+                </li>
+                <li>Basic Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#Half-Open-Range-Operator">Half-Open-Range-Operator</a>
+                </li>
+                <li>Basic Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#One-Sided-Ranges">One-Sided-Ranges</a>
+                </li>
+                <li>Basic Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#Logical-Operators">Logical-Operators</a>
+                </li>
+                <li>Basic Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#Logical-NOT-Operator">Logical-NOT-Operator</a>
+                </li>
+                <li>Basic Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#Logical-AND-Operator">Logical-AND-Operator</a>
+                </li>
+                <li>Basic Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#Logical-OR-Operator">Logical-OR-Operator</a>
+                </li>
+                <li>Basic Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#Combining-Logical-Operators">Combining-Logical-Operators</a>
+                </li>
+                <li>Basic Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/basicoperators/#Explicit-Parentheses">Explicit-Parentheses</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters">Strings
+                                and Characters</a></li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#app-top">app-top</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#String-Literals">String-Literals</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#Multiline-String-Literals">Multiline-String-Literals</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#Special-Characters-in-String-Literals">Special-Characters-in-String-Literals</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#Extended-String-Delimiters">Extended-String-Delimiters</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#Initializing-an-Empty-String">Initializing-an-Empty-String</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#String-Mutability">String-Mutability</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#Strings-Are-Value-Types">Strings-Are-Value-Types</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#Working-with-Characters">Working-with-Characters</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#Concatenating-Strings-and-Characters">Concatenating-Strings-and-Characters</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#String-Interpolation">String-Interpolation</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#Unicode">Unicode</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#Unicode-Scalar-Values">Unicode-Scalar-Values</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#Extended-Grapheme-Clusters">Extended-Grapheme-Clusters</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#Counting-Characters">Counting-Characters</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#Accessing-and-Modifying-a-String">Accessing-and-Modifying-a-String</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#String-Indices">String-Indices</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#Inserting-and-Removing">Inserting-and-Removing</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#Substrings">Substrings</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#Comparing-Strings">Comparing-Strings</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#String-and-Character-Equality">String-and-Character-Equality</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#Prefix-and-Suffix-Equality">Prefix-and-Suffix-Equality</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#Unicode-Representations-of-Strings">Unicode-Representations-of-Strings</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#UTF-8-Representation">UTF-8-Representation</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#UTF-16-Representation">UTF-16-Representation</a>
+                </li>
+                <li>Strings and Characters / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/stringsandcharacters/#Unicode-Scalar-Representation">Unicode-Scalar-Representation</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes">Collection
+                                Types</a></li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#app-top">app-top</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Mutability-of-Collections">Mutability-of-Collections</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Arrays">Arrays</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Array-Type-Shorthand-Syntax">Array-Type-Shorthand-Syntax</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Creating-an-Empty-Array">Creating-an-Empty-Array</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Creating-an-Array-with-a-Default-Value">Creating-an-Array-with-a-Default-Value</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Creating-an-Array-by-Adding-Two-Arrays-Together">Creating-an-Array-by-Adding-Two-Arrays-Together</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Creating-an-Array-with-an-Array-Literal">Creating-an-Array-with-an-Array-Literal</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Accessing-and-Modifying-an-Array">Accessing-and-Modifying-an-Array</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Iterating-Over-an-Array">Iterating-Over-an-Array</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Sets">Sets</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Hash-Values-for-Set-Types">Hash-Values-for-Set-Types</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Set-Type-Syntax">Set-Type-Syntax</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Creating-and-Initializing-an-Empty-Set">Creating-and-Initializing-an-Empty-Set</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Creating-a-Set-with-an-Array-Literal">Creating-a-Set-with-an-Array-Literal</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Accessing-and-Modifying-a-Set">Accessing-and-Modifying-a-Set</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Iterating-Over-a-Set">Iterating-Over-a-Set</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Performing-Set-Operations">Performing-Set-Operations</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Fundamental-Set-Operations">Fundamental-Set-Operations</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Set-Membership-and-Equality">Set-Membership-and-Equality</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Dictionaries">Dictionaries</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Dictionary-Type-Shorthand-Syntax">Dictionary-Type-Shorthand-Syntax</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Creating-an-Empty-Dictionary">Creating-an-Empty-Dictionary</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Creating-a-Dictionary-with-a-Dictionary-Literal">Creating-a-Dictionary-with-a-Dictionary-Literal</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Accessing-and-Modifying-a-Dictionary">Accessing-and-Modifying-a-Dictionary</a>
+                </li>
+                <li>Collection Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/collectiontypes/#Iterating-Over-a-Dictionary">Iterating-Over-a-Dictionary</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow">Control
+                                Flow</a></li>
+                <li>Control Flow / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow/#app-top">app-top</a>
+                </li>
+                <li>Control Flow / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow/#For-In-Loops">For-In-Loops</a>
+                </li>
+                <li>Control Flow / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow/#While-Loops">While-Loops</a>
+                </li>
+                <li>Control Flow / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow/#While">While</a>
+                </li>
+                <li>Control Flow / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow/#Repeat-While">Repeat-While</a>
+                </li>
+                <li>Control Flow / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow/#Conditional-Statements">Conditional-Statements</a>
+                </li>
+                <li>Control Flow / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow/#If">If</a>
+                </li>
+                <li>Control Flow / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow/#Switch">Switch</a>
+                </li>
+                <li>Control Flow / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow/#Control-Transfer-Statements">Control-Transfer-Statements</a>
+                </li>
+                <li>Control Flow / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow/#Continue">Continue</a>
+                </li>
+                <li>Control Flow / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow/#Break">Break</a>
+                </li>
+                <li>Control Flow / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow/#Fallthrough">Fallthrough</a>
+                </li>
+                <li>Control Flow / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow/#Labeled-Statements">Labeled-Statements</a>
+                </li>
+                <li>Control Flow / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow/#Early-Exit">Early-Exit</a>
+                </li>
+                <li>Control Flow / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow/#Deferred-Actions">Deferred-Actions</a>
+                </li>
+                <li>Control Flow / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/controlflow/#Checking-API-Availability">Checking-API-Availability</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions">Functions</a>
+                </li>
+                <li>Functions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions/#app-top">app-top</a>
+                </li>
+                <li>Functions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions/#Defining-and-Calling-Functions">Defining-and-Calling-Functions</a>
+                </li>
+                <li>Functions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions/#Function-Parameters-and-Return-Values">Function-Parameters-and-Return-Values</a>
+                </li>
+                <li>Functions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions/#Functions-Without-Parameters">Functions-Without-Parameters</a>
+                </li>
+                <li>Functions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions/#Functions-With-Multiple-Parameters">Functions-With-Multiple-Parameters</a>
+                </li>
+                <li>Functions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions/#Functions-Without-Return-Values">Functions-Without-Return-Values</a>
+                </li>
+                <li>Functions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions/#Functions-with-Multiple-Return-Values">Functions-with-Multiple-Return-Values</a>
+                </li>
+                <li>Functions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions/#Functions-With-an-Implicit-Return">Functions-With-an-Implicit-Return</a>
+                </li>
+                <li>Functions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions/#Function-Argument-Labels-and-Parameter-Names">Function-Argument-Labels-and-Parameter-Names</a>
+                </li>
+                <li>Functions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions/#Specifying-Argument-Labels">Specifying-Argument-Labels</a>
+                </li>
+                <li>Functions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions/#Omitting-Argument-Labels">Omitting-Argument-Labels</a>
+                </li>
+                <li>Functions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions/#Default-Parameter-Values">Default-Parameter-Values</a>
+                </li>
+                <li>Functions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions/#Variadic-Parameters">Variadic-Parameters</a>
+                </li>
+                <li>Functions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions/#In-Out-Parameters">In-Out-Parameters</a>
+                </li>
+                <li>Functions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions/#Function-Types">Function-Types</a>
+                </li>
+                <li>Functions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions/#Using-Function-Types">Using-Function-Types</a>
+                </li>
+                <li>Functions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions/#Function-Types-as-Parameter-Types">Function-Types-as-Parameter-Types</a>
+                </li>
+                <li>Functions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions/#Function-Types-as-Return-Types">Function-Types-as-Return-Types</a>
+                </li>
+                <li>Functions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/functions/#Nested-Functions">Nested-Functions</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures">Closures</a>
+                </li>
+                <li>Closures / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures/#app-top">app-top</a>
+                </li>
+                <li>Closures / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures/#Closure-Expressions">Closure-Expressions</a>
+                </li>
+                <li>Closures / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures/#The-Sorted-Method">The-Sorted-Method</a>
+                </li>
+                <li>Closures / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures/#Closure-Expression-Syntax">Closure-Expression-Syntax</a>
+                </li>
+                <li>Closures / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures/#Inferring-Type-From-Context">Inferring-Type-From-Context</a>
+                </li>
+                <li>Closures / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures/#Implicit-Returns-from-Single-Expression-Closures">Implicit-Returns-from-Single-Expression-Closures</a>
+                </li>
+                <li>Closures / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures/#Shorthand-Argument-Names">Shorthand-Argument-Names</a>
+                </li>
+                <li>Closures / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures/#Operator-Methods">Operator-Methods</a>
+                </li>
+                <li>Closures / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures/#Trailing-Closures">Trailing-Closures</a>
+                </li>
+                <li>Closures / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures/#Capturing-Values">Capturing-Values</a>
+                </li>
+                <li>Closures / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures/#Closures-Are-Reference-Types">Closures-Are-Reference-Types</a>
+                </li>
+                <li>Closures / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures/#Escaping-Closures">Escaping-Closures</a>
+                </li>
+                <li>Closures / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures/#Autoclosures">Autoclosures</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/enumerations">Enumerations</a>
+                </li>
+                <li>Enumerations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/enumerations/#app-top">app-top</a>
+                </li>
+                <li>Enumerations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/enumerations/#Enumeration-Syntax">Enumeration-Syntax</a>
+                </li>
+                <li>Enumerations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/enumerations/#Matching-Enumeration-Values-with-a-Switch-Statement">Matching-Enumeration-Values-with-a-Switch-Statement</a>
+                </li>
+                <li>Enumerations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/enumerations/#Iterating-over-Enumeration-Cases">Iterating-over-Enumeration-Cases</a>
+                </li>
+                <li>Enumerations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/enumerations/#Associated-Values">Associated-Values</a>
+                </li>
+                <li>Enumerations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/enumerations/#Raw-Values">Raw-Values</a>
+                </li>
+                <li>Enumerations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/enumerations/#Implicitly-Assigned-Raw-Values">Implicitly-Assigned-Raw-Values</a>
+                </li>
+                <li>Enumerations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/enumerations/#Initializing-from-a-Raw-Value">Initializing-from-a-Raw-Value</a>
+                </li>
+                <li>Enumerations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/enumerations/#Recursive-Enumerations">Recursive-Enumerations</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures">Structures
+                                and Classes</a></li>
+                <li>Structures and Classes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures/#app-top">app-top</a>
+                </li>
+                <li>Structures and Classes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures/#Comparing-Structures-and-Classes">Comparing-Structures-and-Classes</a>
+                </li>
+                <li>Structures and Classes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures/#Definition-Syntax">Definition-Syntax</a>
+                </li>
+                <li>Structures and Classes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures/#Structure-and-Class-Instances">Structure-and-Class-Instances</a>
+                </li>
+                <li>Structures and Classes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures/#Accessing-Properties">Accessing-Properties</a>
+                </li>
+                <li>Structures and Classes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures/#Memberwise-Initializers-for-Structure-Types">Memberwise-Initializers-for-Structure-Types</a>
+                </li>
+                <li>Structures and Classes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures/#Structures-and-Enumerations-Are-Value-Types">Structures-and-Enumerations-Are-Value-Types</a>
+                </li>
+                <li>Structures and Classes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures/#Classes-Are-Reference-Types">Classes-Are-Reference-Types</a>
+                </li>
+                <li>Structures and Classes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures/#Identity-Operators">Identity-Operators</a>
+                </li>
+                <li>Structures and Classes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures/#Pointers">Pointers</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/properties">Properties</a>
+                </li>
+                <li>Properties / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/properties/#app-top">app-top</a>
+                </li>
+                <li>Properties / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/properties/#Stored-Properties">Stored-Properties</a>
+                </li>
+                <li>Properties / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/properties/#Stored-Properties-of-Constant-Structure-Instances">Stored-Properties-of-Constant-Structure-Instances</a>
+                </li>
+                <li>Properties / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/properties/#Lazy-Stored-Properties">Lazy-Stored-Properties</a>
+                </li>
+                <li>Properties / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/properties/#Stored-Properties-and-Instance-Variables">Stored-Properties-and-Instance-Variables</a>
+                </li>
+                <li>Properties / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/properties/#Computed-Properties">Computed-Properties</a>
+                </li>
+                <li>Properties / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/properties/#Shorthand-Setter-Declaration">Shorthand-Setter-Declaration</a>
+                </li>
+                <li>Properties / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/properties/#Shorthand-Getter-Declaration">Shorthand-Getter-Declaration</a>
+                </li>
+                <li>Properties / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/properties/#Read-Only-Computed-Properties">Read-Only-Computed-Properties</a>
+                </li>
+                <li>Properties / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/properties/#Property-Observers">Property-Observers</a>
+                </li>
+                <li>Properties / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/properties/#Property-Wrappers">Property-Wrappers</a>
+                </li>
+                <li>Properties / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/properties/#Setting-Initial-Values-for-Wrapped-Properties">Setting-Initial-Values-for-Wrapped-Properties</a>
+                </li>
+                <li>Properties / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/properties/#Projecting-a-Value-From-a-Property-Wrapper">Projecting-a-Value-From-a-Property-Wrapper</a>
+                </li>
+                <li>Properties / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/properties/#Global-and-Local-Variables">Global-and-Local-Variables</a>
+                </li>
+                <li>Properties / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/properties/#Type-Properties">Type-Properties</a>
+                </li>
+                <li>Properties / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/properties/#Type-Property-Syntax">Type-Property-Syntax</a>
+                </li>
+                <li>Properties / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/properties/#Querying-and-Setting-Type-Properties">Querying-and-Setting-Type-Properties</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/methods">Methods</a>
+                </li>
+                <li>Methods / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/methods/#app-top">app-top</a>
+                </li>
+                <li>Methods / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/methods/#Instance-Methods">Instance-Methods</a>
+                </li>
+                <li>Methods / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/methods/#The-self-Property">The-self-Property</a>
+                </li>
+                <li>Methods / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/methods/#Modifying-Value-Types-from-Within-Instance-Methods">Modifying-Value-Types-from-Within-Instance-Methods</a>
+                </li>
+                <li>Methods / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/methods/#Assigning-to-self-Within-a-Mutating-Method">Assigning-to-self-Within-a-Mutating-Method</a>
+                </li>
+                <li>Methods / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/methods/#Type-Methods">Type-Methods</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/subscripts">Subscripts</a>
+                </li>
+                <li>Subscripts / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/subscripts/#app-top">app-top</a>
+                </li>
+                <li>Subscripts / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/subscripts/#Subscript-Syntax">Subscript-Syntax</a>
+                </li>
+                <li>Subscripts / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/subscripts/#Subscript-Usage">Subscript-Usage</a>
+                </li>
+                <li>Subscripts / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/subscripts/#Subscript-Options">Subscript-Options</a>
+                </li>
+                <li>Subscripts / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/subscripts/#Type-Subscripts">Type-Subscripts</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/inheritance">Inheritance</a>
+                </li>
+                <li>Inheritance / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/inheritance/#app-top">app-top</a>
+                </li>
+                <li>Inheritance / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/inheritance/#Defining-a-Base-Class">Defining-a-Base-Class</a>
+                </li>
+                <li>Inheritance / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/inheritance/#Subclassing">Subclassing</a>
+                </li>
+                <li>Inheritance / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/inheritance/#Overriding">Overriding</a>
+                </li>
+                <li>Inheritance / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/inheritance/#Accessing-Superclass-Methods-Properties-and-Subscripts">Accessing-Superclass-Methods-Properties-and-Subscripts</a>
+                </li>
+                <li>Inheritance / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/inheritance/#Overriding-Methods">Overriding-Methods</a>
+                </li>
+                <li>Inheritance / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/inheritance/#Overriding-Properties">Overriding-Properties</a>
+                </li>
+                <li>Inheritance / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/inheritance/#Preventing-Overrides">Preventing-Overrides</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization">Initialization</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#app-top">app-top</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Setting-Initial-Values-for-Stored-Properties">Setting-Initial-Values-for-Stored-Properties</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Initializers">Initializers</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Default-Property-Values">Default-Property-Values</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Customizing-Initialization">Customizing-Initialization</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Initialization-Parameters">Initialization-Parameters</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Parameter-Names-and-Argument-Labels">Parameter-Names-and-Argument-Labels</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Initializer-Parameters-Without-Argument-Labels">Initializer-Parameters-Without-Argument-Labels</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Optional-Property-Types">Optional-Property-Types</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Assigning-Constant-Properties-During-Initialization">Assigning-Constant-Properties-During-Initialization</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Default-Initializers">Default-Initializers</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Memberwise-Initializers-for-Structure-Types">Memberwise-Initializers-for-Structure-Types</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Initializer-Delegation-for-Value-Types">Initializer-Delegation-for-Value-Types</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Class-Inheritance-and-Initialization">Class-Inheritance-and-Initialization</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Designated-Initializers-and-Convenience-Initializers">Designated-Initializers-and-Convenience-Initializers</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Syntax-for-Designated-and-Convenience-Initializers">Syntax-for-Designated-and-Convenience-Initializers</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Initializer-Delegation-for-Class-Types">Initializer-Delegation-for-Class-Types</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Two-Phase-Initialization">Two-Phase-Initialization</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Initializer-Inheritance-and-Overriding">Initializer-Inheritance-and-Overriding</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Automatic-Initializer-Inheritance">Automatic-Initializer-Inheritance</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Designated-and-Convenience-Initializers-in-Action">Designated-and-Convenience-Initializers-in-Action</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Failable-Initializers">Failable-Initializers</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Failable-Initializers-for-Enumerations">Failable-Initializers-for-Enumerations</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Failable-Initializers-for-Enumerations-with-Raw-Values">Failable-Initializers-for-Enumerations-with-Raw-Values</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Propagation-of-Initialization-Failure">Propagation-of-Initialization-Failure</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Overriding-a-Failable-Initializer">Overriding-a-Failable-Initializer</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#The-init-Failable-Initializer">The-init-Failable-Initializer</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Required-Initializers">Required-Initializers</a>
+                </li>
+                <li>Initialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/initialization/#Setting-a-Default-Property-Value-with-a-Closure-or-Function">Setting-a-Default-Property-Value-with-a-Closure-or-Function</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/deinitialization">Deinitialization</a>
+                </li>
+                <li>Deinitialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/deinitialization/#app-top">app-top</a>
+                </li>
+                <li>Deinitialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/deinitialization/#How-Deinitialization-Works">How-Deinitialization-Works</a>
+                </li>
+                <li>Deinitialization / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/deinitialization/#Deinitializers-in-Action">Deinitializers-in-Action</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/optionalchaining">Optional
+                                Chaining</a></li>
+                <li>Optional Chaining / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/optionalchaining/#app-top">app-top</a>
+                </li>
+                <li>Optional Chaining / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/optionalchaining/#Optional-Chaining-as-an-Alternative-to-Forced-Unwrapping">Optional-Chaining-as-an-Alternative-to-Forced-Unwrapping</a>
+                </li>
+                <li>Optional Chaining / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/optionalchaining/#Defining-Model-Classes-for-Optional-Chaining">Defining-Model-Classes-for-Optional-Chaining</a>
+                </li>
+                <li>Optional Chaining / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/optionalchaining/#Accessing-Properties-Through-Optional-Chaining">Accessing-Properties-Through-Optional-Chaining</a>
+                </li>
+                <li>Optional Chaining / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/optionalchaining/#Calling-Methods-Through-Optional-Chaining">Calling-Methods-Through-Optional-Chaining</a>
+                </li>
+                <li>Optional Chaining / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/optionalchaining/#Accessing-Subscripts-Through-Optional-Chaining">Accessing-Subscripts-Through-Optional-Chaining</a>
+                </li>
+                <li>Optional Chaining / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/optionalchaining/#Accessing-Subscripts-of-Optional-Type">Accessing-Subscripts-of-Optional-Type</a>
+                </li>
+                <li>Optional Chaining / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/optionalchaining/#Linking-Multiple-Levels-of-Chaining">Linking-Multiple-Levels-of-Chaining</a>
+                </li>
+                <li>Optional Chaining / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/optionalchaining/#Chaining-on-Methods-with-Optional-Return-Values">Chaining-on-Methods-with-Optional-Return-Values</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/errorhandling">Error
+                                Handling</a></li>
+                <li>Error Handling / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/errorhandling/#app-top">app-top</a>
+                </li>
+                <li>Error Handling / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/errorhandling/#Representing-and-Throwing-Errors">Representing-and-Throwing-Errors</a>
+                </li>
+                <li>Error Handling / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/errorhandling/#Handling-Errors">Handling-Errors</a>
+                </li>
+                <li>Error Handling / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/errorhandling/#Propagating-Errors-Using-Throwing-Functions">Propagating-Errors-Using-Throwing-Functions</a>
+                </li>
+                <li>Error Handling / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/errorhandling/#Handling-Errors-Using-Do-Catch">Handling-Errors-Using-Do-Catch</a>
+                </li>
+                <li>Error Handling / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/errorhandling/#Converting-Errors-to-Optional-Values">Converting-Errors-to-Optional-Values</a>
+                </li>
+                <li>Error Handling / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/errorhandling/#Disabling-Error-Propagation">Disabling-Error-Propagation</a>
+                </li>
+                <li>Error Handling / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/errorhandling/#Specifying-Cleanup-Actions">Specifying-Cleanup-Actions</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency">Concurrency</a>
+                </li>
+                <li>Concurrency / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency/#app-top">app-top</a>
+                </li>
+                <li>Concurrency / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency/#Defining-and-Calling-Asynchronous-Functions">Defining-and-Calling-Asynchronous-Functions</a>
+                </li>
+                <li>Concurrency / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency/#Asynchronous-Sequences">Asynchronous-Sequences</a>
+                </li>
+                <li>Concurrency / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency/#Calling-Asynchronous-Functions-in-Parallel">Calling-Asynchronous-Functions-in-Parallel</a>
+                </li>
+                <li>Concurrency / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency/#Tasks-and-Task-Groups">Tasks-and-Task-Groups</a>
+                </li>
+                <li>Concurrency / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency/#Unstructured-Concurrency">Unstructured-Concurrency</a>
+                </li>
+                <li>Concurrency / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency/#Task-Cancellation">Task-Cancellation</a>
+                </li>
+                <li>Concurrency / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency/#Actors">Actors</a>
+                </li>
+                <li>Concurrency / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency/#Sendable-Types">Sendable-Types</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/macros">Macros</a>
+                </li>
+                <li>Macros / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/macros/#app-top">app-top</a>
+                </li>
+                <li>Macros / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/macros/#Freestanding-Macros">Freestanding-Macros</a>
+                </li>
+                <li>Macros / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/macros/#Attached-Macros">Attached-Macros</a>
+                </li>
+                <li>Macros / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/macros/#Macro-Declarations">Macro-Declarations</a>
+                </li>
+                <li>Macros / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/macros/#Macro-Expansion">Macro-Expansion</a>
+                </li>
+                <li>Macros / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/macros/#Implementing-a-Macro">Implementing-a-Macro</a>
+                </li>
+                <li>Macros / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/macros/#Developing-and-Debugging-Macros">Developing-and-Debugging-Macros</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/typecasting">Type
+                                Casting</a></li>
+                <li>Type Casting / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/typecasting/#app-top">app-top</a>
+                </li>
+                <li>Type Casting / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/typecasting/#Defining-a-Class-Hierarchy-for-Type-Casting">Defining-a-Class-Hierarchy-for-Type-Casting</a>
+                </li>
+                <li>Type Casting / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/typecasting/#Checking-Type">Checking-Type</a>
+                </li>
+                <li>Type Casting / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/typecasting/#Downcasting">Downcasting</a>
+                </li>
+                <li>Type Casting / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/typecasting/#Type-Casting-for-Any-and-AnyObject">Type-Casting-for-Any-and-AnyObject</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/nestedtypes">Nested
+                                Types</a></li>
+                <li>Nested Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/nestedtypes/#app-top">app-top</a>
+                </li>
+                <li>Nested Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/nestedtypes/#Nested-Types-in-Action">Nested-Types-in-Action</a>
+                </li>
+                <li>Nested Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/nestedtypes/#Referring-to-Nested-Types">Referring-to-Nested-Types</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/extensions">Extensions</a>
+                </li>
+                <li>Extensions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/extensions/#app-top">app-top</a>
+                </li>
+                <li>Extensions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/extensions/#Extension-Syntax">Extension-Syntax</a>
+                </li>
+                <li>Extensions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/extensions/#Computed-Properties">Computed-Properties</a>
+                </li>
+                <li>Extensions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/extensions/#Initializers">Initializers</a>
+                </li>
+                <li>Extensions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/extensions/#Methods">Methods</a>
+                </li>
+                <li>Extensions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/extensions/#Mutating-Instance-Methods">Mutating-Instance-Methods</a>
+                </li>
+                <li>Extensions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/extensions/#Subscripts">Subscripts</a>
+                </li>
+                <li>Extensions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/extensions/#Nested-Types">Nested-Types</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols">Protocols</a>
+                </li>
+                <li>Protocols / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/#app-top">app-top</a>
+                </li>
+                <li>Protocols / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/#Protocol-Syntax">Protocol-Syntax</a>
+                </li>
+                <li>Protocols / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/#Property-Requirements">Property-Requirements</a>
+                </li>
+                <li>Protocols / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/#Method-Requirements">Method-Requirements</a>
+                </li>
+                <li>Protocols / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/#Mutating-Method-Requirements">Mutating-Method-Requirements</a>
+                </li>
+                <li>Protocols / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/#Initializer-Requirements">Initializer-Requirements</a>
+                </li>
+                <li>Protocols / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/#Class-Implementations-of-Protocol-Initializer-Requirements">Class-Implementations-of-Protocol-Initializer-Requirements</a>
+                </li>
+                <li>Protocols / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/#Failable-Initializer-Requirements">Failable-Initializer-Requirements</a>
+                </li>
+                <li>Protocols / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/#Protocols-as-Types">Protocols-as-Types</a>
+                </li>
+                <li>Protocols / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/#Delegation">Delegation</a>
+                </li>
+                <li>Protocols / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/#Adding-Protocol-Conformance-with-an-Extension">Adding-Protocol-Conformance-with-an-Extension</a>
+                </li>
+                <li>Protocols / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/#Conditionally-Conforming-to-a-Protocol">Conditionally-Conforming-to-a-Protocol</a>
+                </li>
+                <li>Protocols / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/#Declaring-Protocol-Adoption-with-an-Extension">Declaring-Protocol-Adoption-with-an-Extension</a>
+                </li>
+                <li>Protocols / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/#Adopting-a-Protocol-Using-a-Synthesized-Implementation">Adopting-a-Protocol-Using-a-Synthesized-Implementation</a>
+                </li>
+                <li>Protocols / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/#Collections-of-Protocol-Types">Collections-of-Protocol-Types</a>
+                </li>
+                <li>Protocols / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/#Protocol-Inheritance">Protocol-Inheritance</a>
+                </li>
+                <li>Protocols / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/#Class-Only-Protocols">Class-Only-Protocols</a>
+                </li>
+                <li>Protocols / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/#Protocol-Composition">Protocol-Composition</a>
+                </li>
+                <li>Protocols / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/#Checking-for-Protocol-Conformance">Checking-for-Protocol-Conformance</a>
+                </li>
+                <li>Protocols / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/#Optional-Protocol-Requirements">Optional-Protocol-Requirements</a>
+                </li>
+                <li>Protocols / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/#Protocol-Extensions">Protocol-Extensions</a>
+                </li>
+                <li>Protocols / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/#Providing-Default-Implementations">Providing-Default-Implementations</a>
+                </li>
+                <li>Protocols / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/#Adding-Constraints-to-Protocol-Extensions">Adding-Constraints-to-Protocol-Extensions</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics">Generics</a>
+                </li>
+                <li>Generics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/#app-top">app-top</a>
+                </li>
+                <li>Generics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/#The-Problem-That-Generics-Solve">The-Problem-That-Generics-Solve</a>
+                </li>
+                <li>Generics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/#Generic-Functions">Generic-Functions</a>
+                </li>
+                <li>Generics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/#Type-Parameters">Type-Parameters</a>
+                </li>
+                <li>Generics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/#Naming-Type-Parameters">Naming-Type-Parameters</a>
+                </li>
+                <li>Generics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/#Generic-Types">Generic-Types</a>
+                </li>
+                <li>Generics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/#Extending-a-Generic-Type">Extending-a-Generic-Type</a>
+                </li>
+                <li>Generics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/#Type-Constraints">Type-Constraints</a>
+                </li>
+                <li>Generics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/#Type-Constraint-Syntax">Type-Constraint-Syntax</a>
+                </li>
+                <li>Generics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/#Type-Constraints-in-Action">Type-Constraints-in-Action</a>
+                </li>
+                <li>Generics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/#Associated-Types">Associated-Types</a>
+                </li>
+                <li>Generics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/#Associated-Types-in-Action">Associated-Types-in-Action</a>
+                </li>
+                <li>Generics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/#Extending-an-Existing-Type-to-Specify-an-Associated-Type">Extending-an-Existing-Type-to-Specify-an-Associated-Type</a>
+                </li>
+                <li>Generics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/#Adding-Constraints-to-an-Associated-Type">Adding-Constraints-to-an-Associated-Type</a>
+                </li>
+                <li>Generics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/#Using-a-Protocol-in-Its-Associated-Types-Constraints">Using-a-Protocol-in-Its-Associated-Types-Constraints</a>
+                </li>
+                <li>Generics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/#Generic-Where-Clauses">Generic-Where-Clauses</a>
+                </li>
+                <li>Generics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/#Extensions-with-a-Generic-Where-Clause">Extensions-with-a-Generic-Where-Clause</a>
+                </li>
+                <li>Generics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/#Contextual-Where-Clauses">Contextual-Where-Clauses</a>
+                </li>
+                <li>Generics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/#Associated-Types-with-a-Generic-Where-Clause">Associated-Types-with-a-Generic-Where-Clause</a>
+                </li>
+                <li>Generics / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/#Generic-Subscripts">Generic-Subscripts</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/opaquetypes">Opaque
+                                and Boxed Types</a></li>
+                <li>Opaque and Boxed Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/opaquetypes/#app-top">app-top</a>
+                </li>
+                <li>Opaque and Boxed Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/opaquetypes/#The-Problem-That-Opaque-Types-Solve">The-Problem-That-Opaque-Types-Solve</a>
+                </li>
+                <li>Opaque and Boxed Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/opaquetypes/#Returning-an-Opaque-Type">Returning-an-Opaque-Type</a>
+                </li>
+                <li>Opaque and Boxed Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/opaquetypes/#Boxed-Protocol-Types">Boxed-Protocol-Types</a>
+                </li>
+                <li>Opaque and Boxed Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/opaquetypes/#Differences-Between-Opaque-Types-and-Boxed-Protocol-Types">Differences-Between-Opaque-Types-and-Boxed-Protocol-Types</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting">Automatic
+                                Reference Counting</a></li>
+                <li>Automatic Reference Counting / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting/#app-top">app-top</a>
+                </li>
+                <li>Automatic Reference Counting / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting/#How-ARC-Works">How-ARC-Works</a>
+                </li>
+                <li>Automatic Reference Counting / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting/#ARC-in-Action">ARC-in-Action</a>
+                </li>
+                <li>Automatic Reference Counting / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting/#Strong-Reference-Cycles-Between-Class-Instances">Strong-Reference-Cycles-Between-Class-Instances</a>
+                </li>
+                <li>Automatic Reference Counting / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting/#Resolving-Strong-Reference-Cycles-Between-Class-Instances">Resolving-Strong-Reference-Cycles-Between-Class-Instances</a>
+                </li>
+                <li>Automatic Reference Counting / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting/#Weak-References">Weak-References</a>
+                </li>
+                <li>Automatic Reference Counting / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting/#Unowned-References">Unowned-References</a>
+                </li>
+                <li>Automatic Reference Counting / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting/#Unowned-Optional-References">Unowned-Optional-References</a>
+                </li>
+                <li>Automatic Reference Counting / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting/#Unowned-References-and-Implicitly-Unwrapped-Optional-Properties">Unowned-References-and-Implicitly-Unwrapped-Optional-Properties</a>
+                </li>
+                <li>Automatic Reference Counting / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting/#Strong-Reference-Cycles-for-Closures">Strong-Reference-Cycles-for-Closures</a>
+                </li>
+                <li>Automatic Reference Counting / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting/#Resolving-Strong-Reference-Cycles-for-Closures">Resolving-Strong-Reference-Cycles-for-Closures</a>
+                </li>
+                <li>Automatic Reference Counting / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting/#Defining-a-Capture-List">Defining-a-Capture-List</a>
+                </li>
+                <li>Automatic Reference Counting / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/automaticreferencecounting/#Weak-and-Unowned-References">Weak-and-Unowned-References</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/memorysafety">Memory
+                                Safety</a></li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol">Access
+                                Control</a></li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#app-top">app-top</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Modules-and-Source-Files">Modules-and-Source-Files</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Access-Levels">Access-Levels</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Guiding-Principle-of-Access-Levels">Guiding-Principle-of-Access-Levels</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Default-Access-Levels">Default-Access-Levels</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Access-Levels-for-Single-Target-Apps">Access-Levels-for-Single-Target-Apps</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Access-Levels-for-Frameworks">Access-Levels-for-Frameworks</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Access-Levels-for-Unit-Test-Targets">Access-Levels-for-Unit-Test-Targets</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Access-Control-Syntax">Access-Control-Syntax</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Custom-Types">Custom-Types</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Tuple-Types">Tuple-Types</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Function-Types">Function-Types</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Enumeration-Types">Enumeration-Types</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Nested-Types">Nested-Types</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Subclassing">Subclassing</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Constants-Variables-Properties-and-Subscripts">Constants-Variables-Properties-and-Subscripts</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Getters-and-Setters">Getters-and-Setters</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Initializers">Initializers</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Default-Initializers">Default-Initializers</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Default-Memberwise-Initializers-for-Structure-Types">Default-Memberwise-Initializers-for-Structure-Types</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Protocols">Protocols</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Protocol-Inheritance">Protocol-Inheritance</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Protocol-Conformance">Protocol-Conformance</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Extensions">Extensions</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Private-Members-in-Extensions">Private-Members-in-Extensions</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Generics">Generics</a>
+                </li>
+                <li>Access Control / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/accesscontrol/#Type-Aliases">Type-Aliases</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/advancedoperators">Advanced
+                                Operators</a></li>
+                <li>Advanced Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/advancedoperators/#app-top">app-top</a>
+                </li>
+                <li>Advanced Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/advancedoperators/#Bitwise-Operators">Bitwise-Operators</a>
+                </li>
+                <li>Advanced Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/advancedoperators/#Bitwise-NOT-Operator">Bitwise-NOT-Operator</a>
+                </li>
+                <li>Advanced Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/advancedoperators/#Bitwise-AND-Operator">Bitwise-AND-Operator</a>
+                </li>
+                <li>Advanced Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/advancedoperators/#Bitwise-OR-Operator">Bitwise-OR-Operator</a>
+                </li>
+                <li>Advanced Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/advancedoperators/#Bitwise-XOR-Operator">Bitwise-XOR-Operator</a>
+                </li>
+                <li>Advanced Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/advancedoperators/#Bitwise-Left-and-Right-Shift-Operators">Bitwise-Left-and-Right-Shift-Operators</a>
+                </li>
+                <li>Advanced Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/advancedoperators/#Overflow-Operators">Overflow-Operators</a>
+                </li>
+                <li>Advanced Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/advancedoperators/#Value-Overflow">Value-Overflow</a>
+                </li>
+                <li>Advanced Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/advancedoperators/#Precedence-and-Associativity">Precedence-and-Associativity</a>
+                </li>
+                <li>Advanced Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/advancedoperators/#Operator-Methods">Operator-Methods</a>
+                </li>
+                <li>Advanced Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/advancedoperators/#Prefix-and-Postfix-Operators">Prefix-and-Postfix-Operators</a>
+                </li>
+                <li>Advanced Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/advancedoperators/#Compound-Assignment-Operators">Compound-Assignment-Operators</a>
+                </li>
+                <li>Advanced Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/advancedoperators/#Equivalence-Operators">Equivalence-Operators</a>
+                </li>
+                <li>Advanced Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/advancedoperators/#Custom-Operators">Custom-Operators</a>
+                </li>
+                <li>Advanced Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/advancedoperators/#Precedence-for-Custom-Infix-Operators">Precedence-for-Custom-Infix-Operators</a>
+                </li>
+                <li>Advanced Operators / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/advancedoperators/#Result-Builders">Result-Builders</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/aboutthelanguagereference">About
+                                the Language Reference</a></li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/lexicalstructure">Lexical
+                                Structure</a></li>
+                <li>Lexical Structure / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/lexicalstructure/#app-top">app-top</a>
+                </li>
+                <li>Lexical Structure / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/lexicalstructure/#Whitespace-and-Comments">Whitespace-and-Comments</a>
+                </li>
+                <li>Lexical Structure / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/lexicalstructure/#Identifiers">Identifiers</a>
+                </li>
+                <li>Lexical Structure / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/lexicalstructure/#Keywords-and-Punctuation">Keywords-and-Punctuation</a>
+                </li>
+                <li>Lexical Structure / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/lexicalstructure/#Literals">Literals</a>
+                </li>
+                <li>Lexical Structure / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/lexicalstructure/#Integer-Literals">Integer-Literals</a>
+                </li>
+                <li>Lexical Structure / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/lexicalstructure/#Floating-Point-Literals">Floating-Point-Literals</a>
+                </li>
+                <li>Lexical Structure / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/lexicalstructure/#String-Literals">String-Literals</a>
+                </li>
+                <li>Lexical Structure / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/lexicalstructure/#Regular-Expression-Literals">Regular-Expression-Literals</a>
+                </li>
+                <li>Lexical Structure / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/lexicalstructure/#Operators">Operators</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types">Types</a>
+                </li>
+                <li>Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types/#app-top">app-top</a>
+                </li>
+                <li>Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types/#Type-Annotation">Type-Annotation</a>
+                </li>
+                <li>Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types/#Type-Identifier">Type-Identifier</a>
+                </li>
+                <li>Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types/#Tuple-Type">Tuple-Type</a>
+                </li>
+                <li>Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types/#Function-Type">Function-Type</a>
+                </li>
+                <li>Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types/#Restrictions-for-Nonescaping-Closures">Restrictions-for-Nonescaping-Closures</a>
+                </li>
+                <li>Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types/#Array-Type">Array-Type</a>
+                </li>
+                <li>Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types/#Dictionary-Type">Dictionary-Type</a>
+                </li>
+                <li>Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types/#Optional-Type">Optional-Type</a>
+                </li>
+                <li>Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types/#Implicitly-Unwrapped-Optional-Type">Implicitly-Unwrapped-Optional-Type</a>
+                </li>
+                <li>Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types/#Protocol-Composition-Type">Protocol-Composition-Type</a>
+                </li>
+                <li>Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types/#Opaque-Type">Opaque-Type</a>
+                </li>
+                <li>Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types/#Boxed-Protocol-Type">Boxed-Protocol-Type</a>
+                </li>
+                <li>Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types/#Metatype-Type">Metatype-Type</a>
+                </li>
+                <li>Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types/#Any-Type">Any-Type</a>
+                </li>
+                <li>Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types/#Self-Type">Self-Type</a>
+                </li>
+                <li>Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types/#Type-Inheritance-Clause">Type-Inheritance-Clause</a>
+                </li>
+                <li>Types / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/types/#Type-Inference">Type-Inference</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions">Expressions</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#app-top">app-top</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Prefix-Expressions">Prefix-Expressions</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#In-Out-Expression">In-Out-Expression</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Try-Operator">Try-Operator</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Await-Operator">Await-Operator</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Infix-Expressions">Infix-Expressions</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Assignment-Operator">Assignment-Operator</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Ternary-Conditional-Operator">Ternary-Conditional-Operator</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Type-Casting-Operators">Type-Casting-Operators</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Primary-Expressions">Primary-Expressions</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Literal-Expression">Literal-Expression</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Self-Expression">Self-Expression</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Superclass-Expression">Superclass-Expression</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Conditional-Expression">Conditional-Expression</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Closure-Expression">Closure-Expression</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Implicit-Member-Expression">Implicit-Member-Expression</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Parenthesized-Expression">Parenthesized-Expression</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Tuple-Expression">Tuple-Expression</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Wildcard-Expression">Wildcard-Expression</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Macro-Expansion-Expression">Macro-Expansion-Expression</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Key-Path-Expression">Key-Path-Expression</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Selector-Expression">Selector-Expression</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Key-Path-String-Expression">Key-Path-String-Expression</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Postfix-Expressions">Postfix-Expressions</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Function-Call-Expression">Function-Call-Expression</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Initializer-Expression">Initializer-Expression</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Explicit-Member-Expression">Explicit-Member-Expression</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Postfix-Self-Expression">Postfix-Self-Expression</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Subscript-Expression">Subscript-Expression</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Forced-Value-Expression">Forced-Value-Expression</a>
+                </li>
+                <li>Expressions / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/expressions/#Optional-Chaining-Expression">Optional-Chaining-Expression</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements">Statements</a>
+                </li>
+                <li>Statements / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#app-top">app-top</a>
+                </li>
+                <li>Statements / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#Loop-Statements">Loop-Statements</a>
+                </li>
+                <li>Statements / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#For-In-Statement">For-In-Statement</a>
+                </li>
+                <li>Statements / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#While-Statement">While-Statement</a>
+                </li>
+                <li>Statements / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#Repeat-While-Statement">Repeat-While-Statement</a>
+                </li>
+                <li>Statements / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#Branch-Statements">Branch-Statements</a>
+                </li>
+                <li>Statements / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#If-Statement">If-Statement</a>
+                </li>
+                <li>Statements / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#Guard-Statement">Guard-Statement</a>
+                </li>
+                <li>Statements / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#Switch-Statement">Switch-Statement</a>
+                </li>
+                <li>Statements / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#Labeled-Statement">Labeled-Statement</a>
+                </li>
+                <li>Statements / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#Control-Transfer-Statements">Control-Transfer-Statements</a>
+                </li>
+                <li>Statements / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#Break-Statement">Break-Statement</a>
+                </li>
+                <li>Statements / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#Continue-Statement">Continue-Statement</a>
+                </li>
+                <li>Statements / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#Fallthrough-Statement">Fallthrough-Statement</a>
+                </li>
+                <li>Statements / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#Return-Statement">Return-Statement</a>
+                </li>
+                <li>Statements / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#Throw-Statement">Throw-Statement</a>
+                </li>
+                <li>Statements / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#Defer-Statement">Defer-Statement</a>
+                </li>
+                <li>Statements / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#Do-Statement">Do-Statement</a>
+                </li>
+                <li>Statements / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#Compiler-Control-Statements">Compiler-Control-Statements</a>
+                </li>
+                <li>Statements / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#Conditional-Compilation-Block">Conditional-Compilation-Block</a>
+                </li>
+                <li>Statements / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#Line-Control-Statement">Line-Control-Statement</a>
+                </li>
+                <li>Statements / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#Compile-Time-Diagnostic-Statement">Compile-Time-Diagnostic-Statement</a>
+                </li>
+                <li>Statements / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/statements/#Availability-Condition">Availability-Condition</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations">Declarations</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#app-top">app-top</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Top-Level-Code">Top-Level-Code</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Code-Blocks">Code-Blocks</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Import-Declaration">Import-Declaration</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Constant-Declaration">Constant-Declaration</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Variable-Declaration">Variable-Declaration</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Stored-Variables-and-Stored-Variable-Properties">Stored-Variables-and-Stored-Variable-Properties</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Computed-Variables-and-Computed-Properties">Computed-Variables-and-Computed-Properties</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Stored-Variable-Observers-and-Property-Observers">Stored-Variable-Observers-and-Property-Observers</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Type-Variable-Properties">Type-Variable-Properties</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Type-Alias-Declaration">Type-Alias-Declaration</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Function-Declaration">Function-Declaration</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Parameter-Names">Parameter-Names</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#In-Out-Parameters">In-Out-Parameters</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Special-Kinds-of-Parameters">Special-Kinds-of-Parameters</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Special-Kinds-of-Methods">Special-Kinds-of-Methods</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Methods-with-Special-Names">Methods-with-Special-Names</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Throwing-Functions-and-Methods">Throwing-Functions-and-Methods</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Rethrowing-Functions-and-Methods">Rethrowing-Functions-and-Methods</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Asynchronous-Functions-and-Methods">Asynchronous-Functions-and-Methods</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Functions-that-Never-Return">Functions-that-Never-Return</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Enumeration-Declaration">Enumeration-Declaration</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Enumerations-with-Cases-of-Any-Type">Enumerations-with-Cases-of-Any-Type</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Enumerations-with-Cases-of-a-Raw-Value-Type">Enumerations-with-Cases-of-a-Raw-Value-Type</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Accessing-Enumeration-Cases">Accessing-Enumeration-Cases</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Structure-Declaration">Structure-Declaration</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Class-Declaration">Class-Declaration</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Actor-Declaration">Actor-Declaration</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Protocol-Declaration">Protocol-Declaration</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Protocol-Property-Declaration">Protocol-Property-Declaration</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Protocol-Method-Declaration">Protocol-Method-Declaration</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Protocol-Initializer-Declaration">Protocol-Initializer-Declaration</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Protocol-Subscript-Declaration">Protocol-Subscript-Declaration</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Protocol-Associated-Type-Declaration">Protocol-Associated-Type-Declaration</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Initializer-Declaration">Initializer-Declaration</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Failable-Initializers">Failable-Initializers</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Deinitializer-Declaration">Deinitializer-Declaration</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Extension-Declaration">Extension-Declaration</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Conditional-Conformance">Conditional-Conformance</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Protocol-Conformance-Must-Not-Be-Redundant">Protocol-Conformance-Must-Not-Be-Redundant</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Subscript-Declaration">Subscript-Declaration</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Type-Subscript-Declarations">Type-Subscript-Declarations</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Macro-Declaration">Macro-Declaration</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Operator-Declaration">Operator-Declaration</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Precedence-Group-Declaration">Precedence-Group-Declaration</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Declaration-Modifiers">Declaration-Modifiers</a>
+                </li>
+                <li>Declarations / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/declarations/#Access-Control-Levels">Access-Control-Levels</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes">Attributes</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#app-top">app-top</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#Declaration-Attributes">Declaration-Attributes</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#attached">attached</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#available">available</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#discardableResult">discardableResult</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#dynamicCallable">dynamicCallable</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#dynamicMemberLookup">dynamicMemberLookup</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#freestanding">freestanding</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#frozen">frozen</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#GKInspectable">GKInspectable</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#inlinable">inlinable</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#main">main</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#nonobjc">nonobjc</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#NSApplicationMain">NSApplicationMain</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#NSCopying">NSCopying</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#NSManaged">NSManaged</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#objc">objc</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#objcMembers">objcMembers</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#propertyWrapper">propertyWrapper</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#resultBuilder">resultBuilder</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#requiresstoredpropertyinits">requiresstoredpropertyinits</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#testable">testable</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#UIApplicationMain">UIApplicationMain</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#unchecked">unchecked</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#usableFromInline">usableFromInline</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#warnunqualifiedaccess">warnunqualifiedaccess</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#Declaration-Attributes-Used-by-Interface-Builder">Declaration-Attributes-Used-by-Interface-Builder</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#Type-Attributes">Type-Attributes</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#autoclosure">autoclosure</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#convention">convention</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#escaping">escaping</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#Sendable">Sendable</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#Switch-Case-Attributes">Switch-Case-Attributes</a>
+                </li>
+                <li>Attributes / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/attributes/#unknown">unknown</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/patterns">Patterns</a>
+                </li>
+                <li>Patterns / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/patterns/#app-top">app-top</a>
+                </li>
+                <li>Patterns / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/patterns/#Wildcard-Pattern">Wildcard-Pattern</a>
+                </li>
+                <li>Patterns / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/patterns/#Identifier-Pattern">Identifier-Pattern</a>
+                </li>
+                <li>Patterns / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/patterns/#Value-Binding-Pattern">Value-Binding-Pattern</a>
+                </li>
+                <li>Patterns / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/patterns/#Tuple-Pattern">Tuple-Pattern</a>
+                </li>
+                <li>Patterns / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/patterns/#Enumeration-Case-Pattern">Enumeration-Case-Pattern</a>
+                </li>
+                <li>Patterns / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/patterns/#Optional-Pattern">Optional-Pattern</a>
+                </li>
+                <li>Patterns / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/patterns/#Type-Casting-Patterns">Type-Casting-Patterns</a>
+                </li>
+                <li>Patterns / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/patterns/#Expression-Pattern">Expression-Pattern</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/genericparametersandarguments">Generic
+                                Parameters and Arguments</a></li>
+                <li>Generic Parameters and Arguments / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/genericparametersandarguments/#app-top">app-top</a>
+                </li>
+                <li>Generic Parameters and Arguments / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/genericparametersandarguments/#Generic-Parameter-Clause">Generic-Parameter-Clause</a>
+                </li>
+                <li>Generic Parameters and Arguments / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/genericparametersandarguments/#Generic-Where-Clauses">Generic-Where-Clauses</a>
+                </li>
+                <li>Generic Parameters and Arguments / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/genericparametersandarguments/#Generic-Argument-Clause">Generic-Argument-Clause</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/summaryofthegrammar">Summary
+                                of the Grammar</a></li>
+                <li>Summary of the Grammar / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/summaryofthegrammar/#app-top">app-top</a>
+                </li>
+                <li>Summary of the Grammar / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/summaryofthegrammar/#Lexical-Structure">Lexical-Structure</a>
+                </li>
+                <li>Summary of the Grammar / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/summaryofthegrammar/#Types">Types</a>
+                </li>
+                <li>Summary of the Grammar / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/summaryofthegrammar/#Expressions">Expressions</a>
+                </li>
+                <li>Summary of the Grammar / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/summaryofthegrammar/#Statements">Statements</a>
+                </li>
+                <li>Summary of the Grammar / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/summaryofthegrammar/#Declarations">Declarations</a>
+                </li>
+                <li>Summary of the Grammar / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/summaryofthegrammar/#Attributes">Attributes</a>
+                </li>
+                <li>Summary of the Grammar / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/summaryofthegrammar/#Patterns">Patterns</a>
+                </li>
+                <li>Summary of the Grammar / <a
+                                href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/summaryofthegrammar/#Generic-Parameters-and-Arguments">Generic-Parameters-and-Arguments</a>
+                </li>
+                <li><a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/revisionhistory">Document
+                                Revision History</a></li>
+        </ul>
+        <script>
+                const searchInput = document.getElementById('search-input');
+                const resultList = document.getElementById('result-list');
+                const listItems = resultList.getElementsByTagName('li');
+                searchInput.addEventListener('input', function () {
+                        const searchTerm = searchInput.value.toLowerCase();
+                        for (let i = 0; i < listItems.length; i++) {
+                                const linkText = listItems[i].textContent.toLowerCase();
+                                if (linkText.includes(searchTerm)) {
+                                        listItems[i].style.display = 'block';
+                                } else {
+                                        listItems[i].style.display = 'none';
+                                }
+                        }
+                });
+        </script>
+</body>
+
+</html>
