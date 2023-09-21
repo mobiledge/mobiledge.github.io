@@ -25,14 +25,16 @@ Search: &nbsp; &nbsp;
 ###
 [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
 <sub>
+&nbsp; &nbsp; [**Search**](http://mobiledge.github.io/search/swift-lang.html)
 &nbsp; &nbsp; [Swift language guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
 &nbsp; &nbsp; [Swift standard library](https://developer.apple.com/documentation/swift/swift-standard-library)
 </sub>
 
 [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
 <sub>
-&nbsp; &nbsp; [SwiftUI tutorials](https://developer.apple.com/tutorials/swiftui) 
-&nbsp; &nbsp; [SwiftUI documentation](https://developer.apple.com/documentation/swiftui/)
+&nbsp; &nbsp; [**Search**](http://mobiledge.github.io/search/swiftui-views.html)
+&nbsp; &nbsp; [Documentation](https://developer.apple.com/documentation/swiftui/)
+&nbsp; &nbsp; [Tutorials](https://developer.apple.com/tutorials/swiftui)
 </sub>
 
 ## Core CS
