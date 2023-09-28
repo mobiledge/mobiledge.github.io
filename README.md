@@ -69,13 +69,16 @@ Search: &nbsp; &nbsp;
 [Django](https://github.com/mobilege/web-development/blob/master/django.md) &nbsp; · &nbsp;
 [Wagtail CMS](https://github.com/wagtail/wagtail) &nbsp; · &nbsp;
 
-[Ruby](https://github.com/mobilege/web-development/blob/master/ruby.md) &nbsp; · &nbsp;
+
+[**ruby**](https://github.com/mobilege/web-development/blob/master/ruby.md)
+
 [rbenv](https://github.com/mobilege/web-development/blob/master/ruby-rbenv.md) &nbsp; · &nbsp;
 RVM &nbsp; · &nbsp;
 [RubyGems](https://github.com/mobilege/web-development/blob/master/ruby-rubygems.md) &nbsp; · &nbsp;
 [Bundler](https://github.com/mobilege/web-development/blob/master/ruby-bundler.md) &nbsp; · &nbsp;
 [Sinatra](https://github.com/mobilege/web-development/blob/master/rb-sinatra.md) &nbsp; · &nbsp;
-[Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md) &nbsp; · &nbsp;
+[Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md)
+
 
 [Javascript](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; · &nbsp;
 [HTML](https://github.com/mobilege/web-development/blob/master/html.md) &nbsp; · &nbsp;
