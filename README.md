@@ -1,15 +1,15 @@
-Search: &nbsp; &nbsp;
-[iPhone Models](http://mobiledge.github.io/search/iphone-models.html)  &nbsp; · &nbsp;
-[SwiftUI Views](http://mobiledge.github.io/search/swiftui-views.html)
-
 # mobiledge
+
+Search: &nbsp; &nbsp;
+[iPhone Models 🔎](http://mobiledge.github.io/search/iphone-models.html)  &nbsp; · &nbsp;
+[Swift Langiuage 🔎](http://mobiledge.github.io/search/swift-lang.html) &nbsp; · &nbsp;
+[SwiftUI Views 🔎](http://mobiledge.github.io/search/swiftui-views.html)
 
 [Design](https://github.com/mobilege/design/blob/master/README.md) &nbsp; · &nbsp;
 *Development* &nbsp; · &nbsp;
 [Marketing](https://github.com/mobilege/marketing/blob/master/README.md) &nbsp; · &nbsp;
 [Psychology](https://github.com/mobilege/psychology/blob/master/README.md)
 
-##
 [Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/markdown.md) &nbsp; · &nbsp;
 [Repositories](https://github.com/mobilege?tab=repositories) &nbsp; · &nbsp;
 [Shortcuts ↓](#shortcuts) &nbsp; · &nbsp;
