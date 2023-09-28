@@ -45,13 +45,11 @@ Search: &nbsp; &nbsp;
 [vim](https://github.com/mobilege/unix/blob/master/vim.md) &nbsp; · &nbsp;
 [git](https://github.com/mobilege/unix/blob/master/git.md)
 
-[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
 [**Python**](https://github.com/mobiledge/data-science/blob/master/python.md) &nbsp; · &nbsp;
 [Flask](https://github.com/mobilege/web-development/blob/master/flask.md#flask) &nbsp; · &nbsp;
 [Django](https://github.com/mobilege/web-development/blob/master/django.md) &nbsp; · &nbsp;
 [Wagtail CMS](https://github.com/wagtail/wagtail) &nbsp; · &nbsp;
 
-[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
 [**Ruby**](https://github.com/mobilege/web-development/blob/master/ruby.md) &nbsp; · &nbsp;
 [rbenv](https://github.com/mobilege/web-development/blob/master/ruby-rbenv.md) &nbsp; · &nbsp;
 RVM &nbsp; · &nbsp;
