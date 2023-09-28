@@ -62,12 +62,19 @@ Search: &nbsp; &nbsp;
 [Django](https://github.com/mobilege/web-development/blob/master/django.md) &nbsp; · &nbsp;
 [Wagtail CMS](https://github.com/wagtail/wagtail)
 
-[**Python**](https://github.com/mobiledge/data-science/blob/master/python.md) &nbsp; · &nbsp;
+
+[**python**](https://github.com/mobilege/data-science/blob/master/python.md)
+
 [venv](https://github.com/mobiledge/data-science/blob/master/python.md#venv-) &nbsp; · &nbsp;
 [Jupyter](https://github.com/mobiledge/data-science/blob/master/python.md#jupyter-) &nbsp; · &nbsp;
 [Flask](https://github.com/mobilege/web-development/blob/master/flask.md#flask) &nbsp; · &nbsp;
 [Django](https://github.com/mobilege/web-development/blob/master/django.md) &nbsp; · &nbsp;
-[Wagtail CMS](https://github.com/wagtail/wagtail) &nbsp; · &nbsp;
+[Wagtail CMS](https://github.com/wagtail/wagtail)
+
+<sup>[Python 3 documentation](https://docs.python.org/3/) &nbsp; · &nbsp;
+[Tutorial](https://docs.python.org/3/tutorial/index.html) &nbsp; · &nbsp;
+[The Python Standard Library](https://docs.python.org/3/library/index.html) &nbsp; · &nbsp;
+[The Python Language Reference](https://docs.python.org/3/reference/index.html)</sup>
 
 
 [**ruby**](https://github.com/mobilege/web-development/blob/master/ruby.md)
@@ -80,9 +87,10 @@ RVM &nbsp; · &nbsp;
 [Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md)
 
 
-[Javascript](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; · &nbsp;
+[**javascript**](https://github.com/mobilege/web-development/blob/master/javascript.md)
+
 [HTML](https://github.com/mobilege/web-development/blob/master/html.md) &nbsp; · &nbsp;
-[CSS](https://github.com/mobilege/web-development/blob/master/css.md) &nbsp; · &nbsp;
+[CSS](https://github.com/mobilege/web-development/blob/master/css.md)
 
 
 
