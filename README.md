@@ -40,36 +40,23 @@ Search: &nbsp; &nbsp;
 ## Tools
 [**linux**](https://github.com/mobilege/unix/blob/master/README.md)
 
-&nbsp; &nbsp; [homebrew](https://github.com/mobilege/unix/blob/master/homebrew.md#homebrew) &nbsp; · &nbsp;
+&nbsp; &nbsp; 
+[homebrew](https://github.com/mobilege/unix/blob/master/homebrew.md#homebrew) &nbsp; · &nbsp;
 [ssh](https://github.com/mobilege/unix/blob/master/ssh.md) &nbsp; · &nbsp;
 [vim](https://github.com/mobilege/unix/blob/master/vim.md) &nbsp; · &nbsp;
 [git](https://github.com/mobilege/unix/blob/master/git.md)
 
 
-[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md)
-/ [data-science](https://github.com/mobilege/data-science/blob/master/README.md)
-/ [python](https://github.com/mobilege/data-science/blob/master/python.md)
-
-<sup>[Python 3 documentation](https://docs.python.org/3/) &nbsp; · &nbsp;
-[Tutorial](https://docs.python.org/3/tutorial/index.html) &nbsp; · &nbsp;
-[The Python Standard Library](https://docs.python.org/3/library/index.html) &nbsp; · &nbsp;
-[The Python Language Reference](https://docs.python.org/3/reference/index.html)</sup>
-
-[venv](https://github.com/mobiledge/data-science/blob/master/python.md#venv-) &nbsp; · &nbsp;
-[Jupyter](https://github.com/mobiledge/data-science/blob/master/python.md#jupyter-) &nbsp; · &nbsp;
-[Flask](https://github.com/mobilege/web-development/blob/master/flask.md#flask) &nbsp; · &nbsp;
-[Django](https://github.com/mobilege/web-development/blob/master/django.md) &nbsp; · &nbsp;
-[Wagtail CMS](https://github.com/wagtail/wagtail)
-
-
 [**python**](https://github.com/mobilege/data-science/blob/master/python.md)
 
+&nbsp; &nbsp; 
 [venv](https://github.com/mobiledge/data-science/blob/master/python.md#venv-) &nbsp; · &nbsp;
 [Jupyter](https://github.com/mobiledge/data-science/blob/master/python.md#jupyter-) &nbsp; · &nbsp;
 [Flask](https://github.com/mobilege/web-development/blob/master/flask.md#flask) &nbsp; · &nbsp;
 [Django](https://github.com/mobilege/web-development/blob/master/django.md) &nbsp; · &nbsp;
 [Wagtail CMS](https://github.com/wagtail/wagtail)
 
+&nbsp; &nbsp; 
 <sup>[Python 3 documentation](https://docs.python.org/3/) &nbsp; · &nbsp;
 [Tutorial](https://docs.python.org/3/tutorial/index.html) &nbsp; · &nbsp;
 [The Python Standard Library](https://docs.python.org/3/library/index.html) &nbsp; · &nbsp;
@@ -78,6 +65,7 @@ Search: &nbsp; &nbsp;
 
 [**ruby**](https://github.com/mobilege/web-development/blob/master/ruby.md)
 
+&nbsp; &nbsp; 
 [rbenv](https://github.com/mobilege/web-development/blob/master/ruby-rbenv.md) &nbsp; · &nbsp;
 RVM &nbsp; · &nbsp;
 [RubyGems](https://github.com/mobilege/web-development/blob/master/ruby-rubygems.md) &nbsp; · &nbsp;
@@ -88,6 +76,7 @@ RVM &nbsp; · &nbsp;
 
 [**javascript**](https://github.com/mobilege/web-development/blob/master/javascript.md)
 
+&nbsp; &nbsp; 
 [HTML](https://github.com/mobilege/web-development/blob/master/html.md) &nbsp; · &nbsp;
 [CSS](https://github.com/mobilege/web-development/blob/master/css.md)
 
