@@ -44,6 +44,21 @@ Search: &nbsp; &nbsp;
 [vim](https://github.com/mobilege/unix/blob/master/vim.md) &nbsp; · &nbsp;
 [git](https://github.com/mobilege/unix/blob/master/git.md)
 
+[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md)
+/ [data-science](https://github.com/mobilege/data-science/blob/master/README.md)
+/ [python](https://github.com/mobilege/data-science/blob/master/python.md)
+
+<sup>[Python 3 documentation](https://docs.python.org/3/) &nbsp; · &nbsp;
+[Tutorial](https://docs.python.org/3/tutorial/index.html) &nbsp; · &nbsp;
+[The Python Standard Library](https://docs.python.org/3/library/index.html) &nbsp; · &nbsp;
+[The Python Language Reference](https://docs.python.org/3/reference/index.html)</sup>
+
+[venv](https://github.com/mobiledge/data-science/blob/master/python.md#venv-) &nbsp; · &nbsp;
+[Jupyter](https://github.com/mobiledge/data-science/blob/master/python.md#jupyter-) &nbsp; · &nbsp;
+[Flask](https://github.com/mobilege/web-development/blob/master/flask.md#flask) &nbsp; · &nbsp;
+[Django](https://github.com/mobilege/web-development/blob/master/django.md) &nbsp; · &nbsp;
+[Wagtail CMS](https://github.com/wagtail/wagtail)
+
 [**Python**](https://github.com/mobiledge/data-science/blob/master/python.md) &nbsp; · &nbsp;
 [venv](https://github.com/mobiledge/data-science/blob/master/python.md#venv-) &nbsp; · &nbsp;
 [Jupyter](https://github.com/mobiledge/data-science/blob/master/python.md#jupyter-) &nbsp; · &nbsp;
