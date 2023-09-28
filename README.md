@@ -38,10 +38,9 @@ Search: &nbsp; &nbsp;
 </sub>
 
 ## Tools
-[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
-[unix](https://github.com/mobilege/unix/blob/master/README.md)  
+[**linux**](https://github.com/mobilege/unix/blob/master/README.md)
 
-[homebrew](https://github.com/mobilege/unix/blob/master/homebrew.md#homebrew) &nbsp; · &nbsp;
+&nbsp; &nbsp; [homebrew](https://github.com/mobilege/unix/blob/master/homebrew.md#homebrew) &nbsp; · &nbsp;
 [ssh](https://github.com/mobilege/unix/blob/master/ssh.md) &nbsp; · &nbsp;
 [vim](https://github.com/mobilege/unix/blob/master/vim.md) &nbsp; · &nbsp;
 [git](https://github.com/mobilege/unix/blob/master/git.md)
