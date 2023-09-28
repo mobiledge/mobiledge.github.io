@@ -15,7 +15,12 @@ Search: &nbsp; &nbsp;
 [Shortcuts ↓](#shortcuts) &nbsp; · &nbsp;
 [Symbols ↓](#symbols)
 
-## [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
+## [**iOS Development**](https://github.com/mobilege/ios-development/blob/master/README.md)
+
+<sub>[developer.apple.com](https://developer.apple.com) &nbsp; · &nbsp;
+&nbsp; &nbsp; [Technologies](https://developer.apple.com/documentation/technologies) &nbsp; · &nbsp;
+&nbsp; &nbsp; [Videos](https://developer.apple.com/videos/) &nbsp; · &nbsp;
+&nbsp; &nbsp; [WWDC Sample Code](https://developer.apple.com/sample-code/wwdc/2023/)</sub>
 
 [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
 <sub>
