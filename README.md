@@ -22,10 +22,8 @@ Search: &nbsp; &nbsp;
 &nbsp; &nbsp; [Videos](https://developer.apple.com/videos/) &nbsp; · &nbsp;
 &nbsp; &nbsp; [WWDC Sample Code](https://developer.apple.com/sample-code/wwdc/2023/)</sub>
 
-[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
-[iOS](https://github.com/mobilege/ios-development/blob/master/README.md) /
-[swift](https://github.com/mobilege/swift/blob/master/README.md)
 
+[**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
 <sub>
 &nbsp; &nbsp; [**Search 🔎**](http://mobiledge.github.io/search/swift-lang.html)
 &nbsp; &nbsp; [Swift language guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
