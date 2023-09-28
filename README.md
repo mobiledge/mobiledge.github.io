@@ -16,13 +16,7 @@ Search: &nbsp; &nbsp;
 [Symbols ↓](#symbols)
 
 ## [iOS Development](https://github.com/mobilege/ios-development/blob/master/README.md)
-[ Documentation](https://developer.apple.com/documentation/) &nbsp; · &nbsp; 
-[ Guidelines](https://developer.apple.com/app-store/guidelines/) &nbsp; · &nbsp; 
-[ Swift Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) &nbsp; · &nbsp; 
-[ Videos](https://developer.apple.com/videos/) &nbsp; · &nbsp; 
-[ WWDC Sample Code](https://developer.apple.com/sample-code/wwdc/2023/)
 
-###
 [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
 <sub>
 &nbsp; &nbsp; [**Search 🔎**](http://mobiledge.github.io/search/swift-lang.html)
