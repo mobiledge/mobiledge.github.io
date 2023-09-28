@@ -38,7 +38,7 @@ Search: &nbsp; &nbsp;
 </sub>
 
 ## Tools
-[**linux**](https://github.com/mobilege/unix/blob/master/README.md)
+[**Linux**](https://github.com/mobilege/unix/blob/master/README.md)
 
 &nbsp; &nbsp; 
 [homebrew](https://github.com/mobilege/unix/blob/master/homebrew.md#homebrew) &nbsp; · &nbsp;
@@ -47,7 +47,7 @@ Search: &nbsp; &nbsp;
 [git](https://github.com/mobilege/unix/blob/master/git.md)
 
 
-[**python**](https://github.com/mobilege/data-science/blob/master/python.md)
+[**Python**](https://github.com/mobilege/data-science/blob/master/python.md)
 
 &nbsp; &nbsp; 
 [venv](https://github.com/mobiledge/data-science/blob/master/python.md#venv-) &nbsp; · &nbsp;
@@ -63,7 +63,7 @@ Search: &nbsp; &nbsp;
 [The Python Language Reference](https://docs.python.org/3/reference/index.html)</sup>
 
 
-[**ruby**](https://github.com/mobilege/web-development/blob/master/ruby.md)
+[**Ruby**](https://github.com/mobilege/web-development/blob/master/ruby.md)
 
 &nbsp; &nbsp; 
 [rbenv](https://github.com/mobilege/web-development/blob/master/ruby-rbenv.md) &nbsp; · &nbsp;
@@ -74,7 +74,7 @@ RVM &nbsp; · &nbsp;
 [Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md)
 
 
-[**javascript**](https://github.com/mobilege/web-development/blob/master/javascript.md)
+[**JavaScript**](https://github.com/mobilege/web-development/blob/master/javascript.md)
 
 &nbsp; &nbsp; 
 [HTML](https://github.com/mobilege/web-development/blob/master/html.md) &nbsp; · &nbsp;
