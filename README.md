@@ -37,15 +37,20 @@ Search: &nbsp; &nbsp;
 &nbsp; &nbsp; [Tutorials](https://developer.apple.com/tutorials/swiftui)
 </sub>
 
-## Core CS
+## Tools
+[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
+[**unix**](https://github.com/mobilege/unix/blob/master/README.md)  
+[homebrew](https://github.com/mobilege/unix/blob/master/homebrew.md#homebrew) &nbsp; · &nbsp;
+[ssh](https://github.com/mobilege/unix/blob/master/ssh.md) &nbsp; · &nbsp;
+[vim](https://github.com/mobilege/unix/blob/master/vim.md) &nbsp; · &nbsp;
+[git](https://github.com/mobilege/unix/blob/master/git.md)
 
-#### Systems
+
+## Core CS
 - [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md)
 - [Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md)
 - [**Computer Networking**](https://github.com/mobilege/computer-networking/blob/master/README.md)
 - [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
-    
-#### Theory
 - [Programming: Structure and Interpretation of Computer Programs](https://github.com/mobilege/sicp/blob/master/README.md)
 - [Algorithms and Data Structures](https://github.com/mobilege/algorithms)
 - Databases
@@ -61,14 +66,7 @@ Search: &nbsp; &nbsp;
   - https://haskell.mooc.fi
   - [Programming in Haskell - University of Nottingham](http://www.cs.nott.ac.uk/~pszgmh/pih.html)
 
- #### Tools
-[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
-[**unix**](https://github.com/mobilege/unix/blob/master/README.md)  
-[homebrew](https://github.com/mobilege/unix/blob/master/homebrew.md#homebrew) &nbsp; · &nbsp;
-[ssh](https://github.com/mobilege/unix/blob/master/ssh.md) &nbsp; · &nbsp;
-[vim](https://github.com/mobilege/unix/blob/master/vim.md) &nbsp; · &nbsp;
-[git](https://github.com/mobilege/unix/blob/master/git.md)
-
+ 
 
 #### Curriculum 
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
