@@ -39,11 +39,31 @@ Search: &nbsp; &nbsp;
 
 ## Tools
 [mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
-[**unix**](https://github.com/mobilege/unix/blob/master/README.md)  
+[**unix**](https://github.com/mobilege/unix/blob/master/README.md) &nbsp; · &nbsp;
 [homebrew](https://github.com/mobilege/unix/blob/master/homebrew.md#homebrew) &nbsp; · &nbsp;
 [ssh](https://github.com/mobilege/unix/blob/master/ssh.md) &nbsp; · &nbsp;
 [vim](https://github.com/mobilege/unix/blob/master/vim.md) &nbsp; · &nbsp;
 [git](https://github.com/mobilege/unix/blob/master/git.md)
+
+[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
+[**Python**](https://github.com/mobiledge/data-science/blob/master/python.md) &nbsp; · &nbsp;
+[Flask](https://github.com/mobilege/web-development/blob/master/flask.md#flask) &nbsp; · &nbsp;
+[Django](https://github.com/mobilege/web-development/blob/master/django.md) &nbsp; · &nbsp;
+[Wagtail CMS](https://github.com/wagtail/wagtail) &nbsp; · &nbsp;
+
+[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
+[**Ruby**](https://github.com/mobilege/web-development/blob/master/ruby.md) &nbsp; · &nbsp;
+[rbenv](https://github.com/mobilege/web-development/blob/master/ruby-rbenv.md) &nbsp; · &nbsp;
+RVM &nbsp; · &nbsp;
+[RubyGems](https://github.com/mobilege/web-development/blob/master/ruby-rubygems.md) &nbsp; · &nbsp;
+[Bundler](https://github.com/mobilege/web-development/blob/master/ruby-bundler.md) &nbsp; · &nbsp;
+[Sinatra](https://github.com/mobilege/web-development/blob/master/rb-sinatra.md) &nbsp; · &nbsp;
+[Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md) &nbsp; · &nbsp;
+
+[**Javascript**](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; · &nbsp;
+[HTML](https://github.com/mobilege/web-development/blob/master/html.md) &nbsp; · &nbsp;
+[CSS](https://github.com/mobilege/web-development/blob/master/css.md) &nbsp; · &nbsp;
+
 
 
 ## Core CS
@@ -94,17 +114,7 @@ Search: &nbsp; &nbsp;
 Node.js &nbsp; · &nbsp;
 Express &nbsp; · &nbsp;
 - [Elixir](https://github.com/mobiledge/web-development/blob/master/elixir.md)
-- [Python](https://github.com/mobiledge/data-science/blob/master/python.md) &nbsp; · &nbsp;
-[Flask](https://github.com/mobilege/web-development/blob/master/flask.md#flask) &nbsp; · &nbsp;
-[Django](https://github.com/mobilege/web-development/blob/master/django.md) &nbsp; · &nbsp;
-[Wagtail CMS](https://github.com/wagtail/wagtail) &nbsp; · &nbsp;
-- [Ruby](https://github.com/mobilege/web-development/blob/master/ruby.md) &nbsp; · &nbsp;
-[rbenv](https://github.com/mobilege/web-development/blob/master/ruby-rbenv.md) &nbsp; · &nbsp;
-RVM &nbsp; · &nbsp;
-[RubyGems](https://github.com/mobilege/web-development/blob/master/ruby-rubygems.md) &nbsp; · &nbsp;
-[Bundler](https://github.com/mobilege/web-development/blob/master/ruby-bundler.md) &nbsp; · &nbsp;
-[Sinatra](https://github.com/mobilege/web-development/blob/master/rb-sinatra.md) &nbsp; · &nbsp;
-[Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md) &nbsp; · &nbsp;
+
 
 ## Other
 - [Banking](https://github.com/mobiledge/mobiledge.github.io/blob/master/banking.md)
