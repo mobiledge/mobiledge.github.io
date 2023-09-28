@@ -17,68 +17,70 @@ Search: &nbsp; &nbsp;
 
 ## [**iOS Development**](https://github.com/mobilege/ios-development/blob/master/README.md)
 
-<sub>[developer.apple.com](https://developer.apple.com) &nbsp; · &nbsp;
-&nbsp; &nbsp; [Technologies](https://developer.apple.com/documentation/technologies) &nbsp; · &nbsp;
-&nbsp; &nbsp; [Videos](https://developer.apple.com/videos/) &nbsp; · &nbsp;
-&nbsp; &nbsp; [WWDC Sample Code](https://developer.apple.com/sample-code/wwdc/2023/)</sub>
-
+<sup>· &nbsp; [developer.apple.com](https://developer.apple.com) 
+&nbsp; · &nbsp; [Technologies](https://developer.apple.com/documentation/technologies)
+&nbsp; · &nbsp; [Videos](https://developer.apple.com/videos/)
+&nbsp; · &nbsp; [WWDC Sample Code](https://developer.apple.com/sample-code/wwdc/2023/)
+&nbsp; ·</sup>
 
 [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
-<sub>
-&nbsp; &nbsp; [**Search 🔎**](http://mobiledge.github.io/search/swift-lang.html)
-&nbsp; &nbsp; [Swift language guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
-&nbsp; &nbsp; [Swift standard library](https://developer.apple.com/documentation/swift/swift-standard-library)
-</sub>
+
+<sup>· &nbsp; [**Search 🔎**](http://mobiledge.github.io/search/swift-lang.html)
+&nbsp; · &nbsp; [Swift language guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
+&nbsp; · &nbsp; [Swift standard library](https://developer.apple.com/documentation/swift/swift-standard-library)
+&nbsp; ·</sup>
 
 [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
-<sub>
-&nbsp; &nbsp; [**Search 🔎**](http://mobiledge.github.io/search/swiftui-views.html)
-&nbsp; &nbsp; [Documentation](https://developer.apple.com/documentation/swiftui/)
-&nbsp; &nbsp; [Tutorials](https://developer.apple.com/tutorials/swiftui)
-</sub>
+
+
+<sup>· &nbsp; [**Search 🔎**](http://mobiledge.github.io/search/swiftui-views.html)
+&nbsp; · &nbsp; [Documentation](https://developer.apple.com/documentation/swiftui/)
+&nbsp; · &nbsp; [Tutorials](https://developer.apple.com/tutorials/swiftui)
+&nbsp; ·</sup>
 
 ## Tools
 [**Linux**](https://github.com/mobilege/unix/blob/master/README.md)
 
-&nbsp; &nbsp; 
-[homebrew](https://github.com/mobilege/unix/blob/master/homebrew.md#homebrew) &nbsp; · &nbsp;
-[ssh](https://github.com/mobilege/unix/blob/master/ssh.md) &nbsp; · &nbsp;
-[vim](https://github.com/mobilege/unix/blob/master/vim.md) &nbsp; · &nbsp;
-[git](https://github.com/mobilege/unix/blob/master/git.md)
+<sup>· &nbsp; [homebrew](https://github.com/mobilege/unix/blob/master/homebrew.md#homebrew) 
+&nbsp; · &nbsp; [ssh](https://github.com/mobilege/unix/blob/master/ssh.md)
+&nbsp; · &nbsp; [vim](https://github.com/mobilege/unix/blob/master/vim.md)
+&nbsp; · &nbsp; [git](https://github.com/mobilege/unix/blob/master/git.md)
+&nbsp; ·</sup>
 
 
 [**Python**](https://github.com/mobilege/data-science/blob/master/python.md)
 
-&nbsp; &nbsp; 
-[venv](https://github.com/mobiledge/data-science/blob/master/python.md#venv-) &nbsp; · &nbsp;
-[Jupyter](https://github.com/mobiledge/data-science/blob/master/python.md#jupyter-) &nbsp; · &nbsp;
-[Flask](https://github.com/mobilege/web-development/blob/master/flask.md#flask) &nbsp; · &nbsp;
-[Django](https://github.com/mobilege/web-development/blob/master/django.md) &nbsp; · &nbsp;
-[Wagtail CMS](https://github.com/wagtail/wagtail)
+<sup>· &nbsp; [venv](https://github.com/mobiledge/data-science/blob/master/python.md#venv-) 
+&nbsp; · &nbsp; [Jupyter](https://github.com/mobiledge/data-science/blob/master/python.md#jupyter-) 
+&nbsp; · &nbsp; [Flask](https://github.com/mobilege/web-development/blob/master/flask.md#flask) 
+&nbsp; · &nbsp; [Django](https://github.com/mobilege/web-development/blob/master/django.md)
+&nbsp; · &nbsp; [Wagtail CMS](https://github.com/wagtail/wagtail)
+&nbsp; ·</sup>
 
-&nbsp; &nbsp; 
-<sup>[Python 3 documentation](https://docs.python.org/3/) &nbsp; · &nbsp;
-[Tutorial](https://docs.python.org/3/tutorial/index.html) &nbsp; · &nbsp;
-[The Python Standard Library](https://docs.python.org/3/library/index.html) &nbsp; · &nbsp;
-[The Python Language Reference](https://docs.python.org/3/reference/index.html)</sup>
+
+<sup>· &nbsp; [Python 3 documentation](https://docs.python.org/3/)
+&nbsp; · &nbsp; [Tutorial](https://docs.python.org/3/tutorial/index.html)
+&nbsp; · &nbsp; [The Python Standard Library](https://docs.python.org/3/library/index.html) 
+&nbsp; · &nbsp; [The Python Language Reference](https://docs.python.org/3/reference/index.html)
+&nbsp; ·</sup>
 
 
 [**Ruby**](https://github.com/mobilege/web-development/blob/master/ruby.md)
 
-&nbsp; &nbsp; 
-[rbenv](https://github.com/mobilege/web-development/blob/master/ruby-rbenv.md) &nbsp; · &nbsp;
-RVM &nbsp; · &nbsp;
-[RubyGems](https://github.com/mobilege/web-development/blob/master/ruby-rubygems.md) &nbsp; · &nbsp;
-[Bundler](https://github.com/mobilege/web-development/blob/master/ruby-bundler.md) &nbsp; · &nbsp;
-[Sinatra](https://github.com/mobilege/web-development/blob/master/rb-sinatra.md) &nbsp; · &nbsp;
-[Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md)
+<sup>· &nbsp; [rbenv](https://github.com/mobilege/web-development/blob/master/ruby-rbenv.md) 
+&nbsp; · &nbsp; RVM &nbsp; · &nbsp;
+&nbsp; · &nbsp; [RubyGems](https://github.com/mobilege/web-development/blob/master/ruby-rubygems.md)
+&nbsp; · &nbsp; [Bundler](https://github.com/mobilege/web-development/blob/master/ruby-bundler.md)
+&nbsp; · &nbsp; [Sinatra](https://github.com/mobilege/web-development/blob/master/rb-sinatra.md)
+&nbsp; · &nbsp; [Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md)
+&nbsp; ·</sup>
 
 
 [**JavaScript**](https://github.com/mobilege/web-development/blob/master/javascript.md)
 
-&nbsp; &nbsp; 
-[HTML](https://github.com/mobilege/web-development/blob/master/html.md) &nbsp; · &nbsp;
-[CSS](https://github.com/mobilege/web-development/blob/master/css.md)
+<sup>· &nbsp; [HTML](https://github.com/mobilege/web-development/blob/master/html.md)
+&nbsp; · &nbsp; [CSS](https://github.com/mobilege/web-development/blob/master/css.md)
+&nbsp; ·</sup>
 
 
 
