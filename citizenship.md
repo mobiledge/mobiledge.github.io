@@ -166,62 +166,72 @@
 
 #### Early Exploration and Settlement 
 
-1. Who were the Indigenous peoples living in Canada before the arrival of European explorers?
-   - [ ] a) Vikings
-   - [ ] b) French
-   - [x] c) Diverse Indigenous communities
-   - [ ] d) British
+1. Which European explorer is credited with discovering parts of Canada in the late 15th century?
+   - [ ] a) Christopher Columbus
+   - [x] b) John Cabot
+   - [ ] c) Vasco da Gama
+   - [ ] d) Ferdinand Magellan
+   > John Cabot, an Italian explorer sailing under the English flag, reached parts of Canada in 1497.
 
-2. Which European explorer arrived in Canada during the late 15th century and claimed land for their country?
-   - [ ] a) John Cabot
-   - [ ] b) Jacques Cartier
-   - [ ] c) Samuel de Champlain
-   - [x] d) None of the above
-
-3. Which economic activity was a significant part of interactions between Europeans and Indigenous peoples during this period?
-   - [ ] a) Agriculture
+2. What was a primary economic activity during the Early Exploration and Settlement period in Canada?
+   - [ ] a) Farming
    - [x] b) Fur trade
    - [ ] c) Mining
-   - [ ] d) Fishing
+   - [ ] d) Manufacturing
+   > The fur trade, involving the exchange of fur pelts for European goods, was a significant economic activity during this period.
 
-4. Which European power established the colony of New France in Canada?
-   - [ ] a) British
-   - [x] b) French
-   - [ ] c) Spanish
-   - [ ] d) Dutch
+3. Which European country established the colony of New France in Canada?
+   - [ ] a) Spain
+   - [x] b) France
+   - [ ] c) England
+   - [ ] d) Portugal
+   > The French established the colony of New France, primarily in present-day Quebec and parts of the Maritimes.
 
-5. Where was the primary location of New France in Canada?
-   - [ ] a) Ontario
-   - [x] b) Quebec
-   - [ ] c) Nova Scotia
-   - [ ] d) British Columbia
+4. What was the major river explored by Jacques Cartier during his voyages to Canada in the 16th century?
+   - [ ] a) Mississippi River
+   - [ ] b) Colorado River
+   - [x] c) St. Lawrence River
+   - [ ] d) Hudson River
+   > Jacques Cartier explored the St. Lawrence River during his voyages.
 
-6. What was the primary economic activity in New France?
-   - [ ] a) Gold mining
-   - [ ] b) Agriculture
-   - [ ] c) Shipbuilding
-   - [x] d) Fur trade
+5. Which indigenous group had significant interactions with European fur traders and explorers in the Canadian fur trade?
+   - [ ] a) Aztecs
+   - [ ] b) Mayans
+   - [x] c) First Nations
+   - [ ] d) Incas
+   > First Nations people were involved in the fur trade and had significant interactions with European fur traders and explorers.
 
-7. Which conflict emerged between the French and British over control of Canada during this period?
-   - [ ] a) War of 1812
-   - [x] b) Seven Years' War
-   - [ ] c) American Civil War
-   - [ ] d) World War I
+6. What major conflict occurred between the French and British in the 18th century for control of Canada?
+   - [ ] a) American Civil War
+   - [x] b) Seven Years' War (French and Indian War)
+   - [ ] c) War of 1812
+   - [ ] d) Hundred Years' War
+   > The Seven Years' War was a significant conflict between the French and British for control of Canada.
 
-8. When did Canadian Confederation take place, uniting several provinces into the Dominion of Canada?
+7. Which British royal proclamation in 1763 aimed to organize the newly acquired territories in North America, including Canada?
+   - [ ] a) Magna Carta
+   - [ ] b) Emancipation Proclamation
+   - [x] c) Royal Proclamation of 1763
+   - [ ] d) Treaty of Paris
+   > The Royal Proclamation of 1763 established the framework for governing newly acquired territories in North America.
+
+8. What agreement in 1774 allowed the French-speaking population of Quebec to practice their religion and maintain their legal system?
+   - [ ] a) Treaty of Tordesillas
+   - [ ] b) Treaty of Utrecht
+   - [x] c) Quebec Act
+   - [ ] d) Treaty of Ghent
+   > The Quebec Act of 1774 granted religious and legal rights to the French-speaking population of Quebec.
+
+9. Which document, signed in 1814, officially ended hostilities between the United States and Britain, and helped solidify Canada's identity?
+   - [ ] a) Treaty of Paris
+   - [ ] b) Treaty of Tordesillas
+   - [ ] c) Treaty of Utrecht
+   - [x] d) Treaty of Ghent
+   > The Treaty of Ghent ended hostilities in the War of 1812 between the United States and Britain, contributing to Canada's identity.
+
+10. In what year did Canadian Confederation occur, leading to the creation of the Dominion of Canada?
    - [ ] a) 1776
    - [ ] b) 1812
-   - [ ] c) 1917
+   - [ ] c) 1837
    - [x] d) 1867
-
-9. Which European explorer arrived in Canada during the early 16th century and is known for exploring the St. Lawrence River?
-   - [ ] a) John Cabot
-   - [x] b) Jacques Cartier
-   - [ ] c) Samuel de Champlain
-   - [ ] d) Christopher Columbus
-
-10. Which group influenced the culture and language of the region that is now Quebec?
-    - [ ] a) Spanish settlers
-    - [x] b) French settlers
-    - [ ] c) English settlers
-    - [ ] d) Dutch settlers
+   > Canadian Confederation took place in 1867, resulting in the establishment of the Dominion of Canada.
