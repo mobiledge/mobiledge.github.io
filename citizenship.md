@@ -1,4 +1,8 @@
-# Magna Carta
+# Citizenship Test
+
+### Rights and Responsibilities of Citizenship
+
+#### Magna Carta
 
 1. What is the Magna Carta?
    - [ ] a) A famous Canadian legal document
@@ -57,3 +61,41 @@
 10. Which of the following best describes the influence of the Magna Carta on Canadian values?
    - [ ] a) It had no impact on Canadian values.
    - [x] b) It significantly influenced Canadian values, particularly in terms of individual rights and the rule of law.
+
+## Habeas corpus
+
+1. What is the purpose of the legal principle "Habeas corpus" in Canada?
+
+   - [ ] A. To prevent any form of arrest.
+   - [x] B. To protect against unlawful detention.
+   - [ ] C. To speed up the legal process.
+   - [ ] D. To enforce immigration policies.
+
+2. What does "Habeas corpus" ensure for individuals in Canada?
+
+   - [ ] A. The right to avoid arrest entirely.
+   - [ ] B. The right to a speedy trial.
+   - [x] C. The right to challenge their detention in court.
+   - [ ] D. The right to remain silent during questioning.
+
+3. Who can request a "Habeas corpus" hearing in Canada?
+
+   - [ ] A. Only Canadian citizens.
+   - [x] B. Any person who believes they are unlawfully detained.
+   - [ ] C. Only lawyers and judges.
+   - [ ] D. Only government officials.
+
+4. Which branch of the Canadian government is responsible for ensuring "Habeas corpus" rights are upheld?
+
+   - [ ] A. The Executive branch (Prime Minister's Office).
+   - [x] B. The Judiciary (Courts and Judges).
+   - [ ] C. The Legislative branch (Parliament).
+   - [ ] D. The Police and Law Enforcement.
+
+5. What happens if a court finds that a person's detention is unlawful during a "Habeas corpus" hearing?
+
+   - [ ] A. The person is immediately released without any conditions.
+   - [ ] B. The person is sentenced to a longer period of detention.
+   - [ ] C. The person is moved to a different detention facility.
+   - [x] D. The person is released from detention unless there are lawful reasons for their continued detention.
+
