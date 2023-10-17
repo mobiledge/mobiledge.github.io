@@ -149,5 +149,10 @@
    - [ ] c) Ignoring the rights and freedoms of others.
    - [ ] d) Only considering your own interests.
 
+9. **In what year was the Canadian Charter of Rights and Freedoms introduced as part of Canada's Constitution?**
+   - [ ] a) 1867
+   - [ ] b) 1931
+   - [x] c) 1982
+   - [ ] d) 1997
 
 
