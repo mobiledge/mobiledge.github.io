@@ -155,4 +155,8 @@
    - [x] c) 1982
    - [ ] d) 1997
 
-
+10. **Does the Canadian Charter of Rights and Freedoms apply to non-citizens in Canada?**
+   - [x] a) Yes, the Charter applies to non-citizens within Canada's borders, protecting their rights and freedoms.
+   - [ ] b) No, the Charter only applies to Canadian citizens and not to non-citizens.
+   - [ ] c) It depends on the specific immigration status of the non-citizen.
+   - [ ] d) The Charter only applies to non-citizens who are permanent residents.
