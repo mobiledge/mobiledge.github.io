@@ -235,3 +235,48 @@
    - [ ] c) 1837
    - [x] d) 1867
    > Canadian Confederation took place in 1867, resulting in the establishment of the Dominion of Canada.
+> 
+
+#### Jacques Cartier (zhahk kar-tee-ay)
+
+1. ###### When did Jacques Cartier make his first voyage to Canada?
+   - [ ] A) 1608
+   - [ ] B) 1492
+   - [x] C) 1534
+   - [ ] D) 1776
+
+   **Correct Answer (C):** Jacques Cartier made his first voyage to Canada in 1534. He explored the Gulf of St. Lawrence and is often credited with discovering and mapping parts of eastern Canada.
+
+2. ###### What did Jacques Cartier name the land he explored in Canada?
+   - [ ] A) New England
+   - [x] B) Canada
+   - [ ] C) Nova Scotia
+   - [ ] D) Acadia
+
+   **Correct Answer (B):** Jacques Cartier named the land he explored "Canada" during his voyages. This name eventually became the modern name for the country.
+
+3. ###### Which indigenous people did Jacques Cartier encounter during his voyages to Canada?
+   - [ ] A) Aztecs
+   - [ ] B) Mayans
+   - [x] C) Iroquois
+   - [ ] D) Incas
+
+   **Correct Answer (C):** Jacques Cartier encountered the indigenous Iroquois people during his voyages in Canada. He established contact and traded with them.
+
+4. ###### What was the main purpose of Jacques Cartier's voyages to Canada?
+   - [ ] A) To establish permanent colonies
+   - [ ] B) To find a new trade route to Asia
+   - [ ] C) To search for gold
+   - [x] D) To explore and map the new lands
+
+   **Correct Answer (D):** The main purpose of Jacques Cartier's voyages to Canada was to explore and map the new lands. He was not primarily interested in establishing permanent colonies or finding gold.
+
+5. ###### Who was the French king that sponsored Jacques Cartier's voyages to Canada?
+   - [ ] A) King Henry VIII
+   - [ ] B) King Philip II
+   - [x] C) King Francis I
+   - [ ] D) King Louis XIV
+
+   **Correct Answer (C):** Jacques Cartier's voyages to Canada were sponsored by King Francis I of France. King Francis I provided the support for Cartier's explorations.
+
+These questions cover key aspects of Jacques Cartier's role in Canadian history and are relevant to the Canadian citizenship exam.
