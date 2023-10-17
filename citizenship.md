@@ -1,6 +1,6 @@
 # Citizenship Test
 
-### Rights and Responsibilities of Citizenship
+## Rights and Responsibilities of Citizenship
 
 #### Magna Carta
 
@@ -62,7 +62,7 @@
    - [ ] a) It had no impact on Canadian values.
    - [x] b) It significantly influenced Canadian values, particularly in terms of individual rights and the rule of law.
 
-### Habeas corpus
+#### Habeas corpus
 
 1. What is the purpose of the legal principle "Habeas corpus" in Canada?
 
@@ -100,7 +100,7 @@
    - [x] D. The person is released from detention unless there are lawful reasons for their continued detention.
   
 
-### Canadian Charter of Rights and Freedoms
+#### Canadian Charter of Rights and Freedoms
 
 1. **What does the Canadian Charter of Rights and Freedoms protect?**
    - [ ] a) Only the rights of Canadian citizens.
@@ -160,3 +160,68 @@
    - [ ] b) No, the Charter only applies to Canadian citizens and not to non-citizens.
    - [ ] c) It depends on the specific immigration status of the non-citizen.
    - [ ] d) The Charter only applies to non-citizens who are permanent residents.
+
+
+## Canadian History
+
+#### Early Exploration and Settlement 
+
+1. Who were the Indigenous peoples living in Canada before the arrival of European explorers?
+   - [ ] a) Vikings
+   - [ ] b) French
+   - [x] c) Diverse Indigenous communities
+   - [ ] d) British
+
+2. Which European explorer arrived in Canada during the late 15th century and claimed land for their country?
+   - [ ] a) John Cabot
+   - [ ] b) Jacques Cartier
+   - [ ] c) Samuel de Champlain
+   - [x] d) None of the above
+
+3. Which economic activity was a significant part of interactions between Europeans and Indigenous peoples during this period?
+   - [ ] a) Agriculture
+   - [x] b) Fur trade
+   - [ ] c) Mining
+   - [ ] d) Fishing
+
+4. Which European power established the colony of New France in Canada?
+   - [ ] a) British
+   - [x] b) French
+   - [ ] c) Spanish
+   - [ ] d) Dutch
+
+5. Where was the primary location of New France in Canada?
+   - [ ] a) Ontario
+   - [x] b) Quebec
+   - [ ] c) Nova Scotia
+   - [ ] d) British Columbia
+
+6. What was the primary economic activity in New France?
+   - [ ] a) Gold mining
+   - [ ] b) Agriculture
+   - [ ] c) Shipbuilding
+   - [x] d) Fur trade
+
+7. Which conflict emerged between the French and British over control of Canada during this period?
+   - [ ] a) War of 1812
+   - [x] b) Seven Years' War
+   - [ ] c) American Civil War
+   - [ ] d) World War I
+
+8. When did Canadian Confederation take place, uniting several provinces into the Dominion of Canada?
+   - [ ] a) 1776
+   - [ ] b) 1812
+   - [ ] c) 1917
+   - [x] d) 1867
+
+9. Which European explorer arrived in Canada during the early 16th century and is known for exploring the St. Lawrence River?
+   - [ ] a) John Cabot
+   - [x] b) Jacques Cartier
+   - [ ] c) Samuel de Champlain
+   - [ ] d) Christopher Columbus
+
+10. Which group influenced the culture and language of the region that is now Quebec?
+    - [ ] a) Spanish settlers
+    - [x] b) French settlers
+    - [ ] c) English settlers
+    - [ ] d) Dutch settlers
