@@ -62,7 +62,7 @@
    - [ ] a) It had no impact on Canadian values.
    - [x] b) It significantly influenced Canadian values, particularly in terms of individual rights and the rule of law.
 
-## Habeas corpus
+### Habeas corpus
 
 1. What is the purpose of the legal principle "Habeas corpus" in Canada?
 
@@ -98,4 +98,56 @@
    - [ ] B. The person is sentenced to a longer period of detention.
    - [ ] C. The person is moved to a different detention facility.
    - [x] D. The person is released from detention unless there are lawful reasons for their continued detention.
+  
+
+### Canadian Charter of Rights and Freedoms
+
+1. **What does the Canadian Charter of Rights and Freedoms protect?**
+   - [ ] a) Only the rights of Canadian citizens.
+   - [x] b) The rights and freedoms of Canadian citizens and people living in Canada.
+   - [ ] c) The rights of government officials.
+   - [ ] d) The rights of corporations.
+
+2. **Which fundamental rights are guaranteed by the Charter?**
+   - [ ] a) The right to buy property.
+   - [x] b) The right to freedom of expression, freedom of religion, and the right to life, liberty, and security.
+   - [ ] c) The right to free healthcare.
+   - [ ] d) The right to vote in federal elections.
+
+3. **What is the purpose of the Canadian Charter of Rights and Freedoms?**
+   - [ ] a) To establish Canada as a monarchy.
+   - [x] b) To protect the rights and freedoms of individuals in Canada.
+   - [ ] c) To create new laws.
+   - [ ] d) To regulate trade with other countries.
+
+4. **Under the Charter, when can rights and freedoms be limited?**
+   - [ ] a) They cannot be limited under any circumstances.
+   - [ ] b) Only during federal elections.
+   - [x] c) When the limitation is justifiable in a free and democratic society.
+   - [ ] d) Only during a state of emergency.
+
+5. **What does the Charter say about language rights?**
+   - [ ] a) It doesn't mention language rights.
+   - [x] b) It recognizes the importance of English and French in Canada and gives certain language rights, especially in federal institutions.
+   - [ ] c) It declares English as the only official language of Canada.
+   - [ ] d) It prohibits the use of languages other than English and French.
+
+6. **Who enforces the Canadian Charter of Rights and Freedoms?**
+   - [ ] a) The Prime Minister of Canada.
+   - [ ] b) The United Nations.
+   - [x] c) Canadian courts.
+   - [ ] d) The Charter has no enforcement mechanism.
+
+7. **What is the significance of the Oath of Citizenship in relation to the Charter?**
+   - [ ] a) The Oath of Citizenship has no connection to the Charter.
+   - [x] b) The Oath of Citizenship includes a promise to uphold Canadian laws and values, which include the Charter.
+   - [ ] c) The Oath of Citizenship is only required for government officials.
+
+8. **What should you consider when exercising your rights under the Charter?**
+   - [x] a) Respecting the rights and freedoms of others.
+   - [ ] b) Exercising your rights aggressively.
+   - [ ] c) Ignoring the rights and freedoms of others.
+   - [ ] d) Only considering your own interests.
+
+
 
