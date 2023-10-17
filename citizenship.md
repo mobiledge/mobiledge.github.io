@@ -164,7 +164,7 @@
 
 ## Canadian History
 
-#### Early Exploration and Settlement 
+#### John Cabot
 
 1. Which European explorer is credited with discovering parts of Canada in the late 15th century?
    - [ ] a) Christopher Columbus
