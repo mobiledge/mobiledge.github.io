@@ -62,7 +62,7 @@
    - [ ] a) It had no impact on Canadian values.
    - [x] b) It significantly influenced Canadian values, particularly in terms of individual rights and the rule of law.
 
-#### Habeas corpus
+#### Habeas corpus (hah-bee-us core-pus)
 
 1. What is the purpose of the legal principle "Habeas corpus" in Canada?
 
