@@ -23,7 +23,7 @@ Source: Conversation with Bing, 2023-10-23
 
 </details>
 
-The Head of Government, the Prime Minister, is…
+The Head of Government, the Prime Minister, is… **Justin Trudeau**
 
 The name of the political party in power is…
 
