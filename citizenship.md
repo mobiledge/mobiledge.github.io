@@ -35,17 +35,9 @@ The Head of Government (the Premier of Alberta) is… **Danielle Smith**
 
 The name of the provincial party in power is…  **United Conservative Party**
 
-The names of the provincial opposition parties and leaders are…
+The names of the provincial opposition parties and leaders are… **New Democratic Party (NDP)** - **Rachel Notley**
 
-My provincial representative is…
-
-Territorial Government
-
-The name of the Commissioner, who represents the federal government in my territory, is…
-
-The name of the Premier is…
-
-The name of my territorial representative is…
+My provincial representative is… **Ms Chantelle de Jonge** [More](https://www.assembly.ab.ca/members/members-of-the-legislative-assembly/constituencies/constituency?rnumber=56)
 
 #### Municipal Government
 
