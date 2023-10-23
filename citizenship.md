@@ -12,7 +12,7 @@ The Head of Government, the Prime Minister, is… **Justin Trudeau**
 
 The name of the political party in power is… **Liberal Party of Canada**
 
-The name of the Leader of the Opposition is…
+The name of the Leader of the Opposition is… **Pierre Poilievre** _"Pee-air Pwah-lee-ev"_
 
 The name of the party representing Her Majesty’s Loyal Opposition is…
 
