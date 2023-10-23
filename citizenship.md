@@ -17,11 +17,10 @@ The name of the Leader of the Opposition is… **Pierre Poilievre** _"Pee-air Pw
 The name of the party representing Her Majesty’s Loyal Opposition is… **Conservative Party of Canada**
 
 The names of the other opposition parties and leaders are…
-
-**Conservative Party of Canada** - **Pierre Poilievre** - 117 MPs
-**Bloc Québécois** - **Yves-François Blanchet**	- 32 MPs
-**New Democratic Party** - **Jagmeet Singh** - 25 MPs
-**Green Party of Canada** -	**Elizabeth May**	- 2 MPs
+- **Conservative Party of Canada** - **Pierre Poilievre** - 117 MPs
+- **Bloc Québécois** - **Yves-François Blanchet**	- 32 MPs
+- **New Democratic Party** - **Jagmeet Singh** - 25 MPs
+- **Green Party of Canada** -	**Elizabeth May**	- 2 MPs
 
 My Member of Parliament (MP) in Ottawa is…
 
