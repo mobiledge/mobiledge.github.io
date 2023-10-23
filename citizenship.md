@@ -37,7 +37,7 @@ The name of the provincial party in power is…  **United Conservative Party**
 
 The names of the provincial opposition parties and leaders are… **New Democratic Party (NDP)** - **Rachel Notley**
 
-My provincial representative is… **Ms Chantelle de Jonge** [More](https://www.assembly.ab.ca/members/members-of-the-legislative-assembly/constituencies/constituency?rnumber=56)
+My provincial representative is… **Ms Chantelle de Jonge** _"Shan-tell duh YONG"_ [More](https://www.assembly.ab.ca/members/members-of-the-legislative-assembly/constituencies/constituency?rnumber=56)
 
 #### Municipal Government
 
