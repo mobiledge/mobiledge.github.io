@@ -22,7 +22,7 @@ The names of the other opposition parties and leaders are…
 - **New Democratic Party** - **Jagmeet Singh** - 25 MPs
 - **Green Party of Canada** -	**Elizabeth May**	- 2 MPs
 
-My Member of Parliament (MP) in Ottawa is… **Martin Shields**
+My Member of Parliament (MP) in Ottawa is… **Martin Shields** [More](https://www.ourcommons.ca/members/en/constituencies/bow-river(866))
 
 My federal electoral district is called… **Bow River**
 
