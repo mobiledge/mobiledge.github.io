@@ -41,6 +41,6 @@ My provincial representative is… **Ms Chantelle de Jonge** _"Shan-tell duh YON
 
 #### Municipal Government
 
-The name of the municipality where I live is…
+The name of the municipality where I live is… **Chestermere**
 
-The name of the head of the municipal government (mayor or reeve) is…
+The name of the head of the municipal government (mayor or reeve) is… **Jeff Colvin**
