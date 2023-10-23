@@ -29,7 +29,7 @@ My federal electoral district is called… **Bow River**
 
 #### Provincial Government
 
-The name of the representative of the Queen for my province is…
+The name of the representative of the Queen for my province is… **Salma Lakhani** [More](https://en.wikipedia.org/wiki/Salma_Lakhani)
 
 The representative of the Queen in my province, the Lieutenant Governor, is…
 
