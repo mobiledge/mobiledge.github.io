@@ -29,13 +29,11 @@ My federal electoral district is called… **Bow River**
 
 #### Provincial Government
 
-The name of the representative of the Queen for my province is… **Salma Lakhani** [More](https://en.wikipedia.org/wiki/Salma_Lakhani)
+The representative of the Queen in my province, the Lieutenant Governor, is… **Salma Lakhani** [More](https://en.wikipedia.org/wiki/Salma_Lakhani)
 
-The representative of the Queen in my province, the Lieutenant Governor, is…
+The Head of Government (the Premier of Alberta) is… **Danielle Smith**
 
-The Head of Government (the Premier) is…
-
-The name of the provincial party in power is…
+The name of the provincial party in power is…  **United Conservative Party**
 
 The names of the provincial opposition parties and leaders are…
 
