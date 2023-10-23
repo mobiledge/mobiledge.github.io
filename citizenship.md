@@ -22,9 +22,10 @@ The names of the other opposition parties and leaders are…
 - **New Democratic Party** - **Jagmeet Singh** - 25 MPs
 - **Green Party of Canada** -	**Elizabeth May**	- 2 MPs
 
-My Member of Parliament (MP) in Ottawa is…
+My Member of Parliament (MP) in Ottawa is… **Martin Shields**
 
-My federal electoral district is called…
+My federal electoral district is called… **Bow River**
+
 
 #### Provincial Government
 
