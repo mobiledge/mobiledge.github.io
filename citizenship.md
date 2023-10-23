@@ -14,7 +14,16 @@ The name of the political party in power is… **Liberal Party of Canada**
 
 The name of the Leader of the Opposition is… **Pierre Poilievre** _"Pee-air Pwah-lee-ev"_
 
-The name of the party representing Her Majesty’s Loyal Opposition is…
+The name of the party representing Her Majesty’s Loyal Opposition is… **Conservative Party of Canada**
+
+I hope this helps!
+
+Source: Conversation with Bing, 2023-10-23
+(1) Official Opposition (Canada) - Wikipedia. https://en.wikipedia.org/wiki/Official_Opposition_%28Canada%29.
+(2) YOUR CANADIAN GOVERNMENT - citizenshipsupport.ca. https://www.citizenshipsupport.ca/government/.
+(3) What Is The Name Of The Party Representing Her Majesty's Loyal .... https://society-politics.blurtit.com/2934977/what-is-the-name-of-the-party-representing-her-majestys-loyal-opposition-of-canada-is.
+(4) Leader of the Official Opposition (Canada) - Wikipedia. https://en.wikipedia.org/wiki/Leader_of_the_Official_Opposition_%28Canada%29.
+(5) Leader of the Official Opposition (Canada) - Simple English Wikipedia .... https://simple.wikipedia.org/wiki/Leader_of_the_Official_Opposition_%28Canada%29.
 
 The names of the other opposition parties and leaders are…
 
