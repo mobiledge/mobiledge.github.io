@@ -39,38 +39,27 @@ Search: &nbsp; &nbsp;
 &nbsp; ·</sup>
 
 ## Tools
-[**Linux**](https://github.com/mobilege/unix/blob/master/README.md)
-
-<sup>· &nbsp; [homebrew](https://github.com/mobilege/unix/blob/master/homebrew.md#homebrew) 
+[**Linux**](https://github.com/mobilege/unix/blob/master/README.md) &nbsp; &nbsp;
+<sub>[homebrew](https://github.com/mobilege/unix/blob/master/homebrew.md#homebrew) 
 &nbsp; · &nbsp; [ssh](https://github.com/mobilege/unix/blob/master/ssh.md)
 &nbsp; · &nbsp; [vim](https://github.com/mobilege/unix/blob/master/vim.md)
-&nbsp; · &nbsp; [git](https://github.com/mobilege/unix/blob/master/git.md)
-&nbsp; ·</sup>
+&nbsp; · &nbsp; [git](https://github.com/mobilege/unix/blob/master/git.md)</sup>
 
-
-[**Python**](https://github.com/mobiledge/python/blob/main/README.md)
-
-<sup>[Flask](https://github.com/mobiledge/python/blob/main/flask.md) &nbsp; · &nbsp;
+[**Python**](https://github.com/mobiledge/python/blob/main/README.md) &nbsp; &nbsp;
+<sub>[Flask](https://github.com/mobiledge/python/blob/main/flask.md) &nbsp; · &nbsp;
 [Django](https://github.com/mobiledge/python/blob/main/django.md) &nbsp; · &nbsp;
-[Wagtail](https://github.com/mobiledge/python/blob/main/wagtail.md)</sup>
+[Wagtail](https://github.com/mobiledge/python/blob/main/wagtail.md)</sub>
 
-
-[**Ruby**](https://github.com/mobilege/web-development/blob/master/ruby.md)
-
-<sup>· &nbsp; [rbenv](https://github.com/mobilege/web-development/blob/master/ruby-rbenv.md) 
-&nbsp; · &nbsp; RVM &nbsp; · &nbsp;
+[**Ruby**](https://github.com/mobilege/web-development/blob/master/ruby.md) &nbsp; &nbsp;
+<sub>[rbenv](https://github.com/mobilege/web-development/blob/master/ruby-rbenv.md) 
 &nbsp; · &nbsp; [RubyGems](https://github.com/mobilege/web-development/blob/master/ruby-rubygems.md)
 &nbsp; · &nbsp; [Bundler](https://github.com/mobilege/web-development/blob/master/ruby-bundler.md)
 &nbsp; · &nbsp; [Sinatra](https://github.com/mobilege/web-development/blob/master/rb-sinatra.md)
-&nbsp; · &nbsp; [Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md)
-&nbsp; ·</sup>
+&nbsp; · &nbsp; [Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md)</sub>
 
-
-[**JavaScript**](https://github.com/mobilege/web-development/blob/master/javascript.md)
-
-<sup>· &nbsp; [HTML](https://github.com/mobilege/web-development/blob/master/html.md)
-&nbsp; · &nbsp; [CSS](https://github.com/mobilege/web-development/blob/master/css.md)
-&nbsp; ·</sup>
+[**JavaScript**](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; &nbsp;
+<sub>[HTML](https://github.com/mobilege/web-development/blob/master/html.md)
+&nbsp; · &nbsp; [CSS](https://github.com/mobilege/web-development/blob/master/css.md)</sub>
 
 
 
