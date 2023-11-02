@@ -48,21 +48,11 @@ Search: &nbsp; &nbsp;
 &nbsp; ·</sup>
 
 
-[**Python**](https://github.com/mobilege/data-science/blob/master/python.md)
+[**Python**](https://github.com/mobiledge/python/blob/main/README.md)
 
-<sup>· &nbsp; [venv](https://github.com/mobiledge/data-science/blob/master/python.md#venv-) 
-&nbsp; · &nbsp; [Jupyter](https://github.com/mobiledge/data-science/blob/master/python.md#jupyter-) 
-&nbsp; · &nbsp; [Flask](https://github.com/mobilege/web-development/blob/master/flask.md#flask) 
-&nbsp; · &nbsp; [Django](https://github.com/mobilege/web-development/blob/master/django.md)
-&nbsp; · &nbsp; [Wagtail CMS](https://github.com/wagtail/wagtail)
-&nbsp; ·</sup>
-
-
-<sup>· &nbsp; [Python 3 documentation](https://docs.python.org/3/)
-&nbsp; · &nbsp; [Tutorial](https://docs.python.org/3/tutorial/index.html)
-&nbsp; · &nbsp; [The Python Standard Library](https://docs.python.org/3/library/index.html) 
-&nbsp; · &nbsp; [The Python Language Reference](https://docs.python.org/3/reference/index.html)
-&nbsp; ·</sup>
+<sup>[Flask](https://github.com/mobiledge/python/blob/main/flask.md) &nbsp; · &nbsp;
+[Django](https://github.com/mobiledge/python/blob/main/django.md) &nbsp; · &nbsp;
+[Wagtail](https://github.com/mobiledge/python/blob/main/wagtail.md)</sup>
 
 
 [**Ruby**](https://github.com/mobilege/web-development/blob/master/ruby.md)
