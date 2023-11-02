@@ -17,26 +17,15 @@ Search: &nbsp; &nbsp;
 
 ## [**iOS Development**](https://github.com/mobilege/ios-development/blob/master/README.md)
 
-<sup>· &nbsp; [developer.apple.com](https://developer.apple.com) 
-&nbsp; · &nbsp; [Technologies](https://developer.apple.com/documentation/technologies)
-&nbsp; · &nbsp; [Videos](https://developer.apple.com/videos/)
-&nbsp; · &nbsp; [WWDC Sample Code](https://developer.apple.com/sample-code/wwdc/2023/)
-&nbsp; ·</sup>
-
-[**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
-
-<sup>· &nbsp; [**Search 🔎**](http://mobiledge.github.io/search/swift-lang.html)
+[**Swift**](https://github.com/mobilege/swift/blob/master/README.md) &nbsp; &nbsp;
+<sub>[**Search 🔎**](http://mobiledge.github.io/search/swift-lang.html)
 &nbsp; · &nbsp; [Swift language guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
-&nbsp; · &nbsp; [Swift standard library](https://developer.apple.com/documentation/swift/swift-standard-library)
-&nbsp; ·</sup>
+&nbsp; · &nbsp; [Swift standard library](https://developer.apple.com/documentation/swift/swift-standard-library)</sub>
 
-[**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
-
-
-<sup>· &nbsp; [**Search 🔎**](http://mobiledge.github.io/search/swiftui-views.html)
+[**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md) &nbsp; &nbsp;
+<sub>[**Search 🔎**](http://mobiledge.github.io/search/swiftui-views.html)
 &nbsp; · &nbsp; [Documentation](https://developer.apple.com/documentation/swiftui/)
-&nbsp; · &nbsp; [Tutorials](https://developer.apple.com/tutorials/swiftui)
-&nbsp; ·</sup>
+&nbsp; · &nbsp; [Tutorials](https://developer.apple.com/tutorials/swiftui)</sub>
 
 ## Tools
 [**Linux**](https://github.com/mobilege/unix/blob/master/README.md) &nbsp; &nbsp;
