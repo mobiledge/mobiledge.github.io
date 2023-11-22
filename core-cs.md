@@ -1,5 +1,5 @@
 [mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
-[Core CS]() /
+[Core CS](https://github.com/mobiledge/mobiledge.github.io/blob/master/core-cs.md) /
 
 # Core CS
 - [Programming: Structure and Interpretation of Computer Programs](https://github.com/mobilege/sicp/blob/master/README.md)
