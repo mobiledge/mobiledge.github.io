@@ -27,6 +27,8 @@ Search: &nbsp; &nbsp;
 &nbsp; · &nbsp; [Documentation](https://developer.apple.com/documentation/swiftui/)
 &nbsp; · &nbsp; [Tutorials](https://developer.apple.com/tutorials/swiftui)</sub>
 
+**Concurrency**
+
 **Distributon**
 
 **TCA**
@@ -38,21 +40,6 @@ Search: &nbsp; &nbsp;
 &nbsp; · &nbsp; [vim](https://github.com/mobilege/unix/blob/master/vim.md)
 &nbsp; · &nbsp; [git](https://github.com/mobilege/unix/blob/master/git.md)</sup>
 
-[**Python**](https://github.com/mobiledge/python/blob/main/README.md) &nbsp; &nbsp;
-<sub>[Flask](https://github.com/mobiledge/python/blob/main/flask.md) &nbsp; · &nbsp;
-[Django](https://github.com/mobiledge/python/blob/main/django.md) &nbsp; · &nbsp;
-[Wagtail](https://github.com/mobiledge/python/blob/main/wagtail.md)</sub>
-
-[**Ruby**](https://github.com/mobilege/web-development/blob/master/ruby.md) &nbsp; &nbsp;
-<sub>[rbenv](https://github.com/mobilege/web-development/blob/master/ruby-rbenv.md) 
-&nbsp; · &nbsp; [RubyGems](https://github.com/mobilege/web-development/blob/master/ruby-rubygems.md)
-&nbsp; · &nbsp; [Bundler](https://github.com/mobilege/web-development/blob/master/ruby-bundler.md)
-&nbsp; · &nbsp; [Sinatra](https://github.com/mobilege/web-development/blob/master/rb-sinatra.md)
-&nbsp; · &nbsp; [Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md)</sub>
-
-[**JavaScript**](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; &nbsp;
-<sub>[HTML](https://github.com/mobilege/web-development/blob/master/html.md)
-&nbsp; · &nbsp; [CSS](https://github.com/mobilege/web-development/blob/master/css.md)</sub>
 
 ## Core CS
 - [Programming: Structure and Interpretation of Computer Programs](https://github.com/mobilege/sicp/blob/master/README.md)
@@ -102,6 +89,19 @@ Search: &nbsp; &nbsp;
 Node.js &nbsp; · &nbsp;
 Express &nbsp; · &nbsp;
 - [Elixir](https://github.com/mobiledge/web-development/blob/master/elixir.md)
+- [**Python**](https://github.com/mobiledge/python/blob/main/README.md) &nbsp; &nbsp;
+<sub>[Flask](https://github.com/mobiledge/python/blob/main/flask.md) &nbsp; · &nbsp;
+[Django](https://github.com/mobiledge/python/blob/main/django.md) &nbsp; · &nbsp;
+[Wagtail](https://github.com/mobiledge/python/blob/main/wagtail.md)</sub>
+- [**Ruby**](https://github.com/mobilege/web-development/blob/master/ruby.md) &nbsp; &nbsp;
+<sub>[rbenv](https://github.com/mobilege/web-development/blob/master/ruby-rbenv.md) 
+&nbsp; · &nbsp; [RubyGems](https://github.com/mobilege/web-development/blob/master/ruby-rubygems.md)
+&nbsp; · &nbsp; [Bundler](https://github.com/mobilege/web-development/blob/master/ruby-bundler.md)
+&nbsp; · &nbsp; [Sinatra](https://github.com/mobilege/web-development/blob/master/rb-sinatra.md)
+&nbsp; · &nbsp; [Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md)</sub>
+- [**JavaScript**](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; &nbsp;
+<sub>[HTML](https://github.com/mobilege/web-development/blob/master/html.md)
+&nbsp; · &nbsp; [CSS](https://github.com/mobilege/web-development/blob/master/css.md)</sub>
 
 
 ## Other
