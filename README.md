@@ -27,6 +27,10 @@ Search: &nbsp; &nbsp;
 &nbsp; · &nbsp; [Documentation](https://developer.apple.com/documentation/swiftui/)
 &nbsp; · &nbsp; [Tutorials](https://developer.apple.com/tutorials/swiftui)</sub>
 
+**Distributon**
+
+**TCA**
+
 ## Tools
 [**Linux**](https://github.com/mobilege/unix/blob/master/README.md) &nbsp; &nbsp;
 <sub>[homebrew](https://github.com/mobilege/unix/blob/master/homebrew.md#homebrew) 
@@ -50,14 +54,12 @@ Search: &nbsp; &nbsp;
 <sub>[HTML](https://github.com/mobilege/web-development/blob/master/html.md)
 &nbsp; · &nbsp; [CSS](https://github.com/mobilege/web-development/blob/master/css.md)</sub>
 
-
-
 ## Core CS
-- [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md)
-- [Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md)
-- [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md)
-- [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
 - [Programming: Structure and Interpretation of Computer Programs](https://github.com/mobilege/sicp/blob/master/README.md)
+- [**Computer Architecture**](https://github.com/mobilege/computer-architecture/blob/master/README.md)
+- [**Operating Systems**](https://github.com/mobilege/operating-systems/blob/main/README.md)
+- [**Computer Networking**](https://github.com/mobilege/computer-networking/blob/master/README.md)
+- [**Languages and** Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
 - [**Algorithms and Data Structures**](https://github.com/mobilege/algorithms)
 - Databases
 - [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
