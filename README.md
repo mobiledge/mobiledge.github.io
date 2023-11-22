@@ -33,6 +33,14 @@ Search: &nbsp; &nbsp;
 
 **TCA**
 
+## [Core CS](https://github.com/mobiledge/mobiledge.github.io/blob/master/core-cs.md)
+- [**Computer Architecture**](https://github.com/mobilege/computer-architecture/blob/master/README.md)
+- [**Operating Systems**](https://github.com/mobilege/operating-systems/blob/main/README.md)
+- [**Computer Networking**](https://github.com/mobilege/computer-networking/blob/master/README.md)
+- [**Languages and** Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
+- [**Algorithms and Data Structures**](https://github.com/mobilege/algorithms)
+
+
 ## Tools
 [**Linux**](https://github.com/mobilege/unix/blob/master/README.md) &nbsp; &nbsp;
 <sub>[homebrew](https://github.com/mobilege/unix/blob/master/homebrew.md#homebrew) 
