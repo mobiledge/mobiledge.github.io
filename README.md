@@ -42,13 +42,13 @@ Search: &nbsp; &nbsp;
 
 
 ## Tools
-- [Linux](https://github.com/mobilege/unix/blob/master/README.md) &nbsp; &nbsp;
+- [**Linux**](https://github.com/mobilege/unix/blob/master/README.md) &nbsp; &nbsp;
 <sub>[homebrew](https://github.com/mobilege/unix/blob/master/homebrew.md#homebrew) 
 &nbsp; · &nbsp; [ssh](https://github.com/mobilege/unix/blob/master/ssh.md)
 &nbsp; · &nbsp; [vim](https://github.com/mobilege/unix/blob/master/vim.md)
 &nbsp; · &nbsp; [git](https://github.com/mobilege/unix/blob/master/git.md)</sup>
 
-- [Python](https://github.com/mobiledge/python/blob/main/README.md)
+- [**Python**](https://github.com/mobiledge/python/blob/main/README.md)
 
 ## Software Development
   - [Process](https://github.com/mobilege/software-development-process/blob/main/README.md) (Agile, Scrum etc)
