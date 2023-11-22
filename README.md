@@ -48,7 +48,7 @@ Search: &nbsp; &nbsp;
 &nbsp; · &nbsp; [vim](https://github.com/mobilege/unix/blob/master/vim.md)
 &nbsp; · &nbsp; [git](https://github.com/mobilege/unix/blob/master/git.md)</sup>
 
-- [**Python**](https://github.com/mobiledge/python/blob/main/README.md) _70%_
+- [**Python**](https://github.com/mobiledge/python/blob/main/README.md) <sub>_70%_</sub>
 
 ## Software Development
   - [Process](https://github.com/mobilege/software-development-process/blob/main/README.md) (Agile, Scrum etc)
