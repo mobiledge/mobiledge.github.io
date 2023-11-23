@@ -50,26 +50,11 @@ Search: &nbsp; &nbsp;
 
 - [**Python**](https://github.com/mobiledge/python/blob/main/README.md) <sub>_70%_</sub>
 
-## Software Development
-  - [Process](https://github.com/mobilege/software-development-process/blob/main/README.md) (Agile, Scrum etc)
-  - Estimation
-  - Refactoring
-  - [Software Engineering & Architecture](https://github.com/mobilege/software-engg-arch/blob/master/README.md)
-  - UML
-
-#### Domain Modeling
-- [Domain Modeling Made Functional](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/) `Book` `F#`
-- [Functional and Reactive Domain Modeling](https://www.amazon.ca/Functional-Reactive-Domain-Modeling-Debasish/dp/1617292249) `Book` `Scala`
-- [Naked Objects](https://a.co/d/ccjja27) · [Wiki](https://en.wikipedia.org/wiki/Naked_Objects_for_.NET) `Book` `.NET`
 
 ## [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
-
-- [HTML](https://github.com/mobilege/web-development/blob/master/html.md) &nbsp; · &nbsp;
-[CSS](https://github.com/mobilege/web-development/blob/master/css.md) &nbsp; · &nbsp;
-- [Javascript](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; · &nbsp;
-Node.js &nbsp; · &nbsp;
-Express &nbsp; · &nbsp;
-- [Elixir](https://github.com/mobiledge/web-development/blob/master/elixir.md)
+- [**JavaScript**](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; &nbsp;
+<sub>[HTML](https://github.com/mobilege/web-development/blob/master/html.md)
+&nbsp; · &nbsp; [CSS](https://github.com/mobilege/web-development/blob/master/css.md)</sub>
 - [**Python**](https://github.com/mobiledge/python/blob/main/README.md) &nbsp; &nbsp;
 <sub>[Flask](https://github.com/mobiledge/python/blob/main/flask.md) &nbsp; · &nbsp;
 [Django](https://github.com/mobiledge/python/blob/main/django.md) &nbsp; · &nbsp;
@@ -80,9 +65,20 @@ Express &nbsp; · &nbsp;
 &nbsp; · &nbsp; [Bundler](https://github.com/mobilege/web-development/blob/master/ruby-bundler.md)
 &nbsp; · &nbsp; [Sinatra](https://github.com/mobilege/web-development/blob/master/rb-sinatra.md)
 &nbsp; · &nbsp; [Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md)</sub>
-- [**JavaScript**](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; &nbsp;
-<sub>[HTML](https://github.com/mobilege/web-development/blob/master/html.md)
-&nbsp; · &nbsp; [CSS](https://github.com/mobilege/web-development/blob/master/css.md)</sub>
+
+
+## Software Development
+  - [Process](https://github.com/mobilege/software-development-process/blob/main/README.md) (Agile, Scrum etc)
+  - Estimation
+  - Refactoring
+  - [Software Engineering & Architecture](https://github.com/mobilege/software-engg-arch/blob/master/README.md)
+  - UML
+
+
+#### Domain Modeling
+- [Domain Modeling Made Functional](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/) `Book` `F#`
+- [Functional and Reactive Domain Modeling](https://www.amazon.ca/Functional-Reactive-Domain-Modeling-Debasish/dp/1617292249) `Book` `Scala`
+- [Naked Objects](https://a.co/d/ccjja27) · [Wiki](https://en.wikipedia.org/wiki/Naked_Objects_for_.NET) `Book` `.NET`
 
 
 ## Other
