@@ -71,7 +71,7 @@ Search: &nbsp; &nbsp;
   - [Process](https://github.com/mobilege/software-development-process/blob/main/README.md) (Agile, Scrum etc)
   - Estimation
   - Refactoring
-  - [Software Engineering & Architecture](https://github.com/mobilege/software-engg-arch/blob/master/README.md)
+  - [Software Architecture](https://github.com/mobilege/software-engg-arch/blob/master/README.md)
   - UML
 
 
