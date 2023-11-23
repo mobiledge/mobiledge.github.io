@@ -53,14 +53,14 @@ Search: &nbsp; &nbsp;
 
 ##
 #### [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
-- [**JavaScript**](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; &nbsp;
+- [JavaScript](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; &nbsp;
 <sub>[HTML](https://github.com/mobilege/web-development/blob/master/html.md)
 &nbsp; · &nbsp; [CSS](https://github.com/mobilege/web-development/blob/master/css.md)</sub>
-- [**Python**](https://github.com/mobiledge/python/blob/main/README.md) &nbsp; &nbsp;
+- [Python](https://github.com/mobiledge/python/blob/main/README.md) &nbsp; &nbsp;
 <sub>[Flask](https://github.com/mobiledge/python/blob/main/flask.md) &nbsp; · &nbsp;
 [Django](https://github.com/mobiledge/python/blob/main/django.md) &nbsp; · &nbsp;
 [Wagtail](https://github.com/mobiledge/python/blob/main/wagtail.md)</sub>
-- [**Ruby**](https://github.com/mobilege/web-development/blob/master/ruby.md) &nbsp; &nbsp;
+- [Ruby](https://github.com/mobilege/web-development/blob/master/ruby.md) &nbsp; &nbsp;
 <sub>[rbenv](https://github.com/mobilege/web-development/blob/master/ruby-rbenv.md) 
 &nbsp; · &nbsp; [RubyGems](https://github.com/mobilege/web-development/blob/master/ruby-rubygems.md)
 &nbsp; · &nbsp; [Bundler](https://github.com/mobilege/web-development/blob/master/ruby-bundler.md)
