@@ -51,7 +51,8 @@ Search: &nbsp; &nbsp;
 - [**Python**](https://github.com/mobiledge/python/blob/main/README.md) <sub>_70%_</sub>
 
 
-## [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
+##
+#### [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
 - [**JavaScript**](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; &nbsp;
 <sub>[HTML](https://github.com/mobilege/web-development/blob/master/html.md)
 &nbsp; · &nbsp; [CSS](https://github.com/mobilege/web-development/blob/master/css.md)</sub>
@@ -67,33 +68,13 @@ Search: &nbsp; &nbsp;
 &nbsp; · &nbsp; [Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md)</sub>
 
 
-## [Software Engineering](https://github.com/mobiledge/software-architecture/blob/master/README.md)
-
-
-
-## Other
-- [Banking](https://github.com/mobiledge/mobiledge.github.io/blob/master/banking.md)
-- [Audio Programming](https://github.com/mobilege/audio-programming/blob/main/README.md)
-- [Core Math](#core-math)
-- [Blockchain & Finance](#trading--finance) 
+#### Data Science
 - [Data Science](https://github.com/mobilege/data-science/blob/master/README.md)
- · [SQL](https://github.com/mobilege/data-science/blob/master/sql.md)
- · [Python](https://github.com/mobilege/data-science/blob/master/python.md)
-- [Flutter](https://github.com/mobiledge/flutter/blob/main/README.md)
-- [Graphics & Games](#graphics--games)
-- [IoT](#iot)
-- [48 Ideas](#48-ideas)
-- [Rules](#rules)
-- [Markdown Cheatsheet](#markdown-cheatsheet)
-- [Courses](https://github.com/mobilege/mobilege.github.io/blob/master/courses.md)
-- [Ideas](https://github.com/mobilege/mobilege.github.io/blob/master/ideas.md#ideas)
-- [Rules](https://github.com/mobilege/mobilege.github.io/blob/master/rules.md#rules)
-- [Mind Maps](https://miro.com/app/dashboard/)
-- [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
-- [Version History](https://github.com/mobilege/mobilege.github.io/blob/master/version-history.md)
+- [SQL](https://github.com/mobilege/data-science/blob/master/sql.md)
 
-<p align="center"><a href="#mobilege">⇧ Back to Top ⇧</a></p>
 
+#### Software Engineering
+- [Software Engineering](https://github.com/mobiledge/software-architecture/blob/master/README.md)
 
 
 #### Core Math
@@ -116,7 +97,17 @@ Search: &nbsp; &nbsp;
 #### IoT
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
 
-<p align="center"><a href="#mobilege">⇧ Back to Top ⇧</a></p>
+
+#### Other
+- [Banking](https://github.com/mobiledge/mobiledge.github.io/blob/master/banking.md)
+- [Audio Programming](https://github.com/mobilege/audio-programming/blob/main/README.md)
+- [Flutter](https://github.com/mobiledge/flutter/blob/main/README.md)
+- [Courses](https://github.com/mobilege/mobilege.github.io/blob/master/courses.md)
+- [Ideas](https://github.com/mobilege/mobilege.github.io/blob/master/ideas.md#ideas)
+- [Rules](https://github.com/mobilege/mobilege.github.io/blob/master/rules.md#rules)
+- [Mind Maps](https://miro.com/app/dashboard/)
+- [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
+- [Version History](https://github.com/mobilege/mobilege.github.io/blob/master/version-history.md)
 
 
 ## Symbols
