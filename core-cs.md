@@ -10,7 +10,8 @@
 - [**Algorithms and Data Structures**](https://github.com/mobilege/algorithms)
 - Databases
 - [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
-- Functional Programming
+
+## Functional Programming
   - [Programming with Categories - MIT](http://brendanfong.com/programmingcats.html) · [Video](https://youtube.com/playlist?list=PLhgq-BqyZ7i7MTGhUROZy3BOICnVixETS)
     - Book: Programming with Categories 
   - [Advanced programming languages](https://matt.might.net/articles/best-programming-languages/)
@@ -20,10 +21,8 @@
   - [From Objects to Functions](https://pragprog.com/titles/uboop/from-objects-to-functions/) `book`
   - https://haskell.mooc.fi
   - [Programming in Haskell - University of Nottingham](http://www.cs.nott.ac.uk/~pszgmh/pih.html)
- 
-
-    
-#### Curriculum 
+   
+## Curriculum 
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [ossu/computer-science](https://github.com/ossu/computer-science)
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
