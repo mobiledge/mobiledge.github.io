@@ -67,18 +67,8 @@ Search: &nbsp; &nbsp;
 &nbsp; · &nbsp; [Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md)</sub>
 
 
-## Software Engineering
-  - [Process](https://github.com/mobilege/software-development-process/blob/main/README.md) (Agile, Scrum etc)
-  - Estimation
-  - Refactoring
-  - [Software Architecture](https://github.com/mobilege/software-engg-arch/blob/master/README.md)
-  - UML
+## [Software Engineering](https://github.com/mobiledge/software-architecture/blob/master/README.md)
 
-
-#### Domain Modeling
-- [Domain Modeling Made Functional](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/) `Book` `F#`
-- [Functional and Reactive Domain Modeling](https://www.amazon.ca/Functional-Reactive-Domain-Modeling-Debasish/dp/1617292249) `Book` `Scala`
-- [Naked Objects](https://a.co/d/ccjja27) · [Wiki](https://en.wikipedia.org/wiki/Naked_Objects_for_.NET) `Book` `.NET`
 
 
 ## Other
