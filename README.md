@@ -100,6 +100,7 @@ Search: &nbsp; &nbsp;
 
 
 #### Other
+- [Generative AI](https://github.com/mobiledge/mobiledge.github.io/blob/master/generative-ai.md)
 - [Blockchain](https://github.com/mobiledge/mobiledge.github.io/blob/master/blockchain.md)
 - [Banking](https://github.com/mobiledge/mobiledge.github.io/blob/master/banking.md)
 - [Audio Programming](https://github.com/mobilege/audio-programming/blob/main/README.md)
