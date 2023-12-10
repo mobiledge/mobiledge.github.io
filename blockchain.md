@@ -1,6 +1,8 @@
 
 # Blockchain
 
+- https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/
+
 ## Solana
 - https://coinmarketcap.com/view/solana-ecosystem/
 - https://explorer.solana.com/
