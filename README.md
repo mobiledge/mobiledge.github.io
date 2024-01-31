@@ -52,7 +52,9 @@ Search: &nbsp; &nbsp;
 
 
 ##
-#### [Web Development](https://github.com/mobilege/web-development/blob/master/README.md)
+#### [Cloud](https://github.com/mobiledge/cloud/blob/main/README.md)
+#### [Data](https://github.com/mobilege/data-science/blob/master/README.md)
+#### [Web](https://github.com/mobilege/web-development/blob/master/README.md)
 - [JavaScript](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; &nbsp;
 <sub>[HTML](https://github.com/mobilege/web-development/blob/master/html.md)
 &nbsp; · &nbsp; [CSS](https://github.com/mobilege/web-development/blob/master/css.md)
@@ -67,12 +69,6 @@ Search: &nbsp; &nbsp;
 &nbsp; · &nbsp; [Bundler](https://github.com/mobilege/web-development/blob/master/ruby-bundler.md)
 &nbsp; · &nbsp; [Sinatra](https://github.com/mobilege/web-development/blob/master/rb-sinatra.md)
 &nbsp; · &nbsp; [Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md)</sub>
-
-
-#### Data Science
-- [Data Science](https://github.com/mobilege/data-science/blob/master/README.md)
-- [SQL](https://github.com/mobilege/data-science/blob/master/sql.md)
-
 
 #### Software Engineering
 - [Software Engineering](https://github.com/mobiledge/software-architecture/blob/master/README.md)
