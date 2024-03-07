@@ -7,3 +7,5 @@
 - https://coinmarketcap.com/view/solana-ecosystem/
 - https://explorer.solana.com/
 - [Solana Tutorial - Create Your Own Token and NFT](https://youtu.be/L4WWQzOBNIg?si=bGnVrg70b_z2AUPf)
+
+#### https://www.soldev.app/course
