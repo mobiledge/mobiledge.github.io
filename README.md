@@ -59,7 +59,8 @@ Search: &nbsp; &nbsp;
 - [JavaScript](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; &nbsp;
 <sub>[HTML](https://github.com/mobilege/web-development/blob/master/html.md)
 &nbsp; · &nbsp; [CSS](https://github.com/mobilege/web-development/blob/master/css.md)
-&nbsp; · &nbsp; [React](https://github.com/mobiledge/web-development/blob/master/react.md)</sub>
+&nbsp; · &nbsp; [React](https://github.com/mobiledge/web-development/blob/master/react.md)
+&nbsp; · &nbsp; [Node](https://github.com/mobiledge/web-development/blob/master/node.md) </sub>
 - [Python](https://github.com/mobiledge/python/blob/main/README.md) &nbsp; &nbsp;
 <sub>[Flask](https://github.com/mobiledge/python/blob/main/flask.md) &nbsp; · &nbsp;
 [Django](https://github.com/mobiledge/python/blob/main/django.md) &nbsp; · &nbsp;
