@@ -16,6 +16,6 @@
 #### Move Programming Language
 
 - [Awesome Move](https://github.com/MystenLabs/awesome-move) _A curated list of code and content from the Move programming language community._
-- [The Move Book](https://move-language.github.io/move/) __
+- [The Move Book](https://move-language.github.io/move/)
 
 
