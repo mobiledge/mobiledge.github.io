@@ -42,11 +42,11 @@ Search: &nbsp; &nbsp;
 
 
 ## Tools
-- [Linux](https://github.com/mobilege/unix/blob/master/README.md) &nbsp; &nbsp;
-<sub>[homebrew](https://github.com/mobilege/unix/blob/master/homebrew.md#homebrew) 
-&nbsp; · &nbsp; [ssh](https://github.com/mobilege/unix/blob/master/ssh.md)
-&nbsp; · &nbsp; [vim](https://github.com/mobilege/unix/blob/master/vim.md)
-&nbsp; · &nbsp; [git](https://github.com/mobilege/unix/blob/master/git.md)</sup>
+- [Linux](https://github.com/mobiledge/linux/blob/master/README.md) &nbsp; &nbsp;
+<sub>[homebrew](https://github.com/mobilege/linux/blob/master/homebrew.md#homebrew) 
+&nbsp; · &nbsp; [ssh](https://github.com/mobilege/linux/blob/master/ssh.md)
+&nbsp; · &nbsp; [vim](https://github.com/mobilege/linux/blob/master/vim.md)
+&nbsp; · &nbsp; [git](https://github.com/mobilege/linux/blob/master/git.md)</sup>
 
 
 ##
