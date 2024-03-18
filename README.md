@@ -48,14 +48,13 @@ Search: &nbsp; &nbsp;
 &nbsp; · &nbsp; [vim](https://github.com/mobilege/unix/blob/master/vim.md)
 &nbsp; · &nbsp; [git](https://github.com/mobilege/unix/blob/master/git.md)</sup>
 
-- [Python](https://github.com/mobiledge/python/blob/main/README.md) <sub>_70%_</sub>
-
 
 ##
 #### [Blockchain](https://github.com/mobiledge/mobiledge.github.io/blob/master/blockchain.md)
 - [Rust](https://github.com/mobiledge/rust/blob/main/README.md)
 #### [Cloud](https://github.com/mobiledge/cloud/blob/main/README.md)
 #### [Data](https://github.com/mobilege/data-science/blob/master/README.md)
+- [Python](https://github.com/mobiledge/python/blob/main/README.md) <sub>_70%_</sub>
 #### [Web](https://github.com/mobilege/web-development/blob/master/README.md)
 - [JavaScript](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; &nbsp;
 <sub>[HTML](https://github.com/mobilege/web-development/blob/master/html.md)
