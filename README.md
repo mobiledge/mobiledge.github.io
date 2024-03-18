@@ -17,21 +17,19 @@ Search: &nbsp; &nbsp;
 
 ## [**iOS Development**](https://github.com/mobilege/ios-development/blob/master/README.md)
 
-- [**Swift**](https://github.com/mobilege/swift/blob/master/README.md) &nbsp; &nbsp;
-<sub>[**Search 🔎**](http://mobiledge.github.io/search/swift-lang.html)
-&nbsp; · &nbsp; [Swift language guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
-&nbsp; · &nbsp; [Swift standard library](https://developer.apple.com/documentation/swift/swift-standard-library)</sub>
+#### [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
+- [Search 🔎](http://mobiledge.github.io/search/swift-lang.html)
+- [Swift language guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
+- [Swift standard library](https://developer.apple.com/documentation/swift/swift-standard-library)
 
-- [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md) &nbsp; &nbsp;
-<sub>[**Search 🔎**](http://mobiledge.github.io/search/swiftui-views.html)
-&nbsp; · &nbsp; [Documentation](https://developer.apple.com/documentation/swiftui/)
-&nbsp; · &nbsp; [Tutorials](https://developer.apple.com/tutorials/swiftui)</sub>
+#### [SwiftUI](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
+- [Search 🔎](http://mobiledge.github.io/search/swiftui-views.html)
+- [Documentation](https://developer.apple.com/documentation/swiftui/)
+- [Tutorials](https://developer.apple.com/tutorials/swiftui)
 
-- **Concurrency**
-
-- **Distributon**
-
-- **TCA**
+#### Concurrency
+#### Distributon
+#### TCA
 
 ## [Core CS](https://github.com/mobiledge/mobiledge.github.io/blob/master/core-cs.md)
 - [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md)
