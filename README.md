@@ -24,9 +24,12 @@
 [Documentation](https://developer.apple.com/documentation/swiftui/)  &nbsp; · &nbsp;
 [Tutorials](https://developer.apple.com/tutorials/swiftui)  &nbsp; · &nbsp;
 
-#### Concurrency
-#### Distributon
-#### TCA
+```shell
+# TODO:
+# -Concurrency
+# -Distributon
+# -TCA
+```
 
 ## Tools
 [**linux**](https://github.com/mobiledge/linux/blob/master/README.md) &nbsp; &nbsp;
