@@ -42,9 +42,9 @@ Search: &nbsp; &nbsp;
 ## Tools
 - [**Linux**](https://github.com/mobiledge/linux/blob/master/README.md) &nbsp; &nbsp;
 <sub>[homebrew](https://github.com/mobiledge/linux/blob/master/homebrew.md) 
-&nbsp; · &nbsp; [ssh](https://github.com/mobilege/linux/blob/master/ssh.md)
-&nbsp; · &nbsp; [vim](https://github.com/mobilege/linux/blob/master/vim.md)
-&nbsp; · &nbsp; [git](https://github.com/mobilege/linux/blob/master/git.md)</sup>
+&nbsp; · &nbsp; [ssh](https://github.com/mobiledge/linux/blob/master/ssh.md)
+&nbsp; · &nbsp; [vim](https://github.com/mobiledge/linux/blob/master/vim.md)
+&nbsp; · &nbsp; [git](https://github.com/mobiledge/linux/blob/master/git.md)</sup>
 
 
 ##
