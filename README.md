@@ -1,35 +1,39 @@
-# mobiledge
-
-Search: &nbsp; &nbsp;
-[iPhone Models 🔎](http://mobiledge.github.io/search/iphone-models.html)  &nbsp; · &nbsp;
+<sub>[iPhone Models 🔎](http://mobiledge.github.io/search/iphone-models.html)  &nbsp; · &nbsp;
 [Swift Langiuage 🔎](http://mobiledge.github.io/search/swift-lang.html) &nbsp; · &nbsp;
-[SwiftUI Views 🔎](http://mobiledge.github.io/search/swiftui-views.html)
+[SwiftUI Views 🔎](http://mobiledge.github.io/search/swiftui-views.html)</sub>
 
-[Design](https://github.com/mobilege/design/blob/master/README.md) &nbsp; · &nbsp;
+<sub>[Design](https://github.com/mobilege/design/blob/master/README.md) &nbsp; · &nbsp;
 *Development* &nbsp; · &nbsp;
 [Marketing](https://github.com/mobilege/marketing/blob/master/README.md) &nbsp; · &nbsp;
-[Psychology](https://github.com/mobilege/psychology/blob/master/README.md)
-
+[Psychology](https://github.com/mobilege/psychology/blob/master/README.md) &nbsp; · &nbsp;
 [Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/markdown.md) &nbsp; · &nbsp;
 [Repositories](https://github.com/mobilege?tab=repositories) &nbsp; · &nbsp;
 [Shortcuts ↓](#shortcuts) &nbsp; · &nbsp;
-[Symbols ↓](#symbols)
+[Symbols ↓](#symbols)</sup>
 
-## [**iOS Development**](https://github.com/mobilege/ios-development/blob/master/README.md)
+# mobiledge
+## [iOS](https://github.com/mobilege/ios-development/blob/master/README.md)
 
-#### [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
-- [Search 🔎](http://mobiledge.github.io/search/swift-lang.html)
-- [Swift language guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
-- [Swift standard library](https://developer.apple.com/documentation/swift/swift-standard-library)
+[**Swift**](https://github.com/mobilege/swift/blob/master/README.md)  &nbsp; · &nbsp;
+[Search 🔎](http://mobiledge.github.io/search/swift-lang.html)  &nbsp; · &nbsp;
+[Swift language guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)  &nbsp; · &nbsp;
+[Swift standard library](https://developer.apple.com/documentation/swift/swift-standard-library)  &nbsp; · &nbsp;
 
-#### [SwiftUI](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
-- [Search 🔎](http://mobiledge.github.io/search/swiftui-views.html)
-- [Documentation](https://developer.apple.com/documentation/swiftui/)
-- [Tutorials](https://developer.apple.com/tutorials/swiftui)
+[**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md)  &nbsp; · &nbsp;
+[Search 🔎](http://mobiledge.github.io/search/swiftui-views.html)  &nbsp; · &nbsp;
+[Documentation](https://developer.apple.com/documentation/swiftui/)  &nbsp; · &nbsp;
+[Tutorials](https://developer.apple.com/tutorials/swiftui)  &nbsp; · &nbsp;
 
 #### Concurrency
 #### Distributon
 #### TCA
+
+## Tools
+[**linux**](https://github.com/mobiledge/linux/blob/master/README.md) &nbsp; &nbsp;
+<sub>[homebrew](https://github.com/mobiledge/linux/blob/master/homebrew.md) 
+&nbsp; · &nbsp; [ssh](https://github.com/mobiledge/linux/blob/master/ssh.md)
+&nbsp; · &nbsp; [vim](https://github.com/mobiledge/linux/blob/master/vim.md)
+&nbsp; · &nbsp; [git](https://github.com/mobiledge/linux/blob/master/git.md)</sup>
 
 ## [Core CS](https://github.com/mobiledge/mobiledge.github.io/blob/master/core-cs.md)
 - [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md)
@@ -37,15 +41,6 @@ Search: &nbsp; &nbsp;
 - [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md)
 - [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
 - [Algorithms and Data Structures](https://github.com/mobilege/algorithms) <sub>_10%_</sub>
-
-
-## Tools
-- [**Linux**](https://github.com/mobiledge/linux/blob/master/README.md) &nbsp; &nbsp;
-<sub>[homebrew](https://github.com/mobiledge/linux/blob/master/homebrew.md) 
-&nbsp; · &nbsp; [ssh](https://github.com/mobiledge/linux/blob/master/ssh.md)
-&nbsp; · &nbsp; [vim](https://github.com/mobiledge/linux/blob/master/vim.md)
-&nbsp; · &nbsp; [git](https://github.com/mobiledge/linux/blob/master/git.md)</sup>
-
 
 ##
 #### [Blockchain](https://github.com/mobiledge/mobiledge.github.io/blob/master/blockchain.md)
