@@ -26,7 +26,7 @@
 - Distributon
 
 ## [Core CS](https://github.com/mobiledge/mobiledge.github.io/blob/master/core-cs.md)
-- [**Functional Programming**](https://github.com/mobiledge/functional-programming)
+- [**Functional Programming**](https://github.com/mobiledge/functional-programming/blob/master/README.md#functional-programming)
 
 ## Tools
 [**linux**](https://github.com/mobiledge/linux/blob/master/README.md) &nbsp; &nbsp;
