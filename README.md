@@ -45,6 +45,17 @@
 - [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
 - [Algorithms and Data Structures](https://github.com/mobilege/algorithms) <sub>_10%_</sub>
 
+#### Functional Programming
+  - [Programming with Categories - MIT](http://brendanfong.com/programmingcats.html) · [Video](https://youtube.com/playlist?list=PLhgq-BqyZ7i7MTGhUROZy3BOICnVixETS)
+    - Book: Programming with Categories 
+  - [Advanced programming languages](https://matt.might.net/articles/best-programming-languages/)
+  - https://www.schoolofhaskell.com
+  - [Concepts vs Typeclasses vs Traits vs Protocols](https://www.youtube.com/watch?v=E-2y1qHQvTg)
+    - Parametric polymorphism vs Ad-hoc polymorphism
+  - [From Objects to Functions](https://pragprog.com/titles/uboop/from-objects-to-functions/) `book`
+  - https://haskell.mooc.fi
+  - [Programming in Haskell - University of Nottingham](http://www.cs.nott.ac.uk/~pszgmh/pih.html)
+
 ##
 #### [Blockchain](https://github.com/mobiledge/mobiledge.github.io/blob/master/blockchain.md)
 - [Rust](https://github.com/mobiledge/rust/blob/main/README.md)
