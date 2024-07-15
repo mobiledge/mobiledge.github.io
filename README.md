@@ -24,12 +24,19 @@
 [Documentation](https://developer.apple.com/documentation/swiftui/)  &nbsp; · &nbsp;
 [Tutorials](https://developer.apple.com/tutorials/swiftui)  &nbsp; · &nbsp;
 
-```shell
-# TODO:
-# -Concurrency
-# -Distributon
-# -TCA
-```
+- SwiftUI
+- Concurrency
+- Distributon
+
+## [Core CS](https://github.com/mobiledge/mobiledge.github.io/blob/master/core-cs.md)
+
+- [**Functional Programming**](https://github.com/mobiledge/functional-programming)
+###
+- [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md)
+- [Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md)
+- [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md)
+- [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
+- [Algorithms and Data Structures](https://github.com/mobilege/algorithms) <sub>_10%_</sub>
 
 ## Tools
 [**linux**](https://github.com/mobiledge/linux/blob/master/README.md) &nbsp; &nbsp;
@@ -37,25 +44,6 @@
 &nbsp; · &nbsp; [ssh](https://github.com/mobiledge/linux/blob/master/ssh.md)
 &nbsp; · &nbsp; [vim](https://github.com/mobiledge/linux/blob/master/vim.md)
 &nbsp; · &nbsp; [git](https://github.com/mobiledge/linux/blob/master/git.md)</sup>
-
-## [Core CS](https://github.com/mobiledge/mobiledge.github.io/blob/master/core-cs.md)
-- [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md)
-- [Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md)
-- [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md)
-- [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
-- [Algorithms and Data Structures](https://github.com/mobilege/algorithms) <sub>_10%_</sub>
-
-#### Functional Programming
-- [SML](https://github.com/mobiledge/sml/blob/master/README.md#standard-ml-sml)
-- [Programming with Categories - MIT](http://brendanfong.com/programmingcats.html) · [Video](https://youtube.com/playlist?list=PLhgq-BqyZ7i7MTGhUROZy3BOICnVixETS)
-  - Book: Programming with Categories 
-- [Advanced programming languages](https://matt.might.net/articles/best-programming-languages/)
-- https://www.schoolofhaskell.com
-- [Concepts vs Typeclasses vs Traits vs Protocols](https://www.youtube.com/watch?v=E-2y1qHQvTg)
-  - Parametric polymorphism vs Ad-hoc polymorphism
-- [From Objects to Functions](https://pragprog.com/titles/uboop/from-objects-to-functions/) `book`
-- https://haskell.mooc.fi
-- [Programming in Haskell - University of Nottingham](http://www.cs.nott.ac.uk/~pszgmh/pih.html)
 
 ##
 #### [Blockchain](https://github.com/mobiledge/mobiledge.github.io/blob/master/blockchain.md)
