@@ -29,14 +29,7 @@
 - Distributon
 
 ## [Core CS](https://github.com/mobiledge/mobiledge.github.io/blob/master/core-cs.md)
-
 - [**Functional Programming**](https://github.com/mobiledge/functional-programming)
-###
-- [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md)
-- [Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md)
-- [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md)
-- [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
-- [Algorithms and Data Structures](https://github.com/mobilege/algorithms) <sub>_10%_</sub>
 
 ## Tools
 [**linux**](https://github.com/mobiledge/linux/blob/master/README.md) &nbsp; &nbsp;
