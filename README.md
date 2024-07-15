@@ -24,12 +24,12 @@
 [Documentation](https://developer.apple.com/documentation/swiftui/)  &nbsp; · &nbsp;
 [Tutorials](https://developer.apple.com/tutorials/swiftui)  &nbsp; · &nbsp;
 
-- SwiftUI
 - Concurrency
 - Distributon
 
 ## [Core CS](https://github.com/mobiledge/mobiledge.github.io/blob/master/core-cs.md)
-- [**Functional Programming**](https://github.com/mobiledge/functional-programming)
+
+[**Functional Programming**](https://github.com/mobiledge/functional-programming)
 
 ## Tools
 [**linux**](https://github.com/mobiledge/linux/blob/master/README.md) &nbsp; &nbsp;
