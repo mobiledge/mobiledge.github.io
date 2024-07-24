@@ -22,9 +22,9 @@
 
 [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
 
-&nbsp; · &nbsp; <sub>[Search 🔎](http://mobiledge.github.io/search/swiftui-views.html)
-&nbsp; · &nbsp; <sub>[Documentation](https://developer.apple.com/documentation/swiftui/)
-&nbsp; · &nbsp; <sub>[Tutorials](https://developer.apple.com/tutorials/swiftui)
+&nbsp; · &nbsp; [Search 🔎](http://mobiledge.github.io/search/swiftui-views.html)
+&nbsp; · &nbsp; [Documentation](https://developer.apple.com/documentation/swiftui/)
+&nbsp; · &nbsp; [Tutorials](https://developer.apple.com/tutorials/swiftui)
 
 [**Concurrency**](https://github.com/mobiledge/ios-development/blob/master/concurrency.md)
 
