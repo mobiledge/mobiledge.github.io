@@ -14,28 +14,21 @@
 # mobiledge
 ## [iOS](https://github.com/mobilege/ios-development/blob/master/README.md)
 
-[**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
-
-&nbsp; · &nbsp; [Search 🔎](http://mobiledge.github.io/search/swift-lang.html)
-&nbsp; · &nbsp; [Swift language guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
-&nbsp; · &nbsp; [Swift standard library](https://developer.apple.com/documentation/swift/swift-standard-library)
-
-[**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
-
-&nbsp; · &nbsp; [Search 🔎](http://mobiledge.github.io/search/swiftui-views.html)
-&nbsp; · &nbsp; [Documentation](https://developer.apple.com/documentation/swiftui/)
-&nbsp; · &nbsp; [Tutorials](https://developer.apple.com/tutorials/swiftui)
-
-[**Concurrency**](https://github.com/mobiledge/ios-development/blob/master/concurrency.md)
-
-&nbsp; · &nbsp; [Thread](https://github.com/mobiledge/ios-development/blob/master/thread.md)
-&nbsp; · &nbsp; Queue
-&nbsp; · &nbsp; [Combine](https://github.com/mobilege/ios-development/blob/master/combine.md)
-&nbsp; · &nbsp; [Task]()
-&nbsp; · &nbsp; [Async/Await](https://github.com/mobiledge/ios-development/blob/master/async-await.md)
-
-##
-**Distributon**
+- [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
+  - [Search 🔎](http://mobiledge.github.io/search/swift-lang.html)
+  - [Swift language guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
+  - [Swift standard library](https://developer.apple.com/documentation/swift/swift-standard-library)
+- [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
+  - [Search 🔎](http://mobiledge.github.io/search/swiftui-views.html)
+  - [Documentation](https://developer.apple.com/documentation/swiftui/)
+  - [Tutorials](https://developer.apple.com/tutorials/swiftui)
+- [**Concurrency**](https://github.com/mobiledge/ios-development/blob/master/concurrency.md)
+  - [Thread](https://github.com/mobiledge/ios-development/blob/master/thread.md)
+  - Queue
+  - [Combine](https://github.com/mobilege/ios-development/blob/master/combine.md)
+  - [Task]()
+  - [Async/Await](https://github.com/mobiledge/ios-development/blob/master/async-await.md)
+- **Distribution**
 
 ## [Core CS](https://github.com/mobiledge/mobiledge.github.io/blob/master/core-cs.md)
 - [**Functional Programming**](https://github.com/mobiledge/functional-programming/blob/master/README.md#functional-programming)
