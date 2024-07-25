@@ -1,15 +1,5 @@
-<sub>[iPhone Models 🔎](http://mobiledge.github.io/search/iphone-models.html)  &nbsp; · &nbsp;
-[Swift Langiuage 🔎](http://mobiledge.github.io/search/swift-lang.html) &nbsp; · &nbsp;
-[SwiftUI Views 🔎](http://mobiledge.github.io/search/swiftui-views.html)</sub>
-
-<sub>[Design](https://github.com/mobilege/design/blob/master/README.md) &nbsp; · &nbsp;
-*Development* &nbsp; · &nbsp;
-[Marketing](https://github.com/mobilege/marketing/blob/master/README.md) &nbsp; · &nbsp;
-[Psychology](https://github.com/mobilege/psychology/blob/master/README.md) &nbsp; · &nbsp;
-[Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/markdown.md) &nbsp; · &nbsp;
-[Repositories](https://github.com/mobilege?tab=repositories) &nbsp; · &nbsp;
-[Shortcuts ↓](#shortcuts) &nbsp; · &nbsp;
-[Symbols ↓](#symbols)</sup>
+[Resources ↓](#resources)
+[Shortcuts ↓](#shortcuts)
 
 # mobiledge
 
@@ -115,11 +105,6 @@
 - [Version History](https://github.com/mobilege/mobilege.github.io/blob/master/version-history.md)
 
 
-## Symbols
- &nbsp; &nbsp; &nbsp; &nbsp; 
-📖 &nbsp; &nbsp; &nbsp; &nbsp; 
-🎦
-
 ## Shortcuts
 
 #### Finder
@@ -141,6 +126,17 @@
 
 `Control-U` Delete the line
 
+## Resources
 
+- [iPhone Models 🔎](http://mobiledge.github.io/search/iphone-models.html) &emsp;
+- [Swift Langiuage 🔎](http://mobiledge.github.io/search/swift-lang.html) &emsp;
+- [SwiftUI Views 🔎](http://mobiledge.github.io/search/swiftui-views.html)</sub>
 
-<p align="center"><a href="#mobilege">⇧ Back to Top ⇧</a></p>
+##
+- [Design](https://github.com/mobilege/design/blob/master/README.md)
+- *Development* 
+- [Marketing](https://github.com/mobilege/marketing/blob/master/README.md)
+- [Psychology](https://github.com/mobilege/psychology/blob/master/README.md)
+- [Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/markdown.md)
+- [Repositories](https://github.com/mobilege?tab=repositories)
+
