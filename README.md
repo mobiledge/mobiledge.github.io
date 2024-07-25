@@ -12,6 +12,7 @@
 [Symbols ↓](#symbols)</sup>
 
 # mobiledge
+
 ## [iOS](https://github.com/mobilege/ios-development/blob/master/README.md)
 
 - [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
@@ -28,17 +29,29 @@
   - [Combine](https://github.com/mobilege/ios-development/blob/master/combine.md)
   - [Task]()
   - [Async/Await](https://github.com/mobiledge/ios-development/blob/master/async-await.md)
-- **Distribution**
+- **Distribution**            
 
-## [Core CS](https://github.com/mobiledge/mobiledge.github.io/blob/master/core-cs.md)
-- [**Functional Programming**](https://github.com/mobiledge/functional-programming/blob/master/README.md#functional-programming)
-
+    
 ## Tools
-[**linux**](https://github.com/mobiledge/linux/blob/master/README.md) &nbsp; &nbsp;
-<sub>[homebrew](https://github.com/mobiledge/linux/blob/master/homebrew.md) 
-&nbsp; · &nbsp; [ssh](https://github.com/mobiledge/linux/blob/master/ssh.md)
-&nbsp; · &nbsp; [vim](https://github.com/mobiledge/linux/blob/master/vim.md)
-&nbsp; · &nbsp; [git](https://github.com/mobiledge/linux/blob/master/git.md)</sup>
+
+- [**linux**](https://github.com/mobiledge/linux/blob/master/README.md)
+  - [homebrew](https://github.com/mobiledge/linux/blob/master/homebrew.md) 
+  - [ssh](https://github.com/mobiledge/linux/blob/master/ssh.md)
+  - [vim](https://github.com/mobiledge/linux/blob/master/vim.md)
+  - [git](https://github.com/mobiledge/linux/blob/master/git.md)
+
+
+## Core CS
+
+- [**Functional Programming**](https://github.com/mobiledge/functional-programming/blob/master/README.md#functional-programming)
+- [Programming: Structure and Interpretation of Computer Programs](https://github.com/mobilege/sicp/blob/master/README.md)
+- [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md)
+- [Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md)
+- [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md)
+- [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
+- [Algorithms and Data Structures](https://github.com/mobilege/algorithms)
+- Databases
+- [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
 
 ##
 #### [Blockchain](https://github.com/mobiledge/mobiledge.github.io/blob/master/blockchain.md)
