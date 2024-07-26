@@ -16,7 +16,7 @@ option + space
   - [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
     - [Search 🔎](http://mobiledge.github.io/search/swift-lang.html)
     - [Swift language guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
-    - [Swift standard library](https://developer.apple.com/documentation/swift/swift-standard-library)
+    - Doc / Swift / [Swift standard library](https://developer.apple.com/documentation/swift/swift-standard-library)
   - [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
       - [Search 🔎](http://mobiledge.github.io/search/swiftui-views.html)
       - [Documentation](https://developer.apple.com/documentation/swiftui/)
