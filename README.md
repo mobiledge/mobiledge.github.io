@@ -25,8 +25,10 @@
       - [Task]()
       - [Async/Await](https://github.com/mobiledge/ios-development/blob/master/async-await.md)
 - [Distribute](https://github.com/mobilege/ios-development/blob/master/distribute.md)
-  - [Developer Account Help](https://developer.apple.com/help/account/)
-  - [App Store Connect Help](https://developer.apple.com/help/app-store-connect/)
+  - https://developer.apple.com/
+    - [Developer Account Help](https://developer.apple.com/help/account/)
+  - https://appstoreconnect.apple.com/
+    - [App Store Connect Help](https://developer.apple.com/help/app-store-connect/)
   - [App Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
 
 ## Tools
