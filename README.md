@@ -1,7 +1,3 @@
-<!---
-option + space
--->
-
 [Resources ↓](#resources)
 [Shortcuts ↓](#shortcuts)
 
@@ -12,11 +8,12 @@ option + space
 - [Design](https://github.com/mobilege/ios-development/blob/master/design.md)
   - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 - [Develop](https://github.com/mobilege/ios-development/blob/master/README.md)
-  - [Documentation](https://developer.apple.com/documentation/)
+  - [Apple developer documentation](https://developer.apple.com/documentation/)
   - [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
     - [Search 🔎](http://mobiledge.github.io/search/swift-lang.html)
     - [Swift language guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
-    - Doc / Swift / [Swift standard library](https://developer.apple.com/documentation/swift/swift-standard-library)
+    - [Swift standard library](https://developer.apple.com/documentation/swift/swift-standard-library)
+    - [Develop in Swift  Tutorials](https://developer.apple.com/tutorials/develop-in-swift/)
   - [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
       - [Search 🔎](http://mobiledge.github.io/search/swiftui-views.html)
       - [Documentation](https://developer.apple.com/documentation/swiftui/)
