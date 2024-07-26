@@ -9,23 +9,31 @@ option + space
 
 ## [iOS](https://github.com/mobilege/ios-development/blob/master/README.md)
 
-- [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
-  - [Search 🔎](http://mobiledge.github.io/search/swift-lang.html)
-  - [Swift language guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
-  - [Swift standard library](https://developer.apple.com/documentation/swift/swift-standard-library)
-- [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
-  - [Search 🔎](http://mobiledge.github.io/search/swiftui-views.html)
-  - [Documentation](https://developer.apple.com/documentation/swiftui/)
-  - [Tutorials](https://developer.apple.com/tutorials/swiftui)
-- [**Concurrency**](https://github.com/mobiledge/ios-development/blob/master/concurrency.md)
-  - [Thread](https://github.com/mobiledge/ios-development/blob/master/thread.md)
-  - Queue
-  - [Combine](https://github.com/mobilege/ios-development/blob/master/combine.md)
-  - [Task]()
-  - [Async/Await](https://github.com/mobiledge/ios-development/blob/master/async-await.md)
-- **Distribution**            
+- [Design](https://github.com/mobilege/ios-development/blob/master/design.md)
+  - [Apple Design Resources](https://developer.apple.com/design/resources/) 
+  - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+- [Develop](https://github.com/mobilege/ios-development/blob/master/README.md)
+  - [developer.apple.com](https://developer.apple.com)
+  - [Technologies](https://developer.apple.com/documentation/technologies)
+  - [Videos](https://developer.apple.com/videos/)
+  - [WWDC Sample Code](https://developer.apple.com/sample-code/wwdc/2023/)
+  - [**Swift**](https://github.com/mobilege/swift/blob/master/README.md)
+    - [Search 🔎](http://mobiledge.github.io/search/swift-lang.html)
+    - [Swift language guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
+    - [Swift standard library](https://developer.apple.com/documentation/swift/swift-standard-library)
+  - [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
+      - [Search 🔎](http://mobiledge.github.io/search/swiftui-views.html)
+      - [Documentation](https://developer.apple.com/documentation/swiftui/)
+      - [Tutorials](https://developer.apple.com/tutorials/swiftui)
+  - [**Concurrency**](https://github.com/mobiledge/ios-development/blob/master/concurrency.md)
+      - [Thread](https://github.com/mobiledge/ios-development/blob/master/thread.md)
+      - Queue
+      - [Combine](https://github.com/mobilege/ios-development/blob/master/combine.md)
+      - [Task]()
+      - [Async/Await](https://github.com/mobiledge/ios-development/blob/master/async-await.md)
+- [Distribute](https://github.com/mobilege/ios-development/blob/master/distribute.md)
+  - [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
 
-    
 ## Tools
 
 - [**linux**](https://github.com/mobiledge/linux/blob/master/README.md)
