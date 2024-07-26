@@ -17,7 +17,7 @@
   - [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md)
       - [Search 🔎](http://mobiledge.github.io/search/swiftui-views.html)
       - [Documentation](https://developer.apple.com/documentation/swiftui/)
-      - [Tutorials](https://developer.apple.com/tutorials/swiftui)
+      - [SwiftUI  Tutorials](https://developer.apple.com/tutorials/swiftui)
   - [**Concurrency**](https://github.com/mobiledge/ios-development/blob/master/concurrency.md)
       - [Thread](https://github.com/mobiledge/ios-development/blob/master/thread.md)
       - Queue
