@@ -10,7 +10,6 @@ option + space
 ## [iOS](https://github.com/mobilege/ios-development/blob/master/README.md)
 
 - [Design](https://github.com/mobilege/ios-development/blob/master/design.md)
-  - [Apple Design Resources](https://developer.apple.com/design/resources/) 
   - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 - [Develop](https://github.com/mobilege/ios-development/blob/master/README.md)
   - [developer.apple.com](https://developer.apple.com)
