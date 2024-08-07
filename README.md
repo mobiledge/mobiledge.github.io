@@ -41,7 +41,6 @@
 
 
 ## Core CS
-
 - [Functional Programming](https://github.com/mobiledge/functional-programming/blob/master/README.md#functional-programming)
 - [Programming: Structure and Interpretation of Computer Programs](https://github.com/mobilege/sicp/blob/master/README.md)
 - [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md)
