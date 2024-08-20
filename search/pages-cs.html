@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subjects</title>
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+
+<body>
+    <h1><a href="index.html">Search</a> / <a href="subjects.html">CS Pages</a></h1>
+
+    <ul id="result-list">
+        <!-- Topics will be dynamically inserted here -->
+    </ul>
+
+    <script>
+        const subjects = [
+            { subject: "Functional Programming", url: "https://github.com/mobiledge/functional-programming/blob/master/README.md#functional-programming", tags: ["Core CS"] },
+            { subject: "Programming: Structure and Interpretation of Computer Programs", url: "https://github.com/mobilege/sicp/blob/master/README.md", tags: ["Core CS"] },
+            { subject: "Computer Architecture", url: "https://github.com/mobilege/computer-architecture/blob/master/README.md", tags: ["Core CS", "Systems"] },
+            { subject: "Operating Systems", url: "https://github.com/mobilege/operating-systems/blob/main/README.md", tags: ["Core CS", "Systems"] },
+            { subject: "Computer Networking", url: "https://github.com/mobilege/computer-networking/blob/master/README.md", tags: ["Core CS"] },
+            { subject: "Languages and Compilers", url: "https://github.com/mobilege/compilers/blob/master/README.md", tags: ["Core CS"] },
+            { subject: "Algorithms and Data Structures", url: "https://github.com/mobilege/algorithms", tags: ["Core CS"] },
+            { subject: "Databases", url: "#", tags: ["Core CS"] },
+            { subject: "Distributed Systems", url: "https://github.com/mobilege/distributed-systems/blob/master/README.md", tags: ["Core CS"] }
+        ];
+
+        const subjectList = document.getElementById('result-list');
+
+        subjects.forEach(item => {
+            const li = document.createElement('li');
+            li.innerHTML = `
+                <a href="${item.url}">${item.subject}</a>
+                    ${item.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+            `;
+            subjectList.appendChild(li);
+        });
+    </script>
+</body>
+
+</html>
