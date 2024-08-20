@@ -1,8 +1,6 @@
 [**mobilege**](https://github.com/mobilege/mobilege.github.io/blob/master/README.md)
 
-- [**Search**](/search.html)
-- [UIKit](ios-development//ios-development/blob/master/uikit.md)
-- [UIKit](/ios-development/uikit.md)
+- [**Search**](/search/index.html)
 
 ### Welcome to GitHub Pages.
 
