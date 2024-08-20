@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search</title>
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+
+<body>
+    <h1>Search</h1>
+    <input type="text" id="search-input" placeholder="Search...">
+
+    <ul id="result-list">
+        <li><a href="swift-lang.html">Swift Language Guide</a></li>
+        <li><a href="swiftui-views.html">SwiftUI Views</a></li>
+        <li><a href="apple-releases.html">Apple Hardware and Software Releases</a></l1>
+    </ul>
+
+    <script>
+        const searchInput = document.getElementById('search-input');
+        const resultList = document.getElementById('result-list');
+        const listItems = resultList.getElementsByTagName('li');
+
+        searchInput.addEventListener('input', function () {
+            const searchTerm = searchInput.value.toLowerCase();
+
+            for (let i = 0; i < listItems.length; i++) {
+                const linkText = listItems[i].textContent.toLowerCase();
+
+                if (linkText.includes(searchTerm)) {
+                    listItems[i].style.display = 'block';
+                } else {
+                    listItems[i].style.display = 'none';
+                }
+            }
+        });
+    </script>
+</body>

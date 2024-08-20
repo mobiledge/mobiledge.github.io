@@ -1,0 +1,53 @@
+body {
+    color: rgb(29, 29, 31);
+    font-family: ui-rounded, "SF Mono", SFMono-Regular, ui-monospace, Menlo, monospace;
+    margin: 0 5%;
+}
+
+#search-input {
+    width: 320px;
+    padding: 10px 10px;
+    font-size: 15px;
+    font-weight: 500;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+    transition: all 0.3s ease;
+}
+
+#search-input:focus {
+    border-color: #0066cc;
+    box-shadow: 0 0 0 2px rgba(0, 102, 204, 0.2);
+}
+
+#search-input::placeholder {
+    color: #999;
+}
+
+#result-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#result-list li {
+    padding: 5px;
+    border-bottom: 0.25px solid #efeff5;
+    /* Custom styles */
+    color: rgb(112, 61, 170);
+    color-scheme: light dark;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    overflow-wrap: break-word;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* Remove underlines from all links */
+a {
+    text-decoration: none;
+}
+
+/* Optional: Add underline on hover for better user experience */
+a:hover {
+    text-decoration: underline;
+}
