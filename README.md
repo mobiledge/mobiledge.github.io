@@ -38,13 +38,16 @@ Queue &nbsp; · &nbsp;
 - [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)  
 
 
-## Tools
+## Linux & Tools
 
-- [**linux**](https://github.com/mobiledge/linux/blob/master/README.md) &nbsp; &nbsp;
+- [**Linux**](https://github.com/mobiledge/linux/blob/master/README.md) &nbsp; &nbsp;
   <sub>[homebrew](https://github.com/mobiledge/linux/blob/master/homebrew.md) &nbsp; · &nbsp; 
   [ssh](https://github.com/mobiledge/linux/blob/master/ssh.md) &nbsp; · &nbsp; 
   [vim](https://github.com/mobiledge/linux/blob/master/vim.md) &nbsp; · &nbsp; 
   [git](https://github.com/mobiledge/linux/blob/master/git.md)</sub>
+- Commands & Cheatsheet _Markdown etc_
+- [Shortcuts]() _Finder, VS Code, Terminal etc_
+
 
 ## [Web](https://github.com/mobilege/web-development/blob/master/README.md)
 
@@ -65,6 +68,8 @@ Queue &nbsp; · &nbsp;
 &nbsp; · &nbsp; [Bundler](https://github.com/mobilege/web-development/blob/master/ruby-bundler.md)
 &nbsp; · &nbsp; [Sinatra](https://github.com/mobilege/web-development/blob/master/rb-sinatra.md)
 &nbsp; · &nbsp; [Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md)</sub>
+
+
 
 
 ## Other
