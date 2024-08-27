@@ -3,6 +3,14 @@
 
 # mobiledge
 
+Domains:
+Cheatsheets:
+Languages:
+Resources:
+Shortcuts:
+
+
+
 ## [iOS](https://github.com/mobilege/ios-development/blob/master/README.md)
 
 - [Design](https://github.com/mobilege/ios-development/blob/master/design.md)
@@ -31,33 +39,28 @@
     - [App Store Connect Help](https://developer.apple.com/help/app-store-connect/)
   - [App Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
 
+## Core CS
+
+[Functional Programming](https://github.com/mobiledge/functional-programming/blob/master/README.md#functional-programming)  
+[Programming: Structure and Interpretation of Computer Programs](https://github.com/mobilege/sicp/blob/master/README.md)  
+[**Computer Architecture**](https://github.com/mobilege/computer-architecture/blob/master/README.md)  
+[Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md)  
+[Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md)  
+[Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)  
+[Algorithms and Data Structures](https://github.com/mobilege/algorithms)  
+Databases  
+[Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)  
+
+
 ## Tools
 
-- [**linux**](https://github.com/mobiledge/linux/blob/master/README.md)
-  - [homebrew](https://github.com/mobiledge/linux/blob/master/homebrew.md) 
-  - [ssh](https://github.com/mobiledge/linux/blob/master/ssh.md)
-  - [vim](https://github.com/mobiledge/linux/blob/master/vim.md)
-  - [git](https://github.com/mobiledge/linux/blob/master/git.md)
+- [**linux**](https://github.com/mobiledge/linux/blob/master/README.md) &nbsp; &nbsp;
+  <sub>[homebrew](https://github.com/mobiledge/linux/blob/master/homebrew.md) &nbsp; · &nbsp; 
+  [ssh](https://github.com/mobiledge/linux/blob/master/ssh.md) &nbsp; · &nbsp; 
+  [vim](https://github.com/mobiledge/linux/blob/master/vim.md) &nbsp; · &nbsp; 
+  [git](https://github.com/mobiledge/linux/blob/master/git.md)</sub>
 
-
-## Core CS
-- [Functional Programming](https://github.com/mobiledge/functional-programming/blob/master/README.md#functional-programming)
-- [Programming: Structure and Interpretation of Computer Programs](https://github.com/mobilege/sicp/blob/master/README.md)
-- [**Computer Architecture**](https://github.com/mobilege/computer-architecture/blob/master/README.md)
-- [Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md)
-- [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md)
-- [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)
-- [Algorithms and Data Structures](https://github.com/mobilege/algorithms)
-- Databases
-- [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)
-
-##
-#### [Blockchain](https://github.com/mobiledge/mobiledge.github.io/blob/master/blockchain.md)
-- [Rust](https://github.com/mobiledge/rust/blob/main/README.md)
-#### [Cloud](https://github.com/mobiledge/cloud/blob/main/README.md)
-#### [Data](https://github.com/mobilege/data-science/blob/master/README.md)
-- [Python](https://github.com/mobiledge/python/blob/main/README.md) <sub>_70%_</sub>
-#### [Web](https://github.com/mobilege/web-development/blob/master/README.md)
+## [Web](https://github.com/mobilege/web-development/blob/master/README.md)
 - [JavaScript](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; &nbsp;
 <sub>[HTML](https://github.com/mobilege/web-development/blob/master/html.md)
 &nbsp; · &nbsp; [CSS](https://github.com/mobilege/web-development/blob/master/css.md)
@@ -73,6 +76,14 @@
 &nbsp; · &nbsp; [Bundler](https://github.com/mobilege/web-development/blob/master/ruby-bundler.md)
 &nbsp; · &nbsp; [Sinatra](https://github.com/mobilege/web-development/blob/master/rb-sinatra.md)
 &nbsp; · &nbsp; [Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md)</sub>
+
+
+## Other
+#### [Blockchain](https://github.com/mobiledge/mobiledge.github.io/blob/master/blockchain.md)
+- [Rust](https://github.com/mobiledge/rust/blob/main/README.md)
+#### [Cloud](https://github.com/mobiledge/cloud/blob/main/README.md)
+#### [Data](https://github.com/mobilege/data-science/blob/master/README.md)
+- [Python](https://github.com/mobiledge/python/blob/main/README.md) <sub>_70%_</sub>
 
 #### Software Engineering
 - [Software Engineering](https://github.com/mobiledge/software-architecture/blob/master/README.md)
@@ -147,4 +158,12 @@
 - [Psychology](https://github.com/mobilege/psychology/blob/master/README.md)
 - [Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/markdown.md)
 - [Repositories](https://github.com/mobilege?tab=repositories)
+
+
+
+line break: end a line with two or more spaces
+
+paragraph break (hard break): separate consecutive lines of text with one or more blank lines
+
+
 
