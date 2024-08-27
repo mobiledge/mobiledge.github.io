@@ -30,7 +30,7 @@ Queue &nbsp; · &nbsp;
 [Async/Await](https://github.com/mobiledge/ios-development/blob/master/async-await.md)</sub>
 
 
-## Core CS
+## [Core CS](https://github.com/mobiledge/mobiledge.github.io/blob/master/core-cs.md)
 
 - [**Computer Architecture**](https://github.com/mobilege/computer-architecture/blob/master/README.md)  
 - [Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md)  
