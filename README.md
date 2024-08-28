@@ -57,7 +57,7 @@ Queue &nbsp; · &nbsp;
 &nbsp; · &nbsp; [React](https://github.com/mobiledge/web-development/blob/master/react.md)
 &nbsp; · &nbsp; [Node](https://github.com/mobiledge/web-development/blob/master/node.md) </sub>
 
-- [Python](https://github.com/mobiledge/python/blob/main/README.md) &nbsp; &nbsp;
+- [**Python**](https://github.com/mobiledge/python/blob/main/README.md) &nbsp; &nbsp;
 <sub>[venv](https://github.com/mobiledge/python/blob/main/venv.md) &nbsp; · &nbsp;
 [pip](https://github.com/mobiledge/python/blob/main/pip.md) &nbsp; · &nbsp;
 [Flask](https://github.com/mobiledge/python/blob/main/flask.md) &nbsp; · &nbsp;
