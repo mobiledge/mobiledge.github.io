@@ -1,40 +1,98 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Search</title>
-    <link rel="stylesheet" href="styles/styles.css">
+    <title>My Quick-Find Dev Resources | MobileEdge</title>
+    <style>
+        body, html {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica', 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #000;
+            margin: 0;
+            padding: 0;
+            background-color: #fff;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 0;
+        }
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+        }
+        .logo img {
+            max-height: 40px;
+            width: auto;
+        }
+        nav a {
+            margin-left: 20px;
+            text-decoration: none;
+            color: #000;
+        }
+        h1 {
+            font-size: 48px;
+            margin-bottom: 20px;
+            line-height: 1.2;
+        }
+        h2 {
+            font-size: 24px;
+            margin-top: 40px;
+        }
+        .resource-link {
+            display: inline-block;
+            padding: 12px 24px;
+            background-color: #000;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: 600;
+            margin-top: 10px;
+        }
+        .resource-link:hover {
+            background-color: #333;
+        }
+    </style>
 </head>
-
 <body>
-    <h1>Resources</h1>
-    <input type="text" id="search-input" placeholder="Search...">
-
-    <ul id="result-list">
-        <li><a href="apple-releases.html">Apple Releases</a></l1>
-        <li><a href="swift-lang.html">Search Swift Language</a></li>
-        <li><a href="swiftui-views.html">Search SwiftUI Views</a></li>
-    </ul>
-
-    <script>
-        const searchInput = document.getElementById('search-input');
-        const resultList = document.getElementById('result-list');
-        const listItems = resultList.getElementsByTagName('li');
-
-        searchInput.addEventListener('input', function () {
-            const searchTerm = searchInput.value.toLowerCase();
-
-            for (let i = 0; i < listItems.length; i++) {
-                const linkText = listItems[i].textContent.toLowerCase();
-
-                if (linkText.includes(searchTerm)) {
-                    listItems[i].style.display = 'block';
-                } else {
-                    listItems[i].style.display = 'none';
-                }
-            }
-        });
-    </script>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <img src="../images/mobiledge-logo.jpg" alt="MobileEdge Logo">
+            </div>
+            <nav>
+                <a href="../index.html">Home</a>
+                <a href="../index.html#services">Services</a>
+                <a href="../index.html#about">About</a>
+                <a href="../index.html#contact">Contact</a>
+            </nav>
+        </header>
+        
+        <h1>My Dev Shortcuts</h1>
+        <p>Hey there! 👋 Welcome to my little corner of quick-find resources. I've put together these pages to save myself (and maybe you!) some time when I'm in the coding zone. No more endless googling or diving through docs - just quick access to the stuff I need most. Check 'em out:</p>
+        
+        <h2>Apple Release Time Machine</h2>
+        <p>Ever wonder when Apple dropped that feature you're using? This is my cheat sheet for Apple hardware and software releases. Super handy when you're trying to figure out compatibility or just want to reminisce about the good ol' days of iOS 6. 😄</p>
+        <a href="apple-releases.html" class="resource-link">Hop in the Time Machine</a>
+        
+        <h2>Swift Language Guide Express</h2>
+        <p>Forget about clause, classes, or closures? This is my express ticket to Swift syntax land. It's like a swift (pun intended) ride through the language guide, helping me find what I need without getting lost in the docs.</p>
+        <a href="swift-lang.html" class="resource-link">All Aboard the Swift Express</a>
+        
+        <h2>SwiftUI Views Finder</h2>
+        <p>SwiftUI has more views than I can shake a stick at. This is my go-to page when I need to quickly look up a view's parameters or usage. It's saved me countless head-scratching moments!</p>
+        <a href="swiftui-views.html" class="resource-link">Find That View!</a>
+        
+        <p>Hope these help you as much as they've helped me. Happy coding! 🚀</p>
+    </div>
 </body>
+</html>
