@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apple Hardware and Software Releases (2021-2024)</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+            font-size: 14px;
+        }
+        .tab-bar {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 30px;
+        }
+        .tab {
+            padding: 10px 20px;
+            cursor: pointer;
+            border: none;
+            background: none;
+            font-size: 16px;
+            font-weight: 500;
+            color: #666;
+            transition: color 0.3s;
+        }
+        .tab.active {
+            color: #000;
+            border-bottom: 2px solid #000;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            text-align: left;
+            padding: 12px;
+            border-bottom: 1px solid #eee;
+            vertical-align: top;
+        }
+        th {
+            font-weight: 600;
+        }
+        .year-header {
+            font-weight: 600;
+            color: #666;
+            padding-top: 20px;
+        }
+        a {
+            color: #0070c9;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        tr:last-child td {
+            border-bottom: none;
+        }
+        ul {
+            margin: 0;
+            padding-left: 0;
+            list-style-type: none;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1><a href="index.html">Resources</a> / <a href="apple-releases2.html">Apple Hardware and Software Releases</a>
+    </h1>
+    <div class="tab-bar">
+        <button class="tab active" onclick="switchTab('hardware')">Hardware</button>
+        <button class="tab" onclick="switchTab('software')">Software</button>
+    </div>
+    <table id="contentTable"></table>
+
+    <script>
+
+const jsonData = {
+    iphones: [
+        { name: "iPhone 16 Pro Max", link: "https://en.wikipedia.org/wiki/IPhone_16_Pro", released: 2024 },
+        { name: "iPhone 16 Pro", link: "https://en.wikipedia.org/wiki/IPhone_16_Pro", released: 2024 },
+        { name: "iPhone 16", link: "https://en.wikipedia.org/wiki/IPhone_16", released: 2024 },
+        { name: "iPhone 16 Plus", link: "https://en.wikipedia.org/wiki/IPhone_16", released: 2024 },
+        { name: "iPhone 15 Pro Max", link: "https://en.wikipedia.org/wiki/IPhone_15_Pro", released: 2023 },
+        { name: "iPhone 15 Pro", link: "https://en.wikipedia.org/wiki/IPhone_15_Pro", released: 2023 },
+        { name: "iPhone 15", link: "https://en.wikipedia.org/wiki/IPhone_15", released: 2023 },
+        { name: "iPhone 15 Plus", link: "https://en.wikipedia.org/wiki/IPhone_15", released: 2023 },
+        { name: "iPhone 14 Pro Max", link: "https://en.wikipedia.org/wiki/IPhone_14_Pro", released: 2022 },
+        { name: "iPhone 14 Pro", link: "https://en.wikipedia.org/wiki/IPhone_14_Pro", released: 2022 },
+        { name: "iPhone 14", link: "https://en.wikipedia.org/wiki/IPhone_14", released: 2022 },
+        { name: "iPhone 14 Plus", link: "https://en.wikipedia.org/wiki/IPhone_14", released: 2022 },
+        { name: "iPhone SE (3rd generation)", link: "https://en.wikipedia.org/wiki/IPhone_SE_(3rd_generation)", released: 2022 },
+        { name: "iPhone 13 Pro Max", link: "https://en.wikipedia.org/wiki/IPhone_13_Pro", released: 2021 },
+        { name: "iPhone 13 Pro", link: "https://en.wikipedia.org/wiki/IPhone_13_Pro", released: 2021 },
+        { name: "iPhone 13", link: "https://en.wikipedia.org/wiki/IPhone_13", released: 2021 },
+        { name: "iPhone 13 Mini", link: "https://en.wikipedia.org/wiki/IPhone_13", released: 2021 }
+    ],
+    ipads: [
+        { name: "iPad Pro (7th generation)", link: "https://en.wikipedia.org/wiki/IPad_Pro", released: 2024 },
+        { name: "iPad (11th generation)", link: "https://en.wikipedia.org/wiki/IPad", released: 2024 },
+        { name: "iPad Pro (6th generation)", link: "https://en.wikipedia.org/wiki/IPad_Pro_(6th_generation)", released: 2022 },
+        { name: "iPad (10th generation)", link: "https://en.wikipedia.org/wiki/IPad_(10th_generation)", released: 2022 },
+        { name: "iPad Air (5th generation)", link: "https://en.wikipedia.org/wiki/IPad_Air_(5th_generation)", released: 2022 },
+        { name: "iPad Mini (6th generation)", link: "https://en.wikipedia.org/wiki/IPad_Mini_(6th_generation)", released: 2021 },
+        { name: "iPad (9th generation)", link: "https://en.wikipedia.org/wiki/IPad_(9th_generation)", released: 2021 }
+    ],
+    applewatches: [
+        { name: "Apple Watch Series 10", link: "https://en.wikipedia.org/wiki/Apple_Watch_Series_10", released: 2024 },
+        { name: "Apple Watch Ultra 3", link: "https://en.wikipedia.org/wiki/Apple_Watch_Ultra", released: 2024 },
+        { name: "Apple Watch Series 9", link: "https://en.wikipedia.org/wiki/Apple_Watch_Series_9", released: 2023 },
+        { name: "Apple Watch Ultra 2", link: "https://en.wikipedia.org/wiki/Apple_Watch_Ultra", released: 2023 },
+        { name: "Apple Watch Series 8", link: "https://en.wikipedia.org/wiki/Apple_Watch_Series_8", released: 2022 },
+        { name: "Apple Watch Ultra", link: "https://en.wikipedia.org/wiki/Apple_Watch_Ultra", released: 2022 },
+        { name: "Apple Watch SE (2nd generation)", link: "https://en.wikipedia.org/wiki/Apple_Watch_SE", released: 2022 },
+        { name: "Apple Watch Series 7", link: "https://en.wikipedia.org/wiki/Apple_Watch_Series_7", released: 2021 }
+    ],
+    ios: [
+        { name: "iOS 18", link: "https://en.wikipedia.org/wiki/IOS_18", released: 2024 },
+        { name: "iOS 17", link: "https://en.wikipedia.org/wiki/IOS_17", released: 2023 },
+        { name: "iOS 16", link: "https://en.wikipedia.org/wiki/IOS_16", released: 2022 },
+        { name: "iOS 15", link: "https://en.wikipedia.org/wiki/IOS_15", released: 2021 }
+    ],
+    macos: [
+        { name: "macOS 15", link: "https://en.wikipedia.org/wiki/MacOS_15", released: 2024 },
+        { name: "macOS 14 (Sonoma)", link: "https://en.wikipedia.org/wiki/MacOS_Sonoma", released: 2023 },
+        { name: "macOS 13 (Ventura)", link: "https://en.wikipedia.org/wiki/MacOS_Ventura", released: 2022 },
+        { name: "macOS 12 (Monterey)", link: "https://en.wikipedia.org/wiki/MacOS_Monterey", released: 2021 }
+    ],
+    xcode: [
+        { name: "Xcode 16", link: "https://developer.apple.com/documentation/xcode-release-notes/xcode-16-release-notes", released: 2024 },
+        { name: "Xcode 15", link: "https://developer.apple.com/documentation/xcode-release-notes/xcode-15-release-notes", released: 2023 },
+        { name: "Xcode 14", link: "https://developer.apple.com/documentation/xcode-release-notes/xcode-14-release-notes", released: 2022 },
+        { name: "Xcode 13", link: "https://developer.apple.com/documentation/xcode-release-notes/xcode-13-release-notes", released: 2021 }
+    ],
+    swift: [
+        { name: "Swift 6.0", link: "https://www.swift.org/blog/announcing-swift-6/", released: 2024 },
+        { name: "Swift 5.9", link: "https://www.swift.org/blog/swift-5.9-released/", released: 2023 },
+        { name: "Swift 5.8", link: "https://www.swift.org/blog/swift-5.8-released/", released: 2023 },
+        { name: "Swift 5.7", link: "https://www.swift.org/blog/swift-5.7-released/", released: 2022 },
+        { name: "Swift 5.6", link: "https://www.swift.org/blog/swift-5.6-released/", released: 2022 },
+        { name: "Swift 5.5", link: "https://www.swift.org/blog/swift-5.5-released/", released: 2021 }
+    ]
+};
+
+        function generateSectionRow(year) {
+            return `
+                <tr>
+                    <td class="year-header" colspan="5">${year}</td>
+                </tr>
+            `;
+        }
+
+        function generateDataCell(year, category) {
+            const products = jsonData[category].filter(item => item.released === parseInt(year));
+            if (products.length === 0) return '<td></td>';
+            if (products.length === 1) {
+                return `<td><a href="${products[0].link}" target="_blank">${products[0].name}</a></td>`;
+            }
+            return `<td><ul>${products.map(product => 
+                `<li><a href="${product.link}" target="_blank">${product.name}</a></li>`
+            ).join('')}</ul></td>`;
+        }
+
+        function generateDataRow(year, categories) {
+            return `
+                <tr>
+                    ${categories.map(category => generateDataCell(year, category)).join('')}
+                </tr>
+            `;
+        }
+
+        function generateTable(type) {
+            const categories = type === 'hardware' 
+                ? ["iphones", "ipads", "applewatches"]
+                : ["ios", "macos", "xcode", "swift"];
+            const headers = type === 'hardware'
+                ? ["iPhone", "iPad", "Apple Watch"]
+                : ["iOS", "macOS", "Xcode", "Swift"];
+            const years = ["2024", "2023", "2022", "2021"];
+
+            return `
+                <thead>
+                    <tr>
+                        ${headers.map(header => `<th style="width: ${type === 'hardware' ? '33.33%' : '25%'}">${header}</th>`).join('')}
+                    </tr>
+                </thead>
+                <tbody>
+                    ${years.map(year => 
+                        generateSectionRow(year) + generateDataRow(year, categories)
+                    ).join('')}
+                </tbody>
+            `;
+        }
+
+        function switchTab(category) {
+            document.querySelectorAll('.tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            event.target.classList.add('active');
+            document.getElementById('contentTable').innerHTML = generateTable(category);
+        }
+
+        // Initialize with hardware table
+        document.getElementById('contentTable').innerHTML = generateTable('hardware');
+    </script>
+</body>
+</html>
