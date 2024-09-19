@@ -27,6 +27,12 @@
         .logo {
             font-size: 24px;
             font-weight: bold;
+            display: flex;
+            align-items: center;
+        }
+        .logo img {
+            max-height: 40px;
+            width: auto;
         }
         nav a {
             margin-left: 20px;
@@ -61,33 +67,51 @@
             text-decoration: none;
             border-radius: 5px;
             font-weight: 600;
+            transition: all 0.3s ease;
+        }
+        .cta:hover {
+            background-color: #333;
         }
         .cta.secondary {
             background-color: #fff;
             color: #000;
             border: 2px solid #000;
         }
+        .cta.secondary:hover {
+            background-color: #f0f0f0;
+        }
         .features {
             display: flex;
             justify-content: space-between;
             margin-top: 60px;
+            gap: 30px;
         }
         .feature {
             text-align: center;
             flex: 1;
+            background-color: #f9f9f9;
+            border-radius: 10px;
+            padding: 30px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+        }
+        .feature:hover {
+            transform: translateY(-5px);
         }
         .feature img {
             width: 100%;
-            max-width: 300px;
+            max-width: 120px;
             height: auto;
+            margin-bottom: 20px;
         }
-        .logo {
-            display: flex;
-            align-items: center;
+        .feature h3 {
+            font-size: 24px;
+            margin-bottom: 15px;
         }
-        .logo img {
-            max-height: 40px; /* Adjust this value to fit your logo */
-            width: auto;
+        .feature .subtitle {
+            font-size: 16px;
+            color: #666;
+            margin-bottom: 0;
         }
     </style>
 </head>
@@ -95,7 +119,7 @@
     <div class="container">
         <header>
             <div class="logo">
-                <img src="images/mobiledge-logo.jpg" alt="MobileEdge Logo">
+                <img src="/api/placeholder/120/40" alt="MobileEdge Logo">
             </div>
             <nav>
                 <a href="search/resources.html" target="_blank">Resources</a>
@@ -116,17 +140,17 @@
         
         <section class="features">
             <div class="feature">
-                <img src="/images/maps.png" alt="Maps">
+                <img src="/api/placeholder/120/120" alt="Maps">
                 <h3>Maps</h3>
                 <p class="subtitle">Put your business on the map – literally. Our custom map integration connects your customers to your location effortlessly.</p>
             </div>
             <div class="feature">
-                <img src="/images/push.png" alt="Push Notifications">
+                <img src="/api/placeholder/120/120" alt="Push Notifications">
                 <h3>Push Notifications</h3>
                 <p class="subtitle">Stay top-of-mind with timely alerts. Push notifications lets you send targeted messages directly to your customers' phones.</p>
             </div>
             <div class="feature">
-                <img src="/images/camera.png" alt="Camera">
+                <img src="/api/placeholder/120/120" alt="Camera">
                 <h3>Camera</h3>
                 <p class="subtitle">Picture this: seamless interaction with your customers. Camera integration allows users to scan QR codes, upload images, or even try virtual products.</p>
             </div>
