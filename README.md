@@ -1,13 +1,8 @@
-[Resources ↓](#resources)
-[Shortcuts ↓](#shortcuts)
-
 # mobiledge
 
-Domains:
-Cheatsheets:
-Languages:
-Resources:
-Shortcuts:
+- https://mobiledge.io
+- [Resources ↓](#resources)
+- [Shortcuts ↓](#shortcuts)
 
 ## [iOS](https://github.com/mobilege/ios-development/blob/master/README.md)
 
