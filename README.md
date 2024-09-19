@@ -137,12 +137,6 @@ Queue &nbsp; · &nbsp;
 `Control-U` Delete the line
 
 ## Resources
-
-- [iPhone Models 🔎](http://mobiledge.github.io/search/iphone-models.html) &emsp;
-- [Swift Langiuage 🔎](http://mobiledge.github.io/search/swift-lang.html) &emsp;
-- [SwiftUI Views 🔎](http://mobiledge.github.io/search/swiftui-views.html)</sub>
-
-##
 - [Design](https://github.com/mobilege/design/blob/master/README.md)
 - *Development* 
 - [Marketing](https://github.com/mobilege/marketing/blob/master/README.md)
