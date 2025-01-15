@@ -15,9 +15,9 @@
 [Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift/)</sub>
 
 - [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md) &nbsp; &nbsp;
-<sub>[Search 🔎](http://mobiledge.github.io/search/swiftui-views.html) &nbsp; · &nbsp;
+<sub>[Search](http://mobiledge.github.io/search/swiftui-views.html) 🔎 &nbsp; · &nbsp;
 [Documentation](https://developer.apple.com/documentation/swiftui/) &nbsp; · &nbsp;
-[SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui)</sub>
+[Tutorials](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger)</sub>
 
 - Concurrency &nbsp; &nbsp;
 <sub>[Thread](https://github.com/mobiledge/ios-development/blob/master/thread.md) &nbsp; · &nbsp;
