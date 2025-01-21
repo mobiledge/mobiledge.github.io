@@ -59,7 +59,8 @@ Queue &nbsp; · &nbsp;
 [pip](https://github.com/mobiledge/python/blob/main/pip.md) &nbsp; · &nbsp;
 [Flask](https://github.com/mobiledge/python/blob/main/flask.md) &nbsp; · &nbsp;
 [Django](https://github.com/mobiledge/python/blob/main/django.md) &nbsp; · &nbsp;
-[Wagtail](https://github.com/mobiledge/python/blob/main/wagtail.md)</sub>
+[Wagtail](https://github.com/mobiledge/python/blob/main/wagtail.md) &nbsp; · &nbsp;
+[Streamlit](https://streamlit.io)</sub>
 
 - [Ruby](https://github.com/mobilege/web-development/blob/master/ruby.md) &nbsp; &nbsp;
 <sub>[rbenv](https://github.com/mobilege/web-development/blob/master/ruby-rbenv.md) 
