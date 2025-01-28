@@ -11,34 +11,67 @@
 <body>
     <h1><a href="resources.html">Resources</a> / <a href="swiftui-views.html">SwiftUI Views</a></h1>
     
-    <div id="status">Loading...</div>
-    <ul id="linksList"></ul>
+    <input type="text" 
+           id="searchInput" 
+           placeholder="Search components..." 
+           aria-label="Search SwiftUI components">
+    
+    <div id="content">Loading...</div>
 
     <script>
-        async function init() {
-            const status = document.getElementById('status');
-            const list = document.getElementById('linksList');
+        const contentContainer = document.getElementById('content');
+        const searchInput = document.getElementById('searchInput');
+        let allItems = [];
 
+        function createLinkElement(item) {
+            const link = document.createElement('a');
+            link.href = `https://developer.apple.com${item.url}`;
+            link.target = '_blank';
+            link.textContent = item.title;
+            
+            const div = document.createElement('div');
+            div.appendChild(link);
+            return div;
+        }
+
+        function showError(message) {
+            contentContainer.textContent = `Error loading data: ${message}`;
+        }
+
+        function displayItems(items) {
+            contentContainer.innerHTML = '';
+            items.forEach(item => {
+                contentContainer.appendChild(createLinkElement(item));
+            });
+        }
+
+        function filterItems(searchText) {
+            if (!searchText.trim()) return allItems;
+            const searchLower = searchText.toLowerCase();
+            return allItems.filter(item => 
+                item.title.toLowerCase().includes(searchLower) ||
+                item.url.toLowerCase().includes(searchLower)
+            );
+        }
+
+        searchInput.addEventListener('input', (e) => {
+            displayItems(filterItems(e.target.value));
+        });
+
+        async function fetchData() {
             try {
-                const text = await window.fs.readFile('https://raw.githubusercontent.com/mobiledge/mobiledge.github.io/refs/heads/master/search/swiftui-views.json', { encoding: 'utf8' });
-                const data = JSON.parse(text);
-
-                status.style.display = 'none';
-                data.links.forEach(link => {
-                    const li = document.createElement('li');
-                    const a = document.createElement('a');
-                    a.href = `https://developer.apple.com${link.url}`;
-                    a.textContent = link.title;
-                    a.target = '_blank';
-                    li.appendChild(a);
-                    list.appendChild(li);
-                });
-            } catch (err) {
-                status.textContent = `Error: ${err.message}`;
+                const response = await fetch('https://raw.githubusercontent.com/mobiledge/mobiledge.github.io/refs/heads/master/search/swiftui-views.json');
+                if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+                const data = await response.json();
+                allItems = data.links;
+                displayItems(allItems);
+            } catch (error) {
+                console.error('Error fetching data:', error);
+                showError(error.message);
             }
         }
 
-        init();
+        fetchData();
     </script>
 </body>
 
