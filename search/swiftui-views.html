@@ -9,180 +9,37 @@
 </head>
 
 <body>
-        <h1><a href="resources.html">Resources</a> / <a href="swiftui-views.html">SwiftUI Views</a></h1>
+    <h1><a href="resources.html">Resources</a> / <a href="swiftui-views.html">SwiftUI Views</a></h1>
+    
+    <div id="status">Loading...</div>
+    <ul id="linksList"></ul>
 
-        <input type="text" id="search-input" placeholder="Search...">
+    <script>
+        async function init() {
+            const status = document.getElementById('status');
+            const list = document.getElementById('linksList');
 
-        <ul id="result-list">
-                <li><a href="https://developer.apple.com/documentation/swiftui/angulargradient">AngularGradient</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/anyshape">AnyShape</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/anyview">AnyView</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/asyncimage">AsyncImage</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/button">Button</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/buttonbordershape">ButtonBorderShape</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/buttonstyleconfiguration/label-swift.struct">ButtonStyleConfiguration.Label</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/canvas">Canvas</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/capsule">Capsule</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/circle">Circle</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/color">Color</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/colorpicker">ColorPicker</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/containerrelativeshape">ContainerRelativeShape</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/contentunavailableview">ContentUnavailableView</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/controlgroup">ControlGroup</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/controlgroupstyleconfiguration/content-swift.struct">ControlGroupStyleConfiguration.Content</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/controlgroupstyleconfiguration/label-swift.struct">ControlGroupStyleConfiguration.Label</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/datepicker">DatePicker</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/datepickerstyleconfiguration/label-swift.struct">DatePickerStyleConfiguration.Label</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/defaultdateprogresslabel">DefaultDateProgressLabel</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/defaultdocumentgrouplaunchactions">DefaultDocumentGroupLaunchActions</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/defaultsettingslinklabel">DefaultSettingsLinkLabel</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/defaultsharelinklabel">DefaultShareLinkLabel</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/defaulttablabel">DefaultTabLabel</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/defaultwindowvisibilitytogglelabel">DefaultWindowVisibilityToggleLabel</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/disclosuregroup">DisclosureGroup</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/disclosuregroupstyleconfiguration/content-swift.struct">DisclosureGroupStyleConfiguration.Content</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/disclosuregroupstyleconfiguration/label-swift.struct">DisclosureGroupStyleConfiguration.Label</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/divider">Divider</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/documentlaunchview">DocumentLaunchView</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/editbutton">EditButton</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/editablecollectioncontent">EditableCollectionContent</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/ellipse">Ellipse</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/ellipticalgradient">EllipticalGradient</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/emptyview">EmptyView</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/equatableview">EquatableView</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/fillshapeview">FillShapeView</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/foreach">ForEach</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/form">Form</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/formstyleconfiguration/content-swift.struct">FormStyleConfiguration.Content</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/gauge">Gauge</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/gaugestyleconfiguration/currentvaluelabel-swift.struct">GaugeStyleConfiguration.CurrentValueLabel</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/gaugestyleconfiguration/label-swift.struct">GaugeStyleConfiguration.Label</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/gaugestyleconfiguration/markedvaluelabel">GaugeStyleConfiguration.MarkedValueLabel</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/gaugestyleconfiguration/maximumvaluelabel-swift.struct">GaugeStyleConfiguration.MaximumValueLabel</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/gaugestyleconfiguration/minimumvaluelabel-swift.struct">GaugeStyleConfiguration.MinimumValueLabel</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/geometryreader">GeometryReader</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/geometryreader3d">GeometryReader3D</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/grid">Grid</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/gridrow">GridRow</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/group">Group</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/groupbox">GroupBox</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/groupboxstyleconfiguration/content-swift.struct">GroupBoxStyleConfiguration.Content</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/groupboxstyleconfiguration/label-swift.struct">GroupBoxStyleConfiguration.Label</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/groupelementsofcontent">GroupElementsOfContent</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/groupsectionsofcontent">GroupSectionsOfContent</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/hsplitview">HSplitView</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/hstack">HStack</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/helplink">HelpLink</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/image">Image</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/keyframeanimator">KeyframeAnimator</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/label">Label</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/labelstyleconfiguration/icon-swift.struct">LabelStyleConfiguration.Icon</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/labelstyleconfiguration/title-swift.struct">LabelStyleConfiguration.Title</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/labeledcontent">LabeledContent</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/labeledcontentstyleconfiguration/content-swift.struct">LabeledContentStyleConfiguration.Content</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/labeledcontentstyleconfiguration/label-swift.struct">LabeledContentStyleConfiguration.Label</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/labeledcontrolgroupcontent">LabeledControlGroupContent</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/labeledtoolbaritemgroupcontent">LabeledToolbarItemGroupContent</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/lazyhgrid">LazyHGrid</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/lazyhstack">LazyHStack</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/lazyvgrid">LazyVGrid</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/lazyvstack">LazyVStack</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/lineargradient">LinearGradient</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/link">Link</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/list">List</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/menu">Menu</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/menubutton">MenuButton</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/menustyleconfiguration/content">MenuStyleConfiguration.Content</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/menustyleconfiguration/label">MenuStyleConfiguration.Label</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/meshgradient">MeshGradient</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/modifiedcontent">ModifiedContent</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/multidatepicker">MultiDatePicker</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/navigationlink">NavigationLink</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/navigationsplitview">NavigationSplitView</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/navigationstack">NavigationStack</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/navigationview">NavigationView</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/newdocumentbutton">NewDocumentButton</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/offsetshape">OffsetShape</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/outlinegroup">OutlineGroup</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/outlinesubgroupchildren">OutlineSubgroupChildren</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/pastebutton">PasteButton</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/path">Path</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/phaseanimator">PhaseAnimator</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/picker">Picker</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/placeholdercontentview">PlaceholderContentView</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/presentedwindowcontent">PresentedWindowContent</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/previewmodifiercontent">PreviewModifierContent</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/primitivebuttonstyleconfiguration/label-swift.struct">PrimitiveButtonStyleConfiguration.Label</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/progressview">ProgressView</a></li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/progressviewstyleconfiguration/currentvaluelabel-swift.struct">ProgressViewStyleConfiguration.CurrentValueLabel</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/progressviewstyleconfiguration/label-swift.struct">ProgressViewStyleConfiguration.Label</a>
-                </li>
-                <li><a href="https://developer.apple.com/documentation/swiftui/radialgradient">RadialGradient</a></li>
+            try {
+                const text = await window.fs.readFile('swiftui-views.json', { encoding: 'utf8' });
+                const data = JSON.parse(text);
 
-                <script>
-                        const searchInput = document.getElementById('search-input');
-                        const resultList = document.getElementById('result-list');
-                        const listItems = resultList.getElementsByTagName('li');
+                status.style.display = 'none';
+                data.links.forEach(link => {
+                    const li = document.createElement('li');
+                    const a = document.createElement('a');
+                    a.href = `https://developer.apple.com${link.url}`;
+                    a.textContent = link.title;
+                    a.target = '_blank';
+                    li.appendChild(a);
+                    list.appendChild(li);
+                });
+            } catch (err) {
+                status.textContent = `Error: ${err.message}`;
+            }
+        }
 
-                        searchInput.addEventListener('input', function () {
-                                const searchTerm = searchInput.value.toLowerCase();
-
-                                for (let i = 0; i < listItems.length; i++) {
-                                        const linkText = listItems[i].textContent.toLowerCase();
-
-                                        if (linkText.includes(searchTerm)) {
-                                                listItems[i].style.display = 'block';
-                                        } else {
-                                                listItems[i].style.display = 'none';
-                                        }
-                                }
-                        });
-                </script>
+        init();
+    </script>
 </body>
 
 </html>
