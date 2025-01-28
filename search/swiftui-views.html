@@ -20,7 +20,7 @@
             const list = document.getElementById('linksList');
 
             try {
-                const text = await window.fs.readFile('swiftui-views.json', { encoding: 'utf8' });
+                const text = await window.fs.readFile('https://raw.githubusercontent.com/mobiledge/mobiledge.github.io/refs/heads/master/search/swiftui-views.json', { encoding: 'utf8' });
                 const data = JSON.parse(text);
 
                 status.style.display = 'none';
