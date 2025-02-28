@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SwiftUI Views List</title>
+    <style>
+        body {
+            font-family: "SF Mono", SFMono-Regular, ui-monospace, Menlo, monospace;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1 {
+            font-family: "SF Pro Display", system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
+            color: #333;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+
+        .search-container {
+            margin-bottom: 20px;
+        }
+
+        #search-input {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+            font-family: inherit;
+        }
+
+        #search-input:focus {
+            outline: none;
+            border-color: #0070c9;
+            box-shadow: 0 0 0 2px rgba(0, 112, 201, 0.2);
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            padding: 12px 15px;
+            border-bottom: 1px solid #eee;
+        }
+
+        li:hover {
+            background-color: #f9f9f9;
+        }
+
+        a {
+            color: #0070c9;
+            text-decoration: none;
+            font-size: 1.1em;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .error-message {
+            color: #d9534f;
+            padding: 10px;
+            background-color: #f2dede;
+            border-radius: 4px;
+            display: none;
+        }
+
+        .loading-indicator {
+            text-align: center;
+            padding: 20px;
+            color: #666;
+        }
+        
+        .no-results {
+            padding: 15px;
+            color: #666;
+            font-style: italic;
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>SwiftUI Views</h1>
+
+    <div class="search-container">
+        <input type="text" id="search-input" placeholder="Search SwiftUI views..." autocomplete="off">
+    </div>
+
+    <div id="error-message" class="error-message"></div>
+    <div id="loading-indicator" class="loading-indicator">Loading SwiftUI views...</div>
+    <div id="no-results" class="no-results">No matching views found</div>
+    <ul id="views-list"></ul>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const tsvUrl = 'https://gist.githubusercontent.com/mobiledge/18d10e8ec3e5c93ee6fec58c37cf761b/raw/0e28ae855b2fe424252f517dce069b452e1ba5f5/swiftui-views.tsv';
+            const viewsList = document.getElementById('views-list');
+            const errorMessage = document.getElementById('error-message');
+            const loadingIndicator = document.getElementById('loading-indicator');
+            const searchInput = document.getElementById('search-input');
+            const noResults = document.getElementById('no-results');
+            
+            let allViews = []; // Store all views for filtering
+
+            // Fetch the TSV data
+            fetch(tsvUrl)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.text();
+                })
+                .then(data => {
+                    loadingIndicator.style.display = 'none';
+
+                    // Parse TSV data
+                    const rows = data.trim().split('\n');
+
+                    // Skip header row
+                    const startIndex = 1;
+
+                    // Process each row
+                    for (let i = startIndex; i < rows.length; i++) {
+                        const columns = rows[i].split('\t');
+
+                        if (columns.length == 2) {
+                            const viewName = columns[0].trim();
+                            const path = columns[1].trim();
+
+                            // Store view data
+                            allViews.push({
+                                name: viewName,
+                                path: path
+                            });
+
+                            // Create list item
+                            const listItem = document.createElement('li');
+                            listItem.dataset.name = viewName.toLowerCase();
+
+                            // Create link with Apple Developer URL
+                            const link = document.createElement('a');
+                            link.href = 'https://developer.apple.com' + path;
+                            link.textContent = viewName;
+                            link.target = '_blank'; // Open in new tab
+
+                            listItem.appendChild(link);
+                            viewsList.appendChild(listItem);
+                        }
+                    }
+
+                    // Show message if no views found
+                    if (viewsList.children.length === 0) {
+                        errorMessage.textContent = 'No SwiftUI views found in the data.';
+                        errorMessage.style.display = 'block';
+                    }
+                    
+                    // Focus the search input after loading completes
+                    searchInput.focus();
+                })
+                .catch(error => {
+                    loadingIndicator.style.display = 'none';
+                    errorMessage.textContent = 'Error loading SwiftUI views: ' + error.message;
+                    errorMessage.style.display = 'block';
+                    console.error('Error fetching or parsing TSV data:', error);
+                });
+                
+            // Filter function
+            function filterViews() {
+                const searchTerm = searchInput.value.toLowerCase();
+                const listItems = viewsList.getElementsByTagName('li');
+                let visibleCount = 0;
+                
+                for (let i = 0; i < listItems.length; i++) {
+                    const item = listItems[i];
+                    const viewName = item.dataset.name;
+                    
+                    if (viewName.includes(searchTerm)) {
+                        item.style.display = '';
+                        visibleCount++;
+                    } else {
+                        item.style.display = 'none';
+                    }
+                }
+                
+                // Show/hide no results message
+                noResults.style.display = visibleCount === 0 ? 'block' : 'none';
+            }
+            
+            // Add event listener for search input
+            searchInput.addEventListener('input', filterViews);
+        });
+    </script>
+</body>
+
+</html>
