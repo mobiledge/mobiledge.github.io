@@ -13,7 +13,7 @@
 [Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift/)</sub>
 
 - [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md) &nbsp; &nbsp;
-<sub>[Search](http://mobiledge.github.io/search/swiftui-views.html) 🔎 &nbsp; · &nbsp;
+<sub>[Search](https://searchswiftui.dev) 🔎 &nbsp; · &nbsp;
 [Documentation](https://developer.apple.com/documentation/swiftui/) &nbsp; · &nbsp;
 [Tutorials](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger)</sub>
 
