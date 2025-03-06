@@ -19,3 +19,7 @@
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [ossu/computer-science](https://github.com/ossu/computer-science)
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
+
+## Misc
+###### Covariance& Contravariance
+- https://www.mikeash.com/pyblog/friday-qa-2015-11-20-covariance-and-contravariance.html
