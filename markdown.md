@@ -2,16 +2,6 @@
 [Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/markdown.md)
 
 # Markdown
-- [Basic formatting syntax - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Back to Top](#back-to-top)
-- Comments
-- Diagrams
-- Images
-- Right aligned text
-- Section - Collapsable
-- Spaces
-- Tables
-
 
 #### Back to Top
 ```
@@ -28,6 +18,17 @@
 ```
 <!-- This content will not appear in the rendered Markdown -->
 ```
+#### [Description List](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl)
+<dl>
+  <dt>Beast of Bodmin</dt>
+  <dd>A large feline inhabiting Bodmin Moor.</dd>
+
+  <dt>Morgawr</dt>
+  <dd>A sea serpent.</dd>
+
+  <dt>Owlman</dt>
+  <dd>A giant owl-like creature.</dd>
+</dl>
 
 #### Diagrams
 
