@@ -32,11 +32,30 @@
   - [**Algorithms and Data Structures**](https://github.com/mobilege/algorithms) 
 
 
-#
-- Linux & Tools
+---
+###### Linux, Tools, Utilities etc
 
-  - [Linux](/linux.md) 
+
+/ [Linux](/linux.md) 
+    <sub>&nbsp;&nbsp;Documentation</sub>
     <sub>&nbsp;&nbsp;[tldr](https://tldr.inbrowser.app/)</sub>
+    
+/ [Git](/git.md)
+    <sub>&nbsp;&nbsp;Documentation</sub>
+    <sub>&nbsp;&nbsp;[tldr](https://tldr.inbrowser.app/pages/common/git)</sub>
+
+/ [Homebrew](/homebrew.md)
+    <sub>&nbsp;&nbsp;Documentation</sub> 
+    <sub>&nbsp;&nbsp;[tldr](https://tldr.inbrowser.app/pages/common/homebrew)</sub>
+
+/ [SSH](/ssh.md)
+    <sub>&nbsp;&nbsp;Documentation</sub> 
+    <sub>&nbsp;&nbsp;[tldr](https://tldr.inbrowser.app/pages/common/ssh)</sub>
+
+/ [Vim](/vim.md)
+    <sub>&nbsp;&nbsp;Documentation</sub>
+    <sub>&nbsp;&nbsp;[tldr](https://tldr.inbrowser.app/pages/common/vim)</sub>
+
 
   - [**Linux**](https://github.com/mobiledge/linux/blob/master/README.md) &nbsp; &nbsp;
     <sub>[homebrew](https://github.com/mobiledge/linux/blob/master/homebrew.md) &nbsp; · &nbsp; 

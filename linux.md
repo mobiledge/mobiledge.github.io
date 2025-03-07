@@ -1,6 +1,7 @@
-[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) 
+[mobilege](/README.md) 
 / [Linux](/linux.md) 
-<sub>&nbsp;&nbsp;[tldr](https://tldr.inbrowser.app/)</sub>
+    <sub>&nbsp;&nbsp;Documentation</sub>
+    <sub>&nbsp;&nbsp;[tldr](https://tldr.inbrowser.app/)</sub>
 
 # Linux
 
