@@ -28,6 +28,7 @@
 
 #
 - [Core CS](https://github.com/mobiledge/mobiledge.github.io/blob/master/core-cs.md)
+
   - [**Algorithms and Data Structures**](https://github.com/mobilege/algorithms) 
 
 
@@ -43,13 +44,8 @@
   - [Visual Studio Code](/visual-studio-code.md#visual-studio-code)
   <sub>&nbsp;&nbsp;[Documentation](https://code.visualstudio.com/docs)</sub>
 
-
-  - [Github Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-  <dl>
-    <dt>.</dt><dd>open the repository in dev mode</dd>
-    <dt>Cmd+K V</dt><dd>preview mode</dd>
-  </dl>
+  - [Github Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/github-markdown.md)
+  <sub>&nbsp;&nbsp;[Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)</sub>
 
 #
 - [Web](https://github.com/mobilege/web-development/blob/master/README.md)
@@ -75,9 +71,7 @@
   &nbsp; · &nbsp; [Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md)</sub>
 
 
-
-
-## Other
+#
 - [Blockchain](https://github.com/mobiledge/mobiledge.github.io/blob/master/blockchain.md)
 - [Cloud](https://github.com/mobiledge/cloud/blob/main/README.md)
 - [Data](https://github.com/mobilege/data-science/blob/master/README.md)

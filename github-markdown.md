@@ -1,7 +1,8 @@
 [mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) / 
-[Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/markdown.md)
+[Github Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/github-markdown.md)
+<sub>&nbsp;&nbsp;[Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)</sub>
 
-# Markdown
+# Github Markdown
 
 #### Back to Top
 ```
