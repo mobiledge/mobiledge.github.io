@@ -1,6 +1,8 @@
-[mobilege](https://github.com/mobilege/mobilege.github.io/blob/master/README.md) 
-/ [SSH](/ssh.md) 
-<sub>&nbsp;&nbsp;[tldr](https://tldr.inbrowser.app/pages/common/ssh)</sub>
+[mobilege](/README.md) 
+/ [SSH](/ssh.md)
+    <sub>&nbsp;&nbsp;Documentation</sub> 
+    <sub>&nbsp;&nbsp;[tldr](https://tldr.inbrowser.app/pages/common/ssh)</sub>
+
 
 # SSH
 - [Configuring Passwordless Server Login Using SSH](https://youtu.be/tRJBC9rWH3A)

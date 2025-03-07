@@ -46,7 +46,7 @@
 
 / [Homebrew](/homebrew.md)
     <sub>&nbsp;&nbsp;Documentation</sub> 
-    <sub>&nbsp;&nbsp;[tldr](https://tldr.inbrowser.app/pages/common/homebrew)</sub>
+    <sub>&nbsp;&nbsp;[tldr](https://tldr.inbrowser.app/pages/common/brew)</sub>
 
 / [SSH](/ssh.md)
     <sub>&nbsp;&nbsp;Documentation</sub> 
