@@ -27,29 +27,39 @@
 
 
 #
-###### [Core CS](https://github.com/mobiledge/mobiledge.github.io/blob/master/core-cs.md)
+#### Core CS
 
 / [**Algorithms and Data Structures**](https://github.com/mobilege/algorithms)
 
 <details><summary>Click to see more</summary>
 
+#
+###### Core CS / Courses
 / [Programming: Structure and Interpretation of Computer Programs](https://github.com/mobilege/sicp/blob/master/README.md)  
+
 / [Algorithms and Data Structures](https://github.com/mobilege/algorithms)  
+
 / Databases  
+
 / [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)  
+
 / [Functional Programming](https://github.com/mobiledge/functional-programming/blob/master/README.md#functional-programming)  
+
 / [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md)  
+
 / [Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md)  
+
 / [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md)  
+
 / [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)  
  
 
 #
-###### Misc Topics
+###### Core CS / Misc Topics
 - Covariance & Contravariance: https://www.mikeash.com/pyblog/friday-qa-2015-11-20-covariance-and-contravariance.html
 
 #
-###### Resources
+###### Core CS / Resources
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)  
 - [ossu/computer-science](https://github.com/ossu/computer-science)
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
@@ -60,7 +70,7 @@
 
 
 #
-###### Linux, Tools, Utilities etc
+#### Linux etc
 
 
 / [**Linux**](/linux.md) 
@@ -85,7 +95,7 @@
 
   
 #
-###### Editors etc
+#### Editors etc
 
 / [Visual Studio Code](/visual-studio-code.md#visual-studio-code)
     <sub>&nbsp;&nbsp;[Documentation](https://code.visualstudio.com/docs)</sub>
@@ -95,7 +105,7 @@
 
 
 #
-###### [Web](https://github.com/mobilege/web-development/blob/master/README.md)
+#### [Web](https://github.com/mobilege/web-development/blob/master/README.md)
 
 / [JavaScript](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; &nbsp;
   <sub>[HTML](https://github.com/mobilege/web-development/blob/master/html.md)
@@ -119,6 +129,8 @@
 
 
 #
+#### Other
+
 - [Blockchain](https://github.com/mobiledge/mobiledge.github.io/blob/master/blockchain.md)
 - [Cloud](https://github.com/mobiledge/cloud/blob/main/README.md)
 - [Data](https://github.com/mobilege/data-science/blob/master/README.md)
