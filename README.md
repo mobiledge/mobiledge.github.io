@@ -32,7 +32,7 @@
   - [**Algorithms and Data Structures**](https://github.com/mobilege/algorithms) 
 
 
----
+#
 ###### Linux, Tools, Utilities etc
 
 
@@ -63,29 +63,34 @@
     [vim](https://github.com/mobiledge/linux/blob/master/vim.md) &nbsp; · &nbsp; 
     [git](https://github.com/mobiledge/linux/blob/master/git.md)</sub>
 
-  - [Visual Studio Code](/visual-studio-code.md#visual-studio-code)
-  <sub>&nbsp;&nbsp;[Documentation](https://code.visualstudio.com/docs)</sub>
+  
+#
+###### Editors etc
 
-  - [Github Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/github-markdown.md)
-  <sub>&nbsp;&nbsp;[Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)</sub>
+/ [Visual Studio Code](/visual-studio-code.md#visual-studio-code)
+    <sub>&nbsp;&nbsp;[Documentation](https://code.visualstudio.com/docs)</sub>
+
+/ [Github Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/github-markdown.md)
+    <sub>&nbsp;&nbsp;[Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)</sub>
+
 
 #
-- [Web](https://github.com/mobilege/web-development/blob/master/README.md)
+###### [Web](https://github.com/mobilege/web-development/blob/master/README.md)
 
-  - [JavaScript](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; &nbsp;
+/ [JavaScript](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; &nbsp;
   <sub>[HTML](https://github.com/mobilege/web-development/blob/master/html.md)
   &nbsp; · &nbsp; [CSS](https://github.com/mobilege/web-development/blob/master/css.md)
   &nbsp; · &nbsp; [React](https://github.com/mobiledge/web-development/blob/master/react.md)
   &nbsp; · &nbsp; [Node](https://github.com/mobiledge/web-development/blob/master/node.md) </sub>
 
-  - [**Python**](https://github.com/mobiledge/python/blob/main/README.md) &nbsp; &nbsp;
+/ [**Python**](https://github.com/mobiledge/python/blob/main/README.md) &nbsp; &nbsp;
   <sub>[venv](https://github.com/mobiledge/python/blob/main/venv.md) &nbsp; · &nbsp;
   [pip](https://github.com/mobiledge/python/blob/main/pip.md) &nbsp; · &nbsp;
   [Flask](https://github.com/mobiledge/python/blob/main/flask.md) &nbsp; · &nbsp;
   [Django](https://github.com/mobiledge/python/blob/main/django.md) &nbsp; · &nbsp;
   [Streamlit](https://github.com/mobiledge/python/blob/main/streamlit.md)</sub>
 
-  - [Ruby](https://github.com/mobilege/web-development/blob/master/ruby.md) &nbsp; &nbsp;
+/ [Ruby](https://github.com/mobilege/web-development/blob/master/ruby.md) &nbsp; &nbsp;
   <sub>[rbenv](https://github.com/mobilege/web-development/blob/master/ruby-rbenv.md) 
   &nbsp; · &nbsp; [RubyGems](https://github.com/mobilege/web-development/blob/master/ruby-rubygems.md)
   &nbsp; · &nbsp; [Bundler](https://github.com/mobilege/web-development/blob/master/ruby-bundler.md)
