@@ -46,6 +46,11 @@
 
   - [Github Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+  <dl>
+    <dt>.</dt><dd>open the repository in dev mode</dd>
+    <dt>Cmd+K V</dt><dd>preview mode</dd>
+  </dl>
+
 #
 - [Web](https://github.com/mobilege/web-development/blob/master/README.md)
 
