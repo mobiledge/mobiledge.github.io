@@ -19,15 +19,20 @@
 <!-- This content will not appear in the rendered Markdown -->
 ```
 #### [Description List](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl)
+```
 <dl>
   <dt>Beast of Bodmin</dt>
   <dd>A large feline inhabiting Bodmin Moor.</dd>
-
   <dt>Morgawr</dt>
   <dd>A sea serpent.</dd>
+</dl>
+```
 
-  <dt>Owlman</dt>
-  <dd>A giant owl-like creature.</dd>
+<dl>
+  <dt>Beast of Bodmin</dt>
+  <dd>A large feline inhabiting Bodmin Moor.</dd>
+  <dt>Morgawr</dt>
+  <dd>A sea serpent.</dd>
 </dl>
 
 #### Diagrams
