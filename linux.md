@@ -205,6 +205,27 @@ _See: https://www.linuxtopia.org/online_books/an_introduction_to_gcc/gccintro_16
 - Bundler focuses on managing gem dependencies within a specific Ruby project
 
 
+#### Homebrew
+- installed in `/usr/local/Cellar/<program>/<version>/bin/<executable>`
+  - Eg. `/usr/local/Cellar/tree/2.0.1/bin/tree`
+- symlink in `usr/local/bin`
+- symlink in `usr/local/opt`
+
+#### NPM
+- `/usr/local/lib/node_modules` modules that came with Node
+- `/usr/local/lib/node_modules/npm/node_modules` modules installed by the user using `npm`
+  - Eg. `ls -dl /usr/local/lib/node_modules/npm/node_modules/t*`
+- `~/.nvm/versions/node/{version}/lib/node_modules/` if using node version manager (nvm)
+  - Eg. `ls -dl /Users/rabinjoshi/.nvm/versions/node/v17.2.0/lib/node_modules/npm/node_modules/t*` 
+
+
+
+## Public-key cryptography
+
+- [2.4.1 RSA Public Key Encryption: Video](https://youtu.be/ZUZ8VbX1YNQ)
+- [Introduction to Cryptographic Keys and Certificates](https://youtu.be/q9vu6_2r0o4)
+
+
 
 ## Fundamentals of Red Hat Enterprise Linux
 

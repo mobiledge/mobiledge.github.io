@@ -5,20 +5,20 @@
 - [Shortcuts ↓](#shortcuts)
 
 #
-- [iOS](https://github.com/mobilege/ios-development/blob/master/README.md)
+###### [iOS](https://github.com/mobilege/ios-development/blob/master/README.md)
 
-  - [**Swift**](https://github.com/mobilege/swift/blob/master/README.md) &nbsp; &nbsp;
+/ [**Swift**](https://github.com/mobilege/swift/blob/master/README.md) &nbsp; &nbsp;
   <sub>[Search 🔎](http://mobiledge.github.io/search/swift-lang.html) &nbsp; · &nbsp;
   [Swift language guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/) &nbsp; · &nbsp;
   [Swift standard library](https://developer.apple.com/documentation/swift/swift-standard-library) &nbsp; · &nbsp;
   [Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift/)</sub>
 
-  - [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md) &nbsp; &nbsp;
+/ [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md) &nbsp; &nbsp;
   <sub>[Search](https://searchswiftui.dev) 🔎 &nbsp; · &nbsp;
   [Documentation](https://developer.apple.com/documentation/swiftui/) &nbsp; · &nbsp;
   [Tutorials](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger)</sub>
 
-  - Concurrency &nbsp; &nbsp;
+/ Concurrency &nbsp; &nbsp;
   <sub>[Thread](https://github.com/mobiledge/ios-development/blob/master/thread.md) &nbsp; · &nbsp;
   Queue &nbsp; · &nbsp;
   [Combine](https://github.com/mobilege/ios-development/blob/master/combine.md) &nbsp; · &nbsp;
@@ -27,16 +27,43 @@
 
 
 #
-- [Core CS](https://github.com/mobiledge/mobiledge.github.io/blob/master/core-cs.md)
+###### [Core CS](https://github.com/mobiledge/mobiledge.github.io/blob/master/core-cs.md)
 
-  - [**Algorithms and Data Structures**](https://github.com/mobilege/algorithms) 
+/ [**Algorithms and Data Structures**](https://github.com/mobilege/algorithms)
+
+<details><summary>Click to see more</summary>
+
+/ [Programming: Structure and Interpretation of Computer Programs](https://github.com/mobilege/sicp/blob/master/README.md)  
+/ [Algorithms and Data Structures](https://github.com/mobilege/algorithms)  
+/ Databases  
+/ [Distributed Systems](https://github.com/mobilege/distributed-systems/blob/master/README.md)  
+/ [Functional Programming](https://github.com/mobiledge/functional-programming/blob/master/README.md#functional-programming)  
+/ [Computer Architecture](https://github.com/mobilege/computer-architecture/blob/master/README.md)  
+/ [Operating Systems](https://github.com/mobilege/operating-systems/blob/main/README.md)  
+/ [Computer Networking](https://github.com/mobilege/computer-networking/blob/master/README.md)  
+/ [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)  
+ 
+
+#
+###### Misc Topics
+- Covariance & Contravariance: https://www.mikeash.com/pyblog/friday-qa-2015-11-20-covariance-and-contravariance.html
+
+#
+###### Resources
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)  
+- [ossu/computer-science](https://github.com/ossu/computer-science)
+- [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
+
+</details>
+
+
 
 
 #
 ###### Linux, Tools, Utilities etc
 
 
-/ [Linux](/linux.md) 
+/ [**Linux**](/linux.md) 
     <sub>&nbsp;&nbsp;Documentation</sub>
     <sub>&nbsp;&nbsp;[tldr](https://tldr.inbrowser.app/)</sub>
     
@@ -55,13 +82,6 @@
 / [Vim](/vim.md)
     <sub>&nbsp;&nbsp;Documentation</sub>
     <sub>&nbsp;&nbsp;[tldr](https://tldr.inbrowser.app/pages/common/vim)</sub>
-
-
-  - [**Linux**](https://github.com/mobiledge/linux/blob/master/README.md) &nbsp; &nbsp;
-    <sub>[homebrew](https://github.com/mobiledge/linux/blob/master/homebrew.md) &nbsp; · &nbsp; 
-    [ssh](https://github.com/mobiledge/linux/blob/master/ssh.md) &nbsp; · &nbsp; 
-    [vim](https://github.com/mobiledge/linux/blob/master/vim.md) &nbsp; · &nbsp; 
-    [git](https://github.com/mobiledge/linux/blob/master/git.md)</sub>
 
   
 #
