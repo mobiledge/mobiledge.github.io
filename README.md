@@ -37,9 +37,8 @@ Queue &nbsp; · &nbsp;
   [ssh](https://github.com/mobiledge/linux/blob/master/ssh.md) &nbsp; · &nbsp; 
   [vim](https://github.com/mobiledge/linux/blob/master/vim.md) &nbsp; · &nbsp; 
   [git](https://github.com/mobiledge/linux/blob/master/git.md)</sub>
-- VS Code
-  - Profiles 
-- Github Markdown
+- [Visual Studio Code documentation](https://code.visualstudio.com/docs)
+- [Github Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## [Web](https://github.com/mobilege/web-development/blob/master/README.md)
 
