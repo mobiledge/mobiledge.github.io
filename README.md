@@ -4,102 +4,87 @@
 - [Resources ↓](#resources)
 - [Shortcuts ↓](#shortcuts)
 
-## [iOS](https://github.com/mobilege/ios-development/blob/master/README.md)
+#
+- [iOS](https://github.com/mobilege/ios-development/blob/master/README.md)
 
-- [**Swift**](https://github.com/mobilege/swift/blob/master/README.md) &nbsp; &nbsp;
-<sub>[Search 🔎](http://mobiledge.github.io/search/swift-lang.html) &nbsp; · &nbsp;
-[Swift language guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/) &nbsp; · &nbsp;
-[Swift standard library](https://developer.apple.com/documentation/swift/swift-standard-library) &nbsp; · &nbsp;
-[Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift/)</sub>
+  - [**Swift**](https://github.com/mobilege/swift/blob/master/README.md) &nbsp; &nbsp;
+  <sub>[Search 🔎](http://mobiledge.github.io/search/swift-lang.html) &nbsp; · &nbsp;
+  [Swift language guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/) &nbsp; · &nbsp;
+  [Swift standard library](https://developer.apple.com/documentation/swift/swift-standard-library) &nbsp; · &nbsp;
+  [Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift/)</sub>
 
-- [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md) &nbsp; &nbsp;
-<sub>[Search](https://searchswiftui.dev) 🔎 &nbsp; · &nbsp;
-[Documentation](https://developer.apple.com/documentation/swiftui/) &nbsp; · &nbsp;
-[Tutorials](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger)</sub>
+  - [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md) &nbsp; &nbsp;
+  <sub>[Search](https://searchswiftui.dev) 🔎 &nbsp; · &nbsp;
+  [Documentation](https://developer.apple.com/documentation/swiftui/) &nbsp; · &nbsp;
+  [Tutorials](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger)</sub>
 
-- Concurrency &nbsp; &nbsp;
-<sub>[Thread](https://github.com/mobiledge/ios-development/blob/master/thread.md) &nbsp; · &nbsp;
-Queue &nbsp; · &nbsp;
-[Combine](https://github.com/mobilege/ios-development/blob/master/combine.md) &nbsp; · &nbsp;
-[Task]() &nbsp; · &nbsp;
-[Async/Await](https://github.com/mobiledge/ios-development/blob/master/async-await.md)</sub>
-
-
-## [Core CS](https://github.com/mobiledge/mobiledge.github.io/blob/master/core-cs.md)
-
-- [**Algorithms and Data Structures**](https://github.com/mobilege/algorithms) 
+  - Concurrency &nbsp; &nbsp;
+  <sub>[Thread](https://github.com/mobiledge/ios-development/blob/master/thread.md) &nbsp; · &nbsp;
+  Queue &nbsp; · &nbsp;
+  [Combine](https://github.com/mobilege/ios-development/blob/master/combine.md) &nbsp; · &nbsp;
+  [Task]() &nbsp; · &nbsp;
+  [Async/Await](https://github.com/mobiledge/ios-development/blob/master/async-await.md)</sub>
 
 
-## Linux & Tools
+#
+- [Core CS](https://github.com/mobiledge/mobiledge.github.io/blob/master/core-cs.md)
+  - [**Algorithms and Data Structures**](https://github.com/mobilege/algorithms) 
 
-- [**Linux**](https://github.com/mobiledge/linux/blob/master/README.md) &nbsp; &nbsp;
-  <sub>[homebrew](https://github.com/mobiledge/linux/blob/master/homebrew.md) &nbsp; · &nbsp; 
-  [ssh](https://github.com/mobiledge/linux/blob/master/ssh.md) &nbsp; · &nbsp; 
-  [vim](https://github.com/mobiledge/linux/blob/master/vim.md) &nbsp; · &nbsp; 
-  [git](https://github.com/mobiledge/linux/blob/master/git.md)</sub>
 
-- [Visual Studio Code](/visual-studio-code.md#visual-studio-code)
+#
+- Linux & Tools
 
-- [Github Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+  - [**Linux**](https://github.com/mobiledge/linux/blob/master/README.md) &nbsp; &nbsp;
+    <sub>[homebrew](https://github.com/mobiledge/linux/blob/master/homebrew.md) &nbsp; · &nbsp; 
+    [ssh](https://github.com/mobiledge/linux/blob/master/ssh.md) &nbsp; · &nbsp; 
+    [vim](https://github.com/mobiledge/linux/blob/master/vim.md) &nbsp; · &nbsp; 
+    [git](https://github.com/mobiledge/linux/blob/master/git.md)</sub>
 
-## [Web](https://github.com/mobilege/web-development/blob/master/README.md)
+  - [Visual Studio Code](/visual-studio-code.md#visual-studio-code)
+  <sub>&nbsp;&nbsp;[Documentation](https://code.visualstudio.com/docs)</sub>
 
-- [JavaScript](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; &nbsp;
-<sub>[HTML](https://github.com/mobilege/web-development/blob/master/html.md)
-&nbsp; · &nbsp; [CSS](https://github.com/mobilege/web-development/blob/master/css.md)
-&nbsp; · &nbsp; [React](https://github.com/mobiledge/web-development/blob/master/react.md)
-&nbsp; · &nbsp; [Node](https://github.com/mobiledge/web-development/blob/master/node.md) </sub>
 
-- [**Python**](https://github.com/mobiledge/python/blob/main/README.md) &nbsp; &nbsp;
-<sub>[venv](https://github.com/mobiledge/python/blob/main/venv.md) &nbsp; · &nbsp;
-[pip](https://github.com/mobiledge/python/blob/main/pip.md) &nbsp; · &nbsp;
-[Flask](https://github.com/mobiledge/python/blob/main/flask.md) &nbsp; · &nbsp;
-[Django](https://github.com/mobiledge/python/blob/main/django.md) &nbsp; · &nbsp;
-[Streamlit](https://github.com/mobiledge/python/blob/main/streamlit.md)</sub>
+  - [Github Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-- [Ruby](https://github.com/mobilege/web-development/blob/master/ruby.md) &nbsp; &nbsp;
-<sub>[rbenv](https://github.com/mobilege/web-development/blob/master/ruby-rbenv.md) 
-&nbsp; · &nbsp; [RubyGems](https://github.com/mobilege/web-development/blob/master/ruby-rubygems.md)
-&nbsp; · &nbsp; [Bundler](https://github.com/mobilege/web-development/blob/master/ruby-bundler.md)
-&nbsp; · &nbsp; [Sinatra](https://github.com/mobilege/web-development/blob/master/rb-sinatra.md)
-&nbsp; · &nbsp; [Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md)</sub>
+#
+- [Web](https://github.com/mobilege/web-development/blob/master/README.md)
+
+  - [JavaScript](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; &nbsp;
+  <sub>[HTML](https://github.com/mobilege/web-development/blob/master/html.md)
+  &nbsp; · &nbsp; [CSS](https://github.com/mobilege/web-development/blob/master/css.md)
+  &nbsp; · &nbsp; [React](https://github.com/mobiledge/web-development/blob/master/react.md)
+  &nbsp; · &nbsp; [Node](https://github.com/mobiledge/web-development/blob/master/node.md) </sub>
+
+  - [**Python**](https://github.com/mobiledge/python/blob/main/README.md) &nbsp; &nbsp;
+  <sub>[venv](https://github.com/mobiledge/python/blob/main/venv.md) &nbsp; · &nbsp;
+  [pip](https://github.com/mobiledge/python/blob/main/pip.md) &nbsp; · &nbsp;
+  [Flask](https://github.com/mobiledge/python/blob/main/flask.md) &nbsp; · &nbsp;
+  [Django](https://github.com/mobiledge/python/blob/main/django.md) &nbsp; · &nbsp;
+  [Streamlit](https://github.com/mobiledge/python/blob/main/streamlit.md)</sub>
+
+  - [Ruby](https://github.com/mobilege/web-development/blob/master/ruby.md) &nbsp; &nbsp;
+  <sub>[rbenv](https://github.com/mobilege/web-development/blob/master/ruby-rbenv.md) 
+  &nbsp; · &nbsp; [RubyGems](https://github.com/mobilege/web-development/blob/master/ruby-rubygems.md)
+  &nbsp; · &nbsp; [Bundler](https://github.com/mobilege/web-development/blob/master/ruby-bundler.md)
+  &nbsp; · &nbsp; [Sinatra](https://github.com/mobilege/web-development/blob/master/rb-sinatra.md)
+  &nbsp; · &nbsp; [Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md)</sub>
 
 
 
 
 ## Other
-#### [Blockchain](https://github.com/mobiledge/mobiledge.github.io/blob/master/blockchain.md)
-- [Rust](https://github.com/mobiledge/rust/blob/main/README.md)
-#### [Cloud](https://github.com/mobiledge/cloud/blob/main/README.md)
-#### [Data](https://github.com/mobilege/data-science/blob/master/README.md)
-- [Python](https://github.com/mobiledge/python/blob/main/README.md) <sub>_70%_</sub>
-
-#### Software Engineering
+- [Blockchain](https://github.com/mobiledge/mobiledge.github.io/blob/master/blockchain.md)
+- [Cloud](https://github.com/mobiledge/cloud/blob/main/README.md)
+- [Data](https://github.com/mobilege/data-science/blob/master/README.md)
 - [Software Engineering](https://github.com/mobiledge/software-architecture/blob/master/README.md)
-
-
-#### Core Math
-- Single Variable Calculus *101 topics, 39 lectures*
-- [Multivariable Calculus](https://github.com/mobilege/multivariable-calculus/blob/master/README.md) *98 topics, 35 lectures*
-- [Linear Algebra](https://github.com/mobilege/linear-algebra/blob/master/README.md) *34 lectures*
-- [Probability](https://github.com/mobilege/probability/blob/master/README.md) *25 lectures*
-- [Statistics](https://github.com/mobilege/statistics/blob/master/README.md) *24 lectures*
-*5 Subjects | ~150 lectures | 2yrs @ 1 lec/wk*
-
-
-#### Graphics & Games
+- Core Math
+  - Single Variable Calculus *101 topics, 39 lectures*
+  - [Multivariable Calculus](https://github.com/mobilege/multivariable-calculus/blob/master/README.md) *98 topics, 35 lectures*
+  - [Linear Algebra](https://github.com/mobilege/linear-algebra/blob/master/README.md) *34 lectures*
+  - [Probability](https://github.com/mobilege/probability/blob/master/README.md) *25 lectures*
+  - [Statistics](https://github.com/mobilege/statistics/blob/master/README.md) *24 lectures*
 - [Computer Graphics](https://github.com/mobilege/computer-graphics/blob/master/README.md)
-
-
-#### Trading & Finance
-- [Data Science](https://github.com/mobilege/data-science/blob/master/README.md)
-
-
-#### IoT
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)
-
-
-#### Other
 - [Generative AI](https://github.com/mobiledge/mobiledge.github.io/blob/master/generative-ai.md)
 - [Blockchain](https://github.com/mobiledge/mobiledge.github.io/blob/master/blockchain.md)
 - [Banking](https://github.com/mobiledge/mobiledge.github.io/blob/master/banking.md)
