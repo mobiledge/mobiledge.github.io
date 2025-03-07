@@ -38,7 +38,7 @@ Queue &nbsp; · &nbsp;
   [vim](https://github.com/mobiledge/linux/blob/master/vim.md) &nbsp; · &nbsp; 
   [git](https://github.com/mobiledge/linux/blob/master/git.md)</sub>
 
-- Visual Studio Code
+- [Visual Studio Code](/visual-studio-code.md#visual-studio-code)
 
 - [Github Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
