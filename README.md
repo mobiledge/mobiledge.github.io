@@ -35,6 +35,9 @@
 #
 - Linux & Tools
 
+  - [Linux](/linux.md) 
+    <sub>&nbsp;&nbsp;[tldr](https://tldr.inbrowser.app/)</sub>
+
   - [**Linux**](https://github.com/mobiledge/linux/blob/master/README.md) &nbsp; &nbsp;
     <sub>[homebrew](https://github.com/mobiledge/linux/blob/master/homebrew.md) &nbsp; · &nbsp; 
     [ssh](https://github.com/mobiledge/linux/blob/master/ssh.md) &nbsp; · &nbsp; 
