@@ -37,9 +37,9 @@ Queue &nbsp; · &nbsp;
   [ssh](https://github.com/mobiledge/linux/blob/master/ssh.md) &nbsp; · &nbsp; 
   [vim](https://github.com/mobiledge/linux/blob/master/vim.md) &nbsp; · &nbsp; 
   [git](https://github.com/mobiledge/linux/blob/master/git.md)</sub>
-- Commands & Cheatsheet _Markdown etc_
-- [Shortcuts]() _Finder, VS Code, Terminal etc_
-
+- VS Code
+  - Profiles 
+- Github Markdown
 
 ## [Web](https://github.com/mobilege/web-development/blob/master/README.md)
 
