@@ -37,6 +37,8 @@
 
 / [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)  
  
+<details><summary>Click to see more</summary>
+
 #### Misc Topics
 - Covariance & Contravariance: https://www.mikeash.com/pyblog/friday-qa-2015-11-20-covariance-and-contravariance.html
 
@@ -46,6 +48,7 @@
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 
 </details>
+
 
 
 
