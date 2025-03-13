@@ -103,7 +103,7 @@
 / [Github Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/github-markdown.md)
     <sub>&nbsp;&nbsp;[Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)</sub>
 
-/ [MacOS Shortcuts]()
+/ [MacOS](https://github.com/mobiledge/mobiledge.github.io/blob/master/macos.md)
 
 / [Visual Studio Code](/visual-studio-code.md#visual-studio-code)
     <sub>&nbsp;&nbsp;[Documentation](https://code.visualstudio.com/docs)</sub>
