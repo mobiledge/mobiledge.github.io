@@ -1,0 +1,17 @@
+
+# MacOS
+
+## Finder
+
+`Right Click + Option` Copy File Path
+
+`Command + Shift + .` View/hide hidden files 
+
+`open .` (From terminal) Open current directory in Finder
+
+## Terminal
+- https://support.apple.com/en-ca/guide/terminal/trmlshtcts/mac
+  
+`Command-K` Clear to start
+
+`Control-U` Delete the line
