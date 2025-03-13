@@ -141,26 +141,3 @@
 - [Computer-Organization-Architecture](https://sour-birch-978.notion.site/Computer-Organization-Architecture-10e69b88a89d80299929dd5a1f75f938)
 
 </details>
-  
-## Shortcuts
-
-#### Finder
-
-`Right Click + Option` Copy File Path
-
-`Command + Shift + .` View/hide hidden files 
-
-`open .` (From terminal) Open current directory in Finder
-
-#### [VS Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) 
-
-``Control-Backquote(`)`` Show integrated terminal (View > Terminal)
-
-#### [Terminal](https://support.apple.com/en-ca/guide/terminal/trmlshtcts/mac)
-
-
-`Command-K` Clear to start
-
-`Control-U` Delete the line
-
-## Resources
