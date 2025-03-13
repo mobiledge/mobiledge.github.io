@@ -1,9 +1,5 @@
 # mobiledge
 
-- https://mobiledge.io
-- [Resources ↓](#resources)
-- [Shortcuts ↓](#shortcuts)
-
 / [iOS](https://github.com/mobilege/ios-development/blob/master/README.md)
 / [**Swift**](https://github.com/mobilege/swift/blob/master/README.md) &nbsp; &nbsp;
   <sub>[Search 🔎](http://mobiledge.github.io/search/swift-lang.html) &nbsp; · &nbsp;
