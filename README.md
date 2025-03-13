@@ -132,6 +132,11 @@
 - [Mind Maps](https://miro.com/app/dashboard/)
 - [GitBook](https://app.gitbook.com/@rabin-aapl/spaces)
 - [Version History](https://github.com/mobilege/mobilege.github.io/blob/master/version-history.md)
+- [Design](https://github.com/mobilege/design/blob/master/README.md)
+- [Marketing](https://github.com/mobilege/marketing/blob/master/README.md)
+- [Psychology](https://github.com/mobilege/psychology/blob/master/README.md)
+- [Computer-Science-from-First-Principles](https://www.notion.so/Computer-Science-from-First-Principles-5d7e3c37026e46a3973834bd88835671)
+- [Computer-Organization-Architecture](https://sour-birch-978.notion.site/Computer-Organization-Architecture-10e69b88a89d80299929dd5a1f75f938)
 
 
 ## Shortcuts
@@ -156,11 +161,3 @@
 `Control-U` Delete the line
 
 ## Resources
-- [Design](https://github.com/mobilege/design/blob/master/README.md)
-- *Development* 
-- [Marketing](https://github.com/mobilege/marketing/blob/master/README.md)
-- [Psychology](https://github.com/mobilege/psychology/blob/master/README.md)
-- [Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/markdown.md)
-- [Repositories](https://github.com/mobilege?tab=repositories)
-- [Computer-Science-from-First-Principles](https://www.notion.so/Computer-Science-from-First-Principles-5d7e3c37026e46a3973834bd88835671)
-- [Computer-Organization-Architecture](https://sour-birch-978.notion.site/Computer-Organization-Architecture-10e69b88a89d80299929dd5a1f75f938)
