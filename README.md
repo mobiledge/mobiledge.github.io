@@ -29,7 +29,8 @@
 #
 #### Core CS
 
-/ [**Algorithms and Data Structures**](https://github.com/mobilege/algorithms)
+/ [Algorithms and Data Structures](https://github.com/mobilege/algorithms) 
+/ [**LeetCode's Interview Crash Course**](https://github.com/mobiledge/algorithms/blob/master/leetcode.md)
 
 <details><summary>Click to see more</summary>
 
