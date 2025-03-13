@@ -84,7 +84,7 @@
     <sub>&nbsp;&nbsp;[Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)</sub>
 
 
-## [Web](https://github.com/mobilege/web-development/blob/master/README.md)
+## Languages & Frameworks
 
 / [JavaScript](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; &nbsp;
   <sub>[HTML](https://github.com/mobilege/web-development/blob/master/html.md)
@@ -92,7 +92,7 @@
   &nbsp; · &nbsp; [React](https://github.com/mobiledge/web-development/blob/master/react.md)
   &nbsp; · &nbsp; [Node](https://github.com/mobiledge/web-development/blob/master/node.md) </sub>
 
-/ [**Python**](https://github.com/mobiledge/python/blob/main/README.md) &nbsp; &nbsp;
+/ [Python](https://github.com/mobiledge/python/blob/main/README.md) &nbsp; &nbsp;
   <sub>[venv](https://github.com/mobiledge/python/blob/main/venv.md) &nbsp; · &nbsp;
   [pip](https://github.com/mobiledge/python/blob/main/pip.md) &nbsp; · &nbsp;
   [Flask](https://github.com/mobiledge/python/blob/main/flask.md) &nbsp; · &nbsp;
@@ -108,7 +108,7 @@
 
 
 ## Other
-
+- [Web](https://github.com/mobilege/web-development/blob/master/README.md)
 - [Blockchain](https://github.com/mobiledge/mobiledge.github.io/blob/master/blockchain.md)
 - [Cloud](https://github.com/mobiledge/cloud/blob/main/README.md)
 - [Data](https://github.com/mobilege/data-science/blob/master/README.md)
