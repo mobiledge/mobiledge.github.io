@@ -5,3 +5,6 @@
 
 # Visual Studio Code
 
+## [Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) 
+
+``Control-Backquote(`)`` Show integrated terminal (View > Terminal)
