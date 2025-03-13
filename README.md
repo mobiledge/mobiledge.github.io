@@ -4,38 +4,25 @@
 - [Resources ↓](#resources)
 - [Shortcuts ↓](#shortcuts)
 
-#
-###### [iOS](https://github.com/mobilege/ios-development/blob/master/README.md)
-
+/ [iOS](https://github.com/mobilege/ios-development/blob/master/README.md)
 / [**Swift**](https://github.com/mobilege/swift/blob/master/README.md) &nbsp; &nbsp;
   <sub>[Search 🔎](http://mobiledge.github.io/search/swift-lang.html) &nbsp; · &nbsp;
   [Swift language guide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/) &nbsp; · &nbsp;
   [Swift standard library](https://developer.apple.com/documentation/swift/swift-standard-library) &nbsp; · &nbsp;
   [Develop in Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift/)</sub>
 
+/ [iOS](https://github.com/mobilege/ios-development/blob/master/README.md)
 / [**SwiftUI**](https://github.com/mobilege/ios-development/blob/master/swiftui.md) &nbsp; &nbsp;
   <sub>[Search](https://searchswiftui.dev) 🔎 &nbsp; · &nbsp;
   [Documentation](https://developer.apple.com/documentation/swiftui/) &nbsp; · &nbsp;
   [Tutorials](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger)</sub>
 
-/ Concurrency &nbsp; &nbsp;
-  <sub>[Thread](https://github.com/mobiledge/ios-development/blob/master/thread.md) &nbsp; · &nbsp;
-  Queue &nbsp; · &nbsp;
-  [Combine](https://github.com/mobilege/ios-development/blob/master/combine.md) &nbsp; · &nbsp;
-  [Task]() &nbsp; · &nbsp;
-  [Async/Await](https://github.com/mobiledge/ios-development/blob/master/async-await.md)</sub>
-
-
-#
-#### Core CS
-
 / [Algorithms and Data Structures](https://github.com/mobiledge/algorithms/blob/master/README.md)
 / [**LeetCode's Interview Crash Course**](https://github.com/mobiledge/algorithms/blob/master/leetcode.md)
 
-<details><summary>Click to see more</summary>
 
-#
-###### Core CS / Courses
+
+## Core CS
 / [Programming: Structure and Interpretation of Computer Programs](https://github.com/mobilege/sicp/blob/master/README.md)  
 
 / [Algorithms and Data Structures](https://github.com/mobilege/algorithms)  
@@ -54,13 +41,10 @@
 
 / [Languages and Compilers](https://github.com/mobilege/compilers/blob/master/README.md)  
  
-
-#
-###### Core CS / Misc Topics
+#### Misc Topics
 - Covariance & Contravariance: https://www.mikeash.com/pyblog/friday-qa-2015-11-20-covariance-and-contravariance.html
 
-#
-###### Core CS / Resources
+#### Resources
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)  
 - [ossu/computer-science](https://github.com/ossu/computer-science)
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
@@ -69,10 +53,7 @@
 
 
 
-
-#
-#### Linux etc
-
+## Linux & Utilities
 
 / [**Linux**](/linux.md) 
     <sub>&nbsp;&nbsp;Documentation</sub>
@@ -95,8 +76,7 @@
     <sub>&nbsp;&nbsp;[tldr](https://tldr.inbrowser.app/pages/common/vim)</sub>
 
   
-#
-#### Editors etc
+## Editors etc
 
 / [Visual Studio Code](/visual-studio-code.md#visual-studio-code)
     <sub>&nbsp;&nbsp;[Documentation](https://code.visualstudio.com/docs)</sub>
@@ -105,8 +85,7 @@
     <sub>&nbsp;&nbsp;[Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)</sub>
 
 
-#
-#### [Web](https://github.com/mobilege/web-development/blob/master/README.md)
+## [Web](https://github.com/mobilege/web-development/blob/master/README.md)
 
 / [JavaScript](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; &nbsp;
   <sub>[HTML](https://github.com/mobilege/web-development/blob/master/html.md)
@@ -129,8 +108,7 @@
   &nbsp; · &nbsp; [Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md)</sub>
 
 
-#
-#### Other
+## Other
 
 - [Blockchain](https://github.com/mobiledge/mobiledge.github.io/blob/master/blockchain.md)
 - [Cloud](https://github.com/mobiledge/cloud/blob/main/README.md)
