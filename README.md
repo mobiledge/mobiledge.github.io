@@ -74,15 +74,6 @@
     <sub>&nbsp;&nbsp;Documentation</sub>
     <sub>&nbsp;&nbsp;[tldr](https://tldr.inbrowser.app/pages/common/vim)</sub>
 
-  
-## Editors etc
-
-/ [Visual Studio Code](/visual-studio-code.md#visual-studio-code)
-    <sub>&nbsp;&nbsp;[Documentation](https://code.visualstudio.com/docs)</sub>
-
-/ [Github Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/github-markdown.md)
-    <sub>&nbsp;&nbsp;[Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)</sub>
-
 
 ## Languages & Frameworks
 
@@ -108,6 +99,17 @@
 
 
 ## Other
+
+/ [Github Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/github-markdown.md)
+    <sub>&nbsp;&nbsp;[Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)</sub>
+
+/ [MacOS Shortcuts]()
+
+/ [Visual Studio Code](/visual-studio-code.md#visual-studio-code)
+    <sub>&nbsp;&nbsp;[Documentation](https://code.visualstudio.com/docs)</sub>
+
+<details><summary>Click to see more</summary>    
+
 - [Web](https://github.com/mobilege/web-development/blob/master/README.md)
 - [Blockchain](https://github.com/mobiledge/mobiledge.github.io/blob/master/blockchain.md)
 - [Cloud](https://github.com/mobiledge/cloud/blob/main/README.md)
@@ -138,7 +140,8 @@
 - [Computer-Science-from-First-Principles](https://www.notion.so/Computer-Science-from-First-Principles-5d7e3c37026e46a3973834bd88835671)
 - [Computer-Organization-Architecture](https://sour-birch-978.notion.site/Computer-Organization-Architecture-10e69b88a89d80299929dd5a1f75f938)
 
-
+</details>
+  
 ## Shortcuts
 
 #### Finder
