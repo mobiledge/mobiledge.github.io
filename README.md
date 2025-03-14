@@ -75,7 +75,7 @@
     <sub>&nbsp;&nbsp;[tldr](https://tldr.inbrowser.app/pages/common/vim)</sub>
 
 
-## Languages & Frameworks
+## Languages
 
 / [JavaScript](https://github.com/mobilege/web-development/blob/master/javascript.md) &nbsp; &nbsp;
   <sub>[HTML](https://github.com/mobilege/web-development/blob/master/html.md)
@@ -98,8 +98,15 @@
   &nbsp; · &nbsp; [Rails](https://github.com/mobilege/web-development/blob/master/ruby-rails.md)</sub>
 
 
-## Other
+## Web
+/ [HTML](/html.md) 
+    <sub>&nbsp;&nbsp;[Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)</sub>
 
+/ [CSS](/css.md) 
+    <sub>&nbsp;&nbsp;[Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)</sub>
+
+    
+## Other
 / [Github Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/github-markdown.md)
     <sub>&nbsp;&nbsp;[Documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)</sub>
 
@@ -107,6 +114,10 @@
 
 / [Visual Studio Code](/visual-studio-code.md#visual-studio-code)
     <sub>&nbsp;&nbsp;[Documentation](https://code.visualstudio.com/docs)</sub>
+
+
+
+
 
 <details><summary>Click to see more</summary>    
 
