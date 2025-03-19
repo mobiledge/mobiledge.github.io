@@ -105,6 +105,13 @@
 / [CSS](/css.md) 
     <sub>&nbsp;&nbsp;[Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)</sub>
 
+<details><summary>Click to see more</summary>
+
+- React   <sub>&nbsp;&nbsp;[Ref](https://react.dev/reference/react)</sub> 
+- Next.js <sub>&nbsp;&nbsp;[Docs](https://nextjs.org/docs)</sub>
+- Vercel  <sub>&nbsp;&nbsp;[Docs](https://vercel.com/docs)</sub>
+
+</details>
     
 ## Other
 / [Github Markdown](https://github.com/mobilege/mobilege.github.io/blob/master/github-markdown.md)
