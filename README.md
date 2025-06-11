@@ -46,6 +46,7 @@
 
 #### Misc Topics
 - Covariance & Contravariance: https://www.mikeash.com/pyblog/friday-qa-2015-11-20-covariance-and-contravariance.html
+- Type Refinement (or Refined Types): Type refinement is when a type is made more specific by restricting one or more of its fields or behaviors without adding new properties or methods.
 
 #### Resources
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)  
