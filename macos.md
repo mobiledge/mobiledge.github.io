@@ -3,6 +3,10 @@
 
 # MacOS
 
+#### Mac window tiling
+<img width="825" alt="Move and resize the active window" src="https://github.com/user-attachments/assets/9db533e5-35f3-4092-a667-5a8596da4454" />
+
+
 ## Finder
 - `Option + RightClick` Copy File Path
 - `Command + Shift + .` View/hide hidden files 
